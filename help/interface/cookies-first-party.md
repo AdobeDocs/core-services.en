@@ -49,7 +49,7 @@ Here is how you implement a new first-party SSL certificate for first-party data
 
     Upon receiving the ticket, a customer care representative should provide you with a CNAME record. These records must be configured on your company's DNS server before Adobe can purchase the certificate on your behalf. The CNAME is similar to the following: 
 
-    **Secure** - For example, the hostname `smetrics.example.com` points to: `example.com.adobedc.net`.
+    **Secure** - For example, the hostname `smetrics.example.com` points to: `[random-10-character-string].data.adobedc.net`.
 
     >[!NOTE]
     > In the past, Adobe recommended that customers set up two CNAMEs, one for HTTPS and one for HTTP. Since it is a best practice to encrypt traffic, and most browsers are strongly discouraging HTTP, we no longer recommend setting up a CNAME for HTTP. It is now considered best practice to set both `trackingServer` and `trackingServerSecure` with the same CNAME. For example, both `trackingServer` and `trackingServerSecure` would be set to `smetrics.example.com`. HTTP is only allowed for 3rd-party host names.
@@ -88,12 +88,12 @@ Your organization's network operations team should configure your DNS servers by
 The FPC specialist provides you with the configured hostname and what CNAME they are to be pointed to. For example:
 
 * **SSL Hostname**:`smetrics.mysite.com`
-* **SSL CNAME**:`mysite.com.adobedc.net`
+* **SSL CNAME**:`[random-10-character-string].data.adobedc.net`
 
 >[!NOTE]
 > If you still use non-secure, it will look like this:
 > * **Non-SSL Hostname**:`metrics.mysite.com`
-> * **Non-SSL CNAME**:`mysite.com.adobedc.net`
+> * **Non-SSL CNAME**:`[random-10-character-string].data.adobedc.net`
 
 As long as implementation code is not altered, this step will not affect data collection and can be done at any time after updating implementation code.
 
