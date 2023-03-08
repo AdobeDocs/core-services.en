@@ -1,6 +1,6 @@
 ---
 description: Learn how Adobe Target uses cookies to give website operators the ability to test which online content and offers are more relevant to visitors.
-solution: Experience Cloud,Analytics,Target,Social
+solution: Experience Cloud,Analytics,Target
 title: Adobe Target Cookies 
 feature: Cookies
 topic: Administration
