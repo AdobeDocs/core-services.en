@@ -110,6 +110,8 @@ The following table describes the flags for Analytics cookies:
 
 ## Cookies Set By Plug-ins {#section-a6b1cae8454945fab9eea5c7884c40fc}
 
-Additional cookies can be set depending on the use of Analytics plug-ins. These cookies are snippets of code available to the client for use in various circumstances. These circumstances include: retrieving values from the URL; concatenating values to pass to Analytics; capturing form abandonment, and so on. For specifics on cookies that are set by each plug-in, contact ClientCare. An example would be the [!DNL s_vh] cookie used with the *Set Once Per* and *Set and Get Last Value* plug-ins.
+{{plug-in}}
+
+Additional cookies can be set depending on the use of Analytics plug-ins. These cookies are snippets of code available to the client for use in various circumstances. These circumstances include: retrieving values from the URL; concatenating values to pass to Analytics; capturing form abandonment, and so on. An example would be the [!DNL s_vh] cookie used with the *Set Once Per* and *Set and Get Last Value* plug-ins.
 
 Conversion variables (eVarX) passed in on an image request without JavaScript, such as code placed within an email, are attributed properly only if the email client and web browser share cookie space.
