@@ -20,7 +20,7 @@ index: yes
     + [Create an audience](t-audience-create.md)
     + [Publish an Analytics audience segment](t-publish-audience-segment.md)
   + Experience Cloud Customer Attributes {#customer-attributes}
-    + [Customer Attributes overview](attributes.md)
+    + [Customer Attributes in Experience Cloud](attributes.md)
     + [Frequently asked questions about Customer Attributes](faq-crs.md)
     + [About data file and data sources for Customer Attributes](crs-data-file.md)
     + [Create a Customer Attribute source and upload the data file](t-crs-usecase.md)

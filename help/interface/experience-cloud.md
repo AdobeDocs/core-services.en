@@ -18,8 +18,8 @@ exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
 From Experience Cloud's header, you can:
 
 * Access your applications and services
-* Search for product documentation, tutorials, and community posts
-* Globally search business objects using a global search (Experience Platform users only)
+* From the Help menu, search for product documentation, tutorials, and community posts. View results in Experience League.
+* Globally search business objects using a global search (Experience Platform users only) in the Search field.
 * Manage your account preferences (alerts, notifications, and subscriptions)
 
 ## Sign in to Experience Cloud {#signin}
