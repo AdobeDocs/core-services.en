@@ -122,11 +122,11 @@ When you invite a user to an organization, you can give the user access to produ
 1. Select **[!UICONTROL New Profile]**.
 1. Configure the profile details, then select **[!UICONTROL Save]**.
 
-For more information (and for help on Creative Cloud and Document Cloud product management), see [Identity](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/identity.ug.html) in the [Administration User Guide](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/users.ug.html).
+For more information (and for help on Creative Cloud and Document Cloud product management), see [Identity](https://helpx.adobe.com/enterprise/using/identity.html) in the [Administration User Guide](https://helpx.adobe.com/enterprise/using/users.html).
 
 **Related help**
 
-* [Manage products and profiles](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/manage-products.ug.html) in the Administration User Guide.
+* [Manage products and profiles](https://helpx.adobe.com/enterprise/using/manage-products.html) in the Administration User Guide.
 * [Enterprise User Permissions](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/enterprise/property-channel.html?lang=en) in Adobe Target help for more information.
 * Video: [How to Configure Adobe Target Workspaces in Adobe Admin Console](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-17521.html?lang=en)
 
@@ -182,7 +182,7 @@ After the migration, users sign in using their Adobe ID (or Enterprise ID) and a
 **Related help**
 
 * [Analytics in the Admin Console](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=en)
-* [Analytics User ID Migration](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/migrate-users/c-migration-tool.html?lang=en)
+* [Analytics User ID Migration](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/user-product-management/migrate-users/c-migration-tool.html?lang=en)
 
 ## Manage Adobe Target - Product Profiles vs. workspaces {#section_3860AF177C9E4C7E9C390D36A414F353}
 
@@ -191,7 +191,7 @@ In Adobe Target, a workspace is a Product Profile. It lets an organization assig
 See:
 
 * [Enterprise User Permissions](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/enterprise/property-channel.html?lang=en)
-* [Manage products and profiles](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/manage-products.ug.html)
+* [Manage products and profiles](https://helpx.adobe.com/enterprise/using/manage-products.html)
 * Video: [How to Configure Adobe Target Workspaces in Adobe Admin Console](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-17521.html?lang=en)
 
 ## Manage Campaign Product Profiles, tenants, and security groups {#section_09CDF75366444CF5810CF321B7C712F3}
@@ -214,7 +214,7 @@ See [User permissions](https://experienceleague.adobe.com/docs/experience-platfo
 
 Adobe Enterprise customers are represented as Organizations in the Adobe [!UICONTROL Admin Console]. Experience Manager customers can use the Adobe [!UICONTROL Admin Console] to manage product entitlements and IMS authentication to Experience Manager as a [!UICONTROL Cloud Service].
 
-See [IMS Support for Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html?lang=en).
+See [IMS Support for Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/security/ims-support.html?lang=en).
 
 ## Audience Manager {#section_C31E3FA8A1E14463B1B3E07235F1983C}
 
@@ -230,10 +230,9 @@ See [Administration](https://experienceleague.adobe.com/docs/audience-manager/us
 * [!DNL Safari]
 * [!DNL Opera]
 
-**Note:** Although the Experience Cloud interface supports these browsers, individual applications do not support every browser. (For example, [Analytics](https://experienceleague.adobe.com/docs/analytics/admin/sys-reqs.html?lang=en) does not support [!DNL Opera], and [Adobe Target](https://experienceleague.adobe.com/docs/target/using/implement-target/before-implement/supported-browsers.html?lang=en) does not support [!DNL Safari].)
+**Note:** Although the Experience Cloud interface supports these browsers, individual applications do not support every browser. (For example, [Analytics](https://experienceleague.adobe.com/docs/analytics/admin/admin-overview/sys-reqs.html?lang=en) does not support [!DNL Opera], and [!DNL Adobe Target] does not support [!DNL Safari].)
 
 ### Solution and product requirements
 
-* [Analytics](https://experienceleague.adobe.com/docs/analytics/admin/sys-reqs.html?lang=en)
+* [Analytics](https://experienceleague.adobe.com/docs/analytics/admin/admin-overview/sys-reqs.html?lang=en)
 * [Report Builder](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/system-requirements.html?lang=en)
-* [Adobe Target](https://experienceleague.adobe.com/docs/target/using/implement-target/before-implement/supported-browsers.html?lang=en)

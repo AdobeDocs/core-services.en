@@ -35,7 +35,7 @@ What you must do to join the Experience Cloud:
 
     >[!NOTE]
     >
-    >For [!DNL Target], migrate to at.js from [!DNL mbox.js]. See [Upgrading from at.js 1. x to at.js 2. x](https://experienceleague.adobe.com/docs/target/using/implement-target/client-side/at-js-implementation/upgrading-from-atjs-1x-to-atjs-20.html?lang=en).
+    >For [!DNL Target], migrate to at.js from [!DNL mbox.js]. See [Upgrading from at.js 1. x to at.js 2. x](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/at-js-implementation/upgrading-from-atjs-1x-to-atjs-20.html).
 
 1. Modernize your implementation and get provisioned an administrator. 
 
@@ -112,7 +112,7 @@ The Customer ID must be set on each [!DNL Analytics] server call where the Custo
 
 #### Analytics: synching the customer ID with the Data Warehouse backfill method
 
-When Customer Attributes first became available, some customers had not yet implemented the Experience Cloud ID service and could not easily utilize Customer Attributes. To help alleviate this problem, Adobe created a means to do a backfill of ID syncs using the Adobe Analytics data warehouse. This feature is known as the "data warehouse backfill". The data warehouse backfill is now generally not necessary and as a result will no longer be available starting in October 2022.
+When Customer Attributes first became available, some customers had not yet implemented the Experience Cloud ID service and could not easily utilize Customer Attributes. To help alleviate this problem, Adobe created a means to do a backfill of ID syncs using the Adobe Analytics Data Warehouse. This feature is known as the Data Warehouse backfill. The Data Warehouse backfill is now generally not necessary and as a result will no longer be available starting in October 2022.
 
 
 ### Mobile SDKs
