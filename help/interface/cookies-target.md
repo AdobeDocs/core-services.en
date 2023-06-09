@@ -43,7 +43,6 @@ The following third-party cookies are stored on `tt.omtrdc.net`:
 
 |Cookie|Details|
 | --- | --- |
-|mboxEdgeCluster|This cookies is only present when/if [overrideMboxEdgeServer setting](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/targetglobalsettings.html){target=_blank} is set to `true`.|
 |customerclientcode!mboxPC|This cookie is present if cross domain is enabled.|
 |customerclientcode!mboxSession|This cookie is present if cross domain is enabled.|
 
