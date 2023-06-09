@@ -23,11 +23,7 @@ exl-id: c4399cc0-8333-47b8-b830-2ba7359f464a
 >
 >[!DNL Target] users can also create customized third-party cookies.
 
-## Cookies used by [!DNL Target]
-
-[!DNL Target] uses the the following first-party and third-party cookies:
-
-### First-party cookies
+## First-party cookies
 
 The following first-party cookies are stored on the customer's domain:
 
@@ -41,7 +37,7 @@ It is not possible to use HTTPOnly on the these first-party cookies. The at.js J
 
 The `secure` setting can be enabled on all of these cookies using the `secureOnly: true` configuration in the at.js implementation.
 
-### Third-party cookies
+## Third-party cookies
 
 The following third-party cookies are stored on `tt.omtrdc.net`:
 
