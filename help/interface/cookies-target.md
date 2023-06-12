@@ -48,4 +48,4 @@ The following third-party cookies are stored on `tt.omtrdc.net`:
 
 These third-party cookies are HTTPOnly out of the box and are set by the [!DNL Target] edge servers.
 
-The `secure` setting can be enabled on all of the cookies using the `secureOnly: true` configuration in the at.js implementation.
+The `secure` setting can be enabled on all of the cookies using the `secureOnly: true` configuration in the at.js implementation. 
