@@ -17,7 +17,9 @@ For a list of documentation updates, see [Experience Cloud](doc-updates.md#conce
 
 For release notes covering all applications, see [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en).
 
-## July - August 2023
+<!-- ## July - August 2023
+
+NA - released July 2022
 
 Release: **July 20 - August 31, 2023**
 
@@ -31,7 +33,7 @@ With this update, administrators may see changes or additions to the Admin Conso
 
   * For organizations currently using [!DNL Experience Platform], [!UICONTROL Places] will be consolidated into the [!DNL Experience Platform] card.
 
-* Adobe [!DNL Experience Platform] [Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html) (formerly [!DNL Launch]) and [Privacy](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html) will continue to appear as their own product cards, separate from the other [!DNL Experience Platform] capabilities
+* Adobe [!DNL Experience Platform] [Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html) (formerly [!DNL Launch]) and [Privacy](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html) will continue to appear as their own product cards, separate from the other [!DNL Experience Platform] capabilities -->
 
 ## May 2023
 
