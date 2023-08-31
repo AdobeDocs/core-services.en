@@ -60,7 +60,7 @@ index: yes
     + [[!UICONTROL Data Connectors] cookies](cookies-dc.md)
     + [[!UICONTROL Data Workbench] cookies](cookies-insight.md)
     + [Experience Cloud cookies](cookies-mc.md)
-    + [Advertising Cloud cookies](cookies-advertising-cloud.md)
+    + [Adobe Advertising cookies](cookies-advertising-cloud.md)
     + [[!DNL Scene7] cookies](cookies-s7.md)
     + [[!DNL Search and Promote] cookies](cookies-snp.md)
     + [[!DNL Target] cookies](cookies-target.md)
