@@ -1,6 +1,6 @@
 ---
-description: Learn about Adobe Ad Cloud cookies for mapping ad engagement events to conversion events and, potentially, to use that information to optimize ad bids.
-title: Advertising Cloud Cookies 
+description: Learn about Adobe Advertising cookies for mapping ad engagement events to conversion events and, potentially, to use that information to optimize ad bids.
+title: Adobe Advertising Cookies 
 uuid: 2eec48a3-3e81-488e-8e30-5fd62885de0b
 feature: Cookies
 topic: Administration
@@ -8,13 +8,13 @@ role: Admin
 level: Experienced
 exl-id: 6818edea-31b1-49fc-bca2-32828c7ca78d
 ---
-# Advertising Cloud Cookies{#advertising-cloud-cookies}
+# Adobe Advertising Cookies{#advertising-cloud-cookies}
 
-Advertising Cloud uses cookies to map ad engagement events to conversion events and, potentially, to use that information to optimize ad bids.
+Adobe Advertising (formerly Adobe Advertising Cloud) uses cookies to map ad engagement events to conversion events and, potentially, to use that information to optimize ad bids.
 
 >[!NOTE]
 >
->The beta Advertising Cloud Javascript tag that uses the [Adobe Experience Cloud ID (ECID) Service](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html) creates [first-party Experience Cloud s_ecid cookies](cookies-first-party.md), not Advertising Cloud cookies.
+>The beta Adobe Advertising Javascript tag that uses the [Adobe Experience Cloud ID (ECID) Service](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html) creates [first-party Experience Cloud s_ecid cookies](cookies-first-party.md), not Adobe Advertising cookies.
 
 ## Cookie Name: _lcc
 
@@ -61,7 +61,7 @@ Advertising Cloud uses cookies to map ad engagement events to conversion events 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Information Stored </p> </td> 
-   <td colname="col2"> <p>Encoded IDs and time stamps for ad engagements using Advertising Cloud DSP tracking </p> </td> 
+   <td colname="col2"> <p>Encoded IDs and time stamps for ad engagements using Adobe Advertising DSP tracking </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiration </p> </td> 
@@ -98,11 +98,11 @@ Advertising Cloud uses cookies to map ad engagement events to conversion events 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiration </p> </td> 
-   <td colname="col2"> <p>Cookies set on 24 February 2021 or earlier expire after 730 days. Cookies set on 25 February 2021 or later expire after 364 days.</p> </td> 
+   <td colname="col2"> <p>1 year</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Usage </p> </td> 
-   <td colname="col2"> <p>A first-party cookie that associates the surfer ID with relevant audience segments and conversions </p> <p> Information about the last visit is used to optimize page load times by avoiding unnecessary requests to Adobe servers. </p> <p>Information about the last search click helps determine if a conversion event was the result of a click or a view-through (conversion resulting from impressions but no clicks). </p> </td> 
+   <td colname="col2"> <p>A first-party cookie that associates the surfer ID with relevant audience segments and conversions </p> <p> Information about the last visit is used to optimize page load times by avoiding unnecessary requests to [!DNL Adobe] servers. </p> <p>Information about the last search click helps determine if a conversion event was the result of a click or a view-through (conversion resulting from impressions but no clicks). </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Location </p> </td> 
@@ -137,7 +137,7 @@ Advertising Cloud uses cookies to map ad engagement events to conversion events 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Usage </p> </td> 
-   <td colname="col2"> <p>A third-party, ad exchange-specific cookie that syncs the Advertising Cloud surfer ID with the partner ad exchange. It's created for new surfers and sends a synchronization request when it's expired. </p> </td> 
+   <td colname="col2"> <p>A third-party, ad exchange-specific cookie that syncs the Adobe Advertising surfer ID with the partner ad exchange. It's created for new surfers and sends a synchronization request when it's expired. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Location </p> </td> 
@@ -166,7 +166,7 @@ Advertising Cloud uses cookies to map ad engagement events to conversion events 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiration </p> </td> 
-   <td colname="col2"> <p>2 years </p> </td> 
+   <td colname="col2"> <p>1 year </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Usage </p> </td> 
@@ -228,7 +228,7 @@ Advertising Cloud uses cookies to map ad engagement events to conversion events 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Information Stored </p> </td> 
-   <td colname="col2"> <p>Advertising Cloud DSP (Demand Side Platform) ID </p> </td> 
+   <td colname="col2"> <p>Adobe Advertising DSP (Demand Side Platform) ID </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiration </p> </td> 
