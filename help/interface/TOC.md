@@ -1,5 +1,5 @@
 ---
-audience: administrator
+role: User,Admin
 user-guide-title: Experience Cloud Central Interface Components 
 breadcrumb-title: Experience Cloud Central Interface Components
 title: Experience Cloud Interface and Administration Guide
