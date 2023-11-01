@@ -3,7 +3,7 @@ description: Modernize your Adobe Analytics and Adobe Target applications for cr
 solution: Experience Cloud
 title: Enable your applications for cross-application services
 index: yes
-feature: Customer Attributes
+feature: Central Interface Components
 topic: Administration
 role: Admin
 level: Experienced

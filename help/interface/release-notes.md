@@ -3,7 +3,8 @@ description: Learn about the latest features, release notes, and known issues fo
 solution: Experience Cloud
 title: Cumulative release notes 
 uuid: fcff8cc6-e587-4bf2-9a75-261d4eabc7d4
-feature: Customer Attributes
+feature-set: Experience Cloud
+feature: Release Notes
 topic: Administration
 role: Admin
 level: Experienced

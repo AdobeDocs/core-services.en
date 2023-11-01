@@ -1,9 +1,8 @@
 ---
 description: Learn about central interface components for Experience Cloud. This help includes user and product administration in the Admin Console, enabling applications for Experience Cloud services, and get help on Audience Library, Customer Attributes, Experience Cloud Assets, and more.
-solution: Experience Cloud
 title: Experience Cloud interface help and documentation
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
-feature: Customer Attributes
+feature: Central Interface Components
 topic: Administration
 role: Admin
 level: Experienced
