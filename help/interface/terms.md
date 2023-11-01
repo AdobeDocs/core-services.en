@@ -3,7 +3,7 @@ description: Learn about terms in Adobe Experience Cloud and how they're differe
 solution: Experience Cloud
 title: Terminology 
 feature-set: Experience Cloud Services
-feature: Common Interface Components
+feature: Central Interface Components
 topic: Administration
 role: Admin
 level: Experienced
