@@ -87,12 +87,13 @@ Your organization's network operations team should configure your DNS servers by
 
 The FPC specialist provides you with the configured hostname and what CNAME they are to be pointed to. For example:
 
-* **SSL Hostname**:`smetrics.mysite.com`
+* **SSL Hostname**:`smetrics.example.com`
 * **SSL CNAME**:`[random-10-character-string].data.adobedc.net`
 
 >[!NOTE]
 > If you still use non-secure, it will look like this:
-> * **Non-SSL Hostname**:`metrics.mysite.com`
+>
+> * **Non-SSL Hostname**:`metrics.example.com`
 > * **Non-SSL CNAME**:`[random-10-character-string].data.adobedc.net`
 
 As long as implementation code is not altered, this step will not affect data collection and can be done at any time after updating implementation code.
@@ -156,7 +157,12 @@ Before you edit code on your site to use first-party data collection, complete t
 After you have verified your hostnames are responding and forwarding to Adobe data collection servers, you can alter your implementation to point to your own data collection hostnames.
 
 1. Open your core JavaScript file (`s_code.js/AppMeasurement.js`).
-1. If you want to update your code version, replace your entire `s_code.js/AppMeasurement.js` file with the newer version and replace any plugins or customizations (if any). **Or**, if you want to update the code only pertinent to first-party data collection, locate the s.trackingServer and s.trackingServerSecure (if using SSL) variables, and point them to your new data collection hostnames. Using mysite.com as an example:`s.trackingServer = "metrics.mysite.com"` `s.trackingServerSecure = "smetrics.mysite.com"`
+1. If you want to update your code version, replace your entire `s_code.js/AppMeasurement.js` file with the newer version and replace any plugins or customizations (if any). **Or**, if you want to update the code only pertinent to first-party data collection, locate the s.trackingServer and s.trackingServerSecure (if using SSL) variables, and point them to your new data collection hostnames. For example: 
+
+   ```js
+   s.trackingServer = "metrics.example.com";
+   s.trackingServerSecure = "smetrics.example.com";
+   ```
 
 1. Upload the updated core JavaScript file to your site.
 
