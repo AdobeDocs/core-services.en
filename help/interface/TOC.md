@@ -7,9 +7,12 @@ description: Learn about Experience Cloud interface and user account preferences
 index: yes
 ---
 
-# Experience Cloud Central Interface Components {#interface}
+# Experience Cloud Interface and Administration {#interface}
 
-+ [Experience Cloud Central Interface Components guide](experience-cloud.md)
++ [Experience Cloud Interface and Administration](experience-cloud.md)
+  + [Sign in](sign-in-experience-cloud.md)
+  + [Account preferences and notifications](account-preferences.md)
+  + [Organizations and account linking](organizations.md)
 + Experience Cloud services {#services}
   + [Experience Cloud services](core-services-landing.md)
   + [Unified Search in Experience Cloud](search-experience-cloud.md)
@@ -48,7 +51,6 @@ index: yes
   + [Manage Experience Cloud user identity and products (Admin Console)](admin-getting-started.md)
   + [View Experience Cloud user details (Admin Tool)](admin-tool-experience-cloud.md)
   + [Frequently asked questions](faq.md)
-  + [Organizations and account linking](organizations.md)
   + [Upgrading to Analytics Premium and the Experience Cloud](upgrade-to-analytics-premium.md)
   + [Experience Cloud integrations](marketing-cloud-integrations.md)
   + [Using DNS prefetch with different applications and services](dns-prefetch.md)

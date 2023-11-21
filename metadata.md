@@ -4,7 +4,7 @@ description: Learn about UI components, user and product administration in the A
 cloud: Experience Cloud
 product: experience cloud
 solution: Experience Cloud Services
-feature-set: Experience Cloud Services
+feature-set: Experience Cloud Services,Experience Cloud
 solution-title: Experience Platform
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
 solution-icon: help/interface/assets/experience-cloud-logo-24.png

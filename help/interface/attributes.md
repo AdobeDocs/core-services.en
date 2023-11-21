@@ -1,6 +1,6 @@
 ---
-title: Customer Attributes
-description: Learn about the Customer Attributes in Experience Cloud. Discover how to upload Customer Attribute data for use in Adobe Analytics and Adobe Target.
+title: "[!DNL Customer Attributes]"
+description: Learn about [!DNL Customer Attributes] in Experience Cloud. Discover how to upload customer attribute data for use in Adobe Analytics and Adobe Target.
 solution: Experience Cloud,Target,Analytics
 feature: Customer Attributes
 role: Admin
@@ -8,11 +8,17 @@ topic: Administration
 level: Experienced
 exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
 ---
-# Customer Attributes in Experience Cloud
+# [!DNL Customer Attributes] in Experience Cloud
 
-[!UICONTROL Customer Attributes] in Experience Cloud enables you to upload your captured enterprise data from a customer relationship management (CRM) database. You can upload the data into a Customer Attribute data source in the Experience Cloud, then use the data in Adobe Analytics and Adobe Target. 
+[!DNL Customer Attributes] in Experience Cloud enables you to upload your captured enterprise data from a customer relationship management (CRM) database. You can upload the data into a customer attribute data source in the Experience Cloud, then use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target]. 
 
-To locate this feature, navigate to **[!DNL Experience Platform]** > **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**
+## Locate the [!DNL Customer Attributes] feature
+
+1. Sign in to Experience Cloud.
+
+1. Navigate to **[!DNL Experience Platform]** > **[!UICONTROL People]**
+
+1.  > **[!UICONTROL Customer Attributes]**
 
 ![Customer Attributes overview](assets/custom_reports.png)
 
