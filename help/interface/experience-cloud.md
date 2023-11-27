@@ -1,40 +1,26 @@
 ---
-description: Learn about central interface components for Experience Cloud. This help includes user and product administration in the Admin Console, enabling applications for Experience Cloud services, and get help on Audience Library, Customer Attributes, Experience Cloud Assets, and more.
+description: Learn about central interface components for Experience Cloud. Get help on signing in, account preferences, and product and user administration in the Admin Console. Enable applications for Experience Cloud services, and get help on Audience Library, Customer Attributes, Experience Cloud Assets, and more.
 title: Experience Cloud interface help and documentation
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
-feature: Central Interface Components
+feature: Central Interface Components,Account Preferences,Admin Console
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
 ---
-# Experience Cloud Central Interface Components Guide
+# Experience Cloud Interface and Administration Guide
 
 [Experience Cloud](https://experience.adobe.com) is Adobe's integrated family of digital marketing applications, products, and services. From its intuitive interface, you can quickly access your cloud applications, product features, and services.
 
-![Experience Cloud](assets/landing.png)
+<!-- ![Experience Cloud](assets/landing.png) -->
 
-From Experience Cloud's header, you can:
+From the Experience cloud central interface, you can:
 
 * Access your applications and services
-* From the Help menu, search for product documentation, tutorials, and community posts. View results in Experience League.
+* Use the Help menu to search for product documentation, tutorials, and community posts. View results in Experience League.
 * Globally search business objects using a global search (Experience Platform users only) in the Search field.
 * Manage your account [preferences](#user-profile-and-account-preferences) (alerts, notifications, and subscriptions)
-
-
-
-
-## Experience Cloud domains {#domains}
-
-Experience Cloud uses the following hosts to deliver the application, improve performance and product experience. Adobe recommends adding these domains to your firewall's allowed list for an optimal experience. Additional domains may also be in use for specific Experience Cloud applications, such as Adobe Analytics. Check documentation for those applications for more information.
-
-| Technology | Domains |
-|--- |--- |
-|Adobe Experience Cloud domains |`adobe.com`, `adobe.net`, `adobe.io` |
-|Adobe Identity Management Service (IMS)|`adobelogin.com` |
-|Experience Cloud fonts |`typekit.net` |
-|Adobe Data Collection (for product guidance and help)|`adobedtm.com` |
-|Gainsight (for product guidance and help)|`esp.aptrinsic.com` |
+* Access [!DNL People] service ([!DNL Customer Attributes], [!DNL Audience Library])
 
 ## Get help on administration and cross-application services
 

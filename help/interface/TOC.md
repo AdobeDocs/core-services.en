@@ -13,6 +13,7 @@ index: yes
   + [Sign in](sign-in-experience-cloud.md)
   + [Account preferences and notifications](account-preferences.md)
   + [Organizations and account linking](organizations.md)
+  + [Experience Cloud domains](domains.md)
 + Experience Cloud services {#services}
   + [Experience Cloud services](core-services-landing.md)
   + [Unified Search in Experience Cloud](search-experience-cloud.md)
