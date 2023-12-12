@@ -38,8 +38,6 @@ Updated the [administration FAQ](faq.md) with information about how Adobe Suppor
 | ------- | ------- |
 |Unified Search |Unified Search continues to add objects types to the search index. In this update, global search now searches across Experience League content and the following Journey Optimizer object types: <ul><li>Datasets</li><li>Destinations</li><li>Queries</li><li>Schemas</li><li>Segments</li><li>Sources</li><li>Offers</li><li>Components</li><li>Messages</li><li>Journeys</li></ul> |
 |Product usage data consent  |Upon an initial login, you are asked to submit preferences for how Adobe can provide you with helpful, personalized content, such as tutorials, guides, quick tips, recommendations, learning videos and more, based on your Experience Cloud product usage data. This request also includes an update to your preferences for collection and usage of these data at <https://experience.adobe.com/preferences>.|
-|Experience Cloud [!UICONTROL Triggers] navigation  |[Experience Cloud Triggers](https://experienceleague.adobe.com/docs/core-services/interface/services/activation/triggers.html?lang=en) is available for direct navigation from the application switcher in the header for provisioned users.    |
-|**Notice:** Planned interface navigation update|In November 2021, the _[!UICONTROL Go to Data Collection]_ navigation feature will be removed from <https://experience.adobe.com/implement>.|
 
 **Updated 8/24/2021**
 
@@ -103,10 +101,6 @@ Revised guide for latest release.
 **Updated: 3/15/2017**
 
 Updated the definition of Raw Analytics Data in [Create an audience](t-audience-create.md#task_37F407F58BF9459493BB8E968CDFE737).
-
-**Updated: 2/23/2017**
-
-Added [Experience Cloud Triggers](triggers.md#concept_887B30241B3E4DB0A2553B2996E2D4FB).
 
 **Updated: 2/1/2017**
 
