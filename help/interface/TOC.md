@@ -62,6 +62,7 @@ index: yes
     + [[!DNL Target] cookies](cookies-target.md)
     + [Enable privacy settings for browser cookies](browser-cookie-settings.md)
     + [How changes to third-party cookie support impact customers](cookies-thirdparty.md)
++ [Experience Cloud Triggers](triggers.md)
 + Release notes for Experience Cloud UI {#release-notes}
   + [Release notes for central interface components](release-notes.md)
   + [Release notes for all Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en)  
