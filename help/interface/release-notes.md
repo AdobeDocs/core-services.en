@@ -93,8 +93,6 @@ Planned release: **July 11, 2022**
 | ------- | ------- |
 |Unified Search |Unified Search continues to add objects types to the search index. In this update, global search now searches across Experience League content and the following Journey Optimizer object types: <ul><li>Datasets</li><li>Destinations</li><li>Queries</li><li>Schemas</li><li>Segments</li><li>Sources</li><li>Offers</li><li>Components</li><li>Messages</li><li>Journeys</li></ul> |
 |Product usage data consent  |Upon an initial login, you are asked to submit preferences for how Adobe can provide you with helpful, personalized content, such as tutorials, guides, quick tips, recommendations, learning videos and more, based on your Experience Cloud product usage data. This request also includes an update to your preferences for collection and usage of these data at <https://experience.adobe.com/preferences>.|
-|Experience Cloud [!UICONTROL Triggers] navigation  |[Experience Cloud Triggers](https://experienceleague.adobe.com/docs/core-services/interface/services/activation/triggers.html?lang=en) is available for direct navigation from the application switcher in the header for provisioned users.    |
-|**Notice:** Planned interface navigation update|In November 2021, the _[!UICONTROL Go to Launch / Data Collection]_ navigation feature will be removed from <https://experience.adobe.com/implement>.|
 
 {style="table-layout:auto"}
 
@@ -201,7 +199,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
  </tbody> 
 </table>
 
-**Fixes** 
+**Fixes**
 
 * Fixed an issue preventing thumbnails from showing for assets shared from Assets on Demand to the Experience Cloud Feed. (MAC-29955) 
 
@@ -229,10 +227,6 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 **Fixes** 
 
 * Fixed an issue preventing linking and SSO for Analytics. This issue displayed the "Notice: The error message: ERROR IMS SSO Failed: Unable to find linked company."
-
-**Known Issue** 
-
-If you access Dynamic Tag Management via the **[!UICONTROL Experience Cloud]** > **[!UICONTROL Activation]** interface, but your Dynamic Tag Management account is not linked to the Experience Cloud (Adobe ID), you will not be able to log in to Dynamic Tag Management. To avoid this issue, navigate directly to `dtm.adobe.com` in a new browser tab. 
 
 ## Release 16.1 - January 21 2016 {#section_33B3F7DF6CA347E3AA93801BAC6232CE}
 
@@ -376,11 +370,7 @@ No information available
    <td colname="col1"> <p>One-to-many mapping </p> </td> 
    <td colname="col2"> <p>When linking application accounts in the Experience Cloud, if you have multiple applications and organizations, you can now map multiple products and services to a single organization. </p> </td> 
   </tr> 
-  <tr> 
-   <td colname="col1"> <p>Activation </p> </td> 
-   <td colname="col2"> <p> <a href="activation.md#concept_EE756B6B0A0643DAB8CA3A00E665406C" format="dita" scope="local"> Activation</a> now displays in the left navigation in the <span class="keyword"> Experience Cloud</span>. <span class="wintitle"> Activation</span> is an <span class="keyword"> Experience Cloud</span> service currently comprised of the dynamic tag management technology, and directs you there when selected. </p> </td> 
-  </tr> 
-  <tr> 
+    <tr> 
    <td colname="col1"> <p>Documentation Updates - Core Services </p> </td> 
    <td colname="col2"> <p>Added the topic <a href="core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your applications for core services</a> to assist you with implementing core services. </p> </td> 
   </tr> 
