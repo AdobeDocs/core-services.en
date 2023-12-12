@@ -27,7 +27,7 @@ Describes how to:
 
 Solutions or services: 
 
-* Activation - Experience Platform Data Collection (formerly, Launch) 
+* Experience Platform Data Collection 
 * Analytics
 * Target
 * [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en)
