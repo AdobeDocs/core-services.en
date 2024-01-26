@@ -15,12 +15,7 @@ You can choose to allow us to provide you with helpful content that is tailored 
 
 [![](assets/personalized-learning-customize-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="10%"}
 
-
 You can update your selections at any time in the Product Data Usage and Collection section in your [User Preference Settings](https://experience.adobe.com/preferences/).
-
-
-
-
 
 ## Personalized training and support recommendations for your Adobe products and services
 
@@ -47,8 +42,6 @@ Receive relevant best practices, tips & tricks, helpful walk throughs, and more 
   </tr>
 </tbody>
 </table>
-
-
 
 ## Personalized information about Adobe products, services, events, and promotions
 
@@ -79,9 +72,6 @@ Receive tailored opportunities for learning events, research sessions, and integ
 
 
 [![](assets/personalized-learning-customize-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="10%"}
-
-
-
 
 ## See examples of how this customized learning information might look.
 
