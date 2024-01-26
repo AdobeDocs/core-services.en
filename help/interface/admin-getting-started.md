@@ -202,13 +202,13 @@ A *tenant* in Campaign displays as a *product* in the Admin Console Products pag
 
 See [Managing groups and users](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html?lang=en) for information about security groups and assigning users to security groups.
 
-## Manage Experience Platform Data Collection (Launch) {#section_F2DA6778DD2D48AA8F794041971EE6B1}
+## Manage Experience Platform Data Collection {#section_F2DA6778DD2D48AA8F794041971EE6B1}
 
-Experience Platform [!UICONTROL Data Collection] ([!UICONTROL Launch]) displays on the [!UICONTROL Products] page in the [!UICONTROL Admin Console]. You can include other applications and services in a Launch Product Profile.
+Experience Platform [!UICONTROL Data Collection] displays on the [!UICONTROL Products] page in the [!UICONTROL Admin Console]. You can include other applications and services in a Data Collection Product Profile.
 
-Invite users to [!UICONTROL Platform Launch] and assign user roles and rights.
+Invite users to [!UICONTROL Platform Data Collection] and assign user roles and rights.
 
-See [User permissions](https://experienceleague.adobe.com/docs/experience-platform/tags/admin/user-permissions.html?lang=en) for information about user permissions in the Admin Console and about setting up Launch-specific options, including assigning rights to profiles.
+See [User permissions](https://experienceleague.adobe.com/docs/experience-platform/tags/admin/user-permissions.html?lang=en) for information about user permissions in the Admin Console and about setting up rights to profiles.
 
 ## Experience Manager as a Cloud Service
 

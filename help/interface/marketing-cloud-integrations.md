@@ -27,7 +27,7 @@ Describes how to:
 
 Solutions or services: 
 
-* Activation - Experience Platform Data Collection (formerly, Launch) 
+* Experience Platform Data Collection 
 * Analytics
 * Target
 * [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en)
@@ -105,26 +105,6 @@ Work with data from Experience Cloud applications or other external systems in A
 * [Analytics Server-Side Forwarding](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=en)
 * [Send Audience Manager Segments to Analytics](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/experience-cloud-destinations/create-analytics-destination.html?lang=en)
 * [Adobe Target Data Integration](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-applications/aam-target-integration.html?lang=en)
-
-## Activation {#section_A23510A2D57842F6BAD043650C06DE42}
-
-Help: [Getting Started](https://experienceleague.adobe.com/docs/experience-platform/tags/get-started/quick-start.html?lang=en)
-
-Use the Experience Cloud Activation applications to set up and debug your Experience Cloud applications.
-
-1. Use [Experience Platform Launch](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en) to insert code that activates Experience Cloud applications on your pages.
-1. Use [Adobe Cloud Platform Auditor](https://experienceleague.adobe.com/docs/auditor/using/overview.html?lang=en) to test your implementations.
-
-Use the Adobe Experience Cloud Debugger extension to debug issues found by Auditor or to examine other information about your implementations.
-
-**Applicable applications or services** 
-
-* [Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=en)
-* [Audience Manager](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/audience-manager/overview.html?lang=en)
-* [Advertising Cloud](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en)
-* [Adobe Target](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en)
-* [MAC ID Service](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en)
-* [Nielsen Tracking](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en)
 
 ## Adobe Target {#section_739716AB6022424CBC38724CDED10701}
 

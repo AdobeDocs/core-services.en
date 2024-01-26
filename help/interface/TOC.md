@@ -35,10 +35,6 @@ index: yes
     + [Support for General Data Protection Regulation](gdpr.md)
     + [Support for California Consumer Privacy Act](ccpa.md)
     + [Privacy considerations for Customer Attributes](privacy-mac.md)
-  + Experience Cloud Activation {#activation}
-    + [Activation overview](activation.md)
-    + [Experience Platform Launch user guide](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en)
-    + [Triggers](triggers.md)
   + Experience Cloud Assets {#assets}
     + [Experience Cloud assets overview](experience-cloud-assets.md)
     + [Share Experience Cloud folders and assets with Creative Cloud](creative-cloud.md)
@@ -69,6 +65,7 @@ index: yes
     + [[!DNL Target] cookies](cookies-target.md)
     + [Enable privacy settings for browser cookies](browser-cookie-settings.md)
     + [How changes to third-party cookie support impact customers](cookies-thirdparty.md)
++ [Experience Cloud Triggers](triggers.md)
 + Release notes for Experience Cloud UI {#release-notes}
   + [Release notes for central interface components](release-notes.md)
   + [Release notes for all Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en)  
