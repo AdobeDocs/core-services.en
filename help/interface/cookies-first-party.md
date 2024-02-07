@@ -14,12 +14,12 @@ exl-id: e15abde5-8027-4aed-a0c1-8a6fc248db5e
 
 Analytics uses cookies to provide information on variables and components that do not persist between image requests and browser sessions. Where possible Adobe uses first-party cookies to record activities on your site. To record activity on different sites such as other domains you may own, third-party cookies are required.
 
-Many browsers and anti-spyware applications are designed to reject and delete third-party cookies. Adobe ensures that cookies can always we set even if third-party cookies are blocked. The specific behavior varies depending on whether you are using the Experience Platform Identity Service (ECID Service) or Analytics' legacy identifiers (aka the s_vi cookie):
+Many browsers and anti-spyware applications are designed to reject and delete third-party cookies. Adobe ensures that cookies can always be set even if third-party cookies are blocked. The specific behavior varies depending on whether you are using the Experience Platform Identity Service (ECID Service) or Analytics' legacy identifiers (aka the s_vi cookie):
 
 * The [Experience Platform Identity Service (ECID Service)](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html?lang=en) will automatically set first-party cookies regardless of whether your collection domain matches your site domain. If they do not match, the Identity Service will use JavaScript to set cookies in your site's domain.
 * If you are using [Analytics legacy identifiers](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html?lang=en) (aka the `s_vi` cookie) it depends on how you have configured your data collection server. If the data collection server matches your site's domain, then cookies are set as first-party. If the collection server does not match your current domain, then cookies are set as third party. In this case, if third-party cookies are blocked, Analytics sets a first-party [fallback id (s_fid)](cookies-analytics.md) instead of the standard "s_vi" cookie.
 
-If you would like to ensure your collection server matches your site's domain, you can use a CNAME implementation which will enable forwarding from a custom domain specified in your CNAME implementation to Adobe's collection servers. This involves changes to your company's DNS settings to configure a CNAME alias to pointing to an Adobe hosted domain. Please note that while various Adobe products support using a CNAME, in all cases the CNAME is used to a create a trusted first-party endpoint for a specific customer and is owned by that customer. If you control multiple domains, they may use a single CNAME endpoint to track users across their domains, but wherever the site domain does not match the CNAME domain cookies is set as third party.
+If you would like to ensure your collection server matches your site's domain, you can use a CNAME implementation which will enable forwarding from a custom domain specified in your CNAME implementation to Adobe's collection servers. This involves changes to your company's DNS settings to configure a CNAME alias to pointing to an Adobe hosted domain. Please note that while various Adobe products support using a CNAME, in all cases the CNAME is used to a create a trusted first-party endpoint for a specific customer and is owned by that customer. If you control multiple domains, they may use a single CNAME endpoint to track users across their domains, but wherever the site domain does not match the CNAME domain cookies are set as third party.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ If you want to establish a CNAME for data collection and if your site has secure
 
 The SSL certificate issuance process can often be confusing and time consuming. As a result, Adobe established a partnership with DigiCert, an industry-leading Certificate Authority (CA), and developed an integrated process by which the purchase and management of these certificates is automated.
 
-With your permission, we work with CA to issue, deploy, and manage a new SHA-2 SSL certificate for you. Adobe continues to manage this certificate and ensure that an unexpected expiration, revocation, or security concern, does not threaten the availability of your organization's secure collection.
+With your permission, we work with a CA to issue, deploy, and manage a new SHA-2 SSL certificate for you. Adobe continues to manage this certificate and ensure that an unexpected expiration, revocation, or security concern, does not threaten the availability of your organization's secure collection.
 
 ## Adobe-Managed Certificate Program
 
