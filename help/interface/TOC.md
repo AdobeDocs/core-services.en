@@ -7,9 +7,9 @@ description: Learn about Experience Cloud interface and user account preferences
 index: yes
 ---
 
-# Experience Cloud Central Interface Components {#interface}
+# Experience Cloud Central Interface Components Guide {#interface}
 
-+ [Experience Cloud Central Interface Components guide](experience-cloud.md)
++ [Experience Cloud Central Interface Components Guide](experience-cloud.md)
 + Experience Cloud services {#services}
   + [Experience Cloud services](core-services-landing.md)
   + [Unified Search in Experience Cloud](search-experience-cloud.md)
