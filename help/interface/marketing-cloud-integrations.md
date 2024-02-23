@@ -11,7 +11,7 @@ exl-id: 7f8fa610-32f0-4b18-8054-3ba05436a10e
 ---
 # Experience Cloud integrations overview
 
-Adobe Experience Cloud is a comprehensive set of best-in-class, integrated applications and services built on a common data platform with a common set of powerful features.
+This page describes several ways to begin integrating Experience Cloud applications. For more information, browse our library of [integration video tutorials](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en) on Experience League.
 
 ## Enable your Experience Cloud applications for Platform services {#section_A3D024994DA3492F8435CFCC4EF035C2}
 
@@ -22,14 +22,14 @@ Describes how to:
 * Provision your company in the Experience Cloud.
 * Enable you to become an administrator.
 * [Implement the Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en).
-* Modernize your [!DNL Analytics] and [!DNL Target] implementations via Platform Data Collection.
-* Start using core services.
+* Modernize your [!DNL Analytics] and [!DNL Target] implementations via [!UICONTROL Platform Data Collection].
+* Start using Experience Cloud services like [!UICONTROL Customer Attributes] and [!UICONTROL Audiences].
 
 Solutions or services: 
 
-* Experience Platform Data Collection 
-* Analytics
-* Target
+* [[!DNL Experience Platform Data Collection]](https://experienceleague.adobe.com/docs/experience-platform.html?lang=en) 
+* [[!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics.html?lang=en)
+* [[!DNL Target]](https://experienceleague.adobe.com/docs/target.html?lang=en)
 * [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en)
 
 ## Experience Cloud ID Service {#section_6ECCCFA2D84D4D4F88C879C799CA9D78}
@@ -47,7 +47,7 @@ See [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-ser
 
 Help: [Audiences](audience-library.md#topic_679810123CAA4E0CA4FA3417FB0100C7) 
 
-Create and manage Audiences in the Experience Cloud Audience Library. Audiences can be created or derived from various sources, such as: 
+Create and manage Audiences in the Experience Cloud [!UICONTROL Audience Library]. Audiences can be created or derived from various sources, such as: 
 
 * New ones created in the [!DNL Experience Cloud].
 * From [!DNL Analytics] segments published to the [!DNL Experience Cloud].
@@ -123,22 +123,9 @@ Integrate Adobe Target with Adobe Analytics and other Experience Cloud applicati
 
 ## Experience Manager integrations {#section_32FB010EF8B4429FBC63C8DC2A9BE98F}
 
-Help: [Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=en) 
+* Video tutorials: [Experience Manager integrations](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/integrations-between-applications/overview.html) 
 
-Integrate AEM with other applications and third-party services. 
-
-**Applicable applications or services** 
-
-* [Analytics](https://experienceleague.adobe.com/docs/)
-* [Analytics with External Providers](https://experienceleague.adobe.com/docs/)
-* [Experience Cloud](https://experienceleague.adobe.com/docs/)
-* [Creative Cloud](https://experienceleague.adobe.com/docs/)
-* [Audience Manager](https://experienceleague.adobe.com/docs/)
-* [Campaign](https://experienceleague.adobe.com/docs/)
-* [Scene7](https://experienceleague.adobe.com/docs/)
-* [Adobe Target](https://experienceleague.adobe.com/docs/)
-* [Third-party services](https://experienceleague.adobe.com/docs/) (data connectors)
-* [Extensions](https://experienceleague.adobe.com/docs/)
+* Product documentation: [Experience Manager documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=en) 
 
 ## Experience Manager - Assets {#section_CB865F8EFE4C4147BF8E2E4B66B5A318}
 
@@ -154,15 +141,19 @@ Synchronize your assets within Adobe Experience Manager (AEM) Assets with Adobe 
 
 ## [!DNL Adobe Advertising] {#section_9B1935F8BBC147C89C6DB68A35CB1BAB}
 
-Help (login required): [Integration with Adobe Experience Cloud Solutions and Services](https://enterprise.efrontier.com/CMDashboard?ticket=JrciD7q2bF1y2mDWFHmEyhyMKZp71ZLeaANvF-RcNMF7oNuZNABh76cKJLNlJJeJ1hQ5vAW1AO1t1DW8tZWM3lYZ8TSh96YAQISUdtHCCgA%3D&ticket=JrciD7q2bF1y2mDWFHmEyibbOnNwb2JBRF7z6tKAOIWkBimlPxCUaZyJnPLqsfdqsf3fpxWoxGasvatKA8S6-h4tlDvxQcm8Gc10dSF9q_E%3D) 
+* Help (login required): [Integration with Adobe Experience Cloud Solutions and Services](https://enterprise.efrontier.com/CMDashboard?ticket=JrciD7q2bF1y2mDWFHmEyhyMKZp71ZLeaANvF-RcNMF7oNuZNABh76cKJLNlJJeJ1hQ5vAW1AO1t1DW8tZWM3lYZ8TSh96YAQISUdtHCCgA%3D&ticket=JrciD7q2bF1y2mDWFHmEyibbOnNwb2JBRF7z6tKAOIWkBimlPxCUaZyJnPLqsfdqsf3fpxWoxGasvatKA8S6-h4tlDvxQcm8Gc10dSF9q_E%3D) 
+
+* [Adobe Advertising documentation](https://experienceleague.adobe.com/docs/advertising.html?lang=en) on Experience League
 
 **Applicable applications or services** 
 
 **Analytics:** can send site engagement and conversion data daily to [!DNL Adobe Advertising], where the data is available for ad optimization and reporting. Also, [!DNL Advertising] can send search engine and social network traffic data daily to Analytics, where the data is available for reports in the Reports & Analytics, Report Builder, and Ad Hoc Analysis capabilities. 
 
-**Dynamic Tag Manager:** You can [use Dynamic Tag Manager to create Advertising pixel-based conversion tracking tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en), and third-party tracking tags, for your search, social, and display ad landing pages. (You can also can create [!DNL Advertising] tags directly within [!DNL Advertising].) 
+**Tags:** You can use [Experience Platform tags to create Advertising pixel-based conversion tracking tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en), and third-party tracking tags, for your search, social, and display ad landing pages. (You can also can create [!DNL Advertising] tags directly within [!DNL Advertising].) 
 
-**Experience Cloud Audiences:** (Advertisers with display management) You can use any of your [Adobe Experience Cloud Audiences](audience-library.md) as targets for your display ads. You can automatically use Audiences that you've created in Experience Cloud and Audiences from Analytics that you've published to Adobe Experience Cloud. You can also use Audiences from Audience Manager when the [!DNL Adobe Advertising] account is configured to allow it. Contact your account manager for more information about access to Adobe Experience Cloud and Profiles and Audiences, and about the initial setup between [!DNL Adobe Advertising] and Adobe Experience Cloud Audiences. **Note:** If you also use Adobe Target, any of the Audiences you've published to Adobe Experience Cloud are also available for activities in Adobe Target. 
+**Experience Cloud Audiences:** (Advertisers with display management) You can use any of your [Adobe Experience Cloud Audiences](audience-library.md) as targets for your display ads. You can automatically use audiences that you've created in Experience Cloud and audiences from Analytics that you've published to Experience Cloud. You can also use Audiences from Audience Manager when the [!DNL Adobe Advertising] account is configured to allow it. 
+
+Contact your account manager for more information about access to Adobe Experience Cloud and Profiles and Audiences, and about the initial setup between [!DNL Adobe Advertising] and Adobe Experience Cloud Audiences. **Note:** If you also use Adobe Target, any of the audiences you've published to Adobe Experience Cloud are also available for activities in Adobe Target. 
 
 **Experience Cloud Assets:** (Advertisers with display management) You can use any of your Adobe Experience Cloud assets as the creatives for your display ads, using the New Display Beta view. You must be [logged in to Adobe Advertising through Adobe Experience Cloud](https://enterprise-test.efrontier.com/CMDashboard?ticket=JrciD7q2bF1y2mDWFHmEyoBomG0VowpcEgK5zzKFq3mDArroL6xIS3XkmJFZMeeXlj0uIZz-IEcOn3nVHmy9bwdSxEcDv6FMvTkjwz5rpIs%3D&ticket=JrciD7q2bF1y2mDWFHmEykzc2nFNvATOY54xOo03rW0GSLGdEpu5MvttCo6msEyImNVq7_lmlTup-LwCdnPIHA7mJrhugFMnbqTmSB-dfmw%3D)) to access your Adobe Experience Cloud assets. Contact your account manager for information about access to Adobe Experience Cloud. 
 
