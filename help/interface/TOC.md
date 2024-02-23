@@ -1,15 +1,15 @@
 ---
 role: User,Admin
-user-guide-title: Experience Cloud Central Interface Components 
-breadcrumb-title: Experience Cloud Central Interface Components
+user-guide-title: Experience Cloud Interface and Administration Guide
+breadcrumb-title: Experience Cloud Interface and Administration Guide
 title: Experience Cloud Interface and Administration Guide
-description: Learn about Experience Cloud interface and user account preferences. Learn how to search for business objects, and manage users and products. Configure Customer Attributes, Audience Library, cookies, and share Experience Cloud Assets.
+description: Learn about Experience Cloud interface, managing users and products, and user account preferences. Configure Customer Attributes, Audience Library, cookies, and share Experience Cloud Assets.
 index: yes
 ---
 
-# Experience Cloud Interface and Administration {#interface}
+# Experience Cloud Interface and Administration Guide {#interface}
 
-+ [Experience Cloud Interface and Administration](experience-cloud.md)
++ [Experience Cloud Interface and Administration Guide](experience-cloud.md)
   + [Sign in](sign-in-experience-cloud.md)
   + [Account preferences and notifications](account-preferences.md)
   + [Organizations and account linking](organizations.md)

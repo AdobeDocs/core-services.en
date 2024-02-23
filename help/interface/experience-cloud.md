@@ -65,7 +65,7 @@ This guide provides access to help on Experience Cloud user and product administ
 * [Enable your applications for core services](core-services.md)
 * [Frequently asked questions](admin-getting-started.md)
 * [Organizations and account linking](organizations.md)
-* [Integrations](marketing-cloud-integrations.md)
+* [Integrations](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/overview.html?lang=en)
 * [Integrating Adobe Target with the Experience Cloud](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=en)
 * [Experience Cloud privacy and security overview](assets/Adobe-Marketing-Cloud-Privacy-and-Security-Overview.pdf)
 * [DNS prefetch](admin-getting-started.md#concept_6BC8C6856E3644F8956D7AD0A96383B7)
