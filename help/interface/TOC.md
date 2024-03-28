@@ -1,15 +1,15 @@
 ---
 role: User,Admin
-user-guide-title: Experience Cloud Interface and Administration Guide
-breadcrumb-title: Experience Cloud Interface and Administration Guide
+user-guide-title: Experience Cloud interface and administration guide
+breadcrumb-title: Experience Cloud interface and administration guide
 title: Experience Cloud Interface and Administration Guide
 description: Learn about Experience Cloud interface, managing users and products, and user account preferences. Configure Customer Attributes, Audience Library, cookies, and share Experience Cloud Assets.
 index: yes
 ---
 
-# Experience Cloud Interface and Administration Guide {#interface}
+# Experience Cloud interface and administration guide {#interface}
 
-+ [Experience Cloud Interface and Administration Guide](experience-cloud.md)
++ [Experience Cloud interface and administration](experience-cloud.md)
   + [Sign in](sign-in-experience-cloud.md)
   + [Account preferences and notifications](account-preferences.md)
   + [Organizations and account linking](organizations.md)
@@ -45,7 +45,7 @@ index: yes
     + [Asset file requirements for sharing](assets-file-reqs.md)
     + [Behavior of shared folders](asset-behavior.md)
 + Experience Cloud administration {#administration}
-  + [Manage Experience Cloud user identity and products (Admin Console)](admin-getting-started.md)
+  + [Manage users and products (Admin Console)](admin-getting-started.md)
   + [View Experience Cloud user details (Admin Tool)](admin-tool-experience-cloud.md)
   + [Frequently asked questions](faq.md)
   + [Upgrading to Analytics Premium and the Experience Cloud](upgrade-to-analytics-premium.md)

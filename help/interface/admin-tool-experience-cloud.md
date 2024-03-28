@@ -1,7 +1,7 @@
 ---
+title: View Users and User Details 
 description: Learn about the Experience Cloud Admin Tool. View a sortable and filterable list of all Experience Cloud users and policies.
 application: Experience Cloud
-title: View Experience Cloud users and user details 
 index: yes
 feature: Admin Console
 topic: Administration
@@ -9,9 +9,9 @@ role: Admin
 level: Experienced
 exl-id: 127eecdd-3862-48ba-8cf6-a8082d2b7bae
 ---
-# View Experience Cloud users and policies in the Admin Tool
+# View Experience Cloud users and policies in the [!UICONTROL Admin Tool]
 
-Administrators can view a sortable and filterable list of all Experience Cloud users and policies with details in the Admin Tool. User details include a user's product access, roles, and last accessed information. Policy details include a policy's (product profile) user, group, developer, integration and admin list, as well as detailed permission and resource information for the policy. 
+Administrators can view a sortable and filterable list of all Experience Cloud users and policies with details in the [!UICONTROL Admin Tool]. User details include a user's product access, roles, and last accessed information. Policy details include a policy's (product profile) user, group, developer, integration and admin list, as well as detailed permission and resource information for the policy. 
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Administrators can view a sortable and filterable list of all Experience Cloud u
 
    ![Accessing the Admin Console](assets/admin-tool.png)
 
-1. Under [!UICONTROL Quick Access], select **[!UICONTROL Admin Tool.]**
+1. Under [!UICONTROL Quick Access], click **[!UICONTROL Admin Tool]**.
 
     (Alternatively, in the home page URL you can replace _home_ with _admin._)
 
@@ -157,3 +157,7 @@ This section displays a complete list of all users, user groups, developers, int
 ## Detailed permissions and resources lists
 
 This section displays a complete list of permissions and resources available for the product profile. Permissions and resources that have been included in the product profile have been marked with a "✔". The lists of permissions and resources have been categorized into tabs and columns for easier viewing. Tabs and columns display the list of sections that apply to the current product.
+
+## Related information
+
+* [Manage users](https://helpx.adobe.com/enterprise/using/users.html) in the [!DNL Admin Console]

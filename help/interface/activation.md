@@ -1,7 +1,7 @@
 ---
 description: Learn about the latest tag management product called Experience Platform Launch.
 solution: Experience Cloud Services
-title: Activation services in Experience Cloud
+title: Activation Services in Experience Cloud
 uuid: 54ada638-3592-49ee-930a-9f44bcc5e5d3
 feature: Admin Console
 topic: Administration

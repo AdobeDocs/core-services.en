@@ -1,5 +1,5 @@
 ---
-title: Account preferences and notifications
+title: Account Preferences and Notifications
 description: Learn about user profiles and account preferences in Experience Cloud. Subscribe to product notifications and get product alerts.
 solution: Experience Cloud
 feature: Account Preferences,Notifications,Alerts
