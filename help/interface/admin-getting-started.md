@@ -186,7 +186,7 @@ After the migration, users sign in using their Adobe ID (or Enterprise ID) and a
 
 ## Manage Adobe Target - Product Profiles vs. workspaces {#section_3860AF177C9E4C7E9C390D36A414F353}
 
-In Adobe Target, a workspace is a Product Profile. It lets an organization assign a specific set of users to a specific set of properties. In many ways, a workspace is similar to a report suite in Adobe Analytics.
+In Adobe Target, a workspace is a Product Profile. It lets an organization assign a specific set of users to a specific set of properties. In many ways, a workspace is similar to a report suite in Adobe Analytics. 
 
 See:
 
