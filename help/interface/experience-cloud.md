@@ -1,57 +1,147 @@
 ---
-description: Learn about central interface components for Experience Cloud. Get help on signing in, account preferences, and product and user administration in the Admin Console. Enable applications for Experience Cloud services, and get help on Audience Library, Customer Attributes, Experience Cloud Assets, and more.
-title: Experience Cloud Interface and Administration Guide
+description: Learn about central interface components for Experience Cloud. This help includes user and product administration in the Admin Console, enabling applications for Experience Cloud services, and get help on Audience Library, Customer Attributes, Experience Cloud Assets, and more.
+title: Experience Cloud interface help and documentation
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
-feature: Central Interface Components,Account Preferences,Admin Console
+feature: Central Interface Components
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
 ---
-# Experience Cloud interface and administration guide
+# Experience Cloud Central Interface Components Guide
 
 [Experience Cloud](https://experience.adobe.com) is Adobe's integrated family of digital marketing applications, products, and services. From its intuitive interface, you can quickly access your cloud applications, product features, and services.
 
-<!-- ![Experience Cloud](assets/landing.png) -->
+![Experience Cloud](assets/landing.png)
 
-From the Experience cloud central interface, you can:
+From Experience Cloud's header, you can:
 
 * Access your applications and services
-* Use the Help menu to search for product documentation, tutorials, and community posts. View results in Experience League.
+* From the Help menu, search for product documentation, tutorials, and community posts. View results in Experience League.
 * Globally search business objects using a global search (Experience Platform users only) in the Search field.
-* Manage your account [preferences](#user-profile-and-account-preferences) (alerts, notifications, and subscriptions)
-* Access [!DNL People] service ([!DNL Customer Attributes], [!DNL Audience Library])
+* Manage your account preferences (alerts, notifications, and subscriptions)
 
-## What's new
+## Sign in to Experience Cloud {#signin}
 
-* **Help search:** In the [!DNL Experience Cloud] **[!UICONTROL Help]** menu, the content search has been updated to filter by application in the [Experience League](https://experienceleague.adobe.com/#home) search results.
+Sign in and verify that you are in the right [organization](organizations.md).
 
-* **Provisioning update:** See [Provisioning update notice](admin-getting-started.md#provisioning) for important updates to provisioning in Experience Cloud.
+1. Navigate to [Adobe Experience Cloud](https://experience.adobe.com).
+1. Type your Adobe email address, then select **[!UICONTROL Continue]**.
+    
+    Administrators, see [Experience Cloud user authentication](admin-getting-started.md#migration) for important updates to identity types (Business ID).
 
-## Start with the basics
+1. Select an account. 
+1. Type your password.
+1. Verify that you are in the right organization.
 
-[adopt these for Cust Attrs, Audiences, Assets, etc.]
+    ![Verify that you are in the right organization](assets/organizations-menu.png)
 
-<table style="table-layout:fixed">
-  <tr style="border: 0;">
-    <td>
-    <a href="experience-cloud.md"><img src="assets/start-quick.png"></a></a>
-    <div><strong>Quick start guides</strong><br/>Learn how to achieve your goals faster in Journey Optimizer with your personalized approach depending on your role.</div>
-    </td>
-    <td>
-    <a href="experience-cloud.md"><img src="assets/start-interface.jpeg"></a>
-    <div><strong>User interface</strong><br/>Learn how to navigate Experience Cloud, launch applications, and search for help.</div><br/>
-    </td>
-    <td>
-    <a href="using/building-journeys/journey-gs.md"><img src="using/assets/do-not-localize/start-journey.jpeg"></a>
-    <div><strong>Create your first journey</strong><br/>Design and orchestrate personalized omnichannel journeys to harmonize marketing outreach with one-to-one customer engagement. 
-    </div></td>
-    <td>
-    <a href="using/campaigns/create-campaign.md"><img src="using/assets/do-not-localize/start-campaign.jpeg"></a>
-    <div><strong>Launch your first campaign</strong><br/>Create and start your first campaign in Journey Optimizer to deliver targeted, one-time content to a specific audience.</div>
-    </td>
-  </tr>
-</table>
+    **Verify your organization**
+
+    To verify that you have logged in to your correct [organization](organizations.md), click on your profile avatar to see organization name. If you have access to more than one organization, you can also view and switch to another organization right in the header bar. 
+
+    If your organization uses Federated IDs, Experience Cloud allows you to sign in with your organization's single sign-on without being required to enter your email address and password. Add `#/sso:@domain` to the Experience Cloud URL (`https://experience.adobe.com`) to accomplish this task.
+    
+    For example, for an organization with Federated IDs and the domain `adobecustomer.com`, set your URL link to `https://experience.adobe.com/#/sso:@adobecustomer.com`. You can also go directly to a specific application by bookmarking this URL, appended with the application path. (For example, for Adobe Analytics, `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.)
+
+## Access Experience Cloud applications {#navigation}
+
+After signing in to Experience Cloud, you can quickly access all your applications, services, and organizations from the unified header.
+
+To access Experience Cloud applications and services provisioned for you within your organization, go the application selector ![menu](assets/menu-icon.png).
+
+![Access Experience Cloud applications](assets/platform-core-services.png)
+
+## Browser support in Experience Cloud {#browser}
+
+For the best performance, Experience Cloud is optimized for the most popular browsers, including the latest version, plus the two previous versions.
+
+* Chrome
+* Edge
+* Firefox
+* Opera
+* Safari
+
+If your browser is not listed, it may still be supported, but it is recommended that you use one of the listed browsers. 
+
+>[!NOTE]
+>
+>Not all applications running on Experience Cloud domain support all browsers. If you're unsure, check the documentation of a specific application.
+
+## Language support in Experience Cloud {#languages}
+
+Experience Cloud supports preferred languages for each user, as set in your Adobe user account preferences. Supported languages currently are: 
+
+* Chinese
+* English
+* French
+* German
+* Italian
+* Japanese
+* Korean
+* Portuguese
+* Spanish
+* Taiwanese
+
+While all application team are committed to global language support, not all applications are offered in all languages noted above. If your primary language is not supported in an Experience Cloud application, you can also set a secondary language to default to when applicable. This can be done in [Experience Cloud user preferences](https://experience.adobe.com/preferences).
+
+## Get help and support {#support}
+
+Access learning and help using the Help icon (![asset](assets/help-icon.png)) in the header, including help content (documentation, tutorials, and courses) on [Experience League](https://experienceleague.adobe.com/#home), as well as additional resources for individual applications. You can also submit open-ended feedback and create prioritized support tickets.
+
+![Get help and support](assets/search-menu.png)
+
+The [!UICONTROL Help] menu also gives you access to:
+
+* **[!UICONTROL Support]:** Create a support ticket or contact [!UICONTROL Support] using Twitter.
+* **[!UICONTROL Feedback]:** Share feedback about your Experience Cloud experience. Your feedback is used to improve Adobe's products and services.
+* **[!UICONTROL Status]:** Navigate to `https://status.adobe.com/experience_cloud` and check product operational status and [!UICONTROL Manage Subscriptions].
+* **[!UICONTROL Developer Connection]:** Navigation to `adobe.io` and find developer documentation.
+
+## User profile and account preferences {#preferences}
+
+Experience Cloud preferences include notifications, subscriptions, and alerts. In the account preferences menu, you can:
+
+* Specify a dark theme (not all applications support this theme)
+* Search for [Organizations](organizations.md)
+* Sign out
+* Configure account preferences, notifications, and subscriptions
+
+To manage preferences, select **[!UICONTROL Preferences]** from your account menu ![preferences](assets/preferences-icon-sm.png).
+
+![User profile and account preferences](assets/preferences-page.png)
+
+On [!UICONTROL Experience Cloud preferences], you can configure the following features:
+
+| Feature | Description |
+|--- |--- |
+|Default [organization](organizations.md)|Select the organization that you want to see when you launch Experience Cloud. |
+|[!UICONTROL Product data collection]|Select which technologies Adobe can use to collect data on how you use your Adobe products. |
+|[!UICONTROL Personalized learning recommendations and promotions]|Select where you would like to receive personalized help for your Adobe product(s). This help is available via email, in-product, and the Experience League Communities. [Learn more.](personalized-learning-preferences.md) |
+|[!UICONTROL Subscriptions]|Select the products and categories to which you would like to subscribe. Notifications in the [!UICONTROL Notifications] pop-over and in your email.|
+|[!UICONTROL Priority]|Select the categories that you want to be considered high priority. These categories are marked with a High tag and can be configured for delivery like alerts.|
+|[!UICONTROL Alerts]|Select the notifications for which you would like to see alerts displayed in your browser. Alerts appear in the top-right corner of your window for a few seconds.|
+|Emails|Specify the frequency at which you would like to receive notification emails. (Not sent, instant, daily, or weekly.)|
+
+{style="table-layout:auto"}
+
+## Notifications and Announcements {#notifications}
+
+Select **[!UICONTROL Notifications]** to be alerted about relevant and actionable updates, including product releases, maintenance notices, shared items, and approval requests.
+
+![Notifications and Announcements](assets/notifications-menu-small.png)
+
+## Experience Cloud domains {#domains}
+
+Experience Cloud uses the following hosts to deliver the application, improve performance and product experience. Adobe recommends adding these domains to your firewall's allowed list for an optimal experience. Additional domains may also be in use for specific Experience Cloud applications, such as Adobe Analytics. Check documentation for those applications for more information.
+
+| Technology | Domains |
+|--- |--- |
+|Adobe Experience Cloud domains |`adobe.com`, `adobe.net`, `adobe.io` |
+|Adobe Identity Management Service (IMS)|`adobelogin.com` |
+|Experience Cloud fonts |`typekit.net` |
+|Adobe Data Collection (for product guidance and help)|`adobedtm.com` |
+|Gainsight (for product guidance and help)|`esp.aptrinsic.com` |
 
 ## Get help on administration and cross-application services
 
@@ -66,7 +156,7 @@ This guide provides access to help on Experience Cloud user and product administ
 * [Frequently asked questions](admin-getting-started.md)
 * [Organizations and account linking](organizations.md)
 * [Integrations](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/overview.html?lang=en)
-* [Integrating Adobe Target with Experience Cloud](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=en)
+* [Integrating Adobe Target with the Experience Cloud](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=en)
 * [Experience Cloud privacy and security overview](assets/Adobe-Marketing-Cloud-Privacy-and-Security-Overview.pdf)
 * [DNS prefetch](admin-getting-started.md#concept_6BC8C6856E3644F8956D7AD0A96383B7)
 
@@ -92,111 +182,9 @@ Take advantage of self-help tutorials and quick how-tos in Experience League:
 ## Release notes and related Experience Cloud help
 
 * [Product documentation for all Experience Cloud applications](https://experienceleague.adobe.com/docs/home.html?lang=en) - Browse for help at Experience Cloud Learn & Support
-* [Release notes and product updates](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en) - What's new in Experience Cloud, and subscribe to get updates
+* [Release notes and product updates](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en) - What's new in the Experience Cloud, and subscribe to get updates
 * [Tutorials for implementing core services](https://experienceleague.adobe.com/docs/platform-learn/data-collection/overview.html?lang=en) - Explore videos and tutorials about core services
 * [Expert help at Experience League](https://experienceleague.adobe.com/) - Get guided learning from experts and the community
 * [Education and training](https://helpx.adobe.com/learning.html?promoid=KAUDK) - Engage with Adobe to ensure that you get the most out of Adobe's products
 * [Customer Experience Blog](https://blog.adobe.com/en/topics/digital-transformation) - Read the Experience Cloud blog
 * [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support) - Contact Adobe Customer Care
-
-
-## What's new
-
-Get a glimpse of the newest enhancements in Journey Optimizer product and documentation! For a comprehensive list of features, improvements, and fixes, check out the detailed [Release Notes](using/rn/release-notes.md).  Stay up-to-date with the latest changes in our documentation by visiting the [documentation updates page](using/rn/documentation-updates.md).
-
->[!BEGINTABS]
-
->[!TAB Sandbox tooling]
-
-Sandbox tooling allows you to copy objects across multiple sandboxes by leveraging package export and import. A package can consist of a single object or multiple objects. Any objects that are included in a package must be from the same sandbox.
-
-[![image](using/assets/do-not-localize/learn-more-button.svg)](using/building-journeys/copy-to-sandbox.md)
-
->[!TAB Multimedia Message Service (MMS) in SMS] 
-
-With the SMS Channel, you can now enhance your communication by sending Multimedia Message Service (MMS) messages, enabling the sharing of images, GIFs, or videos with your customers. Note that this feature is currently available with Sinch only.
-
-[![image](using/assets/do-not-localize/learn-more-button.svg)](using/sms/create-sms.md#sms-content)
-
->[!ENDTABS]
-
-## Start with the basics
-
-<table style="table-layout:fixed">
-  <tr style="border: 0;">
-    <td>
-    <a href="using/start/quick-start.md"><img src="using/assets/do-not-localize/start-quick.png"></a></a>
-    <div><strong>Quick start guides</strong><br/>Learn how to achieve your goals faster in Journey Optimizer with your personalized approach depending on your role.</div>
-    </td>
-    <td>
-    <a href="using/start/user-interface.md"><img src="using/assets/do-not-localize/start-interface.jpeg"></a>
-    <div><strong>User interface</strong><br/>Learn how to navigate and optimize your experience in Journey Optimizer.</div><br/>
-    </td>
-    <td>
-    <a href="using/building-journeys/journey-gs.md"><img src="using/assets/do-not-localize/start-journey.jpeg"></a>
-    <div><strong>Create your first journey</strong><br/>Design and orchestrate personalized omnichannel journeys to harmonize marketing outreach with one-to-one customer engagement. 
-    </div></td>
-    <td>
-    <a href="using/campaigns/create-campaign.md"><img src="using/assets/do-not-localize/start-campaign.jpeg"></a>
-    <div><strong>Launch your first campaign</strong><br/>Create and start your first campaign in Journey Optimizer to deliver targeted, one-time content to a specific audience.</div>
-    </td>
-  </tr>
-</table>
-
-## Explore the documentation
-
-<table style="table-layout:auto">
-  <tr style="border: 0;">
-    <td>
-      <img src="using/assets/do-not-localize/icon-quick-start.svg" width="70px">
-    <td>
-      <strong>Customer's experience</strong><br/><a href="using/building-journeys/journey.md">Journeys</a> - <a href="using/campaigns/get-started-with-campaigns.md">Campaigns</a> - <a href="using/landing-pages/get-started-lp.md">Landing pages</a> - <a href="using/reports/live-report.md">Reporting</a> - <a href="using/offers/get-started/starting-offer-decisioning.md">Decision management</a>
-    </td>
-    <td>
-      <img src="using/assets/do-not-localize/icon-configure.svg" width="70px">
-    </td>
-    <td>
-      <strong>Configuration & administration</strong><br/><a href="using/configuration/channel-surfaces.md">Channel surfaces</a> - <a href="using/configuration/about-data-sources-events-actions.md">Configure journeys</a>  - <a href="using/administration/permissions-overview.md">Access control</a> - <a href="using/administration/sandboxes.md">Sandboxes management</a>
-    </td>
-    <td>
-      <img src="using/assets/do-not-localize/icon-campaign.svg" width="70px">
-    </td>
-    <td>
-      <strong>Communication channels</strong><br/><a href="using/email/get-started-email.md">Email</a> - <a href="using/sms/get-started-sms.md">SMS</a> - <a href="using/in-app/get-started-in-app.md">In-app</a> - <a href="using/push/get-started-push.md">Push notifications</a> - <a href="using/direct-mail/get-started-direct-mail.md">Direct mail</a> - <a href="using/web/get-started-web.md">Web</a>
-    </td>
-  </tr>
-  <tr style="border: 0;">
-    <td>
-      <img src="using/assets/do-not-localize/icon-content.svg" width="70px">
-    </td>
-    <td>
-      <strong>Content management</strong><br/><a href="using/content-management/assets-essentials.md">Assets/images</a> - <a href="using/personalization/personalize.md">Personalization</a> - <a href="using/content-management/content-templates.md">Reusable</a> & <a href="using/personalization/dynamic-content.md">dynamic</a> content - <a href="using/content-management/preview-test.md">Test & preview content</a>
-    </td>
-    <td>
-      <img src="using/assets/do-not-localize/icon_profile-audience.svg" width="70px">
-    </td>
-    <td>
-      <strong>Profiles & audiences</strong><br/><a href="using/audience/about-audiences.md">Audiences</a> - <a href="using/audience/get-started-profiles.md">Profiles</a> - <a href="using/audience/get-started-identity.md">Identities</a> - <a href="using/audience/license-usage.md">License usage</a> - <a href="using/privacy/get-started-privacy.md">Privacy management</a>
-    </td>
-    <td>
-      <img src="using/assets/do-not-localize/icon-data.svg" width="70px">
-    </td>
-    <td>
-      <strong>Data management</strong><br/><a href="using/data/get-started-schemas.md">Schemas</a> - <a href="using/data/get-started-datasets.md">Datasets</a> - <a href="using/data/get-started-queries.md">Queries</a>
-    </td>
-  </tr>
-</table> 
-
-## Additional resources
-
-<table style="table-layout:fixed"><tr style="border: 0;">
-<td><strong>Adobe Journey Optimizer</strong><br/>
-<a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=en" target="_blank">Tutorials</a> - <a href="https://helpx.adobe.com/legal/product-descriptions/adobe-journey-optimizer.html" target="_blank">Product description</a> - <a href="https://www.adobe.com/content/dam/cc/en/security/pdfs/AJO_SecurityOverview.pdf" target="_blank">Security overview (PDF)</a> - <a href="https://developer.adobe.com/journey-optimizer-apis/" target="_blank">APIs reference</a>
-</td>
-<td><strong>Adobe Experience Platform</strong><br/>
-<a href="https://experienceleague.adobe.com/docs/experience-platform/landing/home.html" target="_blank">Documentation</a> - <a href="https://www.adobe.com/experience-platform/documentation-and-developer-resources.html" target="_blank">Developers resources</a>
-</td>
-</tr></table>
-
-<table style="table-layout:auto"><tr style="border: 0;"><td><img src="using/assets/do-not-localize/newsletter.png"></td><td>
-<b>Stay informed and elevate your Adobe Journey Optimizer experience!</b><br/>Sign up for our quarterly newsletter. Gain exclusive access to the latest product updates, captivating stories, real-world use cases, valuable tips, and more – all delivered directly to your inbox every quarter. <a href="https://www.adobe.com/subscription/Adobe_Journey_Optimizer_NL.html">Sign up today!</a></td></tr></table>
