@@ -48,7 +48,7 @@ index: yes
   + [Manage users and products (Admin Console)](admin-getting-started.md)
   + [View Experience Cloud user details (Admin Tool)](admin-tool-experience-cloud.md)
   + [Frequently asked questions](faq.md)
-  + [Upgrading to Analytics Premium and the Experience Cloud](upgrade-to-analytics-premium.md)
+  + [Upgrading to Analytics Premium and Experience Cloud](upgrade-to-analytics-premium.md)
   + [Experience Cloud integrations](marketing-cloud-integrations.md)
   + [Using DNS prefetch with different applications and services](dns-prefetch.md)
   + Experience Cloud cookies {#ec-cookies}

@@ -10,7 +10,7 @@ exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
 ---
 # [!DNL Customer Attributes] in Experience Cloud
 
-[!DNL Customer Attributes] in Experience Cloud enables you to upload your captured enterprise data from a customer relationship management (CRM) database. You can upload the data into a customer attribute data source in the Experience Cloud, then use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target]. 
+[!DNL Customer Attributes] in Experience Cloud enables you to upload your captured enterprise data from a customer relationship management (CRM) database. You can upload the data into a customer attribute data source in Experience Cloud, then use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target]. 
 
 ## Locate the [!DNL Customer Attributes] feature
 
@@ -30,7 +30,7 @@ exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
 
   To know whether your company has access to Customer Attributes, your [!DNL Experience Cloud] administrator should log into the [Experience Cloud](https://experience.adobe.com). Navigate to **[!UICONTROL Administration]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *Customer Attributes* displays as one of the [!UICONTROL product profiles], you are ready to begin.
 
-  Users that are added to the Customer Attributes see the [!UICONTROL Customer Attributes] menu item on the left side of the Experience Cloud interface.
+  Users that are added to the Customer Attributes see the [!UICONTROL Customer Attributes] menu item on the left side of Experience Cloud interface.
 
 * **Adobe Target** `at.js` (any version) or `mbox.js` version 58 or later is required for Customer Attributes.
 
@@ -50,7 +50,7 @@ See [Upload Customer Attribute data](t-crs-usecase.md#task_BCC327B2A0EF4A1BBB293
 
 ## Examples of Customer Attributes in Analytics and Target {#section_4E77650F6CEE4C4ABCD0B3221A5AE5D9}
 
-After the data resides in the Experience Cloud, you can customize it and share it to solutions for reporting, segmentation, activities, and campaigns.
+After the data resides in Experience Cloud, you can customize it and share it to solutions for reporting, segmentation, activities, and campaigns.
 
 For example:
 

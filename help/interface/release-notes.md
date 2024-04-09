@@ -1,7 +1,7 @@
 ---
-description: Learn about the latest features, release notes, and known issues for the Experience Cloud services like Customer Attributes, Audiences, and user management.
+description: Learn about the latest features, release notes, and known issues for Experience Cloud services like Customer Attributes, Audiences, and user management.
 solution: Experience Cloud
-title: Cumulative release notes 
+title: Cumulative Release Notes for Experience Cloud Interface
 uuid: fcff8cc6-e587-4bf2-9a75-261d4eabc7d4
 feature-set: Experience Cloud
 feature: Release Notes
@@ -253,8 +253,8 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 
 **Known Issues** 
 
-* Customers are not able to log into Report Builder if they SSO into Analytics via the Experience Cloud. This issue does not impact customers using legacy Analytics credentials.
-* Known issue with the "Link to Report" function in Analytics. Customers logging into Analytics via the Experience Cloud are directed to a non-SSO login page for Analytics when trying to share a report.
+* Customers are not able to log into Report Builder if they SSO into Analytics via Experience Cloud. This issue does not impact customers using legacy Analytics credentials.
+* Known issue with the "Link to Report" function in Analytics. Customers logging into Analytics via Experience Cloud are directed to a non-SSO login page for Analytics when trying to share a report.
 
 ## Release 15.9 - September 10 2015 {#section_BCCE3E7DF62A4FF5A57B9C8FE2A5F37B}
 
@@ -273,7 +273,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 
 **Known Issue** 
 
-A known issue is causing duplicate auto-generated accounts to be created in Audience Manager, and automatically linking them to a user's Experience Cloud identity. This issue occurs if you attempt to navigate to Audience Manager before linking your accounts. Adobe recommends that you link your Audience Manager accounts to the Experience Cloud before navigating to Audience Manager. (MAC-25640) 
+A known issue is causing duplicate auto-generated accounts to be created in Audience Manager, and automatically linking them to a user's Experience Cloud identity. This issue occurs if you attempt to navigate to Audience Manager before linking your accounts. Adobe recommends that you link your Audience Manager accounts to Experience Cloud before navigating to Audience Manager. (MAC-25640) 
 
 ## Release 15.6.1 - June 11 2015 {#section_AD2019F8D2F84C9EB2B0533FAACF7043}
 
@@ -332,7 +332,7 @@ No information available
 
 **Known Issues** 
 
-* Linking and unlinking your dynamic tag management organization with the Experience Cloud is not working for newly created Experience Cloud organizations. Adobe is working to fix this and restore normal functionality with the May release. If you experience problems when trying to single-sign on into dynamic tag management via the Experience Cloud, use the legacy login at [!DNL dtm.adobe.com].
+* Linking and unlinking your dynamic tag management organization with Experience Cloud is not working for newly created Experience Cloud organizations. Adobe is working to fix this and restore normal functionality with the May release. If you experience problems when trying to single-sign on into dynamic tag management via Experience Cloud, use the legacy login at [!DNL dtm.adobe.com].
 * A known issue is preventing audience sharing from report suites which are not owned by the linked Analytics account. Remedial efforts are underway
 
 ## Release 15.3.2 - March 19 2015 {#section_07760FD9CA43497FA8BDCCA990A24BFD}
@@ -347,7 +347,7 @@ No information available
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Customer Attributes </p> </td> 
-   <td colname="col2"> <p>If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a Customer Attribute data source in the Experience Cloud. After the data is uploaded, you can run <span class="uicontrol"> Visitor Profile</span> &gt; <span class="uicontrol"> Customer Attributes</span> reports in Analytics. </p> <p>You can also use the uploaded data as an audience segment in <span class="keyword"> Adobe Target</span>. </p> <p>See <a href="attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> Customer Attributes</a> product documentation. </p> <p> For information about modernizing your applications for core services, see <a href="core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your applications for core services</a>. </p> </td> 
+   <td colname="col2"> <p>If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a Customer Attribute data source in Experience Cloud. After the data is uploaded, you can run <span class="uicontrol"> Visitor Profile</span> &gt; <span class="uicontrol"> Customer Attributes</span> reports in Analytics. </p> <p>You can also use the uploaded data as an audience segment in <span class="keyword"> Adobe Target</span>. </p> <p>See <a href="attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> Customer Attributes</a> product documentation. </p> <p> For information about modernizing your applications for core services, see <a href="core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your applications for core services</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -368,7 +368,7 @@ No information available
   </tr> 
   <tr> 
    <td colname="col1"> <p>One-to-many mapping </p> </td> 
-   <td colname="col2"> <p>When linking application accounts in the Experience Cloud, if you have multiple applications and organizations, you can now map multiple products and services to a single organization. </p> </td> 
+   <td colname="col2"> <p>When linking application accounts in Experience Cloud, if you have multiple applications and organizations, you can now map multiple products and services to a single organization. </p> </td> 
   </tr> 
     <tr> 
    <td colname="col1"> <p>Documentation Updates - Core Services </p> </td> 
@@ -417,13 +417,13 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 * Group and entitlement changes made in User Management take effect only after a new login.
 * Some users might have issues uploading large file-types to Experience Cloud Assets.
 * Users might be missing links on their Experience Cloud cards from Advertising Cloud.
-* Some administrative users might experience issues linking their accounts after accepting an invitation to join the Experience Cloud.
+* Some administrative users might experience issues linking their accounts after accepting an invitation to join Experience Cloud.
 * Experience Cloud interface can reduce in performance when in parallel use by multiple users.
 * Some users are able to delete an out-of-date asset instead of receiving an error notification.
 * Some users might experience issues when logging into two browsers with the same Adobe ID simultaneously.
 * Some users might be unable to re-add a Creative Cloud user to a shared folder after the Creative Cloud user has been deleted.
-* Some users might experience a delay in the notification that occurs when a folder is shared from the Experience Cloud to Creative Cloud.
-* Some users might experience an issue sharing a folder between the Experience Cloud and Creative Cloud.
+* Some users might experience a delay in the notification that occurs when a folder is shared from Experience Cloud to Creative Cloud.
+* Some users might experience an issue sharing a folder between Experience Cloud and Creative Cloud.
 * Some users may have trouble creating an audience within an Analytics report suite after shared audiences have been enabled.
 * Some users may have trouble uploading assets to a board.
 
@@ -582,7 +582,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 * The [!DNL Search&Promote] linking is not available from the [!UICONTROL Organizations & Product Access] page.
 * Filters applied to trended reports from [!DNL Analytics] are not applied to cards in the [!DNL Experience Cloud].
 * Some users are not able to link their audience management account with their [!DNL Experience Cloud] account.
-* You will be logged out after 15 minutes of inactivity. Also, logging out in one location logs you out of the Experience Cloud.
+* You will be logged out after 15 minutes of inactivity. Also, logging out in one location logs you out of Experience Cloud.
 * Some Exchange users may find their names in the comments to be a long string ID instead of their names
 
 **Fixes** 

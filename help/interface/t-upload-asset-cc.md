@@ -1,6 +1,6 @@
 ---
 description: Upload an asset to a shared folder from the Creative Cloud browser to Experience Cloud.
-title: Upload an asset to a shared folder from the Creative Cloud browser 
+title: Upload an Asset to a Shared Folder from the Creative Cloud Browser 
 feature: Assets
 topic: Administration
 role: Admin

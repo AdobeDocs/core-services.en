@@ -138,7 +138,7 @@ In [!DNL Admin Console], you can delegate limited administrative rights to other
 For example, you can:
 
 * Allow your creative director to grant access to Creative Cloud.
-* Allow your marketing director to grant access to the Experience Cloud.
+* Allow your marketing director to grant access to Experience Cloud.
 * Keep these two roles separate so they cannot overstep each other's roles.
 
 By using these roles, you can simultaneously delegate management to others without providing more capability than they need.
@@ -223,7 +223,7 @@ Create Audience Manager users and assign them to groups. You can also view limit
 
 See [Administration](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/administration-overview.html?lang=en) in Audience Manager help.
 
-## Supported browsers in the Experience Cloud
+## Supported browsers in Experience Cloud
 
 * [!DNL Microsoft&reg; Edge] (Microsoft&reg; has [ended support](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support) for Internet Explorer 8, 9, and 10. As such, Adobe does not fix issues reported against these specific versions of Internet Explorer.)
 * [!DNL Google Chrome]

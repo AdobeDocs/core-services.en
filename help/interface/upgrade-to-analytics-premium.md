@@ -1,7 +1,7 @@
 ---
 description: Learn about the requirements and what to expect when upgrading to Analytics Premium.
 solution: Experience Cloud
-title: Upgrade to Analytics Premium and the Experience Cloud 
+title: Upgrade to Analytics Premium and Experience Cloud 
 topic: Administration
 uuid: 450a601c-d199-4e90-b525-19bd9f9576d2
 feature: Admin Console
@@ -9,7 +9,7 @@ role: Admin
 level: Experienced
 exl-id: 746d396d-9629-42db-8c55-07d2d24e4611
 ---
-# Upgrading to Analytics Premium and the Experience Cloud
+# Upgrading to Analytics Premium and Experience Cloud
 
 Administrators can learn about the requirements and what to expect when upgrading to Analytics Premium, and where to find help as an Experience Cloud administrator.
 
@@ -80,9 +80,9 @@ Any software that is running on-premise must be deactivated. This software inclu
 
 ## Experience Cloud - Administrate Users and Products {#section_6471C54454024301B2E0B687F79F6738}
 
-Experience Cloud and core services are available to Analytics Standard and Premium users, if you have followed the implementation modernization described in [Getting started - enable your applications for core services](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C). (That process helps you modernize your implementation, and enables you to become and administrator in the Experience Cloud.)
+Experience Cloud and core services are available to Analytics Standard and Premium users, if you have followed the implementation modernization described in [Getting started - enable your applications for core services](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C). (That process helps you modernize your implementation, and enables you to become and administrator in Experience Cloud.)
 
-After you join the Experience Cloud, you can log in via the Experience Cloud at [!DNL experience.adobe.com] and begin using core services (including Customer Attributes, Audiences, and Mobile app analytics).
+After you join Experience Cloud, you can log in via Experience Cloud at [!DNL experience.adobe.com] and begin using core services (including Customer Attributes, Audiences, and Mobile app analytics).
 
 ### Administrate Users and Groups
 

@@ -1,6 +1,6 @@
 ---
 title: View Users and User Details 
-description: Learn about the Experience Cloud Admin Tool. View a sortable and filterable list of all Experience Cloud users and policies.
+description: Learn about the Admin Tool in Experience Cloud. View a sortable and filterable list of all Experience Cloud users and policies.
 application: Experience Cloud
 index: yes
 feature: Admin Console
@@ -39,7 +39,7 @@ This page displays complete list of users with access to Experience Cloud in you
 |[!UICONTROL Email] |The email address associated with the user. Column can be sorted A->Z, Z->A.|
 |[!UICONTROL ID Type] |The identity type for the user's account. Filter can be applied to view specific ID types. See [Manage identity types](https://helpx.adobe.com/enterprise/using/identity.html) for more information.|
 |[!UICONTROL Solutions] |Summary of Experience Cloud applications that the user can access. You can apply filters to narrow down list of users with specific application access.|
-|[!UICONTROL Last Login] |Time and Date of the most recent user login to the Experience Cloud. This column can be sorted by ascending or descending dates. <br> **Important:** As of January 13, 2020 a user's last login data will be kept for 365 days. This information is intended to show current login activity in the Experience Cloud and not a recommendation to take action on inactive accounts prior to January 13, 2020. |
+|[!UICONTROL Last Login] |Time and Date of the most recent user login to Experience Cloud. This column can be sorted by ascending or descending dates. <br> **Important:** As of January 13, 2020 a user's last login data will be kept for 365 days. This information is intended to show current login activity in Experience Cloud and not a recommendation to take action on inactive accounts prior to January 13, 2020. |
 
 ## Customize the user list view
 

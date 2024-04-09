@@ -1,7 +1,7 @@
 ---
 description: Learn how to enable privacy settings for browser cookies. You can remove users who blocked all cookies on desktop and mobile browsers.
 solution: Experience Cloud, Analytics, Target
-title: Privacy settings for browser cookies 
+title: Privacy Settings for Browser Cookies 
 uuid: f6a56e8b-b021-49db-8eb4-6c14af0c7243
 feature: Cookies
 topic: Administration

@@ -1,7 +1,7 @@
 ---
 description: How to share an Experience Cloud asset folder with Creative Cloud users.
 solution: Experience Cloud
-title: Share an Experience Cloud asset folder 
+title: Share an Experience Cloud Asset Folder 
 uuid: 105cf627-0148-4bf8-ab6a-7afa612e198c
 feature: Assets
 topic: Administration
@@ -36,7 +36,7 @@ Share an Experience Cloud asset folder with Creative Cloud users.
 
    ![Add a comment on the image](assets/asset_comment_cc.png) 
 
-   In the Experience Cloud, select into an image, then select the time-line icon to add a comment on the image. Comments are synced on the assets in the Creative Cloud and Experience Cloud. 
+   In Experience Cloud, select into an image, then select the time-line icon to add a comment on the image. Comments are synced on the assets in the Creative Cloud and Experience Cloud. 
 
    ![Add a comment on the image](assets/asset_comment_mac.png) 
 

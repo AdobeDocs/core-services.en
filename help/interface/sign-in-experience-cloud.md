@@ -1,7 +1,7 @@
 ---
 description: Sign in to Experience Cloud and verify your organization. Learn about browser and language support, and where to go for help.
 solution: Experience Cloud
-title: Sign in and manage your Experience Cloud profile settings 
+title: Sign in and Manage your Experience Cloud Profile
 uuid: c1e13b99-0069-4fdb-8d72-ddcec3ed1121
 feature: Admin Console
 topic: Administration

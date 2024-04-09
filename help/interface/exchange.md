@@ -25,7 +25,7 @@ The Exchange Marketplace is a single destination where you can search, browse, s
 
 * Decline or approve applications. 
 
-* Publish in the Experience Cloud. 
+* Publish in Experience Cloud. 
 
 * Search and filter by category, company, type, user, and more. 
 

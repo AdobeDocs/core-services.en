@@ -26,9 +26,9 @@ On [!UICONTROL Experience Cloud preferences], you can configure the following fe
 |--- |--- |
 |Default [organization](organizations.md)|Select the organization that you want to see when you launch Experience Cloud. |
 |[!UICONTROL Product data collection]|Select which technologies Adobe can use to collect data on how you use your Adobe products. |
-|[!UICONTROL Personalized learning recommendations and promotions]|Select where you would like to receive personalized help for your Adobe product(s). This help is available via email, in-product, and the Experience League Communities. [Learn more.](personalized-learning-preferences.md) |
-|[!UICONTROL Subscriptions]|Select the products and categories to which you would like to subscribe. Notifications in the [!UICONTROL Notifications] pop-over and in your email.|
-|[!UICONTROL Priority]|Select the categories that you want to be considered high priority. These categories are marked with a High tag and can be configured for delivery like alerts.|
+|[!UICONTROL Personalized learning recommendations and promotions]|Select where you would like to receive personalized help for your Adobe products. This help is available via email, in-product, and the Experience League Communities. [Learn more.](personalized-learning-preferences.md) |
+|[!UICONTROL Subscriptions]|Select the products and categories to which you would like to subscribe. Notifications in the [!UICONTROL Notifications] popover and in your email.|
+|[!UICONTROL Priority]|Select the categories that you want to be considered high priority. These categories are marked with a [!UICONTROL High] tag and can be configured for delivery like alerts.|
 |[!UICONTROL Alerts]|Select the notifications for which you would like to see alerts displayed in your browser. Alerts appear in the top-right corner of your window for a few seconds.|
 |Emails|Specify the frequency at which you would like to receive notification emails. (Not sent, instant, daily, or weekly.)|
 

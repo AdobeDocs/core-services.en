@@ -1,7 +1,7 @@
 ---
 description: Learn how Adobe Analytics uses cookies to provide information on variables and components that do not persist between image requests and browser sessions.
 solution: Experience Cloud,Analytics
-title: "First-party cookies "
+title: First-party Cookies
 index: y
 snippet: y
 feature: Cookies

@@ -10,7 +10,11 @@ exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
 ---
 # Documentation updates - Experience Cloud
 
-Information about updates to the Experience Cloud product documentation.
+Information about updates to Experience Cloud product documentation.
+
+**Updated 4/9/2024**
+
+General updates.
 
 **Updated 2/28/2022**
 

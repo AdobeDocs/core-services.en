@@ -1,6 +1,6 @@
 ---
 description: Learn about central interface components for Experience Cloud. Get help on signing in, account preferences, and product and user administration in the Admin Console. Enable applications for Experience Cloud services, and get help on Audience Library, Customer Attributes, Experience Cloud Assets, and more.
-title: Experience Cloud interface and administration guide
+title: Experience Cloud Interface and Administration Guide
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 feature: Central Interface Components,Account Preferences,Admin Console
 topic: Administration
@@ -66,7 +66,7 @@ This guide provides access to help on Experience Cloud user and product administ
 * [Frequently asked questions](admin-getting-started.md)
 * [Organizations and account linking](organizations.md)
 * [Integrations](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/overview.html?lang=en)
-* [Integrating Adobe Target with the Experience Cloud](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=en)
+* [Integrating Adobe Target with Experience Cloud](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=en)
 * [Experience Cloud privacy and security overview](assets/Adobe-Marketing-Cloud-Privacy-and-Security-Overview.pdf)
 * [DNS prefetch](admin-getting-started.md#concept_6BC8C6856E3644F8956D7AD0A96383B7)
 
@@ -92,7 +92,7 @@ Take advantage of self-help tutorials and quick how-tos in Experience League:
 ## Release notes and related Experience Cloud help
 
 * [Product documentation for all Experience Cloud applications](https://experienceleague.adobe.com/docs/home.html?lang=en) - Browse for help at Experience Cloud Learn & Support
-* [Release notes and product updates](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en) - What's new in the Experience Cloud, and subscribe to get updates
+* [Release notes and product updates](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en) - What's new in Experience Cloud, and subscribe to get updates
 * [Tutorials for implementing core services](https://experienceleague.adobe.com/docs/platform-learn/data-collection/overview.html?lang=en) - Explore videos and tutorials about core services
 * [Expert help at Experience League](https://experienceleague.adobe.com/) - Get guided learning from experts and the community
 * [Education and training](https://helpx.adobe.com/learning.html?promoid=KAUDK) - Engage with Adobe to ensure that you get the most out of Adobe's products

@@ -19,11 +19,11 @@ Help: [Enable your applications for Platform Services](core-services.md#concept_
 
 Describes how to:
 
-* Provision your company in the Experience Cloud.
+* Provision your company in Experience Cloud.
 * Enable you to become an administrator.
 * [Implement the Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en).
 * Modernize your [!DNL Analytics] and [!DNL Target] implementations via [!UICONTROL Platform Data Collection].
-* Start using Experience Cloud services like [!UICONTROL Customer Attributes] and [!UICONTROL Audiences].
+* Start using Experience Cloud services like [[!DNL Customer Attributes]](attributes.md) and [[!DNL Audience Library](audience-library.md)].
 
 Solutions or services: 
 
@@ -34,7 +34,7 @@ Solutions or services:
 
 ## Experience Cloud ID Service {#section_6ECCCFA2D84D4D4F88C879C799CA9D78}
 
-The ID service provides a universal, persistent ID that identifies your visitors across all the applications in the Experience Cloud. It can replace ID generation code for services such as Analytics, Audience Manager, Adobe Target, video heartbeat, and other Experience Cloud applications and products.
+The ID service provides a universal, persistent ID that identifies your visitors across all the applications in Experience Cloud. It can replace ID generation code for services such as Analytics, Audience Manager, Adobe Target, video heartbeat, and other Experience Cloud applications and products.
 
 See [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en) 
 
@@ -47,7 +47,7 @@ See [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-ser
 
 Help: [Audiences](audience-library.md#topic_679810123CAA4E0CA4FA3417FB0100C7) 
 
-Create and manage Audiences in the Experience Cloud [!UICONTROL Audience Library]. Audiences can be created or derived from various sources, such as: 
+Create and manage Audiences in Experience Cloud [!UICONTROL Audience Library]. Audiences can be created or derived from various sources, such as: 
 
 * New ones created in the [!DNL Experience Cloud].
 * From [!DNL Analytics] segments published to the [!DNL Experience Cloud].
@@ -63,7 +63,7 @@ Create and manage Audiences in the Experience Cloud [!UICONTROL Audience Library
 
 Help: [Customer Attributes](attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1) 
 
-If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a Customer Attribute data source in the Experience Cloud. Once uploaded, use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target]. 
+If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a Customer Attribute data source in Experience Cloud. Once uploaded, use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target]. 
 
 **Applicable solutions or services** 
 
@@ -74,7 +74,7 @@ If you capture enterprise customer data in a customer relationship management (C
 
 Help: [Share Experience Cloud Folders with Creative Cloud](creative-cloud.md)
 
-Share folders and assets between the Experience Cloud and the Creative Cloud. Collaborate, annotate shared assets, and use them in Experience Cloud applications like [!DNL Social] and [!DNL Target].
+Share folders and assets between Experience Cloud and Creative Cloud. Collaborate, annotate shared assets, and use them in Experience Cloud applications like [!DNL Social] and [!DNL Target].
 
 **Applicable applications or services** 
 
@@ -108,7 +108,7 @@ Work with data from Experience Cloud applications or other external systems in A
 
 ## Adobe Target {#section_739716AB6022424CBC38724CDED10701}
 
-Help: [Integrating Adobe Target with the Experience Cloud](audience-library.md)
+Help: [Integrating Adobe Target with Experience Cloud](audience-library.md)
 
 Integrate Adobe Target with Adobe Analytics and other Experience Cloud applications to enable the use of the same data, Audiences, attributes, and metrics in both applications.
 

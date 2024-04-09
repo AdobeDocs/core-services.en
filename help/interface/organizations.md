@@ -1,7 +1,7 @@
 ---
 description: Learn about organizations (IMS organization ID) and linking solution accounts to Experience Cloud.
 solution: Experience Cloud
-title: Organizations and account linking 
+title: Organizations and Account Linking 
 uuid: ae47ad18-ac33-4efa-8b68-2bfaf77397aa
 feature: Organizations
 topic: Administration
@@ -11,9 +11,9 @@ exl-id: 6eb58530-2a7a-48c7-9a5b-48a6e980a034
 ---
 # Organizations in Experience Cloud
 
-An *organization* (Org ID) is the entity that enables an administrator to configure groups and users, and to control single sign-on in the Experience Cloud. 
+An *organization* (Org ID) is the entity that enables an administrator to configure groups and users, and to control single sign-on in Experience Cloud. 
 
-The organization functions like a log-in company that spans all the Experience Cloud products and applications. Most often, an organization is your company name. However, a company can have many organizations. 
+The organization functions like a log-in company that spans all Experience Cloud products and applications. Most often, an organization is your company name. However, a company can have many organizations. 
 
 ![Experience Cloud Organizations](assets/organizations-menu.png)
 
@@ -55,7 +55,7 @@ You can view your organization ID, along with other account information, using a
 
 Typically, Experience Cloud administrators grant access to applications and services. In rare circumstances, you can link application credentials to an Adobe ID.
 
-1. Follow the steps in your email invitation to the Experience Cloud.
+1. Follow the steps in your email invitation to Experience Cloud.
 
 1. Log in using your Adobe ID or Enterprise ID.
 
