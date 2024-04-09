@@ -29,13 +29,13 @@ Updated: **July 20, 2022**
 
 Adobe is updating its provisioning to provide all Experience Cloud customers access to foundational capabilities that aid interoperability between some Experience Cloud products. Users will have Adobe Experience Platform as a new entitlement added to their Experience Cloud organizations, with [!UICONTROL Data Collection] as an included service. 
 
-Adobe Experience Platform [!UICONTROL Data Collection] includes [tags](https://experienceleague.adobe.com/en/docs/tags) for simplified universal tag management, and offers a trusted, robust, and complete, streaming data infrastructure. Tags simplify customer experience data collection and streamlines experience delivery. 
+Adobe Experience Platform [!UICONTROL Data Collection] includes [tags](https://experienceleague.adobe.com/en/docs/tags) for simplified universal tag management, and offers a trusted, robust, and complete, streaming data infrastructure. Tags simplify customer experience data collection and streamline experience delivery. 
 
 **Changes in Admin Console**
 
 Administrators could see changes or additions to the Admin Console as follows:
 
-* The Adobe Experience Platform product card in the Admin Console will include:
+* The Adobe Experience Platform product card in the Admin Console includes:
 
   * Places
   * Assurance
@@ -98,7 +98,7 @@ Your sign-in experience does not change with this update:
 
 1. Taking one of the options leads to an existing landing page experience. 
 
-1. An Adobe profile is associated with each business plan and provides the ability to organize assets created from additional Adobe Cloud offerings (Creative Cloud and Document Cloud).
+1. An Adobe profile is associated with each business plan and provides the ability to organize assets created from additional Adobe cloud offerings (Creative Cloud and Document Cloud).
 
 For more information, see [Introducing Adobe Profiles](https://helpx.adobe.com/enterprise/kb/introducing-adobe-profiles.html).
 
