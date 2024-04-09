@@ -1,6 +1,6 @@
 ---
 title: Manage Users and Products
-description: Sign in to the [!DNL Admin Console] and manage Experience Cloud user permissions and products (Product Profiles). Learn about delegating administrative rights to Experience Cloud users, and about browser support for Experience Cloud.
+description: Sign in to the Admin Console and manage Experience Cloud user permissions and products (product profiles). Learn about delegating administrative rights to Experience Cloud users, and about browser support for Experience Cloud.
 solution: Admin
 index: yes
 feature: Admin Console
@@ -11,7 +11,7 @@ exl-id: af9eda5b-d984-44b7-a7b3-52dfc4e03d8f
 ---
 # Manage users and products in [!DNL Experience Cloud]
 
-Learn about signing in to the [!DNL Admin Console], managing [!DNL Experience Cloud] user permissions and Product Profiles, and browser support.
+Learn about signing in to the Admin Console, managing Experience Cloud user permissions and product profiles, and browser support.
 
 >[!IMPORTANT]
 >
@@ -29,13 +29,13 @@ Updated: **July 20, 2022**
 
 Adobe is updating its provisioning to provide all Experience Cloud customers access to foundational capabilities that aid interoperability between some Experience Cloud products. Users will have Adobe Experience Platform as a new entitlement added to their Experience Cloud organizations, with [!UICONTROL Data Collection] as an included service. 
 
-Adobe Experience Platform [!UICONTROL Data Collection] includes [tags](https://experienceleague.adobe.com/docs/tags.html?lang=en) for simplified universal tag management, and offers a trusted, robust, and complete, streaming data infrastructure. Tags simplify customer experience data collection and streamlines experience delivery. 
+Adobe Experience Platform [!UICONTROL Data Collection] includes [tags](https://experienceleague.adobe.com/en/docs/tags) for simplified universal tag management, and offers a trusted, robust, and complete, streaming data infrastructure. Tags simplify customer experience data collection and streamline experience delivery. 
 
 **Changes in the [!DNL Admin Console]**
 
 Administrators could see changes or additions to the [!DNL Admin Console] as follows:
 
-* The Adobe Experience Platform product card in the [!DNL Admin Console] will include:
+* The Adobe Experience Platform product card in the Admin Console includes:
 
   * Places
   * Assurance
@@ -54,8 +54,8 @@ Administrators could see changes or additions to the [!DNL Admin Console] as fol
 
 For more details about the new capabilities, please visit their respective pages on Experience League: 
 
-* [Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html)
-* [Places](https://experienceleague.adobe.com/docs/places/using/home.html?lang=en)
+* [Data Collection](https://experienceleague.adobe.com/docs/discontinued/using/reports-and-analytics.html)
+* [Places](https://experienceleague.adobe.com/en/docs/places/using/home)
 * [Assurance](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html)
 * [Identity Namespace](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=en)
 * [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=en)
@@ -98,24 +98,24 @@ Your sign-in experience does not change with this update:
 
 1. Taking one of the options leads to an existing landing page experience. 
 
-1. An Adobe profile is associated with each business plan and provides the ability to organize assets created from additional Adobe Cloud offerings (Creative Cloud and Document Cloud).
+1. An Adobe profile is associated with each business plan and provides the ability to organize assets created from additional Adobe cloud offerings (Creative Cloud and Document Cloud).
 
 For more information, see [Introducing Adobe Profiles](https://helpx.adobe.com/enterprise/kb/introducing-adobe-profiles.html).
 
-## What is a Product Profile? {#section_AB50558124D541CF80A0D3D76D35A4BF}
+## What is a product profile? {#section_AB50558124D541CF80A0D3D76D35A4BF}
 
-_[!UICONTROL Product Profiles]_ are groups of products and services that you can assign to users. In Experience Cloud, permissions are based on a product's profile, not on the user. (However, you can delegate administrative rights to specific users.)
+_[!UICONTROL Product profiles]_ are groups of products and services that you can assign to users. In Experience Cloud, permissions are based on a product's profile, not on the user. (However, you can delegate administrative rights to specific users.)
 
-For example, in Analytics you can configure a collection of reporting tools, such as Analysis Workspace and Report Builder, along with report suites, metrics, and dimensions. You can grant permission to a Product Profile by adding users to the profile.
+For example, in Analytics you can configure a collection of reporting tools, such as Analysis Workspace and Report Builder, along with report suites, metrics, and dimensions. You can grant permission to a product profile by adding users to the profile.
 
-* See [Assign Analytics access permissions to a Product Profile](admin-getting-started.md#task_040673FE3E3E429B9531FBCB8B6A4391) on this page.
+* See [Assign Analytics access permissions to a product profile](admin-getting-started.md#task_040673FE3E3E429B9531FBCB8B6A4391) on this page.
 * See [Delegate administrative roles to users](#delegate-rights) on this page
 
-## Manage Experience Cloud Product Profiles {#task_16335111C52D40E9BAC73D0699584DBF}
+## Manage Experience Cloud product profiles {#task_16335111C52D40E9BAC73D0699584DBF}
 
-You can create a Product Profile and assign it to a permission group.
+You can create a product profile and assign it to a permission group.
 
-When you invite a user to an organization, you can give the user access to products and Product Profiles. You can also delegate limited administrative permissions to a user. Similarly, you can create user groups, then add the group to a Product Profile to enable access.
+When you invite a user to an organization, you can give the user access to products and product profiles. You can also delegate limited administrative permissions to a user. Similarly, you can create user groups, then add the group to a product profile to enable access.
 
 1. In the [[!DNL Admin Console]](https://adminconsole.adobe.com/enterprise/), select **[!UICONTROL Products]**.
 1. Select your organization name.
@@ -156,9 +156,9 @@ By using these roles, you can simultaneously delegate management to others witho
 
 ## Manage Analytics users and products {#section_97DE101F92CD494AB073893680992F1A}
 
-You can assign Analytics report access permissions (report suites, metrics, dimensions, and so on) to a Product Profile.
+You can assign Analytics report access permissions (report suites, metrics, dimensions, and so on) to a product profile.
 
-For example, you can create a Product Profile that contains multiple Analytics tools ([!UICONTROL Analysis Workspace], [!UICONTROL Reports & Analytics], and [!UICONTROL Report Builder]). These profiles contain permission to specific metrics and dimensions (including eVars), and capabilities like segments or calculated metrics creation.
+For example, you can create a product profile that contains multiple Analytics tools ([!UICONTROL Analysis Workspace], [!UICONTROL Reports & Analytics], and [!UICONTROL Report Builder]). These profiles contain permission to specific metrics and dimensions (including eVars), and capabilities like segments or calculated metrics creation.
 
 1. Sign in to the [[!DNL Admin Console]](https://adminconsole.adobe.com/enterprise), then select **[!UICONTROL Products]**.
 1. On the [!UICONTROL Products] page, select your product, then select **[!UICONTROL Permissions]** (available only to administrators).
@@ -185,9 +185,9 @@ After the migration, users sign in using their Adobe ID (or Enterprise ID) and a
 * [Analytics in the [!DNL Admin Console]](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=en)
 * [Analytics User ID Migration](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/user-product-management/migrate-users/c-migration-tool.html?lang=en)
 
-## Manage Adobe Target - Product Profiles vs. workspaces {#section_3860AF177C9E4C7E9C390D36A414F353}
+## Manage Adobe Target - Product profiles vs. workspaces {#section_3860AF177C9E4C7E9C390D36A414F353}
 
-In Adobe Target, a workspace is a Product Profile. It lets an organization assign a specific set of users to a specific set of properties. In many ways, a workspace is similar to a report suite in Adobe Analytics.
+In Adobe Target, a workspace is a product profile. It lets an organization assign a specific set of users to a specific set of properties. In many ways, a workspace is similar to a report suite in Adobe Analytics. 
 
 See:
 
@@ -195,17 +195,17 @@ See:
 * [Manage products and profiles](https://helpx.adobe.com/enterprise/using/manage-products.html)
 * Video: [How to Configure Adobe Target Workspaces in Adobe [!DNL Admin Console]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-17521.html?lang=en)
 
-## Manage Campaign Product Profiles, tenants, and security groups {#section_09CDF75366444CF5810CF321B7C712F3}
+## Manage Campaign product profiles, tenants, and security groups {#section_09CDF75366444CF5810CF321B7C712F3}
 
 A *tenant* in Campaign displays as a *product* in the Admin Console Products page.
 
-*Security group* displays as a Product Profile.
+*Security group* displays as a product profile.
 
 See [Managing groups and users](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html?lang=en) for information about security groups and assigning users to security groups.
 
 ## Manage Experience Platform Data Collection {#section_F2DA6778DD2D48AA8F794041971EE6B1}
 
-Experience Platform [!UICONTROL Data Collection] displays on the [!UICONTROL Products] page in the [!DNL Admin Console]. You can include other applications and services in a Data Collection Product Profile.
+Experience Platform [!UICONTROL Data Collection] displays on the [!UICONTROL Products] page in the [!UICONTROL Admin Console]. You can include other applications and services in a Data Collection product profile.
 
 Invite users to [!UICONTROL Platform Data Collection] and assign user roles and rights.
 
