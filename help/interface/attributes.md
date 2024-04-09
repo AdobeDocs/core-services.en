@@ -22,7 +22,7 @@ To locate this feature, navigate to **[!DNL Experience Platform]** > **[!UICONTR
 
 * **Group membership:** To upload Customer Attribute data, users must be members of the [Customer Attributes group](admin-getting-started.md#task_3295A85536BF48899A1AB40D207E77E9). You must also belong to either an Adobe Analytics group or an Adobe Target group.
 
-  To know whether your company has access to Customer Attributes, your [!DNL Experience Cloud] administrator should log into the [Experience Cloud](https://experience.adobe.com). Navigate to **[!UICONTROL Administration]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *Customer Attributes* displays as one of the [!UICONTROL Product Profiles], you are ready to begin.
+  To know whether your company has access to Customer Attributes, your [!DNL Experience Cloud] administrator should log into the [Experience Cloud](https://experience.adobe.com). Navigate to **[!UICONTROL Administration]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *Customer Attributes* displays as one of the [!UICONTROL product profiles], you are ready to begin.
 
   Users that are added to the Customer Attributes see the [!UICONTROL Customer Attributes] menu item on the left side of the Experience Cloud interface.
 

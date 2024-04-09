@@ -87,7 +87,7 @@ This section displays a complete list of all product profiles membership for the
 |---------|----------|
 |[!UICONTROL Product] | Name of the product associated with the product profile.|
 |[!UICONTROL Instance] | Name of the instance (such as login company or tenant) associated with the product and product profile.|
-|[!UICONTROL Product Profile] | Unique name of the product profile.|
+|[!UICONTROL Product profile] | Unique name of the product profile.|
 |[!UICONTROL Assigned by Group] | Name of the User Group that associates the user to a product profile. Blank results indicate that the user was assigned to the product profile directly, not through a group.|
 |[!UICONTROL Product Roles] | Role assignment of the user within the product profile. Currently, this information applies only to Adobe Target product profiles.|
 
@@ -99,7 +99,7 @@ This page displays complete list of Experience Cloud policies in your organizati
 
 |Element | Description|
 |---|---|
-|[!UICONTROL Product Profile] |The name of the product profile. Column can be sorted A->Z, Z->A. To see more details about the policy, select a product profile's name.|
+|[!UICONTROL Product rofile] |The name of the product profile. Column can be sorted A->Z, Z->A. To see more details about the policy, select a product profile's name.|
 |[!UICONTROL Product] |The product associated with the product profile. Column can be sorted A->Z, Z->A.|
 |[!UICONTROL Instance] |The instance (for example, tenant or login company) associated with product profile. Products that do not have unique instances or tenants display a " - " for the value. Column can be sorted A->Z, Z->A.|
 |[!UICONTROL Number of Users] |Unique count of users associated with the product profile including direct assignment and group assignment. Column can be sorted smallest to largest or largest to smallest.|
@@ -110,7 +110,7 @@ This page displays complete list of Experience Cloud policies in your organizati
 You can search, sort, or filter the columns to customize the policies list.
 
 * Search for product profiles by name. Searches match the text string you type.
-* Sort column by ascending or descending values. This sort applies to [!UICONTROL Product Profile,] [!UICONTROL Product,] [!UICONTROL Instance,] [!UICONTROL Number of users,] and [!UICONTROL Number of Developers,] Columns.
+* Sort column by ascending or descending values. This sort applies to [!UICONTROL product profile,] [!UICONTROL Product,] [!UICONTROL Instance,] [!UICONTROL Number of users,] and [!UICONTROL Number of Developers,] Columns.
 * Select the **[!UICONTROL Filter By]** icon to apply multiple filters to list product profiles with specific criteria. When multiple filter categories are applied, searches contain Groups associated `AND` Instance `AND` Solution.
 
 |Element | Description|
