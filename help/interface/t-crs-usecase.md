@@ -1,7 +1,7 @@
 ---
 description: Create a Customer Attribute source and upload it to the Adobe Experience Cloud.
 solution: Experience Cloud
-title: Create a Customer Attribute source and upload the data file 
+title: Create a Customer Attribute Source and Upload the Data File 
 uuid: 53dca789-9a91-4385-839d-c9d1aa36b9be
 feature: Customer Attributes
 topic: Administration
@@ -54,7 +54,7 @@ This data is enterprise customer data from your CRM. The data might include subs
 
 ## Create the attribute source and upload the data file {#task_09DAC0F2B76141E491721C1E679AABC8}
 
-Perform these steps on the Create New Customer Attribute Source page in the Experience Cloud.
+Perform these steps on the Create New Customer Attribute Source page in Experience Cloud.
 
 >[!IMPORTANT]
 >
@@ -139,7 +139,7 @@ How to delete attributes and replace attributes in the schema.
 
 ## Configure subscriptions and activate the attribute source {#task_1ACA21198F0E46A897A320C244DFF6EA}
 
-Configuring a subscription sets up the data flow between the Experience Cloud and applications. Activating the attribute source allows the data to flow to subscribed applications. The customer records you have uploaded are matched up with incoming ID signals from your web site or application.
+Configuring a subscription sets up the data flow between Experience Cloud and applications. Activating the attribute source allows the data to flow to subscribed applications. The customer records you have uploaded are matched up with incoming ID signals from your web site or application.
 
 See [Configure subscriptions](subscription.md#concept_ECA3C44FA6D540C89CC04BA3C49E63BF). 
 
@@ -157,7 +157,7 @@ The following example shows an [!DNL Analytics] segment based on the uploaded at
 
 ![Analytics segment based on the uploaded attributes](assets/08_crs_usecase.png) 
 
-When you publish a segment to the Experience Cloud, it becomes available in Experience Cloud Audiences and Audience Manager. 
+When you publish a segment to Experience Cloud, it becomes available in Experience Cloud Audiences and Audience Manager. 
 
 ## Use Customer Attributes in Adobe Target {#task_FC5F9D9059114027B62DB9B1C7D9E257}
 

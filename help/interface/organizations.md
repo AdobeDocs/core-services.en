@@ -1,9 +1,9 @@
 ---
 description: Learn about organizations (IMS organization ID) and linking solution accounts to Experience Cloud.
 solution: Experience Cloud
-title: Organizations and account linking 
+title: Organizations and Account Linking 
 uuid: ae47ad18-ac33-4efa-8b68-2bfaf77397aa
-feature: Admin Console
+feature: Organizations
 topic: Administration
 role: Admin
 level: Experienced
@@ -11,19 +11,19 @@ exl-id: 6eb58530-2a7a-48c7-9a5b-48a6e980a034
 ---
 # Organizations in Experience Cloud
 
-Learn about managing and switching organizations in Experience Cloud.
+An *organization* (Org ID) is the entity that enables an administrator to configure groups and users, and to control single sign-on in Experience Cloud. 
 
-## Identify your organization {#concept_384D169B0B724B799D573B8ECB5C39BF}
+The organization functions like a log-in company that spans all Experience Cloud products and applications. Most often, an organization is your company name. However, a company can have many organizations. 
 
-An *organization* (Org ID) is the entity that enables an administrator to configure groups and users, and to control single sign-on in the Experience Cloud. The organization functions like a log-in company that spans all the Experience Cloud products and applications. Most often, an organization is your company name. However, a company can have many organizations. 
+![Experience Cloud Organizations](assets/organizations-menu.png)
 
-To verify that you have logged in to your correct organization, click on your profile avatar to see organization name. If you have access to more than one organization, you can also view and switch to another organization right in the header bar. 
+To verify that you have logged in to your correct organization, click on your profile avatar to see organization name. If you have access to more than one organization, you can also view and switch to another organization in the header bar. 
+
+## Federated IDs
 
 If your organization uses Federated IDs, Experience Cloud allows you to sign in with your organization's single sign-on without being required to enter your email address and password. Add `#/sso:@domain` to the Experience Cloud URL (`https://experience.adobe.com`) to accomplish this task.
     
 For example, for an organization with Federated IDs and the domain `adobecustomer.com`, set your URL link to `https://experience.adobe.com/#/sso:@adobecustomer.com`. You can also go directly to a specific application by bookmarking this URL, appended with the application path. (For example, for Adobe Analytics, `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.)
-
-![Step Result](assets/organization-switch.png) 
 
 ## View your organization ID {#concept_EA8AEE5B02CF46ACBDAD6A8508646255}
 
@@ -55,18 +55,22 @@ You can view your organization ID, along with other account information, using a
 
 Typically, Experience Cloud administrators grant access to applications and services. In rare circumstances, you can link application credentials to an Adobe ID.
 
-1. Follow the steps in your email invitation to the Experience Cloud.
+1. Follow the steps in your email invitation to Experience Cloud.
+
 1. Log in using your Adobe ID or Enterprise ID.
+
 1. Select the application selector. ( ![menu](assets/menu-icon.png)).
 
    ![Link an application account to an Adobe ID](assets/solutions-active.png)
 
    The applications to which you have access are colored.
+   
 1. Select the desired application.
 
    ![Select the desired application](assets/analytics-link-accounts.png)
 
    This type of message displays if you are part of the appropriate group (and have permission to the application) but have not yet linked your account credentials to your Adobe ID.
+
 1. Select **[!UICONTROL Link Account]**, then provide your credentials.
 
 ## Specify a default organization and landing page {#concept_6A191B42A9874A9780882903BA18F071}

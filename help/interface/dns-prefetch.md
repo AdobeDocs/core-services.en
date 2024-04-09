@@ -1,7 +1,7 @@
 ---
 description: Learn how to implement DNS prefetch to help reduce page load times with different applications and services in Experience Cloud.
 solution: Experience Cloud
-title: Using DNS prefetch with different applications and services 
+title: Use DNS Prefetch with Different Applications and Services 
 uuid: 4220e223-e00e-46b1-8bde-52248913bea1
 topic: Administration
 role: Admin

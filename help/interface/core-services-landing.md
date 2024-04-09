@@ -1,7 +1,7 @@
 ---
 description: Learn about Experience Cloud user and product management, People (Audiences and Customer Attributes), Journey Orchestration, Offers, Places, Experience Platform, and Mobile Services.
 solution: Experience Cloud
-title: Overview of Experience Cloud services 
+title: Overview of Experience Cloud Services 
 feature: Central Interface Components
 topic: Administration
 role: Admin
@@ -10,7 +10,7 @@ exl-id: 020a6478-13ef-42c0-80de-7867cfe0c937
 ---
 # Experience Cloud services {#topic_C1087DCC538F4F9A99D983C1BB29EBE0}
 
-This documentation applies to features of the Experience Cloud unified header, such as the [!UICONTROL People] service (Audiences and Customer Attributes), user and product management for Experience Cloud, cookies, account preferences, notifications, and so on.
+This documentation applies to features of the unified header in Experience Cloud, such as the [!DNL People] service ([!DNL Audience Library] and [!DNL Customer Attributes]), user and product management for Experience Cloud, cookies, account preferences, notifications, and so on.
 
 To access these services in Experience Cloud, select the **[!UICONTROL Application Selector]**
 ![Services selector](assets/menu-icon.png).
@@ -23,7 +23,7 @@ This help describes the following products and services:
 |--- |--- |
 |[Central interface components](experience-cloud.md)|Access account preferences, search for product help, and access applications and services.|
 |[Enable your implementation for Experience Cloud services](core-services.md)|Existing customers can modernize their application implementations and implement Experience Cloud. Doing so enables you to use Customer Attributes and audience features across Adobe Analytics, Audience Manager, and Adobe Target. |
-|[People - Audience Library](audience-library.md)|Audiences are collections of visitors (a list of visitor IDs). Adobe's Audience Library lets you manage the translation of visitor data into audience segmentation. As |
+|[People - [!DNL Audience Library]](audience-library.md)|Audiences are collections of visitors (a list of visitor IDs). Adobe's [!DNL Audience Library] lets you manage the translation of visitor data into audience segmentation. As |
 |[People - Customer Attributes](attributes.md)| Build real-time orchestration use cases using contextual data stored in events or data sources. [!UICONTROL Journey Orchestration] is an application service integrated with the Experience Platform.|
 |[Location Service](https://experienceleague.adobe.com/docs/places/using/home.html?lang=en)|Adobe [!UICONTROL Experience Platform Location Service] is a geo-location service. It enables mobile apps with location awareness to understand the location context by using rich and easy-to-use SDK interfaces accompanied by a flexible database of points of interests (POIs).  |
 |[Assets](experience-cloud-assets.md)|Experience Cloud Assets provide a single, centralized repository of marketing-ready assets that you can share across applications.|

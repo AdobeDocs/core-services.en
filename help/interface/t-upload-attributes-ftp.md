@@ -1,7 +1,7 @@
 ---
-description: Learn how to upload Customer Attribute data via FTP to the Experience Cloud.
+description: Learn how to upload Customer Attribute data via FTP to Experience Cloud.
 solution: Experience Cloud
-title: Upload the Customer Attribute data file via FTP 
+title: Upload the Customer Attribute Data File via FTP 
 feature: Customer Attributes
 topic: Administration
 role: Admin
@@ -10,9 +10,9 @@ exl-id: ed9e4a8f-493a-4a0f-a87e-674c7da95b99
 ---
 # Optional - Upload the data file via FTP
 
-If you do not upload using drag-and-drop, you can upload Customer Attribute data via FTP to the Experience Cloud.
+If you do not upload using drag-and-drop, you can upload Customer Attribute data via FTP to Experience Cloud.
 
-You can upload the data after you create a Customer Attribute source and an FTP account in the Experience Cloud. You create one FTP account per attribute source. The uploaded files are stored in the root folder of that account. The data must be in `.csv` format, with a second `.fin` file to indicate that the upload is complete. 
+You can upload the data after you create a Customer Attribute source and an FTP account in Experience Cloud. You create one FTP account per attribute source. The uploaded files are stored in the root folder of that account. The data must be in `.csv` format, with a second `.fin` file to indicate that the upload is complete. 
 
 >[!IMPORTANT]
 >

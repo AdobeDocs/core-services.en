@@ -1,7 +1,7 @@
 ---
-description: Learn about data file requirements and multiple data sources for uploading Customer Attributes to Experience Cloud.
+description: Learn about data file requirements and multiple data sources for uploading [!DNL Customer Attributes] to Experience Cloud.
 solution: Experience Cloud
-title: Learn about data file and data sources for Customer Attributes 
+title: Data File and Data Sources 
 uuid: 9dd0e364-889b-45db-b190-85c0930a101e
 feature: Customer Attributes
 topic: Administration
@@ -9,13 +9,13 @@ role: Admin
 level: Experienced
 exl-id: e2dfe10d-7003-4afa-a5e6-57703d74efd4
 ---
-# About data file and data sources for Customer Attributes
+# About data file and data sources for [!DNL Customer Attributes]
 
-Data file requirements and multiple data sources for uploading Customer Attributes to Experience Cloud.
+Data file requirements and multiple data sources for uploading [!DNL Customer Attributes] to Experience Cloud.
 
-You need access to CRM or similar data from your enterprise. The data you upload to the Experience Cloud must be a `.csv` file. If you upload via FTP or sFTP, you also upload a `.fin` file. 
+You need access to CRM or similar data from your enterprise. The data you upload to Experience Cloud must be a `.csv` file. If you upload via FTP or sFTP, you also upload a `.fin` file. 
 
-Customer Attributes is designed to handle a few files per day. To mitigate the issue of having many small files delaying processing, files sent within 30 minutes of a previous batch from the same organization are routed to a lower-priority queue.
+[!DNL Customer Attributes] is designed to handle a few files per day. To mitigate the issue of having many small files delaying processing, files sent within 30 minutes of a previous batch from the same organization are routed to a lower-priority queue.
 
 ## Allowed file types and naming requirements {#section_6F64FA02ACCC4215B0862CB6A1821FBF}
 
@@ -70,7 +70,7 @@ The same file viewed in a text editor:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Customer ID column </p> </td> 
-   <td colname="col2"> <p> The first column must be a unique customer ID. The ID used should correspond to the ID that is being passed to the Experience Cloud ID Service. </p> <p>For Analytics, the ID being stored in a prop or eVar. </p> <p>For Target, the setCustomerID value. (See <a href="core-services.md#section_AD473A6A21C1446498E700363F9A8437" format="dita" scope="local"> Analytics &amp; Adobe Target - synching the customer ID </a>) </p> <p> This customer ID is the unique identifier your CRM uses for each person in your database. The remaining columns are attributes that come from your CRM. You choose how many attributes to upload. </p> <p>Friendly, readable names are recommended for the column headings, but not required. When you validate the schema after upload, you can map friendly names to the uploaded rows and columns. </p> <p> <b>About Customer IDs</b> </p> <p>Typically, an enterprise uses a customer ID from a CRM system. This ID is set using the <span class="codeph"> setCustomerIDs </span> call when a person logs in. This ID is also used as the key in the CRM file that is uploaded to the Experience Cloud. An <a href="t-crs-usecase.md#task_09DAC0F2B76141E491721C1E679AABC8" format="dita" scope="local"> Alias ID </a> is a friendly name for a data store in Audience Manager, where the alias data is stored. The system sends aliases to this data store (via setCustomerIDs). The CRM file is applied to the data in that data store. </p> <p>For <span class="codeph"> setCustomerIDs </span> information, see <a href="https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=en" format="https" scope="external"> Customer IDs and Authentication States </a>. </p> </td> 
+   <td colname="col2"> <p> The first column must be a unique customer ID. The ID used should correspond to the ID that is being passed to the Experience Cloud ID Service. </p> <p>For Analytics, the ID being stored in a prop or eVar. </p> <p>For Target, the setCustomerID value. (See <a href="core-services.md#section_AD473A6A21C1446498E700363F9A8437" format="dita" scope="local"> Analytics &amp; Adobe Target - synching the customer ID </a>) </p> <p> This customer ID is the unique identifier your CRM uses for each person in your database. The remaining columns are attributes that come from your CRM. You choose how many attributes to upload. </p> <p>Friendly, readable names are recommended for the column headings, but not required. When you validate the schema after upload, you can map friendly names to the uploaded rows and columns. </p> <p> <b>About Customer IDs</b> </p> <p>Typically, an enterprise uses a customer ID from a CRM system. This ID is set using the <span class="codeph"> setCustomerIDs </span> call when a person logs in. This ID is also used as the key in the CRM file that is uploaded to Experience Cloud. An <a href="t-crs-usecase.md#task_09DAC0F2B76141E491721C1E679AABC8" format="dita" scope="local"> Alias ID </a> is a friendly name for a data store in Audience Manager, where the alias data is stored. The system sends aliases to this data store (via setCustomerIDs). The CRM file is applied to the data in that data store. </p> <p>For <span class="codeph"> setCustomerIDs </span> information, see <a href="https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=en" format="https" scope="external"> Customer IDs and Authentication States </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Subsequent headers and columns </p> </td> 
@@ -78,7 +78,7 @@ The same file viewed in a text editor:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Attribute limits </p> </td> 
-   <td colname="col2"> <p>You can upload hundreds of <span class="filepath"> .csv </span> columns to the Customer Attribute service in the Experience Cloud. However, when configuring subscriptions and selecting attributes, the following limits apply depending on the applications you own: </p> <p> 
+   <td colname="col2"> <p>You can upload hundreds of <span class="filepath"> .csv </span> columns to the Customer Attribute service in Experience Cloud. However, when configuring subscriptions and selecting attributes, the following limits apply depending on the applications you own: </p> <p> 
      <ul id="ul_2BB85067918D4BB3B59394F3E3E37A6D"> 
       <li id="li_93703988B9934384B4B94A839D028380"> <b>Analytics Standard</b>: 3 total </li> 
       <li id="li_D1E5E7BD24C54591B14D15DE97447835"> <b>Analytics Premium</b>: 200 per report suite </li> 

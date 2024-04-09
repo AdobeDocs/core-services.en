@@ -1,13 +1,13 @@
 ---
-description: Read about new features and updates in the Experience Cloud.
+description: Read about new features and updates in Experience Cloud.
 solution: Experience Cloud
-title: What's new in the Experience Cloud 
+title: What's New in Experience Cloud 
 uuid: bc1b1542-1a37-4da1-bcfd-fc86af881642
 ---
 
-# What's new in the Experience Cloud
+# What's new in Experience Cloud
 
-An overview of new features and updates in the Experience Cloud.
+An overview of new features and updates in Experience Cloud.
 
 ## August 2018 {#section_7388CDAB723B49809AABEFEE85CF6378}
 
@@ -42,7 +42,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] interface.
 
 | Feature | Description |
 |--- |--- |
-|New administration landing page|When you sign in to the Experience Cloud and navigate to the Administration page, a new intuitive interface is available to help you quickly access your Experience Cloud applications and Core Services.|
+|New administration landing page|When you sign in to Experience Cloud and navigate to the Administration page, a new intuitive interface is available to help you quickly access your Experience Cloud applications and Core Services.|
 
 {style="table-layout:auto"}
 
@@ -71,7 +71,7 @@ Many of the maintenance notifications around scheduled maintenance / product upd
 
 | Feature | Description |
 |--- |--- |
-|Bulk Report Suite Mapping|In Administration > Report Suite Mapping, you can now select multiple report suites, then map them to an organization. (Previously, you had to map them individually.)  <br>[Mapping report suites](core-services.md) to a single organization helps enable cross-application features and services in the Experience Cloud.|
+|Bulk Report Suite Mapping|In Administration > Report Suite Mapping, you can now select multiple report suites, then map them to an organization. (Previously, you had to map them individually.)  <br>[Mapping report suites](core-services.md) to a single organization helps enable cross-application features and services in Experience Cloud.|
 |Updates to Experience Cloud Audiences|**Applying Report Suites**<br>You can now apply a report suite to all your [audience rules](t-audience-create.md). (Previously, you had to specify a report suite in each rule definition.) <br>**Props and Variables**<br>You can now include Analytics props and default variables (in addition to eVars and events) in real-time audiences.|
 
 {style="table-layout:auto"}

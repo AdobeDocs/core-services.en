@@ -1,7 +1,7 @@
 ---
 description: Learn how to use attribute rules to create an audience and define a composite audience in Adobe Experience Cloud.
 solution: Experience Cloud
-title: Create an audience 
+title: Create an Audience 
 uuid: 7e622539-296e-4ff3-93b0-ec1c08b35429
 feature: Audience Library
 topic: Administration
@@ -49,7 +49,7 @@ The following example shows how to create the rules for a composite audience. Th
    * **[!UICONTROL Real-Time Analytics Data:]** (or Raw data) This is attribute data derived from Real-Time Analytics image requests, and includes data such as eVars and events. You must select a report suite when using this attribute source, and define the dimension or event to include. This report suite selection provides the variable structure used by the report suite.
    >[!NOTE]
    >
-   >Due to caching, deleted report suites in Analytics require 12 hours before the deletion is shown in the Experience Cloud.
+   >Due to caching, deleted report suites in Analytics require 12 hours before the deletion is shown in Experience Cloud.
 
    * **[!UICONTROL Experience Cloud:]** Attribute data derived from the [!DNL Experience Cloud] sources. For example, this can be data from audience segments you create in [!DNL Analytics], or data from [!DNL Audience Manager].
 

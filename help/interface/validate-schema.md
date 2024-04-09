@@ -1,7 +1,7 @@
 ---
 description: Learn how to validate the Customer Attribute schema in Adobe Experience Cloud.
 solution: Experience Cloud
-title: How to validate the Customer Attribute schema 
+title: How to Validate the Customer Attribute Schema 
 uuid: 163a4dbe-d60b-4089-8ff8-65f7461fbdf7
 feature: Customer Attributes
 topic: Administration
@@ -33,13 +33,13 @@ On the [!UICONTROL Validate Schema] page, each row of the schema represents a co
 
 * **[!UICONTROL ID Lookup:]** Enter a Customer ID (CID) from your `.csv` to look up Experience Cloud information for the ID. This feature is useful for troubleshooting why attribute data is not displaying for a visitor:
 
-  * **[!UICONTROL ECID (Experience Cloud ID):]** Displays if you are using the latest Experience Cloud ID Service. If you are on the MCID service but no IDs are listed here, the Experience Cloud has not received an alias for that CID. Meaning, the visitor has not logged in, or your implementation is not passing that ID through.
+  * **[!UICONTROL ECID (Experience Cloud ID):]** Displays if you are using the latest Experience Cloud ID Service. If you are on the MCID service but no IDs are listed here, Experience Cloud has not received an alias for that CID. Meaning, the visitor has not logged in, or your implementation is not passing that ID through.
   
   * **[!UICONTROL CID (Customer ID):]** The attributes associated with this CID. If you are using a prop or eVar to upload CIDs (AVID), and you see attributes displayed but no AVID, this indicates that the visitor has not logged in to your site.
   
-  * **[!UICONTROL AVID (Analytics visitor ID):]** Displays if you use a prop or eVar to upload CIDs. If those IDs are being passed to the Experience Cloud, any visitor IDs associated with the CID you entered are displayed here.
+  * **[!UICONTROL AVID (Analytics visitor ID):]** Displays if you use a prop or eVar to upload CIDs. If those IDs are being passed to Experience Cloud, any visitor IDs associated with the CID you entered are displayed here.
     
-You can also upload data via FTP after you create a Customer Attribute source and an FTP account in the Experience Cloud. You create one FTP account per attribute source. The uploaded files are stored in the root folder of that account. The data must be in `.csv` format, with a second `.fin` file to indicate that the upload is complete.
+You can also upload data via FTP after you create a Customer Attribute source and an FTP account in Experience Cloud. You create one FTP account per attribute source. The uploaded files are stored in the root folder of that account. The data must be in `.csv` format, with a second `.fin` file to indicate that the upload is complete.
 
 The names you apply to strings, integers, and numbers are used to create [!DNL Analytics] metrics.
 

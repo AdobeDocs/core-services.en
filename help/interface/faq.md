@@ -1,7 +1,7 @@
 ---
 description: Learn about browser support and get common questions answered for administrators in the Adobe Experience Cloud.
 solution: Experience Cloud
-title: Frequently asked questions about Experience Cloud 
+title: Frequently Asked Questions about Experience Cloud 
 index: yes
 feature: Admin Console
 topic: Administration
@@ -11,7 +11,7 @@ exl-id: 062576da-328e-4b46-9e71-5a25733d607a
 ---
 # Frequently asked questions about Experience Cloud
 
-Learn about browser support and common questions and answers for administrators in the Experience Cloud.
+Learn about browser support and common questions and answers for administrators in Experience Cloud.
 
 ## What browsers are supported in Experience Cloud?
 
@@ -25,7 +25,7 @@ Learn about browser support and common questions and answers for administrators 
 
 If your implementation has not been provisioned for core services, see [Enable your applications for core services](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C), which describes how to: 
 
-1. [Join the Experience Cloud and become an administrator](core-services.md#section_2423F0BD3DF642658103310EE5EA6154)
+1. [Join Experience Cloud and become an administrator](core-services.md#section_2423F0BD3DF642658103310EE5EA6154)
 1. [Implement the Experience Cloud ID Service using Experience Platform tags](https://experienceleague.adobe.com/docs/experience-platform/tags/get-started/quick-start.html?lang=en).
 1. [Map Report Suites to an Experience Cloud Organization](core-services.md#concept_apg_zq2_rw)
 1. [(Analytics only) Modernize Your Analytics AppMeasurement Code](core-services.md#section_1798D9D0F05C47E29816AC4EEB9A0913)
@@ -56,10 +56,10 @@ The functionality provided by the Experience Cloud interface adds new value to y
 
 ## What is _provisioning?_
 
-Provisioning in the Experience Cloud means:
+Provisioning in Experience Cloud means:
 
 * Your users can begin logging in to the [!DNL Experience Cloud] and linking applications.
-* They can begin to use the features available through the Experience Cloud, such as People.
+* They can begin to use the features available through Experience Cloud, such as People.
 * You can become prepared to retire your application-specific login process.
 * You can retain access control to applications.
 
@@ -71,7 +71,7 @@ Provisioning in the Experience Cloud means:
 
 * **Important:** Analytics administrators, see [Manage Analytics Users in the Admin Console](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/migrate-users/c-migration-tool.html?lang=en) about migrating user IDs from Analytics Admin Tools to the Admin Console. 
 
-## What do I do if someone cannot log in to the Experience Cloud?
+## What do I do if someone cannot log in to Experience Cloud?
 
 Admin Console administrators can grant access to users. Users are sent emails with sign-in instructions. 
 
@@ -89,7 +89,7 @@ See [Manage user accounts](organizations.md#topic_C31CB834F109465A82ED57FF0563B3
 
 ## What is an organization?
 
-An [organization](organizations.md) is the entity that enables an administrator to configure groups and users, and to control single sign-on in the Experience Cloud. The organization functions like a log-in company that spans all the Experience Cloud products and applications. Most often, an organization is your company name. However, a company can have many organizations. 
+An [organization](organizations.md) is the entity that enables an administrator to configure groups and users, and to control single sign-on in Experience Cloud. The organization functions like a log-in company that spans all Experience Cloud products and applications. Most often, an organization is your company name. However, a company can have many organizations. 
 
 ## Where can I find my IMS organization ID?
 
@@ -97,7 +97,7 @@ See [View your organization ID](organizations.md) for details.
 
 ## What should I do when one of my users leaves my company?
 
-Their access should be removed from the application itself. They will not be able to access the product from the Experience Cloud or through the direct login. You should also remove them at the Experience Cloud level.
+Their access should be removed from the application itself. They will not be able to access the product from Experience Cloud or through the direct login. You should also remove them at the Experience Cloud level.
 
 ## What is an Adobe ID?
 

@@ -1,7 +1,7 @@
 ---
-description: Learn about the Experience Cloud Admin Tool. View a sortable and filterable list of all Experience Cloud users and policies.
+title: View Users and User Details 
+description: Learn about the Admin Tool in Experience Cloud. View a sortable and filterable list of all Experience Cloud users and policies.
 application: Experience Cloud
-title: View Experience Cloud users and user details 
 index: yes
 feature: Admin Console
 topic: Administration
@@ -9,9 +9,9 @@ role: Admin
 level: Experienced
 exl-id: 127eecdd-3862-48ba-8cf6-a8082d2b7bae
 ---
-# View Experience Cloud users and policies in the Admin Tool
+# View Experience Cloud users and policies in the [!UICONTROL Admin Tool]
 
-Administrators can view a sortable and filterable list of all Experience Cloud users and policies with details in the Admin Tool. User details include a user's product access, roles, and last accessed information. Policy details include a policy's (product profile) user, group, developer, integration and admin list, as well as detailed permission and resource information for the policy. 
+Administrators can view a sortable and filterable list of all Experience Cloud users and policies with details in the [!UICONTROL Admin Tool]. User details include a user's product access, roles, and last accessed information. Policy details include a policy's (product profile) user, group, developer, integration and admin list, as well as detailed permission and resource information for the policy. 
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Administrators can view a sortable and filterable list of all Experience Cloud u
 
    ![Accessing the Admin Console](assets/admin-tool.png)
 
-1. Under [!UICONTROL Quick Access], select **[!UICONTROL Admin Tool.]**
+1. Under [!UICONTROL Quick Access], click **[!UICONTROL Admin Tool]**.
 
     (Alternatively, in the home page URL you can replace _home_ with _admin._)
 
@@ -39,7 +39,7 @@ This page displays complete list of users with access to Experience Cloud in you
 |[!UICONTROL Email] |The email address associated with the user. Column can be sorted A->Z, Z->A.|
 |[!UICONTROL ID Type] |The identity type for the user's account. Filter can be applied to view specific ID types. See [Manage identity types](https://helpx.adobe.com/enterprise/using/identity.html) for more information.|
 |[!UICONTROL Solutions] |Summary of Experience Cloud applications that the user can access. You can apply filters to narrow down list of users with specific application access.|
-|[!UICONTROL Last Login] |Time and Date of the most recent user login to the Experience Cloud. This column can be sorted by ascending or descending dates. <br> **Important:** As of January 13, 2020 a user's last login data will be kept for 365 days. This information is intended to show current login activity in the Experience Cloud and not a recommendation to take action on inactive accounts prior to January 13, 2020. |
+|[!UICONTROL Last Login] |Time and Date of the most recent user login to Experience Cloud. This column can be sorted by ascending or descending dates. <br> **Important:** As of January 13, 2020 a user's last login data will be kept for 365 days. This information is intended to show current login activity in Experience Cloud and not a recommendation to take action on inactive accounts prior to January 13, 2020. |
 
 ## Customize the user list view
 
@@ -157,3 +157,7 @@ This section displays a complete list of all users, user groups, developers, int
 ## Detailed permissions and resources lists
 
 This section displays a complete list of permissions and resources available for the product profile. Permissions and resources that have been included in the product profile have been marked with a "✔". The lists of permissions and resources have been categorized into tabs and columns for easier viewing. Tabs and columns display the list of sections that apply to the current product.
+
+## Related information
+
+* [Manage users](https://helpx.adobe.com/enterprise/using/users.html) in the [!DNL Admin Console]

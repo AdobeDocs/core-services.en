@@ -1,7 +1,7 @@
 ---
 description: Modernize your Adobe Analytics and Adobe Target applications for cross-application services. Learn how to start using Experience Cloud services.
 solution: Experience Cloud
-title: Enable your applications for cross-application services
+title: Enable your Applications for Cross-Application Services
 index: yes
 feature: Central Interface Components
 topic: Administration
@@ -15,7 +15,7 @@ If you recently implemented Experience Cloud using Experience Platform tags, you
 
 Existing customers can modernize their application implementations and implement Experience Cloud. Doing so enables you to use Customer Attributes and audience features across Adobe Analytics, Audience Manager, and Adobe Target. To accomplish this implementation, you will:
 
-1. [Join the Experience Cloud and become an administrator](#section_2423F0BD3DF642658103310EE5EA6154)
+1. [Join Experience Cloud and become an administrator](#section_2423F0BD3DF642658103310EE5EA6154)
 1. [Implement the Experience Cloud ID Service](#section_3C9F6DF37C654D939625BB4D485E4354)
 1. [Map report suites to an Experience Cloud organization](#section_7B08516B01BA421681DF03D0E86CE3BA)
 1. [Update your Analytics AppMeasurement code](#section_1798D9D0F05C47E29816AC4EEB9A0913)
@@ -26,7 +26,7 @@ Existing customers can modernize their application implementations and implement
 
 ## Join the Experience Cloud and become an administrator {#section_2423F0BD3DF642658103310EE5EA6154}
 
-What you must do to join the Experience Cloud: 
+What you must do to join Experience Cloud: 
 
 1. Ensure that you have the appropriate Adobe Analytics or Adobe Target SKUs. 
 
@@ -40,7 +40,7 @@ What you must do to join the Experience Cloud:
 1. Modernize your implementation and get provisioned an administrator. 
 
     * Follow the steps below in [Implement the [!UICONTROL Experience Cloud ID Service]](core-services.md#section_3C9F6DF37C654D939625BB4D485E4354).
-    * Contact your Account Manager and start the provisioning process for the Experience Cloud.
+    * Contact your Account Manager and start the provisioning process for Experience Cloud.
 
 1. Manage users and products in the [!UICONTROL Admin Console]. 
 
@@ -54,7 +54,7 @@ See [Experience Cloud user and product administration](admin-getting-started.md#
 
 ### User login
 
-To log in to the Experience Cloud, your users must:
+To log in to Experience Cloud, your users must:
 
 * Have an Adobe ID (or Enterprise ID for your company).
 * Sign in at [experience.adobe.com](https://experience.adobe.com).
@@ -67,13 +67,13 @@ Most likely, you have users who are already members of application groups, such 
 
 When you map these groups to Experience Cloud enterprise groups, those users must manually link their application account credentials to their Adobe ID.
 
-See [Link accounts in the Experience Cloud](organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1)
+See [Link accounts in Experience Cloud](organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1)
 
 >[!NOTE]
 >
 >After enterprise and application groups are mapped, new users are automatically linked. (Solution credentials are automatically created and linked to their Adobe ID.) 
 
-The following sections describe how to modernize your implementation. Modernizing your implementation enables core services in the Experience Cloud. 
+The following sections describe how to modernize your implementation. Modernizing your implementation enables core services in Experience Cloud. 
 
 ## Implement the [!UICONTROL Experience Cloud ID Service] {#section_3C9F6DF37C654D939625BB4D485E4354}
 
@@ -101,7 +101,7 @@ As a part of setting up the Experience Cloud ID Service, Adobe recommends for An
 
 In Adobe Target, the `mbox3rdpartyid` must get the customer ID and send it to [!DNL Target]. (See [Working with Customer Attributes](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/working-with-customer-attributes.html?lang=en) in [!DNL Target].) 
 
-When a visitor authenticates on your website, or otherwise identifies themselves, your implementation must expose that person's CRM customer ID to the page or app. Then you can use the appropriate function call to synchronize your customer ID to the Experience Cloud. This synchronization stores the visitor's CRM customer ID in the Experience Cloud, and activates that customer's attributes for use in the Experience Cloud. 
+When a visitor authenticates on your website, or otherwise identifies themselves, your implementation must expose that person's CRM customer ID to the page or app. Then you can use the appropriate function call to synchronize your customer ID to Experience Cloud. This synchronization stores the visitor's CRM customer ID in Experience Cloud, and activates that customer's attributes for use in Experience Cloud. 
 
 For example, assume that Bob has Customer ID `52mc210tr42` in your CRM system. When Bob authenticates on your site, you must expose this ID on the page, and use the ID to synchronize it by one of two means: 
 
@@ -196,7 +196,7 @@ Take advantage of the following features.
 
 ### [!UICONTROL People] > [!UICONTROL Customer Attributes]
 
-If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a Customer Attribute data source in the Experience Cloud. Once uploaded, use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target].
+If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a Customer Attribute data source in Experience Cloud. Once uploaded, use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target].
 
 See [Customer Attributes](attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1) 
 

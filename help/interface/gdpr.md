@@ -1,5 +1,5 @@
 ---
-title: Customer Attributes Support for General Data Protection Regulation 
+title: "[!DNL Customer Attributes] Support for General Data Protection Regulation"
 description: Learn about Customer Attributes Support for General Data Protection Regulation
 feature: Customer Attributes
 topic: Administration
@@ -7,9 +7,9 @@ role: Admin
 level: Experienced
 exl-id: 02417c0c-6780-4699-9470-f1685c3cd25d
 ---
-# Customer Attributes support for General Data Protection Regulation
+# [!DNL Customer Attributes] support for General Data Protection Regulation
 
-This page describes how [!UICONTROL Customer Attributes] supports General Data Protection Regulation (GDPR).
+This page describes how [!DNL Customer Attributes] supports General Data Protection Regulation (GDPR).
 
 >[!IMPORTANT]
 >
@@ -19,13 +19,13 @@ The [General Data Protection Regulation](https://business.adobe.com/privacy/gene
 
 Adobe Experience Cloud acts as a data processor for any personal data it receives and stores on behalf of its customers. As a data controller, you determine the personal data that Adobe Experience Cloud processes and stores on your behalf.
 
-This document describes how [!UICONTROL Customer Attributes] supports your data subjects' GDPR data access and deletion rights using the Adobe Experience Platform Privacy Service API and Privacy Service UI.
+This document describes how [!DNL Customer Attributes] supports your data subjects' GDPR data access and deletion rights using the Adobe Experience Platform Privacy Service API and Privacy Service UI.
 
 For more information about what GDPR means for your business, see [GDPR and Your Business](https://business.adobe.com/privacy/general-data-protection-regulation.html).
 
-## Required setup to send requests for [!UICONTROL Customer Attributes]
+## Required setup to send requests for [!DNL Customer Attributes]
 
-To make requests to access and delete data for [!UICONTROL Customer Attributes], you must:
+To make requests to access and delete data for [!DNL Customer Attributes], you must:
 
 1. Identify the following:
 
@@ -35,9 +35,9 @@ To make requests to access and delete data for [!UICONTROL Customer Attributes],
 
    Your [organization ID](#organizations.md) is a 24-character alphanumeric string appended with @AdobeOrg. You need the organization's ID to submit requests to the Privacy API. Contact Adobe Customer Care at `gdprsupport@adobe.com` if you cannot locate the ID.
 
-1. In [!UICONTROL Privacy Service], you can submit Access and Delete requests to Customer Attributes, and check the status of existing requests.
+1. In [!UICONTROL Privacy Service], you can submit Access and Delete requests to [!DNL Customer Attributes], and check the status of existing requests.
 
-## Required field values in [!UICONTROL Customer Attributes] JSON requests
+## Required field values in [!DNL Customer Attributes] JSON requests
 
 "company context":
 
@@ -99,8 +99,8 @@ To make requests to access and delete data for [!UICONTROL Customer Attributes],
 ```
 attributes:
 {
-"value”:<*value*>,
-"key”:<*key*>,
-"displayName”:<*displayName*>
+"value":<*value*>,
+"key":<*key*>,
+"displayName":<*displayName*>
 }
 ```
