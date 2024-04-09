@@ -23,7 +23,7 @@ Describes how to:
 * Enable you to become an administrator.
 * [Implement the Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en).
 * Modernize your [!DNL Analytics] and [!DNL Target] implementations via [!UICONTROL Platform Data Collection].
-* Start using Experience Cloud services like [[!DNL Customer Attributes]](attributes.md) and [[!DNL Audience Library](audience-library.md)].
+* Start using Experience Cloud services like [[!DNL Customer Attributes]](attributes.md) and [[!DNL Audience Library]](audience-library.md).
 
 Solutions or services: 
 
