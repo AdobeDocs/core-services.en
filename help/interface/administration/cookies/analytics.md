@@ -93,13 +93,13 @@ More information is available in Analytics help about [First-Party Cookies](cook
 
 The following table describes the flags for Analytics cookies:
 
-| Cookie (set by) | httpOnly  | Secure | SameSite | 
+| Cookie (set by) | httpOnly | Secure | SameSite | 
 |--- |--- |--- |--- |
-|s_vi   (http Response)|No |Yes when SameSite is "None" and connection uses HTTPS |"Lax" by default when using CNAME. "None" when using 2o7.net or omtrdc.net. |
-|s_ecid   (http Response)|No|No|"Lax"|
-|s_fid (Javascript)|No|No|Unset|
-|s_cc (Javascript)|No |No |Unset|
-|s_sq (Javascript)|No |No |Unset|
+|`s_vi` (http Response) | No | Yes when SameSite is "None" and connection uses HTTPS | "Lax" by default when using CNAME. "None" when using `2o7.net` or `omtrdc.net`. |
+|`s_ecid` (http Response) | No | No | "Lax" |
+|`s_fid` (Javascript) | No | No | Unset |
+|`s_cc` (Javascript) | No | No | Unset |
+|`s_sq` (Javascript) | No | No | Unset |
 
 {style="table-layout:auto"}
 
@@ -111,6 +111,6 @@ The following table describes the flags for Analytics cookies:
 
 {{plug-in}}
 
-Additional cookies can be set depending on the use of Analytics plug-ins. These cookies are snippets of code available to the client for use in various circumstances. These circumstances include: retrieving values from the URL; concatenating values to pass to Analytics; capturing form abandonment, and so on. An example would be the [!DNL s_vh] cookie used with the *Set Once Per* and *Set and Get Last Value* plug-ins.
+Additional cookies can be set depending on the use of Analytics plug-ins. These cookies are snippets of code available to the client for use in various circumstances. These circumstances include: retrieving values from the URL; concatenating values to pass to Analytics; capturing form abandonment, and so on. An example would be the `s_vh` cookie used with the *Set Once Per* and *Set and Get Last Value* plug-ins.
 
 Conversion variables (eVarX) passed in on an image request without JavaScript, such as code placed within an email, are attributed properly only if the email client and web browser share cookie space.

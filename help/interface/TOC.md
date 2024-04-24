@@ -43,20 +43,17 @@ index: yes
 + Experience Cloud administration {#administration}
   + [Manage Experience Cloud user identity and products (Admin Console)](admin-getting-started.md)
   + [View Experience Cloud user details (Admin Tool)](admin-tool-experience-cloud.md)
-  + [Frequently asked questions](faq.md)
   + [Organizations and account linking](organizations.md)
   + [Upgrading to Analytics Premium and the Experience Cloud](upgrade-to-analytics-premium.md)
   + [Experience Cloud integrations](marketing-cloud-integrations.md)
   + [Using DNS prefetch with different applications and services](dns-prefetch.md)
-  + Experience Cloud cookies {#ec-cookies}
-    + [Experience Cloud cookies overview](cookies-privacy.md)
-    + [First-party cookies in Experience Cloud](cookies-first-party.md)
-    + [Analytics cookies](cookies-analytics.md)
-    + [Audience Manager cookies](cookies-am.md)
-    + [[!UICONTROL Data Connectors] cookies](cookies-dc.md)
-    + [[!UICONTROL Data Workbench] cookies](cookies-insight.md)
-    + [Experience Cloud cookies](cookies-mc.md)
-    + [Adobe Advertising cookies](cookies-advertising-cloud.md)
+  + [Experience Cloud IP addresses and domains](administration/ip-addresses.md)
+  + Experience Cloud cookies {#cookies}
+    + [First-party cookies in Experience Cloud](administration/cookies/first-party.md)
+    + [Analytics cookies](administration/cookies/analytics.md)
+    + [Audience Manager cookies](administration/cookies/audience-manager.md)
+    + [Experience Cloud cookies](administration/cookies/experience-cloud.md)
+    + [Adobe Advertising cookies](administration/cookies/advertising.md)
     + [[!DNL Scene7] cookies](cookies-s7.md)
     + [[!DNL Search and Promote] cookies](cookies-snp.md)
     + [[!DNL Target] cookies](cookies-target.md)
@@ -65,7 +62,8 @@ index: yes
 + [Experience Cloud Triggers](triggers.md)
 + Release notes for Experience Cloud UI {#release-notes}
   + [Release notes for central interface components](release-notes.md)
-  + [Release notes for all Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en)  
+  + [Release notes for all Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en)
++ [Frequently asked questions](faq.md)
 + More Resources {#more-resources}
   + [Forum](https://experienceleaguecommunities.adobe.com/)
   + [Terminology](terms.md)
