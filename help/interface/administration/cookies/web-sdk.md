@@ -12,7 +12,7 @@ level: Experienced
 The Adobe Experience Platform Web SDK uses cookies to store values specific to your implementation.
 
 | Name | Max age | Description |
-|---|---|---|---|
+|---|---|---|
 | **kndct_orgid_identity** | 34128000 (395 days) | Stores the ECID, as well as other information related to the ECID. |
 | **kndctr_orgid_consent_check** | 7200 (2 hours) | Signals the server to look up the consent preferences server side. |
 | **kndctr_orgid_consent** | 15552000 (180 days) | Stores the user's consent preference for the website. |

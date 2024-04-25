@@ -12,9 +12,9 @@ exl-id: e15abde5-8027-4aed-a0c1-8a6fc248db5e
 ---
 # Adobe-managed certificate program
 
-The Adobe-managed certificate program is the recommended process for setting up first-party certificates needed for a CNAME implementation. The program is fully automated once configured, renewing certificates in a timely manner so that there is no impact due to expired certificates. The program is free for your first 100 CNAMEs.
+The Adobe-managed certificate program is the recommended process for setting up first-party certificates needed for a CNAME implementation. The program is fully automated once configured. It renews certificates in a timely manner so that there is no impact to data collection due to expired certificates. The program is free for your first 100 CNAMEs.
 
-If you currently manage your own certificates, you are responsible for providing a certificate to be used for first-party cookies. You can contact Adobe Customer Care to discuss migrating to the Adobe-managed certificate program.
+If you currently manage your own certificates, you are responsible for providing a certificate to Adobe for first-party cookie use. You can contact Adobe Customer Care to discuss migrating to the Adobe-managed certificate program.
 
 ## Implementation
 
@@ -26,7 +26,7 @@ Follow these steps to implement a new certificate for first-party data collectio
 
 1. Upon receiving the ticket, the Adobe representative provides you with a CNAME record. These records must be configured on your company's DNS server before Adobe can purchase the certificate on your behalf. For example, the hostname `data.example.com` points to `hiodsibxvip01.data.adobedc.net`.
 
-1. When the CNAME is in place on your organization's servers, Adobe works with DigiCert to purchase and install a certificate on Adobe data collection servers.
+1. When the CNAME record is in place on your organization's servers, Adobe works with DigiCert to purchase and install a certificate on Adobe data collection servers.
 
 ## Validate hostname forwarding {#validate}
 
@@ -56,7 +56,7 @@ If everything works correctly, the console returns `SUCCESS`.
 
 >[!TIP]
 >
->You can use `curl`'s `-k` flag to disable the security warning to help with troubleshooting.
+>You can use the `-k` flag to disable the security warning to help with troubleshooting.
 
 +++
 
