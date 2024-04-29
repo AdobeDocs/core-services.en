@@ -3,7 +3,7 @@ title: Adobe Experience Platform Web SDK cookies
 description: Learn how the Web SDK uses cookies applicable to your implementation.
 solution: Experience Cloud
 feature: Cookies
-topic: Admininstration
+topic: Administration
 role: Admin
 level: Experienced
 ---

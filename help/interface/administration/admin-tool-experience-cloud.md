@@ -27,7 +27,7 @@ Administrators can view a sortable and filterable list of all Experience Cloud u
 
 This page displays complete list of users with access to Experience Cloud in your organization. It provides information about application entitlement and last login. You can search, sort, and filter for custom views of the user list.
 
-![Admin Console Users page](assets/admin-tool-users.png)
+![Admin Console Users page](../assets/admin-tool-users.png)
 
 |Element | Description|
 |---|---|

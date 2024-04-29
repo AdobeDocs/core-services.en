@@ -37,7 +37,7 @@ You can view your organization ID, along with other account information, using a
 
 1. In [Experience Cloud](https://experience.adobe.com), press **Ctrl+i** on your keyboard.
 
-   ![Assigned Organization ID](assets/assigned-organization.png) 
+   ![Assigned Organization ID](../assets/assigned-organization.png) 
 
 1. Under **[!UICONTROL User Information]**, look for **[!UICONTROL Current Org ID]**, and you will see the organization ID.
 

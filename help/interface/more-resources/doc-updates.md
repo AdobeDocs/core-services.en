@@ -53,7 +53,7 @@ Updated [Central Components](../experience-cloud.md) page (this guide's landing 
 
 **6 August 2021**
 
-Updated [First Party Cookies](../data-collection/cookies/adobe-managed-cert.md).
+Updated [First Party Cookies](../data-collection/adobe-managed-cert.md).
 
 **4 June 2021**
 
@@ -80,7 +80,7 @@ Added the following pages:
 
 **10 March 2020**
 
-Updated [Validate hostname forwarding](../data-collection/cookies/adobe-managed-cert.md) in the first-party cookies section.
+Updated [Validate hostname forwarding](../data-collection/adobe-managed-cert.md) in the first-party cookies section.
 
 **20 February 2020**
 

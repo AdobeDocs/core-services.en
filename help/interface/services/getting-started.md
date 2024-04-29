@@ -165,9 +165,7 @@ Deploying the Experience Cloud ID Service on sites that are using multiple JavaS
 
 Once you are up and running, navigate to the [Admin Console](https://adminconsole.adobe.com/), where you can manage users and product profiles. 
 
-![Access Admin Console](assets/menu-administration-shell.png) 
-
-See [Experience Cloud user and product management](admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909). 
+![Access Admin Console](../assets/menu-administration-shell.png)
 
 ### Customer Attributes
 

@@ -47,7 +47,7 @@ Create a trigger and configure the conditions for the trigger. For example, you 
 2. On the [!UICONTROL Triggers] card, select **[!UICONTROL Manage Triggers]**.
 3. Select **[!UICONTROL New Trigger]**, then specify the type of trigger:
 
-   ![Step Result](assets/add-trigger.png)
+   ![Step Result](../assets/add-trigger.png)
 
 4. Configure the trigger by completing the following fields and dragging metrics and dimension items to the rule's containers:
 

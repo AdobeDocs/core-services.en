@@ -51,6 +51,7 @@ index: yes
   + [Experience Cloud integrations](administration/integrations.md)
   
 + Experience Cloud data collection {#data-collection}
+  + [Adobe-managed certificate program](data-collection/adobe-managed-cert.md)
   + [IP addresses](data-collection/ip-addresses.md)
   + [Domains](data-collection/domains.md)
   + Cookies {#cookies}
