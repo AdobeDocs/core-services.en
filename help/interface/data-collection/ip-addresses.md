@@ -9,7 +9,7 @@ Some firewall configurations block IP addresses originating from Adobe's data co
 
 >[!IMPORTANT]
 >
->While Adobe does its best to keep this document current, it cannot guarantee that the list of IP ranges remains the same. Possible changes include growth and expansion of the business, an internet registry requires changes to Adobe's IP address space, or an internet service provider stops functioning.
+>While Adobe does its best to keep this document current, it cannot guarantee that the list of IP ranges remains the same. Possible changes include growth and expansion of the business, an Internet registry requires changes to Adobe's IP address space, or an internet service provider stops functioning.
 
 In addition to the IP address blocks listed below, individual Adobe Experience Cloud products have their own domains that they use:
 
@@ -96,4 +96,4 @@ The Adobe Experience Cloud also supports IPv6 in limited capacity. These IP bloc
 
 >[!TIP]
 >
->FTP connections for Adobe Analytics export features (including Data Warehouse and Data Feeds) only originate from IPv4 addresses in the London, Oregon, and Singapore locations.
+>FTP connections for Adobe Analytics export features (including Data Warehouse and data feeds) only originate from IPv4 addresses in the London, Oregon, and Singapore locations.

@@ -1,5 +1,5 @@
 ---
-description: Learn how set up secure certificates for use with Adobe Experience Cloud first-party cookies.
+description: Learn how to set up secure certificates for use with Adobe Experience Cloud first-party cookies.
 solution: Experience Cloud,Analytics
 title: Adobe-managed certificate program
 index: y
@@ -93,11 +93,11 @@ Once you have validated that your certificate works correctly, you can update yo
 
 ## Maintenance and renewals
 
-Thirty days before your first-party certificate expires, Adobe validates whether the CNAME is still valid and in use. If so, Adobe assumes that you want to continue using the service and automatically renews the certificate on your behalf. 
+Thirty days before your first-party certificate expires, Adobe validates whether the CNAME is still valid and in use. If so, Adobe assumes that you want to continue using the service, and automatically renews the certificate on your behalf. 
 
 >[!IMPORTANT]
 >
->If the CNAME has been removed or is no longer valid (Does not map to the provided Adobe secure hostname), Adobe cannot renew the certificate and the entry in Adobe's system is marked for removal without further communication.
+>If your organization's CNAME record is removed or no longer maps to the provided Adobe secure hostname, Adobe cannot renew the certificate. The entry in Adobe's system is marked for removal without further communication.
 
 ## Frequently asked questions
 
@@ -115,13 +115,13 @@ The certificate can only be purchased when you have pointed the specified hostna
 
 +++Can I request that the certificate be revoked?
 
-Yes. As the owner of the domain, you are entitled to request that the certificate is revoked. Contact Adobe Customer Care to start this process.
+Yes. As the owner of the domain, you are entitled to request that the certificate be revoked. Contact Adobe Customer Care to start this process.
 
 +++
 
 +++What encryption type is used?
 
-Adobe works with DigiCert to issue a SHA-2 certificate.
+Adobe works with DigiCert to issue an SHA-2 certificate.
 
 +++
 
@@ -149,7 +149,7 @@ The following clients are known to be unable to connect with cipher security set
 
 +++What HTTPS certificate types are supported?
 
-Adobe supports both RSA and ECC certificate types to meet varying customer needs. RSA certificates are more widely supported for clients, but ECC certificates use less processing on both the server and client side. For Adobe-managed certificates, both RSA and ECC are provided. For customer-managed certificates, both RSA and ECC are recommended. Modern clients support both RSA and ECC. The following clients are known to only support RSA certificates:
+Adobe supports both RSA and ECC certificate types to meet varying customer needs. RSA certificates are more widely supported for clients, but ECC certificates use less processing on both the server and client side. For Adobe-managed certificates, both RSA and ECC are provided. For customer-managed certificates, both RSA and ECC are recommended. Modern clients support both RSA and ECC. The following clients typically only support RSA certificates:
 
 * Windows Vista and earlier (last updated in 2012)
 * Windows Phone 8.0 and earlier (last updated in 2014)
