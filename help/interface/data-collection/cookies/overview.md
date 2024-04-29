@@ -1,9 +1,9 @@
 ---
 description: Learn how solutions and services in Adobe Experience Cloud use cookies.
-title: How Cookies Are Used in Experience Cloud 
+title: How Cookies Are Used in Experience Cloud
 uuid: 4255a13a-917b-4b5f-a7d4-4b2e7521d189
+exl-id: 60f1a89e-d989-461b-a6a3-c1df022cd30b
 ---
-
 # Cookies Used in Experience Cloud
 
 Many services within the Adobe Experience Cloud use cookies. A cookie is a small piece of data that is presented by a website to a web browser. The browser stores this piece of data, allowing a website to reference its data when needed. This action is performed with each subsequent request for pages and images.

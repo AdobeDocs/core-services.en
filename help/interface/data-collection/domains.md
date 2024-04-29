@@ -5,6 +5,7 @@ feature: Central Interface Components
 topic: Administration
 role: Admin
 level: Experienced
+exl-id: a15918f0-c03b-4d32-a254-47f46023b127
 ---
 # Experience Cloud domains {#domains}
 

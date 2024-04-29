@@ -6,6 +6,7 @@ feature: Account Preferences,Notifications,Alerts
 topic: Administration
 role: Admin
 level: Intermediate
+exl-id: 1e34c6b2-a792-41c4-adb7-583de596237f
 ---
 # Account preferences and notifications {#preferences}
 

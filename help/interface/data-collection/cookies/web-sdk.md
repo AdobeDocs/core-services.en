@@ -6,6 +6,7 @@ feature: Cookies
 topic: Administration
 role: Admin
 level: Experienced
+exl-id: 14f06dc9-255e-4a6c-adec-471107cf202e
 ---
 # Adobe Experience Platform Web SDK cookies
 
