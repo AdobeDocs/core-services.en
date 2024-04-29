@@ -11,7 +11,7 @@ exl-id: e26fb61f-4a7f-4c02-ba80-87a9c0edea86
 
 You can upload an asset through Creative Cloud desktop or through Creative Cloud browser.
 
-# Upload an asset to a shared folder from the Creative Cloud browser
+## Upload an asset to a shared folder from the Creative Cloud browser
 
 See [https://helpx.adobe.com/creative-cloud/help/sync-creative-cloud-files.html](https://helpx.adobe.com/creative-cloud/help/sync-creative-cloud-files.html) for Creative Cloud help.
 

@@ -10,8 +10,8 @@ level: Experienced
 
 Experience Cloud uses the following hosts to deliver the application, improve performance, and improve the product experience. Adobe recommends allowing these domains through your organization's network or firewall for an optimal experience. Other Experience Cloud products and services use their own domains - check the documentation for those applications for more information.
 
-* [Adobe Analytics](#)
-* [Customer Journey Analytics](#)
+* Adobe Analytics
+* Customer Journey Analytics
 
 | Technology | Domains |
 | --- | --- |
