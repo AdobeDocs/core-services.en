@@ -20,7 +20,7 @@ If you currently manage your own certificates, you are responsible for purchasin
 
 Follow these steps to implement a new certificate for first-party data collection:
 
-1. Download and fill out the [First-party domain request form](assets/First_Party_Domain_Request_Form.xlsx)
+1. Download and fill out the [First-party domain request form](cookies/assets/First_Party_Domain_Request_Form.xlsx)
 
 1. Open a ticket with Adobe Customer Care requesting to set up first-party data collection on the Adobe-managed certificate program. 
 

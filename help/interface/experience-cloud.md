@@ -27,9 +27,6 @@ Sign in and verify that you are in the right [organization](administration/organ
 
 1. Navigate to [Adobe Experience Cloud](https://experience.adobe.com).
 1. Type your Adobe email address, then select **[!UICONTROL Continue]**.
-    
-    Administrators, see [Experience Cloud user authentication](admin-getting-started.md#migration) for important updates to identity types (Business ID).
-
 1. Select an account. 
 1. Type your password.
 1. Verify that you are in the right organization.

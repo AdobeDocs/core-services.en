@@ -179,13 +179,13 @@ Take advantage of the following features.
 
 If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a Customer Attribute data source in Experience Cloud. Once uploaded, use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target].
 
-See [Customer Attributes](attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1) 
+See [Customer Attributes](customer-attributes/attributes.md) fore more information.
 
 ### [!UICONTROL People] > [!UICONTROL Audience Library] 
 
 Experience Cloud [!UICONTROL Audiences] is the interface that lets you create audiences, combine existing audiences to create composite audiences, and view all shared audiences. 
 
-See [Audiences](audience-library.md#topic_679810123CAA4E0CA4FA3417FB0100C7) 
+See [Audiences](audiences/overview.md) for more information.
 
 ## Data storage and privacy disclosure 
 

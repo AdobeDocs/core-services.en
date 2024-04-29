@@ -21,7 +21,7 @@ Describes how to:
 * Enable you to become an administrator.
 * [Implement the Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html).
 * Modernize your [!DNL Analytics] and [!DNL Target] implementations via [!UICONTROL Platform Data Collection].
-* Start using Experience Cloud services like [[!DNL Customer Attributes]](attributes.md) and [[!DNL Audience Library]](audience-library.md).
+* Start using Experience Cloud services like [[!DNL Customer Attributes]](../services/customer-attributes/attributes.md) and [[!DNL Audience Library]](../services/audiences/overview.md).
 
 Solutions or services: 
 
@@ -147,7 +147,7 @@ Synchronize your assets within Adobe Experience Manager (AEM) Assets with Adobe 
 
 **Tags:** You can use [Experience Platform tags to create Advertising pixel-based conversion tracking tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html), and third-party tracking tags, for your search, social, and display ad landing pages. (You can also can create [!DNL Advertising] tags directly within [!DNL Advertising].) 
 
-**Experience Cloud Audiences:** (Advertisers with display management) You can use any of your [Adobe Experience Cloud Audiences](audience-library.md) as targets for your display ads. You can automatically use audiences that you've created in Experience Cloud and audiences from Analytics that you've published to Experience Cloud. You can also use Audiences from Audience Manager when the [!DNL Adobe Advertising] account is configured to allow it. 
+**Experience Cloud Audiences:** (Advertisers with display management) You can use any of your [Adobe Experience Cloud Audiences](../services/audiences/overview.md) as targets for your display ads. You can automatically use audiences that you've created in Experience Cloud and audiences from Analytics that you've published to Experience Cloud. You can also use Audiences from Audience Manager when the [!DNL Adobe Advertising] account is configured to allow it. 
 
 Contact your account manager for more information about access to Adobe Experience Cloud and Profiles and Audiences, and about the initial setup between [!DNL Adobe Advertising] and Adobe Experience Cloud Audiences. **Note:** If you also use Adobe Target, any of the audiences you've published to Adobe Experience Cloud are also available for activities in Adobe Target. 
 
