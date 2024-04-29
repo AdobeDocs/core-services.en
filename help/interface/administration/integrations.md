@@ -114,7 +114,6 @@ Integrate Adobe Target with Adobe Analytics and other Experience Cloud applicati
 * Customer Attributes: Configure Adobe Target's [subscription](/help/interface/services/customer-attributes/subscription.md) to Customer Attributes
 * Experience Cloud Audiences: [Experience Cloud Audience Library](/help/interface/services/audiences/overview.md)
 * Analytics: [Adobe Analytics as the Reporting Source for Adobe Target](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html)
-* Dynamic Tag Management: [Best Practices for Implementing Adobe Target using DTM](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html)
 * Audience Manager: [Adobe Target Data Integration with Adobe Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-solutions/aam-target-integration.html)
 * Campaign: [Integrating Adobe Target with Campaign](https://experienceleague.adobe.com/docs/target/using/integrate/campaign-and-target.html)
 

@@ -29,15 +29,13 @@ However, you can manually implement DNS prefetch with your Experience Cloud appl
 
 The following examples show you how to make DNS prefetch calls to different [!DNL Experience Cloud] applications and services. Some prefetch calls require your [!DNL Adobe] Organization ID or tracking server information. In these examples, the code in *italics* represents a variable placeholder. You would replace that code with your own [!DNL Adobe] partner ID, customer code, or tracking server information, and so on. 
 
-* **Analytics:** `<link rel="dns-prefetch" href="//insert tracking server name here">`. 
+* **Analytics:** `<link rel="dns-prefetch" href="//data.example.com">`. 
 
   Add a separate tag for each DNS name if you use non-secure and secure tracking servers. 
 
 * **Audience Manager:** `<link rel="dns-prefetch" href="//dpm.demdex.net">` 
 
-* **Experience Cloud ID Service:** `<link rel="dns-prefetch" href="//fast. *`insert partner ID here`*.demdex.net">` 
-
-* **Dynamic Tag Manager** (DTM): Not required. DTM links are available when the page loads. 
+* **Experience Cloud ID Service:** `<link rel="dns-prefetch" href="//fast.examplepartnerid.demdex.net">` 
 
 * **Advertising Cloud:** 
 

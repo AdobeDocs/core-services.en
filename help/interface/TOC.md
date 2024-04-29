@@ -12,7 +12,7 @@ index: yes
 + [Experience Cloud Central Interface Components Guide](experience-cloud.md)
 
 + Experience Cloud services {#services}
-  + [Experience Cloud services](services/core-services-landing.md)
+  + [Experience Cloud services](services/overview.md)
   + [Getting started](services/getting-started.md)
   + Assets {#assets}
     + [Experience Cloud assets overview](services/assets/experience-cloud-assets.md)
@@ -59,7 +59,7 @@ index: yes
     + [Analytics cookies](data-collection/cookies/analytics.md)
     + [Audience Manager cookies](data-collection/cookies/audience-manager.md)
     + [Experience Cloud cookies](data-collection/cookies/experience-cloud.md)
-    + [Target cookies](data-collection/cookies/cookies-target.md)
+    + [Target cookies](data-collection/cookies/target.md)
     + [Web SDK cookies](data-collection/cookies/web-sdk.md)
   + [Regional data collection](data-collection/rdc.md)
   + [Use DNS prefetch](data-collection/dns-prefetch.md)

@@ -18,5 +18,5 @@ Experience Cloud uses the following hosts to deliver the application, improve pe
 | Adobe Experience Cloud domains | `adobe.com`, `adobe.net`, `adobe.io` |
 | Adobe Identity Management Service (IMS) | `adobelogin.com` |
 | Experience Cloud fonts | `typekit.net` |
-| Adobe Data Collection (for product performance and usage) | `adobedtm.com` |
+| Data collection (for product performance and usage) | `adobedtm.com` |
 | Gainsight (for product guidance and help) | `esp.aptrinsic.com` |
