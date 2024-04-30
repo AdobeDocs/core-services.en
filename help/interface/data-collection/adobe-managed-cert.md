@@ -149,7 +149,7 @@ The following clients are known to be unable to connect with cipher security set
 
 +++What HTTPS certificate types are supported?
 
-Adobe supports both RSA and ECC certificate types to meet varying customer needs. RSA certificates are more widely supported for clients, but ECC certificates use less processing on both the server and client side. For Adobe-managed certificates, both RSA and ECC are provided. For customer-managed certificates, both RSA and ECC are recommended. Modern clients support both RSA and ECC. The following clients typically only support RSA certificates:
+Adobe supports both RSA and ECC certificate types to meet varying customer needs. RSA certificates are more widely supported for clients, but ECC certificates use less processing on both the server and client side. For Adobe-managed certificates, both RSA and ECC are provided. For customer-managed certificates, RSA is required and ECC is recommended. Modern clients support both RSA and ECC. The following clients typically only support RSA certificates:
 
 * Windows Vista and earlier (last updated in 2012)
 * Windows Phone 8.0 and earlier (last updated in 2014)
