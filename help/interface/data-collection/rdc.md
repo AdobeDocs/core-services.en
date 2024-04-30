@@ -19,7 +19,7 @@ RDC currently includes the following locations (subject to change):
 | RDC Type | Data Collection Centers |
 | --- | --- |
 | Global (default) | Oregon, Virginia, Ireland, Paris, Mumbai, Singapore, Tokyo, Sydney |
-| Global + China* | China*, Oregon, Virginia, Ireland, Paris, Mumbai, Singapore, Tokyo, Sydney |
+| Global + China* | Beijing*, Oregon, Virginia, Ireland, Paris, Mumbai, Singapore, Tokyo, Sydney |
 | Americas only | Oregon, Virginia |
 | Europe only | Ireland, Paris |
 | Asia Pacific only | Mumbai, Singapore, Tokyo, Sydney |
@@ -35,6 +35,7 @@ Third-party data collection includes cookie domains that don't match your websit
 
 | RDC Type | Data Collection Centers |
 | --- | --- |
-| Default | Oregon, Virginia, Ireland, Paris, Mumbai, Singapore, Tokyo, Sydney, China* |
+| Default | Oregon, Virginia, Ireland, Paris, Mumbai, Singapore, Tokyo, Sydney |
+| Default + China* | Beijing*, Oregon, Virginia, Ireland, Paris, Mumbai, Singapore, Tokyo, Sydney |
 
 {style="table-layout:auto"}
