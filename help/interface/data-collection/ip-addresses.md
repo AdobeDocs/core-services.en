@@ -14,7 +14,7 @@ Some firewall configurations block IP addresses originating from Adobe's data co
 In addition to the IP address blocks listed below, individual Adobe Experience Cloud products have their own IP addresses that they use:
 
 * [Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/technotes/ip-addresses)
-* Customer Journey Analytics
+* [Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/ip-addresses)
 
 ## All Adobe IP address blocks
 
