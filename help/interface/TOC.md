@@ -11,14 +11,14 @@ index: yes
 
 + [Experience Cloud Central Interface Components Guide](experience-cloud.md)
 
-+ Experience Cloud services {#services}
-  + [Experience Cloud services](services/overview.md)
++ Services {#services}
+  + [Overview](services/overview.md)
   + [Getting started](services/getting-started.md)
   + Assets {#assets}
-    + [Experience Cloud assets overview](services/assets/experience-cloud-assets.md)
-    + [Share Experience Cloud folders and assets with Creative Cloud](services/assets/creative-cloud.md)
+    + [Overview](services/assets/experience-cloud-assets.md)
+    + [Share folders and assets with Creative Cloud](services/assets/creative-cloud.md)
     + [Manage Creative Cloud users](services/assets/manage-cc-users.md)
-    + [Share an Experience Cloud asset folder](services/assets/share.md)
+    + [Share an asset folder](services/assets/share.md)
     + [Upload an asset to a shared folder](services/assets/upload.md)
     + [Asset file requirements for sharing](services/assets/file-reqs.md)
     + [Behavior of shared folders](services/assets/behavior.md)
@@ -40,17 +40,17 @@ index: yes
     + [Privacy considerations for Customer Attributes](services/customer-attributes/privacy-mac.md)
   + [Triggers](services/triggers.md)
 
-+ Experience Cloud features {#features}
++ Features {#features}
   + [Account preferences](features/account-preferences.md)
   + [Unified search](features/search.md)
   + [Personalized Learning](features/personalized-learning.md)
 
-+ Experience Cloud administration {#administration}
-  + [View Experience Cloud user details (Admin Tool)](administration/admin-tool-experience-cloud.md)
++ Administration {#administration}
+  + [View user details (Admin Tool)](administration/admin-tool-experience-cloud.md)
   + [Organizations and account linking](administration/organizations.md)
-  + [Experience Cloud integrations](administration/integrations.md)
+  + [Integrations](administration/integrations.md)
   
-+ Experience Cloud data collection {#data-collection}
++ Data collection {#data-collection}
   + [Adobe-managed certificate program](data-collection/adobe-managed-cert.md)
   + [IP addresses](data-collection/ip-addresses.md)
   + [Domains](data-collection/domains.md)

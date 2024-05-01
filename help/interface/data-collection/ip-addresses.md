@@ -1,27 +1,26 @@
 ---
-title: Adobe Experience Cloud IP addresses
+title: IP addresses used by the Adobe Experience Cloud
 description: If your organization's firewall blocks IP addresses that originate from Adobe, use this list to update your firewall settings.
 exl-id: e24a70e4-9ed4-4b87-8bab-4ed0aebedd1f
 ---
-# Adobe Experience Cloud IP addresses and domains
+# IP addresses used by the Adobe Experience Cloud
 
 Some firewall configurations block IP addresses originating from Adobe's data collection servers or servers responsible for accessing data. You can use this list of ranges to alter your organization's firewall settings to allow access and to send data from within your organization. This page includes both inbound systems (such as data collection) and outbound systems (such as data feeds in Adobe Analytics) that Adobe uses.
 
 >[!IMPORTANT]
 >
->While Adobe does its best to keep this document current, it cannot guarantee that the list of IP ranges remains the same. Possible changes include growth and expansion of the business, an Internet registry requires changes to Adobe's IP address space, or an internet service provider stops functioning.
+>While Adobe does its best to keep this document current, it cannot guarantee that the list of IP ranges remains the same. Possible changes include growth and expansion of the business, an Internet registry requires changes to Adobe's IP address space, or an Internet service provider stops functioning.
 
-In addition to the IP address blocks listed below, individual Adobe Experience Cloud products have their own domains that they use:
+In addition to the IP address blocks listed below, individual Adobe Experience Cloud products have their own IP addresses that they use:
 
-* [Adobe Experience Cloud](domains.md)
-* Adobe Analytics
+* [Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/technotes/ip-addresses)
 * Customer Journey Analytics
 
 ## All Adobe IP address blocks
 
 The following table covers all Adobe-owned IP addresses. This table includes all Adobe employee offices and data centers run by Adobe globally. It does not include services hosted on public clouds.
 
-| IP Block (CIDR Notation) |
+| IP block (CIDR Notation) |
 | --- |
 | `63.140.32.0/19` |
 | `66.117.16.0/20` |
@@ -42,7 +41,7 @@ If your organization prefers to allow specific IP address ranges, you can refere
 
 All IP ranges in this section are included in the above table.
 
-| Location | IP Range (CIDR Notation) |
+| Location | IP range (CIDR notation) |
 | --- | --- |
 | Australia | `63.140.55.0/24` |
 | Australia | `63.140.56.0/23` |
