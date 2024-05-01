@@ -13,8 +13,8 @@ Experience Cloud uses the following hosts to deliver the application, improve pe
 
 In addition to the domains listed below, individual Adobe Experience Cloud products have their own domains that they use:
 
-* Adobe Analytics
-* Customer Journey Analytics
+* [Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/technotes/domains)
+* [Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/domains)
 
 | Technology | Domains |
 | --- | --- |
