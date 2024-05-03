@@ -1,6 +1,7 @@
 ---
 title: IP addresses used by the Adobe Experience Cloud
 description: If your organization's firewall blocks IP addresses that originate from Adobe, use this list to update your firewall settings.
+exl-id: 1fca8d3b-ae8b-4095-96ef-d165f912b4c6
 ---
 # IP addresses used by the Adobe Experience Cloud
 
