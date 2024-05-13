@@ -22,7 +22,7 @@ This help describes the following products and services:
 | Core Service | Description |
 |--- |--- |
 |[Central interface components](../experience-cloud.md)|Access account preferences, search for product help, and access applications and services.|
-|[People - [!DNL Audience Library]](audiences/overview.md)|Audiences are collections of visitors (a list of visitor IDs). Adobe's [!DNL Audience Library] lets you manage the translation of visitor data into audience segmentation. As |
+|[People - [!DNL Audience Library]](audiences/overview.md)|Audiences are collections of visitors (a list of visitor IDs). Adobe's [!DNL Audience Library] lets you manage the translation of visitor data into audience segmentation. |
 |[People - Customer Attributes](customer-attributes/attributes.md)| Build real-time orchestration use cases using contextual data stored in events or data sources. [!UICONTROL Journey Orchestration] is an application service integrated with the Experience Platform.|
 |[Assets](assets/experience-cloud-assets.md)|Experience Cloud Assets provide a single, centralized repository of marketing-ready assets that you can share across applications.|
 
@@ -30,4 +30,4 @@ This help describes the following products and services:
 
 >[!NOTE]
 >
->Product documentation for Experience Platform is located [here](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html). Technical documentation for [!UICONTROL Experience Platform] developers is found on [Adobe Developer](https://developer.adobe.com/apis).
+>Product documentation for [Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html) is available. Technical documentation for [!UICONTROL Experience Platform] developers is found on [Adobe Developer](https://developer.adobe.com/apis).
