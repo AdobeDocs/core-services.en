@@ -17,7 +17,7 @@ The organization functions like a log-in company that spans all Experience Cloud
 
 ![Experience Cloud Organizations](../assets/organizations-menu.png)
 
-To verify that you have logged in to your correct organization, click on your profile avatar to see organization name. If you have access to more than one organization, you can also view and switch to another organization in the header bar. 
+To verify that you have logged in to your correct organization, click on your profile avatar to see the organization name. If you have access to more than one organization, you can also view and switch to another organization in the header bar. 
 
 ## Federated IDs
 
@@ -31,7 +31,7 @@ You can locate your assigned organization ID for support purposes. You can verif
 
 The organization ID is the ID associated with your provisioned Experience Cloud company. This ID is a 24-character alphanumeric string, followed by (and must include) `@AdobeOrg`.
 
-You can view your organization ID, along with other account information, using a the keyboard shortcut **Ctrl+i** from any page at `https://experience.adobe.com`.
+You can view your organization ID, along with other account information, using the keyboard shortcut **Ctrl+i** from any page at `https://experience.adobe.com`.
 
 **To view your organization ID**
 
@@ -39,7 +39,7 @@ You can view your organization ID, along with other account information, using a
 
    ![Assigned Organization ID](../assets/assigned-organization.png) 
 
-1. Under **[!UICONTROL User Information]**, look for **[!UICONTROL Current Org ID]**, and you will see the organization ID.
+1. Under **[!UICONTROL User Information]**, look for **[!UICONTROL Current Org ID]**, and you can locate the organization ID.
 
    Alternatively, administrators can log into the Admin Console (Navigate to [https://adminconsole.adobe.com](https://adminconsole.adobe.com)) and view your organization ID in the URL. 
 
@@ -81,7 +81,7 @@ In your profile, select **[!UICONTROL Edit Profile]**.
 
 ![Edit Profile](../assets/edit-profile.png)
 
-Under Default Organization & Landing Page, you can customize your log-in experience.
+Under **[!UICONTROL Default Organization & Landing Page]**, you can customize your log-in experience.
 
 ![Default Organization & Landing Page](../assets/default-organization.png)
 
