@@ -118,7 +118,7 @@ Experience Cloud services (such as Experience Cloud ID Service and the [!UICONTR
 
 ## Update your Analytics AppMeasurement code {#section_1798D9D0F05C47E29816AC4EEB9A0913}
 
-If you're using Analytics, verify that you are on regional data collection (RDC). If your data collection domain is `omtrdc.net`, or if your CNAME is mapped to `omtrdc.net`, you are on RDC. See [Transitioning to RDC](https://experienceleague.adobe.com/docs/analytics/technotes/rdc/regional-data-collection.html) for more information. If you are using first-party cookies, refer to [CNAME and the Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/cname.html) for information about data collection CNAMEs and cross-domain tracking. 
+If you are using first-party cookies, refer to [CNAME and the Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/cname.html) for information about data collection CNAMEs and cross-domain tracking. 
 
 It is recommended that you modernize your Analytics implementation by updating your JavaScript libraries, including the Visitor API. The simple way to accomplish is to add an [Adobe Analytics extension](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/analytics/overview.html) in Experience Platform Data Collection.
 
