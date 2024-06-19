@@ -22,6 +22,7 @@ Analytics uses cookies to define new visitors anonymously, help analyze clickstr
 | **`s_sq`** | Session | 100-200 bytes | First-party | Used by Activity Map. It contains information about the previous link clicked by the visitor. Set by JavaScript. |
 | **`s_vi`** | 2 years | 44 bytes | First-party, or `*.omtrdc.net` (third-party) | Stores a unique visitor ID and timestamp. Set by HTTP response. Each visitor ID is associated with a visitor profile on Adobe servers. Visitor profiles are deleted after 1 year of inactivity, regardless of any visitor ID cookie expiration. The `Secure` flag is set when `SameSite` is "None" and connection is HTTPS. `SameSite` is "Lax" by default for first-party cookies. `SameSite` is "None" when using third-party cookies, such as on `omtrdc.net` or `2o7.net`. Set `SameSite` to "None" when using a single CNAME to track multiple domains or properties. |
 | **`s_fid`** | 2 years | 33 bytes | First-party | Stores the fallback unique visitor ID and timestamp. Set by JavaScript if the standard `s_vi` cookie cannot be set due to third-party cookie restrictions. Not used for first-party cookie implementations. |
+| **`s_ac`** | Immediate | 1 byte | First-party | Helps determine the correct domain to set AppMeasurement cookies. Contains the static value `"1"`. Once this cookie is set, it is deleted immediately. |
 
 {style="table-layout:auto"}
 
