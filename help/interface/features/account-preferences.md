@@ -40,3 +40,20 @@ On [!UICONTROL Experience Cloud preferences], you can configure the following fe
 Select **[!UICONTROL Notifications]** to be alerted about relevant and actionable updates, including product releases, maintenance notices, shared items, and approval requests.
 
 ![Notifications and Announcements](../assets/notifications-menu-small.png)
+
+## Language support in Experience Cloud {#languages}
+
+Experience Cloud supports preferred languages for each user, as set in your Adobe user account preferences. Supported languages currently are: 
+
+* Chinese
+* English
+* French
+* German
+* Italian
+* Japanese
+* Korean
+* Portuguese
+* Spanish
+* Taiwanese
+
+While all application team are committed to global language support, not all applications are offered in all languages noted above. If your primary language is not supported in an Experience Cloud application, you can also set a secondary language to default to when applicable. This can be done in [Experience Cloud user preferences](https://experience.adobe.com/preferences).
