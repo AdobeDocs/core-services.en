@@ -1,6 +1,6 @@
 ---
 title: Account Preferences and Notifications
-description: Learn about user profiles and account preferences in Experience Cloud. Subscribe to product notifications and get product alerts.
+description: Learn about user profiles and account preferences in Experience Cloud. Subscribe to product notifications and get product alerts. Learn about browser and language support.
 solution: Experience Cloud
 feature: Account Preferences,Notifications,Alerts
 topic: Administration
@@ -40,6 +40,22 @@ On [!UICONTROL Experience Cloud preferences], you can configure the following fe
 Select **[!UICONTROL Notifications]** to be alerted about relevant and actionable updates, including product releases, maintenance notices, shared items, and approval requests.
 
 ![Notifications and Announcements](../assets/notifications-menu-small.png)
+
+## Browser support in Experience Cloud {#browser}
+
+For the best performance, Experience Cloud is optimized for the most popular browsers, including the latest version, plus the two previous versions.
+
+* Chrome
+* Edge
+* Firefox
+* Opera
+* Safari
+
+If your browser is not listed, it may still be supported, but it is recommended that you use one of the listed browsers. 
+
+>[!NOTE]
+>
+>Not all applications running on Experience Cloud domain support all browsers. If you're unsure, check the documentation of a specific application.
 
 ## Language support in Experience Cloud {#languages}
 
