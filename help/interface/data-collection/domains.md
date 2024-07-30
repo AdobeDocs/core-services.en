@@ -15,6 +15,7 @@ In addition to the domains listed below, individual Adobe Experience Cloud produ
 
 * [Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/technotes/domains)
 * [Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/domains)
+* [Marketo Engage](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo)
 
 | Technology | Domains |
 | --- | --- |
@@ -22,4 +23,4 @@ In addition to the domains listed below, individual Adobe Experience Cloud produ
 | Adobe Identity Management Service (IMS) | `adobelogin.com` |
 | Fonts | `typekit.net` |
 | Data collection (for product performance and usage) | `adobedtm.com` |
-| Gainsight (for product guidance and help) | `esp.aptrinsic.com` |
+| Gainsight (for product guidance and help) | `esp.aptrinsic.com`, `esp-m.aptrinsic.com` |
