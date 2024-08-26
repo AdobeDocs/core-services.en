@@ -1,5 +1,5 @@
 ---
-title: Adobe Experience Platform Web SDK cookies
+title: Adobe Experience Platform Web SDK Cookies
 description: Learn how the Web SDK uses cookies applicable to your implementation.
 solution: Experience Cloud
 feature: Cookies

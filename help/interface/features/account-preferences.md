@@ -39,7 +39,7 @@ Select **[!UICONTROL Notifications]** to be alerted about relevant and actionabl
 
 ![Notifications and Announcements](../assets/notifications-menu-small.png)
 
-## [!DNL Slack] notifications
+<!-- ## [!DNL Slack] notifications
 
 Releasing: **September 2, 2024**
 
@@ -66,7 +66,7 @@ You can configure your account preferences to send Experience Cloud notification
    [Slack notifications](../assets/slack.png)
 
 1. Enable [!DNL Slack] notifications for your desired products and categories.
-
+ -->
 ## Browser support in Experience Cloud {#browser}
 
 For the best performance, Experience Cloud is optimized for the most popular browsers, including the latest version, plus the two previous versions.

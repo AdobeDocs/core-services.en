@@ -1,6 +1,6 @@
 ---
-title: Regional data collection
-description: Information on regional data collection
+title: Regional Data Collection
+description: Learn about regional data collection in Experience Cloud.
 exl-id: 295e9736-2a58-48a8-9968-5dfa33b70d95
 ---
 # Regional Data Collection

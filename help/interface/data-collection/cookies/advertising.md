@@ -1,6 +1,6 @@
 ---
 description: Learn about Adobe Advertising cookies for mapping ad engagement events to conversion events and, potentially, use that information to optimize ad bids.
-title: Adobe Advertising cookies 
+title: Adobe Advertising Cookies 
 uuid: 2eec48a3-3e81-488e-8e30-5fd62885de0b
 feature: Cookies
 topic: Administration
