@@ -1,7 +1,7 @@
 ---
 description: Learn how to set up secure certificates for use with Adobe Experience Cloud first-party cookies.
 solution: Experience Cloud,Analytics
-title: Adobe-managed certificate program
+title: Adobe-Managed Certificate Program
 index: y
 snippet: y
 feature: Cookies

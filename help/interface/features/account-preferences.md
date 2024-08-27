@@ -33,14 +33,40 @@ On [!UICONTROL Experience Cloud preferences], you can configure the following fe
 |[!UICONTROL Alerts]|Select the notifications for which you would like to see alerts displayed in your browser. Alerts appear in the top-right corner of your window for a few seconds.|
 |Emails|Specify the frequency at which you would like to receive notification emails. (Not sent, instant, daily, or weekly.)|
 
-{style="table-layout:auto"}
-
-## Notifications and Announcements {#notifications}
+## [!UICONTROL Notifications] and [!UICONTROL Announcements] {#notifications}
 
 Select **[!UICONTROL Notifications]** to be alerted about relevant and actionable updates, including product releases, maintenance notices, shared items, and approval requests.
 
 ![Notifications and Announcements](../assets/notifications-menu-small.png)
 
+<!-- ## [!DNL Slack] notifications
+
+Releasing: **September 2, 2024**
+
+You can configure your account preferences to send Experience Cloud notifications to Slack.
+
+**Prerequisites**
+
+* You must have an Experience Cloud account
+* You must have a [!DNL Slack] account
+* You must be a part of at least one [!DNL Slack] workspace
+
+### To configure Slack notifications
+
+1. Sign in to Experience Cloud.
+
+1. Click your account icon, then click **[!UICONTROL Preferences]**.
+
+1. Under [!DNL Slack], click **[!UICONTROL Add to Slack]**.
+
+1. When [!DNL Slack] opens, click **[!UICONTROL Allow]**.
+
+1. In Experience Cloud Preferences, navigate to **[!UICONTROL Notifications]**.
+
+   [Slack notifications](../assets/slack.png)
+
+1. Enable [!DNL Slack] notifications for your desired products and categories.
+ -->
 ## Browser support in Experience Cloud {#browser}
 
 For the best performance, Experience Cloud is optimized for the most popular browsers, including the latest version, plus the two previous versions.

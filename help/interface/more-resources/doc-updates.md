@@ -1,7 +1,7 @@
 ---
-description: Information about updates to Adobe Experience Cloud help.
+description: Information about updates to Experience Cloud help.
 solution: Experience Cloud
-title: Documentation updates
+title: Documentation Updates
 uuid: f41c4e9f-e784-4706-8c4b-f430c953670d
 topic: Administration
 role: Admin

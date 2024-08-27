@@ -1,6 +1,6 @@
 ---
 description: Upload an asset to a shared folder from the Creative Cloud browser or Creative Cloud desktop.
-title: Upload an asset to a shared folder
+title: Upload an Asset to a Shared Folder
 feature: Assets
 topic: Administration
 role: Admin

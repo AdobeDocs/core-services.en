@@ -1,6 +1,6 @@
 ---
 description: Learn about the domains used by Experience Cloud.
-title: Domains used by the Adobe Experience Cloud
+title: Domains Used by Experience Cloud
 feature: Central Interface Components
 topic: Administration
 role: Admin

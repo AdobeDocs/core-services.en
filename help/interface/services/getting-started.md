@@ -1,7 +1,7 @@
 ---
 description: Modernize your Adobe Analytics and Adobe Target applications for cross-application services. Learn how to start using Experience Cloud services.
 solution: Experience Cloud
-title: Getting started with Experience Cloud services
+title: Get Started with Experience Cloud Services
 index: yes
 feature: Central Interface Components
 topic: Administration
@@ -9,7 +9,7 @@ role: Admin
 level: Experienced
 exl-id: 48e79e23-b339-4143-b3b1-969c370efeff
 ---
-# Getting started with Experience Cloud services
+# Get started with Experience Cloud services
 
 If you recently implemented Experience Cloud using Experience Platform tags, you're already set up for Customer Attributes and Experience Cloud Audiences. You can also manage users and products in the Admin Console.
 
