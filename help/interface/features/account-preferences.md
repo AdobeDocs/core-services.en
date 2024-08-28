@@ -67,6 +67,7 @@ You can configure your account preferences to send Experience Cloud notification
 
 1. Enable [!DNL Slack] notifications for your desired products and categories.
  -->
+
 ## Browser support in Experience Cloud {#browser}
 
 For the best performance, Experience Cloud is optimized for the most popular browsers, including the latest version, plus the two previous versions.
