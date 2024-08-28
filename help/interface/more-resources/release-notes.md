@@ -20,7 +20,7 @@ For release notes covering all applications, see [Experience Cloud Release Notes
 
 ## September 2024
 
-You can configure Slack notifications for Experience Cloud [Preferences](/help\interface\features\account-preferences.md).
+You can configure Slack notifications for Experience Cloud [Preferences](..\features\account-preferences.md).
 
 <!-- ## July - August 2023
 
