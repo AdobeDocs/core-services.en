@@ -35,7 +35,7 @@ On [!UICONTROL Experience Cloud preferences], you can configure the following fe
 
 ## [!UICONTROL Notifications] and [!UICONTROL Announcements] {#notifications}
 
-Select **[!UICONTROL Notifications]** to be alerted about relevant and actionable updates, including product releases, maintenance notices, shared items, and approval requests.
+Select **[!UICONTROL Notifications]** to be alerted about relevant and actionable updates, including product releases, maintenance notices, shared items, and approval requests. 
 
 ![Notifications and Announcements](../assets/notifications-menu-small.png)
 
@@ -67,6 +67,7 @@ You can configure your account preferences to send Experience Cloud notification
 
 1. Enable [!DNL Slack] notifications for your desired products and categories.
  -->
+
 ## Browser support in Experience Cloud {#browser}
 
 For the best performance, Experience Cloud is optimized for the most popular browsers, including the latest version, plus the two previous versions.
