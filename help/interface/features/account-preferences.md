@@ -35,7 +35,7 @@ On [!UICONTROL Experience Cloud preferences], you can configure the following fe
 
 ## [!UICONTROL Notifications] and [!UICONTROL Announcements] {#notifications}
 
-Select **[!UICONTROL Notifications]** to be alerted about relevant and actionable updates, including product releases, maintenance notices, shared items, and approval requests.
+Select **[!UICONTROL Notifications]** to be alerted about relevant and actionable updates, including product releases, maintenance notices, shared items, and approval requests. 
 
 ![Notifications and Announcements](../assets/notifications-menu-small.png)
 
