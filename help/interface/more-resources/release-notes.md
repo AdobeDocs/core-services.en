@@ -18,9 +18,13 @@ For a list of documentation updates, see [Documentation updates](doc-updates.md)
 
 For release notes covering all applications, see [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html).
 
-<!-- ## September 2024
+## September 2, 2024
 
-You can configure Slack notifications for Experience Cloud. -->
+| Feature    | Description  |
+| -----------| ---------- |
+|Slack notifications |You can configure your account preferences to send Experience Cloud notifications to Slack. See _Slack notifications_ in [Preferences](../features/account-preferences.md) help for details.|
+
+See [Experience Cloud Admin Tool](../administration/admin-tool-experience-cloud.md)
 
 <!-- ## July - August 2023
 
