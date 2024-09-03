@@ -63,7 +63,7 @@ You can configure your account preferences to send Experience Cloud notification
 
 1. In Experience Cloud Preferences, navigate to **[!UICONTROL Notifications]**.
 
-   [Slack notifications](../assets/slack.png)
+   ![Slack notifications](../assets/slack.png)
 
 1. Enable [!DNL Slack] notifications for your desired products and categories.
 

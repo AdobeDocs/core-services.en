@@ -24,8 +24,6 @@ For release notes covering all applications, see [Experience Cloud Release Notes
 | -----------| ---------- |
 |Slack notifications |You can configure your account preferences to send Experience Cloud notifications to Slack. See _Slack notifications_ in [Preferences](../features/account-preferences.md) help for details.|
 
-See [Experience Cloud Admin Tool](../administration/admin-tool-experience-cloud.md)
-
 <!-- ## July - August 2023
 
 NA - released July 2022
