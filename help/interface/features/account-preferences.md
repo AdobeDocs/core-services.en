@@ -1,6 +1,6 @@
 ---
 title: Account Preferences and Notifications
-description: Learn about user profiles and account preferences in Experience Cloud. Subscribe to product notifications and get product alerts. Learn about browser and language support.
+description: Learn about user profiles and account preferences in Experience Cloud. Subscribe to product notifications for email and [!DNL Slack], and set up product alerts.
 solution: Experience Cloud
 feature: Account Preferences, Notifications, Alerts
 topic: Administration
@@ -10,16 +10,18 @@ exl-id: 1e34c6b2-a792-41c4-adb7-583de596237f
 ---
 # Account preferences and notifications {#preferences}
 
-Experience Cloud preferences include notifications, subscriptions, and alerts. In the account preferences menu, you can:
+Experience Cloud [preferences](https://experience.adobe.com/preferences) include notifications (in-app, email, and [!DNL Slack]), subscriptions, and alerts. 
 
-* Specify a dark theme (not all applications support this theme)
+In preferences, you can:
+
 * Search for [Organizations](../administration/organizations.md)
-* Sign out
-* Configure account preferences, notifications, and subscriptions
+* Specify a dark theme (not all applications support this theme).
+* Configure user preferences, notifications, and subscriptions.
+* Sign out of Experience Cloud.
+
+## Manage preferences
 
 To manage preferences, select **[!UICONTROL Preferences]** from your account menu ![preferences](../assets/preferences-icon-sm.png).
-
-![User profile and account preferences](../assets/preferences-page.png)
 
 On [!UICONTROL Experience Cloud preferences], you can configure the following features:
 
@@ -27,75 +29,87 @@ On [!UICONTROL Experience Cloud preferences], you can configure the following fe
 |--- |--- |
 |Default [organization](../administration/organizations.md)|Select the organization that you want to see when you launch Experience Cloud. |
 |[!UICONTROL Product data collection]|Select which technologies Adobe can use to collect data on how you use your Adobe products. |
+|[Notifications](#notifications-and-announcements)| Enable [!UICONTROL in-app], [!UICONTROL email], or [Slack](#slack-notifications) notifications. |
 |[!UICONTROL Personalized learning recommendations and promotions]|Select where you would like to receive [personalized help](personalized-learning.md) for your Adobe products. This help is available via email, in-product, and the Experience League Communities. |
 |[!UICONTROL Subscriptions]|Select the products and categories to which you would like to subscribe. Notifications in the [!UICONTROL Notifications] popover and in your email.|
 |[!UICONTROL Priority]|Select the categories that you want to be considered high priority. These categories are marked with a [!UICONTROL High] tag and can be configured for delivery like alerts.|
 |[!UICONTROL Alerts]|Select the notifications for which you would like to see alerts displayed in your browser. Alerts appear in the top-right corner of your window for a few seconds.|
 |Emails|Specify the frequency at which you would like to receive notification emails. (Not sent, instant, daily, or weekly.)|
 
-## [!UICONTROL Notifications] and [!UICONTROL Announcements] {#notifications}
+## Subscribe to notifications in Experience Cloud {#notifications}
 
-Select **[!UICONTROL Notifications]** to be alerted about relevant and actionable updates, including product releases, maintenance notices, shared items, and approval requests. 
+You can select the products and categories to which you would like to subscribe. Notifications appear in the [!UICONTROL Notifications] popover (in-app), or in your email, or in [Slack](#slack-notifications) (depending on your subscriptions).
 
-![Notifications and Announcements](../assets/notifications-menu-small.png)
+Email and Slack notifications are useful for situations when you are not signed in to Experience Cloud.
 
-## [!DNL Slack] notifications
+### Subscribe to in-app and email notifications
 
-Release: **September 2, 2024**
+1. Navigate to Experience Cloud [preferences](https://experience.adobe.com/preferences).
 
-You can configure your account preferences to send Experience Cloud notifications to Slack.
+1. Under **[!UICONTROL Notifications]**, enable **[!UICONTROL In-app]** or **[!UICONTROL Email]**.
 
-**Prerequisites**
+   Changes to notifications are saved automatically.
 
-* You must have an Experience Cloud account
-* You must have a [!DNL Slack] account
-* You must be a part of at least one [!DNL Slack] workspace
-
-### To configure Slack notifications
-
-1. Sign in to Experience Cloud.
-
-1. Click your account icon, then click **[!UICONTROL Preferences]**.
-
-1. Under [!DNL Slack], click **[!UICONTROL Add to Slack]**.
-
-1. When [!DNL Slack] opens, click **[!UICONTROL Allow]**.
-
-1. In Experience Cloud Preferences, navigate to **[!UICONTROL Notifications]**.
-
-   ![Slack notifications](../assets/slack.png)
-
-1. Enable [!DNL Slack] notifications for your desired products and categories.
-
-## Browser support in Experience Cloud {#browser}
-
-For the best performance, Experience Cloud is optimized for the most popular browsers, including the latest version, plus the two previous versions.
-
-* Chrome
-* Edge
-* Firefox
-* Opera
-* Safari
-
-If your browser is not listed, it may still be supported, but it is recommended that you use one of the listed browsers. 
+### Subscribe to [!DNL Slack] notifications {#slack}
 
 >[!NOTE]
 >
->Not all applications running on Experience Cloud domain support all browsers. If you're unsure, check the documentation of a specific application.
+>Slack notifications will release: **September 11, 2024**
 
-## Language support in Experience Cloud {#languages}
 
-Experience Cloud supports preferred languages for each user, as set in your Adobe user account preferences. Supported languages currently are: 
+You can configure your account preferences to send Experience Cloud notifications to a [!DNL Slack] channel. 
 
-* Chinese
-* English
-* French
-* German
-* Italian
-* Japanese
-* Korean
-* Portuguese
-* Spanish
-* Taiwanese
+**Prerequisites**
 
-While all application team are committed to global language support, not all applications are offered in all languages noted above. If your primary language is not supported in an Experience Cloud application, you can also set a secondary language to default to when applicable. This can be done in [Experience Cloud user preferences](https://experience.adobe.com/preferences).
+* You must have an Experience Cloud account.
+* You must have a [!DNL Slack] account. Your Slack administrator enables the Experience Cloud integration with Slack.
+* You must be a part of at least one [!DNL Slack] workspace.
+
+**To subscribe to Slack notifications**
+
+1. Navigate to Experience Cloud [preferences](https://experience.adobe.com/preferences)
+
+1. Locate [!DNL Slack], then click **[!UICONTROL Add to Slack]**.
+
+   ![Add to Slack](../assets/add-to-slack.png)
+
+   If [!DNL Slack] is installed, the application opens and a permission request message displays.
+
+   * Click **[!UICONTROL Allow]**.
+
+   If [!DNL Slack] is not installed, a _Request to install_ message displays:
+
+   ![Request Slack Integration](../assets/slack-request.png)
+
+   * In Slack, choose the workspace from the top right corner of the application.
+   
+   * To request application approval for the Slack workspace manager, click **[!UICONTROL Submit]**.
+   
+   * You will receive a notification in [!DNL Slack] after the application request is approved.
+   
+   * After you receive [!DNL Slack] approval, return to Experience Cloud **[!UICONTROL Notifications]**, then click **[!UICONTROL Add to Slack]**.
+
+1. Under **[!UICONTROL Notifications]**, enable [!DNL Slack] notifications for your desired products and categories.
+
+   ![Slack notifications](../assets/slack.png)
+
+   Updates to notifications are automatically saved.
+
+### What you will see in [!DNL Slack]
+
+Slack notifications display the following information:
+
+* The personal message will be received from the application name _Adobe Experience Cloud_.
+* The message includes the product logo for the particular application, such as Adobe Experience Platform, Adobe Experience Manager, and so on.
+* A link to view all notifications on Experience Cloud.
+* A link to manage notification preferences on Experience Cloud. 
+
+## View [!UICONTROL notifications] and announcements in Experience Cloud {#view-notifications}
+
+In the Experience Cloud header, you can view notifications to which you [subscribed](#notifications), as well as view announcements.
+
+1. Click the bell icon in the header. ![Notifications and Announcements](../assets/bell-icon.png)
+
+1. Click **[!UICONTROL Notifications]** or **[!UICONTROL Announcements]**.
+
+   This location is where you receive important information about products, your collaboration with fellow users, and other relevant updates. Updates include product releases, maintenance notices, shared items, and approval requests. 
