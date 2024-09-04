@@ -67,27 +67,15 @@ You can configure your account preferences to send Experience Cloud notification
 
 **To subscribe to Slack notifications**
 
-1. Navigate to Experience Cloud [preferences](https://experience.adobe.com/preferences)
+1. Navigate to Experience Cloud [preferences](https://experience.adobe.com/preferences).
 
 1. Locate [!DNL Slack], then click **[!UICONTROL Add to Slack]**.
 
    ![Add to Slack](../assets/add-to-slack.png)
 
-   If [!DNL Slack] is installed, the application opens and a permission request message displays.
+   If [!DNL Slack] is installed, the application opens and a permission request message displays. If Slack is not installed, you must [request permission](#slack-troubleshoot).
 
-   * Click **[!UICONTROL Allow]**.
-
-   If [!DNL Slack] is not installed, a _Request to install_ message displays:
-
-   ![Request Slack Integration](../assets/slack-request.png)
-
-   * In Slack, choose the workspace from the top right corner of the application.
-   
-   * To request application approval for the Slack workspace manager, click **[!UICONTROL Submit]**.
-   
-   * You will receive a notification in [!DNL Slack] after the application request is approved.
-   
-   * After you receive [!DNL Slack] approval, return to Experience Cloud **[!UICONTROL Notifications]**, then click **[!UICONTROL Add to Slack]**.
+1. Click **[!UICONTROL Allow]**.
 
 1. Under **[!UICONTROL Notifications]**, enable [!DNL Slack] notifications for your desired products and categories.
 
@@ -95,9 +83,25 @@ You can configure your account preferences to send Experience Cloud notification
 
    Updates to notifications are automatically saved.
 
+### Request permission in Slack {slack-troubleshoot}
+
+If [!DNL Slack] is not installed, a _Request to install_ message displays when Slack opens after you click **[!UICONTROL Add to Slack]**.
+
+   ![Request Slack Integration](../assets/slack-request.png)
+
+**To request permissions in Slack**
+
+1. In Slack, choose the workspace from the top right corner of the application.
+   
+1. To request application approval for the Slack workspace manager, click **[!UICONTROL Submit]**.
+   
+1. You will receive a notification in [!DNL Slack] after the application request is approved.
+   
+1. After you receive [!DNL Slack] approval, return to Experience Cloud **[!UICONTROL Notifications]** and [subscribe to Slack](#slack-notifications) (described above).
+
 ### What you will see in [!DNL Slack]
 
-Slack notifications display the following information:
+After successfully integrating Slack, the Slack notifications display the following information:
 
 * The personal message will be received from the application name _Adobe Experience Cloud_.
 * The message includes the product logo for the particular application, such as Adobe Experience Platform, Adobe Experience Manager, and so on.
