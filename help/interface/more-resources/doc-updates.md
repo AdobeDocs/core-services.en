@@ -12,6 +12,10 @@ exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
 
 Information about updates to Experience Cloud product documentation.
 
+<!-- **9 September 2024**
+
+Added help about [subscribing to Slack notifications](../features/account-preferences.md#subscribe-to-slack-notifications). -->
+
 **26 April 2024**
 
 Full revamp of the documentation architecture. Also added [Adobe Experience Cloud IP addresses](../data-collection/ip-addresses.md) and [Regional data collection](../data-collection/rdc.md).

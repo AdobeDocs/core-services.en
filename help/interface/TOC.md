@@ -41,14 +41,15 @@ index: yes
   + [Triggers](services/triggers.md)
 
 + Features {#features}
-  + [Account preferences](features/account-preferences.md)
+  + [Notifications and account preferences](features/account-preferences.md)
   + [Unified search](features/search.md)
   + [Personalized Learning](features/personalized-learning.md)
+  + [Browser and language support](browser-language.md)
 
 + Administration {#administration}
   + [View user details (Admin Tool)](administration/admin-tool-experience-cloud.md)
   + [Organizations and account linking](administration/organizations.md)
-  + [Integrations](administration/integrations.md)
+  + [Experience Cloud integrations](administration/integrations.md)
   
 + Data collection {#data-collection}
   + [Adobe-managed certificate program](data-collection/adobe-managed-cert.md)
