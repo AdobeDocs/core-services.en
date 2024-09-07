@@ -85,7 +85,7 @@ You can configure your account preferences to send Experience Cloud notification
 
 ### Request permission in Slack {#slack-troubleshoot}
 
-If [!DNL Slack] is not installed, a _Request to install_ message displays when Slack opens after you click **[!UICONTROL Add to Slack]**.
+If [!DNL Slack] is not installed, a _[!UICONTROL Request to install]_ message displays when Slack opens after you click **[!UICONTROL Add to Slack]**.
 
    ![Request Slack Integration](../assets/slack-request.png)
 
