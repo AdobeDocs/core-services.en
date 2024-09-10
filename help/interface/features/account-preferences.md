@@ -52,10 +52,6 @@ Email and Slack notifications are useful for situations when you are not signed 
 
 ### Subscribe to [!DNL Slack] notifications {#slack}
 
->[!NOTE]
->
->[!DNL Slack] notifications will release: **September 11, 2024**
-
 You can configure your account preferences to send Experience Cloud notifications to a [!DNL Slack] channel. 
 
 **Prerequisites**
