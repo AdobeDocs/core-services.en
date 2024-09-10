@@ -18,7 +18,7 @@ For a list of documentation updates, see [Documentation updates](doc-updates.md)
 
 For release notes covering all applications, see [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html).
 
-## September 2, 2024
+## September 10, 2024
 
 | Feature    | Description  |
 | -----------| ---------- |
