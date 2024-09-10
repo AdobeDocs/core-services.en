@@ -40,7 +40,7 @@ On [!UICONTROL Experience Cloud preferences], you can configure the following fe
 
 You can select the products and categories to which you would like to subscribe. Notifications appear in the [!UICONTROL Notifications] popover (in-app), or in your email, or in [Slack](#slack-notifications) (depending on your subscriptions).
 
-Email and Slack notifications are useful for situations when you are not signed in to Experience Cloud.
+Email and Slack notifications are useful for situations when you are not signed in to Experience Cloud. 
 
 ### Subscribe to in-app and email notifications
 
