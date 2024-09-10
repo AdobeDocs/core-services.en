@@ -6,6 +6,7 @@ feature: Account Preferences
 topic: Administration
 role: Admin
 level: Intermediate
+exl-id: cc44008e-8b8a-4afb-b692-0ef9b87d5b21
 ---
 # Browser support in Experience Cloud {#browser}
 
