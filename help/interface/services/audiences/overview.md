@@ -57,6 +57,7 @@ The [!DNL Experience Cloud] provides a library for creating and managing audienc
 
 ![Add audience in Audience Library](assets/audience_library.png) 
 
+
 | Element | Description |
 |--- |--- |
 |New|[Create an audience](create.md).|
