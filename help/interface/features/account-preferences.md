@@ -10,31 +10,17 @@ exl-id: 1e34c6b2-a792-41c4-adb7-583de596237f
 ---
 # Account preferences and notifications {#preferences}
 
-Experience Cloud [preferences](https://experience.adobe.com/preferences) include notifications (in-app, email, and [!DNL Slack]), subscriptions, and alerts. 
+To find Experience Cloud preferences, click your **[!UICONTROL User Account]** ![preferences](../assets/preferences-icon-sm.png) icon, then click **[!UICONTROL Preferences]**.
 
-In preferences, you can:
-
-* Search for [Organizations](../administration/organizations.md)
-* Specify a dark theme (not all applications support this theme).
-* Configure account preferences, notifications, and subscriptions for users.
-* Sign out of Experience Cloud.
-
-## Manage preferences
-
-To manage preferences, select **[!UICONTROL Preferences]** from your account menu ![preferences](../assets/preferences-icon-sm.png).
-
-On [!UICONTROL Experience Cloud preferences], you can configure the following features:
+On the [!UICONTROL Experience Cloud preferences] page, you can manage the following account features:
 
 | Feature | Description |
 |--- |--- |
-|Default [organization](../administration/organizations.md)|Select the organization that you want to see when you launch Experience Cloud. |
+|Profile|Update your [Adobe Account Profile](https://account.adobe.com/profile). <p>Your profile photo and name appear when you log in to Adobe.com, Adobe products and services, and on public-facing sites like [!DNL Behance].|
+|General|Select an [organization](../administration/organizations.md).<p>This organization is the default one used when you sign-in to Experience Cloud. |
 |[!UICONTROL Product data collection]|Select which technologies Adobe can use to collect data on how you use your Adobe products. |
-|[Notifications](#notifications-and-announcements)| Enable [!UICONTROL in-app], [!UICONTROL email], or [Slack](#slack-notifications) notifications. |
+|Notifications| Configure how and when you would like product [notifications](#subscribe-to-notifications-in-experience-cloud) and alerts: <ul><li>Select the products to which you want to subscribe for alerts</li><li>Configure the type of notification ([!UICONTROL in-app], [!UICONTROL email], or [Slack](#slack-notifications))</li><li>Specify the frequency at which you would like to receive notification emails. (Not sent, instant, daily, or weekly.)</li><li>Determine the alert priority. In-app alerts appear in the top-right corner of your window for a few seconds. Or, you can specify whether alerts should display until you dismiss them.</li></ul>|
 |[!UICONTROL Personalized learning recommendations and promotions]|Select where you would like to receive [personalized help](personalized-learning.md) for your Adobe products. This help is available via email, in-product, and the Experience League Communities. |
-|[!UICONTROL Subscriptions]|Select the products and categories to which you would like to subscribe. Notifications in the [!UICONTROL Notifications] popover and in your email.|
-|[!UICONTROL Priority]|Select the categories that you want to be considered high priority. These categories are marked with a [!UICONTROL High] tag and can be configured for delivery like alerts.|
-|[!UICONTROL Alerts]|Select the notifications for which you would like to see alerts displayed in your browser. Alerts appear in the top-right corner of your window for a few seconds.|
-|Emails|Specify the frequency at which you would like to receive notification emails. (Not sent, instant, daily, or weekly.)|
 
 ## Subscribe to notifications in Experience Cloud {#notifications}
 
