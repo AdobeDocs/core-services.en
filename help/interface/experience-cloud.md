@@ -16,10 +16,10 @@ exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
 
 From Experience Cloud's header, you can:
 
-* Access your applications and services
+* Access all your Experience Cloud applications and services
 * From the Help menu, search for product documentation, tutorials, and community posts. View results in Experience League.
 * Globally search business objects using a global search (Experience Platform users only) in the Search field.
-* Manage your account preferences (alerts, notifications, and subscriptions)
+* Manage your account [preferences](features/account-preferences.md) (alerts, notifications, and subscriptions)
 
 ## Sign in to Experience Cloud {#signin}
 
@@ -62,35 +62,21 @@ The [!UICONTROL Help] menu also gives you access to:
 * **[!UICONTROL Status]:** Navigate to `https://status.adobe.com/experience_cloud` and check product operational status and [!UICONTROL Manage Subscriptions].
 * **[!UICONTROL Developer Connection]:** Navigation to `adobe.io` and find developer documentation.
 
-## User profile and account preferences {#preferences}
+## Manage your user profile
 
-Experience Cloud preferences include notifications, subscriptions, and alerts. In the account preferences menu, you can:
+In the user profile menu, you can:
 
 * Specify a dark theme (not all applications support this theme)
-* Search for [Organizations](administration/organizations.md)
+* Manage Experience Cloud [Preferences](features/account-preferences.md)
+* Select or search for an [Organization](administration/organizations.md)
+* View [!UICONTROL Legal Notices]
 * Sign out
 * Configure account preferences, notifications, and subscriptions
 
-To manage preferences, select **[!UICONTROL Preferences]** from your account menu ![preferences](assets/preferences-icon-sm.png).
+## View in-product notifications and announcements {#notifications}
 
-![User profile and account preferences](assets/preferences-page.png)
-
-On [!UICONTROL Experience Cloud preferences], you can configure the following features:
-
-| Feature | Description |
-|--- |--- |
-|Default [organization](administration/organizations.md)|Select the organization that you want to see when you launch Experience Cloud. |
-|[!UICONTROL Product data collection]|Select which technologies Adobe can use to collect data on how you use your Adobe products. |
-|[!UICONTROL Personalized learning recommendations and promotions]|Select where you would like to receive personalized help for your Adobe product(s). This help is available via email, in-product, and the Experience League Communities. [Learn more.](features/personalized-learning.md) |
-|[!UICONTROL Subscriptions]|Select the products and categories to which you would like to subscribe. Notifications in the [!UICONTROL Notifications] pop-over and in your email.|
-|[!UICONTROL Priority]|Select the categories that you want to be considered high priority. These categories are marked with a High tag and can be configured for delivery like alerts.|
-|[!UICONTROL Alerts]|Select the notifications for which you would like to see alerts displayed in your browser. Alerts appear in the top-right corner of your window for a few seconds.|
-|Emails|Specify the frequency at which you would like to receive notification emails. (Not sent, instant, daily, or weekly.)|
-
-{style="table-layout:auto"}
-
-## Notifications and Announcements {#notifications}
-
-Select **[!UICONTROL Notifications]** to be alerted about relevant and actionable updates, including product releases, maintenance notices, shared items, and approval requests.
+Click the bell icon to view notifications and announcements. Announcements can be relevant and actionable updates, including product releases, maintenance notices, shared items, and approval requests.
 
 ![Notifications and Announcements](assets/notifications-menu-small.png)
+
+To manage notifications and alerts, see [Account preferences and notifications](features/account-preferences.md)
