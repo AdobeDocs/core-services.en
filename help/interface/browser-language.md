@@ -30,9 +30,9 @@ Experience Cloud supports preferred languages for each user, as well as a second
 
 To view supported languages:
 
-1. In Experience Cloud, navigate to **[!UICONTROL Profile]** > [Preferences](https://experience.adobe.com/preferences).
+1. In Experience Cloud, click **[!UICONTROL Profile]** > [Preferences](https://experience.adobe.com/preferences).
 
-1. In your [!UICONTROL Profile], click the language link.
+1. Under **[!UICONTROL Profile]**, click the language link.
 
 1. On **[!UICONTROL Select language]**, select a language from the **[!UICONTROL First language]** menu.
 

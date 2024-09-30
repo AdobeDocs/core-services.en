@@ -17,7 +17,7 @@ The organization functions like a log-in company that spans all Experience Cloud
 
 ![Experience Cloud Organizations](../assets/organizations-menu.png)
 
-To verify that you have logged in to your correct organization, click on your profile avatar to see the organization name. If you have access to more than one organization, you can also view and switch to another organization in the header bar. 
+To verify that you have logged in to your correct organization, click **[!UICONTROL Profile]** to see the default organization name. If you have access to more than one organization, you can also view and switch to another organization in the header bar. 
 
 ## Federated IDs
 
@@ -27,7 +27,7 @@ For example, for an organization with Federated IDs and the domain `adobecustome
 
 ## View your organization ID {#concept_EA8AEE5B02CF46ACBDAD6A8508646255}
 
-You can locate your assigned organization ID for support purposes. You can verify that you are in the correct organization, or switch between organizations, using the **[!UICONTROL Organization]** menu.
+You can locate your assigned organization ID for support purposes. You can verify that you are in the correct organization, or switch between organizations, using the **[!UICONTROL Organization]** selector in the header.
 
 The organization ID is the ID associated with your provisioned Experience Cloud company. This ID is a 24-character alphanumeric string, followed by (and must include) `@AdobeOrg`.
 
@@ -59,31 +59,30 @@ Typically, Experience Cloud administrators grant access to applications and serv
 
 1. Log in using your Adobe ID or Enterprise ID.
 
-1. Select the application selector. ( ![menu](../assets/menu-icon.png)).
+1. Click the **[!UICONTROL Application selector]**. ( ![menu](../assets/menu-icon.png)).
 
    ![Link an application account to an Adobe ID](../assets/solutions-active.png)
 
    The applications to which you have access are colored.
    
-1. Select the desired application.
+1. Click the desired application.
 
-   ![Select the desired application](../assets/analytics-link-accounts.png)
+   ![Click your application](../assets/analytics-link-accounts.png)
 
    This type of message displays if you are part of the appropriate group (and have permission to the application) but have not yet linked your account credentials to your Adobe ID.
 
-1. Select **[!UICONTROL Link Account]**, then provide your credentials.
+1. Click **[!UICONTROL Link Account]**, then provide your credentials.
 
-## Specify a default organization and landing page {#concept_6A191B42A9874A9780882903BA18F071}
+## Specify a default organization {#concept_6A191B42A9874A9780882903BA18F071}
 
-You can specify a default organization and landing page to use when you log in.
+You can specify a default organization to use when you log in.
 
-In your profile, select **[!UICONTROL Edit Profile]**.
+1. In the header, click **[!UICONTROL Profile]**, then click Preferences.
+
+1. Under [!UICONTROL General], select a default organization.
+
 
 ![Edit Profile](../assets/edit-profile.png)
-
-Under **[!UICONTROL Default Organization & Landing Page]**, you can customize your log-in experience.
-
-![Default Organization & Landing Page](../assets/default-organization.png)
 
 ## Troubleshoot account linking issues {#concept_DFCB29A3B4834FC59AA29E0BBA301584}
 

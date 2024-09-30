@@ -10,7 +10,7 @@ exl-id: 1e34c6b2-a792-41c4-adb7-583de596237f
 ---
 # Account preferences and notifications {#preferences}
 
-To find Experience Cloud preferences, click your **[!UICONTROL User Account]** ![preferences](../assets/preferences-icon-sm.png) icon in the header, then click **[!UICONTROL Preferences]**.
+To find Experience Cloud preferences, click **[!UICONTROL Profile]** ![preferences](../assets/preferences-icon-sm.png) in the header, then click **[!UICONTROL Preferences]**.
 
 ![preferences](../assets/preferences-navigation.png){width="100" zoomable="yes"}
 

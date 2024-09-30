@@ -35,7 +35,7 @@ Sign in and verify that you are in the right [organization](administration/organ
 
     **Verify your organization**
 
-    To verify that you have logged in to your correct [organization](administration/organizations.md), click on your profile avatar to see organization name. If you have access to more than one organization, you can also view and switch to another organization right in the header bar. 
+    The [organization](administration/organizations.md) is displayed in the interface header.
 
     If your organization uses Federated IDs, Experience Cloud allows you to sign in with your organization's single sign-on without being required to enter your email address and password. Add `#/sso:@domain` to the Experience Cloud URL (`https://experience.adobe.com`) to accomplish this task.
     
@@ -51,7 +51,7 @@ To access Experience Cloud applications and services provisioned for you within 
 
 ## Get help and support {#support}
 
-Access learning and help using the Help icon (![asset](assets/help-icon.png)) in the header, including help content (documentation, tutorials, and courses) on [Experience League](https://experienceleague.adobe.com/#home), as well as additional resources for individual applications. You can also submit open-ended feedback and create prioritized support tickets.
+Access learning and help using the **[!UICONTROL Help center]** (![asset](assets/help-icon.png)) in the header, including help content (documentation, tutorials, and courses) on [Experience League](https://experienceleague.adobe.com/#home), as well as additional resources for individual applications. You can also submit open-ended feedback and create prioritized support tickets.
 
 ![Get help and support](assets/search-menu.png)
 
@@ -64,7 +64,7 @@ The [!UICONTROL Help] menu also gives you access to:
 
 ## Manage your user profile
 
-In the user profile menu, you can:
+In the [!UICONTROL Profile] menu, you can:
 
 * Specify a dark theme (not all applications support this theme)
 * Manage Experience Cloud [Preferences](features/account-preferences.md)

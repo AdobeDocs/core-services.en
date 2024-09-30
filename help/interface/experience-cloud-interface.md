@@ -58,7 +58,7 @@ Sign in and verify that you are in the right [organization](organizations.md).
 
     ![Verify your organization](assets/organizations-menu.png)
 
-    To verify that you have logged in to your correct [organization](organizations.md), click on your profile avatar to see organization name. If you have access to more than one organization, you can also view and switch to another organization right in the header bar. 
+    To verify that you have logged in to your correct [organization](organizations.md), click **[!UICONTROL Profile]** to see organization name. If you have access to more than one organization, you can also view and switch to another organization using the **[!UICONTROL Organization]** selector. 
 
     If your organization uses Federated IDs, Experience Cloud allows you to sign in with your organization's single sign-on without being required to enter your email address and password. Add `#/sso:@domain` to the Experience Cloud URL (`https://experience.adobe.com`) to accomplish this task.
     

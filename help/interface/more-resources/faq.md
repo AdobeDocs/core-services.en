@@ -81,7 +81,13 @@ Provisioning in Experience Cloud means:
 
 +++
 
-+++How do I manage users and product profiles?
++++How do I manage user preferences, notifications, and alerts?
+
+* See [Account preferences and notifications](/help/interface/features/account-preferences.md) 
+
++++
+
++++How do I manage product profiles and user account credentials?
 
 * See the [Admin Console User Guide](https://helpx.adobe.com/enterprise/admin-guide.html) for help.
 
