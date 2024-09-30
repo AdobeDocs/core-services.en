@@ -16,7 +16,7 @@ Information about updates to Experience Cloud product documentation.
 
 Added help about [subscribing to Slack notifications](../features/account-preferences.md#subscribe-to-slack-notifications).
 
-Updated [user preferences]((../features/account-preferences.md#subscribe-to-slack-notifications)).
+Updated [user preferences](../features/account-preferences.md).
 
 **26 April 2024**
 
