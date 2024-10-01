@@ -1,0 +1,186 @@
+---
+description: Learn about central interface components for Experience Cloud. Get help on user and product administration in the Admin Console, enable applications for Experience Cloud services. Get help on Audience Library, Customer Attributes, Experience Cloud Assets, and more.
+title: Experience Cloud Interface Documentation
+uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
+feature: Central Interface Components
+topic: Administration
+role: Admin
+level: Experienced
+exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
+---
+# Experience Cloud central interface overview
+
+[Experience Cloud](https://experience.adobe.com) is Adobe's integrated family of digital marketing applications, products, and services. From its intuitive interface, you can quickly access your cloud applications, product features, and services.
+
+![Experience Cloud](assets/landing.png)
+
+From Experience Cloud's header, you can:
+
+* Access all your Experience Cloud applications and services
+* From the Help menu, search for product documentation, tutorials, and community posts. View results in Experience League.
+* Globally search business objects using a global search (Experience Platform users only) in the Search field.
+* Manage your account [preferences](features/account-preferences.md) (alerts, notifications, and subscriptions)
+
+## Sign in to Experience Cloud {#signin}
+
+Sign in and verify that you are in the right [organization](administration/organizations.md).
+
+1. Navigate to [Adobe Experience Cloud](https://experience.adobe.com).
+1. Type your Adobe email address, then select **[!UICONTROL Continue]**.
+1. Select an account. 
+1. Type your password.
+1. Verify that you are in the right organization.
+
+    ![Verify that you are in the right organization](assets/organizations-menu.png)
+
+    **Verify your organization**
+
+    The [organization](administration/organizations.md) is displayed in the interface header.
+
+    If your organization uses Federated IDs, Experience Cloud allows you to sign in with your organization's single sign-on without being required to enter your email address and password. Add `#/sso:@domain` to the Experience Cloud URL (`https://experience.adobe.com`) to accomplish this task.
+    
+    For example, for an organization with Federated IDs and the domain `adobecustomer.com`, set your URL link to `https://experience.adobe.com/#/sso:@adobecustomer.com`. You can also go directly to a specific application by bookmarking this URL, appended with the application path. (For example, for Adobe Analytics, `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.)
+
+## Access Experience Cloud applications {#navigation}
+
+After signing in to Experience Cloud, you can quickly access all your applications, services, and organizations from the unified header.
+
+To access Experience Cloud applications and services provisioned for you within your organization, go the application selector ![menu](assets/menu-icon.png).
+
+![Access Experience Cloud applications](assets/platform-core-services.png)
+
+## Get help and support {#support}
+
+Access learning and help using the **[!UICONTROL Help center]** (![asset](assets/help-icon.png)) in the header, including help content (documentation, tutorials, and courses) on [Experience League](https://experienceleague.adobe.com/#home), as well as additional resources for individual applications. You can also submit open-ended feedback and create prioritized support tickets.
+
+![Get help and support](assets/search-menu.png)
+
+The [!UICONTROL Help] menu also gives you access to:
+
+* **[!UICONTROL Support]:** Create a support ticket or contact [!UICONTROL Support] using Twitter.
+* **[!UICONTROL Feedback]:** Share feedback about your Experience Cloud experience. Your feedback is used to improve Adobe's products and services.
+* **[!UICONTROL Status]:** Navigate to `https://status.adobe.com/experience_cloud` and check product operational status and [!UICONTROL Manage Subscriptions].
+* **[!UICONTROL Developer Connection]:** Navigation to `adobe.io` and find developer documentation.
+
+## Manage your user profile
+
+In the [!UICONTROL Profile] menu, you can:
+
+* Specify a dark theme (not all applications support this theme)
+* Manage Experience Cloud [Preferences](features/account-preferences.md)
+* Select or search for an [Organization](administration/organizations.md)
+* View [!UICONTROL Legal Notices]
+* Sign out
+* Configure account preferences, notifications, and subscriptions
+
+## View in-product notifications and announcements {#notifications}
+
+Click the bell icon to view notifications and announcements. Announcements can be relevant and actionable updates, including product releases, maintenance notices, shared items, and approval requests.
+
+![Notifications and Announcements](assets/notifications-menu-small.png)
+
+To manage notifications and alerts, see [Account preferences and notifications](features/account-preferences.md)
+
+
+## What's New
+
+Learn about the latest enhancements to Experience Cloud central interface components.
+
+>[!BEGINTABS]
+
+>[!TAB Slack integration with Experience Cloud]
+
+You can configure your account preferences to send Experience Cloud notifications to a [!DNL Slack] channel. 
+
+[!BADGE Beta]{type=Informative url="https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#notifications" tooltip="Learn about Slack"}
+
+
+>[!TAB New Campaign Web User Interface] 
+
+Experience the new Adobe Campaign User Interface. More modern, intuitive and dynamic!
+
+[![image](assets/do-not-localize/learn-more-button.svg)](start/campaign-ui.md#ac-web-ui)
+
+
+>[!TAB Push channel upcoming changes] 
+
+Some important changes to the Android Firebase Cloud Messaging (FCM) service will be released in 2024, and may impact your Adobe Campaign implementation. Your subscription services configuration for Android push messages may need to be updated to support this change. You can already check and take action.
+
+[![image](assets/do-not-localize/learn-more-button.svg)](../technotes/upgrades/push-technote.md)
+
+
+
+>[!ENDTABS]
+
+## Start with the basics
+
+<table style="table-layout:fixed">
+  <tr style="border: 0;">
+    <td>
+    <a href="start/whats-new.md"><img src="assets/do-not-localize/start-capabilities.png"></a>
+    <div><strong>Key capabilities</strong><br/>Explore Adobe Campaign v8's key capabilities for cross-channel campaign management.</div>
+    </td>
+    <td>
+    <a href="start/connect.md"><img src="assets/do-not-localize/start-connect.jpeg"></a>
+    <div><strong>Connect to Campaign v8</strong><br/>Learn how to connect to Adobe Campaign v8 and kickstart your campaign management journey by installing and configuring the client console.</div><br/>
+    </td>
+    <td>
+    <a href="start/create-message.md"><img src="assets/do-not-localize/start-send.jpeg"></a>
+    <div><strong>Send messages</strong><br/>Learn how to send messages across various channels such as email, SMS, push notifications among others.
+    </div></td>
+    <td>
+    <a href="audiences/create-profiles.md"><img src="assets/do-not-localize/start-profiles.png"></a>
+    <div><strong>Import profiles</strong><br/>Explore profile creation in the Adobe Campaign v8 database with ease. Add profiles manually or through imports, refining customer data and customizing campaigns effortlessly.</div>
+    </td>
+  </tr>
+  <tr style="border: 0;">
+    <td align="center"><a href="start/whats-new.md"><img src="assets/do-not-localize/learn-more-button.svg"></a></td>
+    <td align="center"><a href="start/connect.md"><img src="assets/do-not-localize/learn-more-button.svg"></a></td>
+    <td align="center"><a href="start/create-message.md"><img src="assets/do-not-localize/learn-more-button.svg"></a></td>
+    <td align="center"><a href="audiences/create-profiles.md"><img src="assets/do-not-localize/learn-more-button.svg"></a></td>
+    </tr>
+</table>
+
+## Explore the documentation
+
+<table style="table-layout:auto">
+  <tr style="border: 0;">
+    <td>
+      <img src="assets/do-not-localize/icon-start.svg" width="35px">
+    <br/>
+      <strong>Get started</strong><br/><a href="start/campaign-ui.md">User interface</a> - <a href="start/ac-components.md">Components & processes</a> - <a href="start/v7-to-v8.md">From Classic v7 to v8</a> - <a href="start/campaign-faq.md">FAQ</a>
+    </td>
+    <td>
+      <img src="assets/do-not-localize/icon-experience.svg" width="35px">
+    <br/>
+      <strong>Customer's experience</strong><br/><a href="../automation/workflow/about-workflows.md" target="_blank">Automate with workflows</a> - <a href="../automation/campaigns/set-up-campaigns.md" target="_blank">Campaign orchestration</a> - <a href="interaction/interaction.md">Decision management</a> - <a href="send/personalize.md">Personalization</a>
+    </td>
+    <td>
+      <img src="assets/do-not-localize/icon-send.svg" width="35px">
+    <br/>
+      <strong>Send messages</strong><br/><a href="start/create-message.md">Get started</a> - <a href="send/preview-and-proof.md">Preview & proofs</a> - <a href="send/predictive.md">Send-time optimization</a> - <a href="reporting/gs-reporting.md">Reporting & analytics</a>
+    </td>
+  </tr>
+  <tr style="border: 0;">
+    <td>
+      <img src="assets/do-not-localize/icon_profile-audience.svg" width="35px">
+    <br/>
+      <strong>Profiles & audiences</strong><br/><a href="audiences/create-profiles.md">Add profiles</a> - <a href="audiences/create-audiences.md">Create audiences</a> - <a href="start/subscriptions.md">Manage subscriptions</a> - <a href="start/privacy.md">Privacy</a>
+    </td>
+    <td>
+      <img src="assets/do-not-localize/icon-configure.svg" width="35px">
+    <br/>
+      <strong>Architecture & configuration</strong><br/><a href="architecture/architecture.md">Architecture</a> - <a href="start/implement.md">Campaign v8 implementation</a> - <a href="connect/integration.md">Connect with other solutions</a> - <a href="start/gs-permissions.md">Users & permissions</a>
+    </td>
+    <td>
+      <img src="assets/do-not-localize/icon-dev.svg" width="35px">
+    <br/>
+      <strong>Developer resources</strong><br/><a href="dev/datamodel.md">Campaign v8 data model</a> - <a href="dev/schemas.md">Schemas</a> - <a href="dev/api.md">APIs</a>
+    </td>
+  </tr>
+</table> 
+
+## Additional resources
+
+[Adobe Campaign v8 Product Description](https://helpx.adobe.com/legal/product-descriptions/adobe-campaign-managed-cloud-services.html){target="_blank"} - [Adobe Campaign Web user interface documentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html){target="_blank"} - [Tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"} - [[!DNL Adobe Campaign] automation guide](https://experienceleague.adobe.com/docs/campaign/automation/home.html){target="_blank"} - [Control Panel for Campaign v8](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/key-features.html){target="_blank"}
+
