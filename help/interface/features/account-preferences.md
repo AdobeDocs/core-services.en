@@ -18,10 +18,10 @@ On the [!UICONTROL Experience Cloud preferences] page, you can manage the follow
 
 | Feature | Description |
 |--- |--- |
-|Profile|Update your [Adobe Account Profile](https://account.adobe.com/profile). <p>Your profile photo and name appear when you log in to Adobe.com, Adobe products and services, and on public-facing sites like [!DNL Behance].|
-|General|Select an [organization](../administration/organizations.md).<p>This organization is the default one used when you sign-in to Experience Cloud. |
+|[!UICONTROL Profile]|Update your [Adobe Account Profile](https://account.adobe.com/profile). <p>Your profile photo and name appear when you log in to Adobe.com, Adobe products and services, and on public-facing sites like [!DNL Behance].|
+|[!UICONTROL General]|Select an [organization](../administration/organizations.md).<p>This organization is the default one used when you sign-in to Experience Cloud. |
 |[!UICONTROL Product usage data]|Share your product usage data with Adobe when using Experience Cloud applications. Adobe uses this information to help improve our products, provide you with in-product support, and personalize your experience and communications from us. See [Product usage data](#product-usage-data) to learn more.|
-|Notifications| Configure how and when you would like product [notifications](#subscribe-to-notifications-in-experience-cloud) and alerts: <ul><li>Select the products to which you want to subscribe for alerts</li><li>Configure the type of notification ([!UICONTROL in-app], [!UICONTROL email], or [Slack](#slack-notifications))</li><li>Specify the frequency at which you would like to receive notification emails. (Not sent, instant, daily, or weekly.)</li><li>Determine the alert priority. In-app alerts appear in the top-right corner of your window for a few seconds. Or, you can specify whether alerts should display until you dismiss them.</li></ul>|
+|[!UICONTROL Notifications]| Configure how and when you would like product [notifications](#subscribe-to-notifications-in-experience-cloud) and alerts: <ul><li>Select the products to which you want to subscribe for alerts</li><li>Configure the type of notification ([!UICONTROL in-app], [!UICONTROL email], or [Slack](#slack-notifications))</li><li>Specify the frequency at which you would like to receive notification emails. (Not sent, instant, daily, or weekly.)</li><li>Determine the alert priority. In-app alerts appear in the top-right corner of your window for a few seconds. Or, you can specify whether alerts should display until you dismiss them.</li></ul>|
 
 ## [!UICONTROL Product usage data] {#product-usage-data}
 
