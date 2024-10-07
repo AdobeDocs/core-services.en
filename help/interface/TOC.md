@@ -3,7 +3,7 @@ role: User,Admin
 user-guide-title: Experience Cloud interface and administration guide
 breadcrumb-title: Experience Cloud interface and administration guide
 title: Experience Cloud Interface and Administration Guide
-description: Learn about Experience Cloud interface and user account preferences. Learn how to search for business objects, and manage users and products. Configure Customer Attributes, Audience Library, cookies, and share Experience Cloud Assets.
+description: Learn about Experience Cloud interface, cookies, and account preferences. Manage products and configure the People service, including Customer Attributes and Audience Library. Share Experience Cloud Assets.
 index: yes
 ---
 
