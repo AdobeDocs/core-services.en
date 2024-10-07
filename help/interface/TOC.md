@@ -43,7 +43,6 @@ index: yes
 + Features {#features}
   + [Notifications and account preferences](features/account-preferences.md)
   + [Unified search](features/search.md)
-  + [Personalized Learning](features/personalized-learning.md)
   + [Browser and language support](browser-language.md)
 
 + Administration {#administration}
