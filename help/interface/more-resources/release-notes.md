@@ -18,6 +18,12 @@ For a list of documentation updates, see [Documentation updates](doc-updates.md)
 
 For release notes covering all applications, see [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html).
 
+## October 2, 2024
+
+| Feature    | Description  |
+| -----------| ---------- |
+|Customizable home |On the Experience Cloud landing page, click **[!UICONTROL Edit]**. [!UICONTROL Edit] mode enables you to personalize your Experience Cloud home page with access to a widget library and custom backgrounds. [!UICONTROL Edit] mode provides seamless, intuitive controls for moving, resizing, and managing widgets, including bulk actions and layout adjustments, offering a more aesthetic and tailored experience. |
+
 ## September 10, 2024
 
 | Feature    | Description  |
