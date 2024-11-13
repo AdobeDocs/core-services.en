@@ -12,6 +12,10 @@ exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
 
 Information about updates to Experience Cloud product documentation.
 
+**November 2024**
+
+Updates to [Product usage data](../features/account-preferences.md) and [Personalized Learning](../features/personalized-learning.md).
+
 **September 2024**
 
 Added help about [subscribing to Slack notifications](../features/account-preferences.md#subscribe-to-slack-notifications).
