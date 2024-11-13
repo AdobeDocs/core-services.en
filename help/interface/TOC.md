@@ -41,8 +41,9 @@ index: yes
   + [Triggers](services/triggers.md)
 
 + Features {#features}
-  + [Notifications and account preferences](features/account-preferences.md)
+  + [Account preferences and notifications](features/account-preferences.md)
   + [Unified search](features/search.md)
+  + [Personalized learning](features/personalized-learning.md)
   + [Browser and language support](browser-language.md)
 
 + Administration {#administration}

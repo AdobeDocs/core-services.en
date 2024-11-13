@@ -18,6 +18,10 @@ For a list of documentation updates, see [Documentation updates](doc-updates.md)
 
 For release notes covering all applications, see [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html).
 
+## November 2024
+
+To make it easier to control Experience Cloud product usage data preferences, we streamlined our Experience Cloud preference page to remove duplicative options. With this simplification, we've preserved current user preferences, and customers can update their preferences at any time on [Experience Cloud preferences](https://experience.adobe.com/preferences).
+
 ## October 2, 2024
 
 | Feature    | Description  |
