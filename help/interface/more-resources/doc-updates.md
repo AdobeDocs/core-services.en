@@ -1,5 +1,5 @@
 ---
-description: Information about updates to Experience Cloud help.
+description: Learn where documentation updates occur for the common interface components of Experience Cloud.
 solution: Experience Cloud
 title: Documentation Updates
 uuid: f41c4e9f-e784-4706-8c4b-f430c953670d
@@ -8,9 +8,9 @@ role: Admin
 level: Experienced
 exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
 ---
-# Documentation updates - Experience Cloud
+# Documentation updates for Experience Cloud
 
-Information about updates to Experience Cloud product documentation.
+Learn where documentation updates occur for the central interface and administration of Experience Cloud.
 
 **November 2024**
 
