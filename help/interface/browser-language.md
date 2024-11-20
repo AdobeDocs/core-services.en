@@ -47,7 +47,7 @@ Additionally, locale-specific formatting (such as dates, times, calendars, numbe
 * Spanish (Latin America)
 * French (Canada)
 
-To view supported languages:
+**To specify a default language**
 
 1. In Experience Cloud, click **[!UICONTROL Profile]** > [Preferences](https://experience.adobe.com/preferences).
 
@@ -55,6 +55,6 @@ To view supported languages:
 
 1. On **[!UICONTROL Select language]**, select a language from the **[!UICONTROL First language]** menu.
 
-    While all application teams are committed to global language support, not all applications are offered in all languages listed in the interface. If your primary language is not supported in an Experience Cloud application, you can set a secondary language to default to when applicable.
+    While all application teams are committed to global language support, not all applications are offered in all languages listed in the interface. If your primary language is not supported in an Experience Cloud application, you can set a secondary default language when applicable.
 
 1. Click **[!UICONTROL Save]**.
