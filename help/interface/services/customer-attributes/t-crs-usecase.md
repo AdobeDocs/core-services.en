@@ -65,11 +65,15 @@ Perform these steps on the Create New Customer Attribute Source page in Experien
     
     * **[!UICONTROL Description:]** (Optional) A description of the data attribute source. 
     
-    * **[!UICONTROL Alias ID:]** Represents a source of Customer Attribute data, such as a specific CRM system. [!UICONTROL Alias ID] is a unique ID that is used in your Customer Attribute Source code. The ID should be unique, lowercase, with no spaces. The value that is entered in the [!UICONTROL Alias ID] field for a Customer Attribute source in Experience Cloud should match the values that are being passed in from the implementation (whether via Platform Data Collection or JavaScript of the Mobile SDK.) 
-    
+    * **[!UICONTROL Alias ID:]** Represents a source of Customer Attribute data, such as a specific CRM system. [!UICONTROL Alias ID] is a unique ID that is used in your [!UICONTROL Customer Attribute Source] code. The ID should be unique, lowercase, with no spaces. The value that is entered in the [!UICONTROL Alias ID] field for a Customer Attribute source in Experience Cloud should match the values that are being passed in from the implementation (whether via Platform Data Collection or JavaScript of the Mobile SDK.) 
+
+      >[!IMPORTANT]
+      >
+      >Deleting a data source associated with an Alias ID does not make the Alias ID available, as the Alias ID is saved in multiple services and used to map profiles between them.
+            
       The Alias ID corresponds to certain areas where you set additional Customer ID values. For example: 
     
-        * **Dynamic tag management:** The Alias ID corresponds to the *Integration Code* value under [!UICONTROL Customer Settings], in the [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html) tool. 
+        * **Tags:** The Alias ID corresponds to the *Integration Code* value under [!UICONTROL Customer Settings], in the [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html) tool. 
         
         * **Visitor API:** The Alias ID corresponds to the additional [Customer IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) that you can associate with each visitor. 
         
