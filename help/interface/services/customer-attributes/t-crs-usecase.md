@@ -69,7 +69,7 @@ Perform these steps on the Create New Customer Attribute Source page in Experien
 
       >[!IMPORTANT]
       >
-      >Deleting a data source associated with an Alias ID does not make that Alias ID available, as the Alias ID is saved in multiple services and used to map profiles between them.
+      >Deleting a data source associated with an Alias ID does not make the Alias ID available, as the Alias ID is saved in multiple services and used to map profiles between them.
             
       The Alias ID corresponds to certain areas where you set additional Customer ID values. For example: 
     
