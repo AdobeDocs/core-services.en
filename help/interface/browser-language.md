@@ -26,9 +26,28 @@ If your browser is not listed, it may still be supported, but it is recommended 
 
 ## Language support in Experience Cloud {#languages}
 
-Experience Cloud supports preferred languages for each user, as well as a secondary language. 
+The Experience Cloud user interface is available in the following languages:
 
-To view supported languages:
+* English (United States) 
+* French (France)
+* German (Germany)
+* Italian (Italy)
+* Spanish (Spain)
+* Portuguese (Brazil)
+* Japanese
+* Korean 
+* Chinese Traditional
+* Chinese Simplified
+
+Additionally, locale-specific formatting (such as dates, times, calendars, numbers) may also be available in variants of the languages supported by the user interface:
+
+* English (Israel)
+* English (United Kingdom)
+* Spanish (Mexico)
+* Spanish (Latin America)
+* French (Canada)
+
+**To specify a default language**
 
 1. In Experience Cloud, click **[!UICONTROL Profile]** > [Preferences](https://experience.adobe.com/preferences).
 
@@ -36,6 +55,6 @@ To view supported languages:
 
 1. On **[!UICONTROL Select language]**, select a language from the **[!UICONTROL First language]** menu.
 
-    While all application teams are committed to global language support, not all applications are offered in all languages noted above. If your primary language is not supported in an Experience Cloud application, you can also set a secondary language to default to when applicable.
+    While all application teams are committed to global language support, not all applications are offered in all languages listed in the interface. If your primary language is not supported in an Experience Cloud application, you can set a secondary default language when applicable.
 
 1. Click **[!UICONTROL Save]**.
