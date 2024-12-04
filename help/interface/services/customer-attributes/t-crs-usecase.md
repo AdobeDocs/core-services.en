@@ -74,7 +74,7 @@ Perform these steps on the Create New Customer Attribute Source page in Experien
       The Alias ID corresponds to certain areas where you set additional Customer ID values. For example: 
     
         * **Tags:** The Alias ID corresponds to the *Integration Code* value under [!UICONTROL Customer Settings], in the [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html) tool. 
-        
+
         * **Visitor API:** The Alias ID corresponds to the additional [Customer IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) that you can associate with each visitor. 
         
           For example, *"crm_id"* in: 
@@ -102,7 +102,6 @@ Perform these steps on the Create New Customer Attribute Source page in Experien
       >[!IMPORTANT]
       >
       >Specific data file requirements exist. See [Data File Requirements](crs-data-file.md) for more information. 
-
     
       After uploading the file, table data is displayed under the [!UICONTROL File Upload] heading on this page. You can validate the schema, configure subscriptions, or set up the FTP. 
     
