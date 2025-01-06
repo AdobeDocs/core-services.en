@@ -1,6 +1,6 @@
 ---
 title: Account Preferences and Notifications
-description: Learn about user profiles and account preferences in Experience Cloud. Subscribe to product notifications for email and [!DNL Slack], and set up product alerts.
+description: Learn about user profiles, account preferences, and product usage data in Experience Cloud. Subscribe to product notifications for email and [!DNL Slack], and set up product alerts.
 solution: Experience Cloud
 feature: Account Preferences, Notifications, Alerts
 topic: Administration
@@ -18,11 +18,23 @@ On the [!UICONTROL Experience Cloud preferences] page, you can manage the follow
 
 | Feature | Description |
 |--- |--- |
-|Profile|Update your [Adobe Account Profile](https://account.adobe.com/profile). <p>Your profile photo and name appear when you log in to Adobe.com, Adobe products and services, and on public-facing sites like [!DNL Behance].|
-|General|Select an [organization](../administration/organizations.md).<p>This organization is the default one used when you sign-in to Experience Cloud. |
-|[!UICONTROL Product data collection]|Select which technologies Adobe can use to collect data on how you use your Adobe products. |
-|Notifications| Configure how and when you would like product [notifications](#subscribe-to-notifications-in-experience-cloud) and alerts: <ul><li>Select the products to which you want to subscribe for alerts</li><li>Configure the type of notification ([!UICONTROL in-app], [!UICONTROL email], or [Slack](#slack-notifications))</li><li>Specify the frequency at which you would like to receive notification emails. (Not sent, instant, daily, or weekly.)</li><li>Determine the alert priority. In-app alerts appear in the top-right corner of your window for a few seconds. Or, you can specify whether alerts should display until you dismiss them.</li></ul>|
-|[!UICONTROL Personalized learning recommendations and promotions]|Select where you would like to receive [personalized help](personalized-learning.md) for your Adobe products. This help is available via email, in-product, and the Experience League Communities. |
+|[!UICONTROL Profile]|Update your [Adobe Account Profile](https://account.adobe.com/profile). <p>Your profile photo and name appear when you log in to Adobe.com, Adobe products and services, and on public-facing sites like [!DNL Behance].|
+|[!UICONTROL General]|Select an [organization](../administration/organizations.md).<p>This organization is the default one used when you sign-in to Experience Cloud. |
+|[!UICONTROL Product usage data]| You can control what product usage data is shared with Adobe when using Experience Cloud applications. This is data about how you use our products, not your organization's content or data itself. Adobe uses this information to help improve our products, provide you with enhanced in-product support, and to personalize your experience and communications from us. <p>To learn more, see [Product usage data](#product-usage-data) (on this page).|
+|[!UICONTROL Notifications]| Configure how and when you would like product [notifications](#subscribe-to-notifications-in-experience-cloud) and alerts: <ul><li>Select the products to which you want to subscribe for alerts</li><li>Configure the type of notification ([!UICONTROL in-app], [!UICONTROL email], or [Slack](#slack-notifications))</li><li>Specify the frequency at which you would like to receive notification emails. (Not sent, instant, daily, or weekly.)</li><li>Determine the alert priority. In-app alerts appear in the top-right corner of your window for a few seconds. Or, you can specify whether alerts should display until you dismiss them.</li></ul>|
+
+## [!UICONTROL Product usage data] {#product-usage-data}
+
+Product usage data that you choose to share with Adobe includes the following types of information about how you use and interact with Adobe applications:
+
+* Browser and device information, such as device model and operating system, software and hardware information, browser and device settings, unique identifiers (such as IP address, cookie ID, or device ID), amount of memory installed, language settings, and screen resolution;
+* How you interact with Adobe Experience Cloud apps, including the features you use and the options you select;
+* Adobe product information, such as version number;
+* Information about your content and documents such as number of pages and unique identifiers, but not the content itself;
+* Content usage information such as how many times you access content and how you interact with your content within the app;
+* Crash and error logs.
+
+Adobe uses this information to help improve our products, provide you with support both in-product and via customer care, and to personalize your experience and communications from us. Learn more about [personalized experiences](personalized-learning.md).
 
 ## Subscribe to notifications in Experience Cloud {#notifications}
 
