@@ -18,9 +18,12 @@ For a list of documentation updates, see [Documentation updates](doc-updates.md)
 
 For release notes covering all applications, see [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html).
 
-## November 2024
+## January 2025
 
-To make it easier to control Experience Cloud product usage data preferences, we streamlined our Experience Cloud preference page to remove duplicative options. With this simplification, we've preserved current user preferences, and customers can update their preferences at any time on [Experience Cloud preferences](https://experience.adobe.com/preferences).
+| Date | Feature    | Description  |
+| -----------| -----------| ---------- |
+| January 9 |Product usage data |To make it easier to control Experience Cloud product usage data preferences, we streamlined our Experience Cloud [Preferences](../features/account-preferences.md#product-usage-data) page to remove duplicative options. With this simplification, we've preserved current user preferences, and you can update your preferences at any time on [Experience Cloud preferences](https://experience.adobe.com/preferences). |
+| January 30 (planned release date) |Spectrum 2 |The Experience Cloud application frame, which includes the header bar and component accessed from the header bar, as well as left navigation rail for certain applications will be updated to Spectrum 2, Adobe's latest design system. This refreshed design includes updated iconography, but the same functionality. However, several elements in the header are re-positioned to align with other Adobe sites and applications. |
 
 ## October 2, 2024
 
