@@ -12,7 +12,7 @@ exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
 
 [Experience Cloud](https://experience.adobe.com) is Adobe's integrated family of digital marketing applications, products, and services. From its intuitive interface, you can quickly access your cloud applications, product features, and services.
 
-![Experience Cloud](assets/landing.png)
+![Experience Cloud](assets/landing.png){width="100" zoomable="yes"}
 
 From Experience Cloud's header, you can:
 
@@ -31,7 +31,7 @@ Sign in and verify that you are in the right [organization](administration/organ
 1. Type your password.
 1. Verify that you are in the right organization.
 
-   ![Verify that you are in the right organization](assets/organizations-menu.png)
+   ![Verify that you are in the right organization](assets/organizations-menu.png){width="100" zoomable="yes"}
 
    **Verify your organization**
 
@@ -47,13 +47,13 @@ After signing in to Experience Cloud, you can quickly access all your applicatio
 
 To access Experience Cloud applications and services provisioned for you within your organization, go the application selector ![menu](assets/apps-icon.png).
 
-![Access Experience Cloud applications](assets/platform-core-services.png)
+![Access Experience Cloud applications](assets/platform-core-services.png){width="100" zoomable="yes"}
 
 ## Get help and support {#support}
 
 Access learning and help using the **[!UICONTROL Help center]** (![asset](assets/help-icon.png)) in the header, including help content (documentation, tutorials, and courses) on [Experience League](https://experienceleague.adobe.com/#home), as well as additional resources for individual applications. You can also submit open-ended feedback and create prioritized support tickets.
 
-![Get help and support](assets/search-menu.png)
+![Get help and support](assets/search-menu.png){width="100" zoomable="yes"}
 
 The [!UICONTROL Help] menu also gives you access to:
 
@@ -77,6 +77,6 @@ In the [!UICONTROL Profile] menu, you can:
 
 Click the bell icon to view notifications and announcements. Announcements can be relevant and actionable updates, including product releases, maintenance notices, shared items, and approval requests.
 
-![Notifications and Announcements](assets/notifications-menu-small.png)
+![Notifications and Announcements](assets/notifications-menu-small.png){width="100" zoomable="yes"}
 
 To manage notifications and alerts, see [Account preferences and notifications](features/account-preferences.md)
