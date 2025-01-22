@@ -31,21 +31,21 @@ Sign in and verify that you are in the right [organization](administration/organ
 1. Type your password.
 1. Verify that you are in the right organization.
 
-    ![Verify that you are in the right organization](assets/organizations-menu.png)
+   ![Verify that you are in the right organization](assets/organizations-menu.png)
 
-    **Verify your organization**
+   **Verify your organization**
 
-    The [organization](administration/organizations.md) is displayed in the interface header.
+   The [organization](administration/organizations.md) is displayed in the interface header.
 
-    If your organization uses Federated IDs, Experience Cloud allows you to sign in with your organization's single sign-on without being required to enter your email address and password. Add `#/sso:@domain` to the Experience Cloud URL (`https://experience.adobe.com`) to accomplish this task.
+   If your organization uses Federated IDs, Experience Cloud allows you to sign in with your organization's single sign-on without being required to enter your email address and password. Add `#/sso:@domain` to the Experience Cloud URL (`https://experience.adobe.com`) to accomplish this task.
     
-    For example, for an organization with Federated IDs and the domain `adobecustomer.com`, set your URL link to `https://experience.adobe.com/#/sso:@adobecustomer.com`. You can also go directly to a specific application by bookmarking this URL, appended with the application path. (For example, for Adobe Analytics, `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.)
+   For example, for an organization with Federated IDs and the domain `adobecustomer.com`, set your URL link to `https://experience.adobe.com/#/sso:@adobecustomer.com`. You can also go directly to a specific application by bookmarking this URL, appended with the application path. (For example, for Adobe Analytics, `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.)
 
 ## Access Experience Cloud applications {#navigation}
 
 After signing in to Experience Cloud, you can quickly access all your applications, services, and organizations from the unified header.
 
-To access Experience Cloud applications and services provisioned for you within your organization, go the application selector ![menu](assets/menu-icon.png).
+To access Experience Cloud applications and services provisioned for you within your organization, go the application selector ![menu](assets/apps-icon.png).
 
 ![Access Experience Cloud applications](assets/platform-core-services.png)
 
