@@ -53,7 +53,7 @@ While all application team are committed to global language support, not all app
 Sign in and verify that you are in the right [organization](organizations.md).
 
 1. Navigate to [Adobe Experience Cloud](https://experience.adobe.com).
-1. Select **[!UICONTROL Sign in with an Adobe ID]**.
+1. Click **[!UICONTROL Sign in with an Adobe ID]**.
 1. Verify that you are in the right organization.
 
     ![Verify your organization](assets/organizations-menu.png)
@@ -68,7 +68,7 @@ Sign in and verify that you are in the right [organization](organizations.md).
 
 After signing in to Experience Cloud, you can quickly access all your applications, services, and organizations from the unified header.
 
-Select the application selector ![menu](assets/menu-icon.png) to access Experience Cloud services that you own.
+Click the application selector ![menu](assets/menu-icon.png) to access Experience Cloud services that you own.
 
 ![Access Experience Cloud applications](assets/platform-core-services.png)
 
@@ -98,7 +98,7 @@ In the account preferences menu, you can:
 
 Experience Cloud preferences include notifications, subscriptions, and alerts. 
 
-Select **[!UICONTROL Preferences]** from your account menu ![preferences](assets/preferences-icon-sm.png) to manage preferences.
+* Click **[!UICONTROL Preferences]** from your account menu ![preferences](assets/preferences-icon-sm.png) to manage preferences.
 
 ![Manage Experience Cloud](assets/preferences-page.png)
 
@@ -116,7 +116,7 @@ On [!UICONTROL Experience Cloud preferences], you can configure the following fe
 
 ## Notifications and Announcements {#notifications}
 
-Select **[!UICONTROL Notifications]** to see notifications that are important to you, and announcements from Adobe.
+Click **[!UICONTROL Notifications]** to see notifications that are important to you, and announcements from Adobe.
 
 ![Notifications and Announcements](assets/notifications-menu-small.png)
 

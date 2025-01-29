@@ -38,8 +38,8 @@ The following example shows how to create the rules for a composite audience. Th
 
 **To create an audience**
 
-1. In the [!DNL Experience Cloud], under [!DNL Experience Platform], select **[!UICONTROL People]** > **[!UICONTROL Audience Library].**
-1. On the [!UICONTROL Audiences] page, select **[!UICONTROL New]**. ![add](assets/add_icon_small.png)
+1. In the [!DNL Experience Cloud], under [!DNL Experience Platform], click **[!UICONTROL People]** > **[!UICONTROL Audience Library].**
+1. On the [!UICONTROL Audiences] page, click **[!UICONTROL New]**. ![add](assets/add_icon_small.png)
 
    ![Step Result](assets/audience_create_new.png)
 
@@ -53,7 +53,7 @@ The following example shows how to create the rules for a composite audience. Th
 
    * **[!UICONTROL Experience Cloud:]** Attribute data derived from the [!DNL Experience Cloud] sources. For example, this can be data from audience segments you create in [!DNL Analytics], or data from [!DNL Audience Manager].
 
-1. Define audience rules, then select **[!UICONTROL Save].**
+1. Define audience rules, then click **[!UICONTROL Save].**
 
 >[!NOTE]
 >
