@@ -31,7 +31,7 @@ Using assets improves consistency and brand compliance, and speeds time to marke
 
 ## Access the toolbar {#section_EC2E401D225148818F3753248556BE6B}
 
-Navigate to an asset (or asset directory), then select **[!UICONTROL Select]**. 
+Navigate to an asset (or asset directory), then click **[!UICONTROL Select]**. 
 
 The toolbar provides quick access to features, including Search, Timeline, Renditions, Edit, Annotate, and Download. 
 
@@ -59,13 +59,13 @@ You can search by keyword, file type, size, last modified, publish status, orien
 
 ## Annotate assets {#section_67FE1DFAAB744DA5B1CD3AD3CCEABF7A}
 
-Select **[!UICONTROL Annotate]** by drawing circles or arrows on an image, and annotate the asset for review by coworkers. 
+Click **[!UICONTROL Annotate]** by drawing circles or arrows on an image, and annotate the asset for review by coworkers. 
 
 ![Annotate assets](../../assets/assets-annotate.png) 
 
 ## View full-screen assets, and zoom {#section_A9F50D7D6BE341A2AB8244A4E42A4EF7}
 
-Select **[!UICONTROL Views]** > **[!UICONTROL Image]** to view the full asset image and enable zoom. 
+Click **[!UICONTROL Views]** > **[!UICONTROL Image]** to view the full asset image and enable zoom. 
 
 ![View full-screen assets](../../assets/asset-zoom.png) 
 
@@ -73,7 +73,7 @@ Select **[!UICONTROL Views]** > **[!UICONTROL Image]** to view the full asset im
 
 Choose between card view with properties, list view, and column view to more easily to find your assets. 
 
-Select **[!UICONTROL Views]** > **[!UICONTROL Properties]** to view an asset's properties: 
+Click **[!UICONTROL Views]** > **[!UICONTROL Properties]** to view an asset's properties: 
 
 ![View asset properties](../../assets/asset-properties.png) 
 
@@ -81,6 +81,6 @@ Select **[!UICONTROL Views]** > **[!UICONTROL Properties]** to view an asset's p
 
 See the number of users, storage used, and total assets. 
 
-Select **[!UICONTROL Tools]** > **[!UICONTROL Reports]** > **[!UICONTROL Usage Report]** 
+Click **[!UICONTROL Tools]** > **[!UICONTROL Reports]** > **[!UICONTROL Usage Report]** 
 
 ![Run usage reports](../../assets/assets-usage-report.png)

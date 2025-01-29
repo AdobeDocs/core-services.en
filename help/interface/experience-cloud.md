@@ -26,8 +26,8 @@ From Experience Cloud's header, you can:
 Sign in and verify that you are in the right [organization](administration/organizations.md).
 
 1. Navigate to [Adobe Experience Cloud](https://experience.adobe.com).
-1. Type your Adobe email address, then select **[!UICONTROL Continue]**.
-1. Select an account. 
+1. Type your Adobe email address, then click **[!UICONTROL Continue]**.
+1. Click an account. 
 1. Type your password.
 1. Verify that you are in the right organization.
 

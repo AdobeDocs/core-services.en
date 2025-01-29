@@ -172,7 +172,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 
 * The Feed page was deprecated in December  2019. Look for an in-product deprecation notice. (MCUI-10039)
 
-## August 2019
+<!-- ## August 2019
 
 * Fixed a critical issue in Experience Cloud login that led to session logout for some users. (MCUI-6908)
 * Updated Experience Cloud login to improve performance and reduce latency. (MCUI-6854, MCUI-6869, MCUI-6883)
@@ -629,7 +629,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
   <tr> 
    <td colname="col1"> <p> <span class="wintitle"> Save</span> button in Audiences </p> </td> 
    <td colname="col2"> <p>When you create an audience, the <span class="wintitle"> Save</span> button on the <span class="wintitle"> Create New Audience</span> page is now disabled until all the required fields are completed. 
-     <!--MAC-19712 --></p> </td> 
+     </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -795,7 +795,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
   <tr> 
    <td colname="col1"> <p>Refresh Data </p> </td> 
    <td colname="col2"> <p> 
-     <!--MAC-18174-->The <span class="uicontrol"> Refresh Data</span> icon for a graph on a card is now hidden if the application does not allow a data refresh. </p> </td> 
+     The <span class="uicontrol"> Refresh Data</span> icon for a graph on a card is now hidden if the application does not allow a data refresh. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -806,3 +806,4 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 * Fixed an issue causing applications to display on the [!UICONTROL Experience Cloud Solutions] page as linked, even if the applications accounts were not linked.
 * Fixed an issue that prevented [!DNL Adobe Target] customers in Asia from being able to select the **[!UICONTROL Continue to Experience Cloud]** button on the linking page.
 * Fixed an issue that prevented the sharing of YouTube videos.
+ -->

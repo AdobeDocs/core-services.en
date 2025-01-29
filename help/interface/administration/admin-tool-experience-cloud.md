@@ -31,7 +31,7 @@ This page displays complete list of users with access to Experience Cloud in you
 
 |Element | Description|
 |---|---|
-|[!UICONTROL Name] |The first and Last name of the user. You can sort this column from A to Z and Z to A.  Select a user's name to see more details about the user.|
+|[!UICONTROL Name] |The first and Last name of the user. You can sort this column from A to Z and Z to A. Click a user's name to see more details about the user.|
 |[!UICONTROL Email] |The email address associated with the user. Column can be sorted A->Z, Z->A.|
 |[!UICONTROL ID Type] |The identity type for the user's account. Filter can be applied to view specific ID types. See [Manage identity types](https://helpx.adobe.com/enterprise/using/identity.html) for more information.|
 |[!UICONTROL Solutions] |Summary of Experience Cloud applications that the user can access. You can apply filters to narrow down list of users with specific application access.|
@@ -43,7 +43,7 @@ You can search, sort, or filter the columns to customize the user list.
 
 * Search for users by Name or Email. Searches match the text string you type.
 * Sort column by ascending or descending values. This sort applies to [!UICONTROL Name,] [!UICONTROL Email,] and [!UICONTROL Last Login] Columns.
-* To apply multiple filters to list users with specific criteria, select the **[!UICONTROL Filter By]** icon. When multiple filter categories are applied, searches contain Email Domain `AND` ID TYPE `AND` Solution.
+* To apply multiple filters to list users with specific criteria, click **[!UICONTROL Filter By]**. When multiple filter categories are applied, searches contain Email Domain `AND` ID TYPE `AND` Solution.
 
 |Element | Description|
 |---------|----------|
@@ -53,7 +53,7 @@ You can search, sort, or filter the columns to customize the user list.
 
 ## View user details
 
-On the [!UICONTROL Users] page, to view a user's details, select the user's email.
+On the [!UICONTROL Users] page, to view a user's details, click the user's email.
 
 ![View user details in Admin Console](../assets/admin-tool-user-details.png)
 
@@ -107,7 +107,7 @@ You can search, sort, or filter the columns to customize the policies list.
 
 * Search for product profiles by name. Searches match the text string you type.
 * Sort column by ascending or descending values. This sort applies to [!UICONTROL product profile,] [!UICONTROL Product,] [!UICONTROL Instance,] [!UICONTROL Number of users,] and [!UICONTROL Number of Developers,] Columns.
-* Select the **[!UICONTROL Filter By]** icon to apply multiple filters to list product profiles with specific criteria. When multiple filter categories are applied, searches contain Groups associated `AND` Instance `AND` Solution.
+* Click the **[!UICONTROL Filter By]** icon to apply multiple filters to list product profiles with specific criteria. When multiple filter categories are applied, searches contain Groups associated `AND` Instance `AND` Solution.
 
 |Element | Description|
 |---------|----------|
