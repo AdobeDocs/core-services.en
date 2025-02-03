@@ -72,6 +72,7 @@ All IP ranges in this section are included in the above table.
 | Singapore | `172.82.240.88/29` |
 | Virginia | `63.140.38.0/23` |
 | Virginia | `63.140.54.0/24` |
+| Virginia | `67.202.5.244` |
 
 {style="table-layout:auto"}
 
