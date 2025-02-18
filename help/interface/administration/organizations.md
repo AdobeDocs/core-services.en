@@ -59,7 +59,7 @@ Typically, Experience Cloud administrators grant access to applications and serv
 
 1. Log in using your Adobe ID or Enterprise ID.
 
-1. Click the **[!UICONTROL Application selector]**. ( ![menu](../assets/menu-icon.png)).
+1. Click the **[!UICONTROL Application selector]**. ( ![menu](../assets/apps-icon.png)).
 
    ![Link an application account to an Adobe ID](../assets/solutions-active.png)
 
