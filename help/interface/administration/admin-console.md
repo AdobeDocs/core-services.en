@@ -1,6 +1,6 @@
 ---
 title: Manage Users and Products 
-description: Learn how to manage Experience Cloud users and products in the Admin Console.
+description: Find user and product management help in Experience Cloud applications. Manage identity and access services in Admin Console.
 application: Experience Cloud
 index: yes
 feature: Admin Console
@@ -10,22 +10,31 @@ level: Experienced
 ---
 # Manage users and products in Experience Cloud
 
-The [Admin Console](https://adminconsole.adobe.com/enterprise/) is your hub for managing users, permissions, and product licenses in Adobe. It offers security, streamlined workflows, and centralized control over all your applications. 
+The [Admin Console](https://adminconsole.adobe.com/enterprise/) is your hub for managing users, permissions, and product licenses in Adobe. This page helps Experience Cloud administrators locate application-specific set-up topics for user and product management in Experience Cloud.
 
-This page is intended to help Experience Cloud administrators find application-specific user and product management documentation. 
+>[!IMPORTANT]
+>
+>For general identity management help, see the [Enterprise and teams admin guide](https://helpx.adobe.com/enterprise/admin-guide.html).
 
-| Application | Description |
+| Application | Admin resource |
 | ------- | ------- |
-| Adobe Analytics | See [Analytics in the Adobe Admin Console overview](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/home) |
-| Customer Journey Analytics | See [Administration requirements](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/frequently-asked-questions-analysis-workspace) |
-| Application | [Text](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/home) |
-| Application | [Text](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/home) |
-| Application | [Text](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/home) |
-| Application | [Text](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/home) |
-| Application | [Text](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/home) |
-| Application | [Text](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/home) |
-| Application | [Text](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/home) |
-| Application | [Text](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/home) |
-| Application | [Text](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/home) |
+|  Analytics <p>Customer Journey Analytics| [Analytics in the Adobe Admin Console overview](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/home) <p>[Administration requirements](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/frequently-asked-questions-analysis-workspace) |
+| Audience Manager | [Audience Manager user migration to Admin Console](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/features/administration/admin-console-migration) |
+| Campaign v8 |  [Get started with permissions](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/admin/permissions/gs-permissions) |
+| Campaign Standard to Campaign v8 | [User access management from Campaign Standard to Campaign V8](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/user-management-acs) |
+| Commerce | [Configure the Commerce Admin Integration with Adobe ID](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/ims/adobe-ims-config) |
+| Dynamic Media Classic | [Administration setup](https://experienceleague.adobe.com/en/docs/dynamic-media-classic/using/setup/administration-setup#user_administration) |
+| Experience Manager as a Cloud Service |  [Accessing the Admin Console](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/onboarding/journey/admin-console) |
+| Experience Platform <p>Data Collection | [Access control UI overview](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/ui/overview) <p>[Permission management for data collection in Experience Platform](https://experienceleague.adobe.com/en/docs/experience-platform/collection/permissions)|
+| GenStudio for Performance Marketing | [Provision Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/intro/product-provisioning) |
+| Journey Optimizer | [Manage users and roles](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/permissions) |
+| Journey Optimizer B2B Edition | [User management](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/user-management) |
+| Journey Orchestration | [Access management](https://experienceleague.adobe.com/en/docs/journeys/using/starting-with-journeys/access-management) |
+| Marketo Engage | [Understanding Marketo Subscription and User Migration to the Adobe Admin Console](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console) |
+| Marketo Measure | [Adobe Admin Console Setup](https://experienceleague.adobe.com/en/docs/marketo-measure/using/configuration-and-setup/getting-started-with-marketo-measure/adobe-admin-console-setup) |
+| Mix Modeler | [Access controls](https://experienceleague.adobe.com/en/docs/mix-modeler/using/data-governance/access-controls) |
+| Pass | [Get started with Account IQ](https://experienceleague.adobe.com/en/docs/pass/aiq-help/get-started) |
+| Target | [Administrator first steps](https://experienceleague.adobe.com/en/docs/target/using/administer/start-target) <p> [User management](https://experienceleague.adobe.com/en/docs/target/using/administer/manage-users/user-management) |
+| Workfront | [Manage users in the Adobe Admin Console](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/create-manage-users/admin-console) |
 
 For help not described in the preceding locations, see [Enterprise and teams admin guide](https://helpx.adobe.com/enterprise/admin-guide.html), the central administration location for all Adobe application administrators.
