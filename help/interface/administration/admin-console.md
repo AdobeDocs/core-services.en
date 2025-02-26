@@ -17,6 +17,43 @@ For general identity management help applicable to all Adobe applications, see t
 
 The following sections provide links to resources in Admin Console help.
 
+## Administrative roles in Admin Console
+
+The Admin Console provides three primary administrative roles, each with specific levels of access and responsibility:
+
+**System administrator:** Full access - Manages all aspects of the console.
+
+Key responsibilities:
+
+* Add, remove, and manage users.
+* Assign and revoke product licenses.
+* Configure identity and authentication settings.
+* View and manage billing information.
+* Set up additional admins and delegate roles.
+
+  **Best for:** IT administrators or team leads overseeing the entire organization's Adobe environment.
+
+**Product administrator:** Product-specific management - Controls access and permissions for specific Adobe products.
+
+Key responsibilities:
+
+* Assign and manage licenses for a specific product.
+* Create and manage product profiles.
+* Add or remove users within assigned products.
+
+  **Best for:** Teams/users managing specific software like Marketo Engage or Adobe Creative Cloud.
+
+**Product profile administrator:** Granular role management - Focuses on managing user groups and permissions within a product.
+
+* Key Responsibilities:
+* Create and manage product profiles.
+* Assign permissions and feature access within profiles.
+* Add or remove users within profiles.
+
+  **Best for:** Department leads or team managers overseeing smaller groups with specialized needs
+
+  Administrators can combine roles for greater flexibility, depending on organizational requirements.
+
 ## Admin Console set up 
 
 To manage identity and product licenses for Experience Cloud applications, navigate to the [Admin Console](https://adminconsole.adobe.com/enterprise/).
