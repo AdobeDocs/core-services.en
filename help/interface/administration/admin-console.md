@@ -62,8 +62,6 @@ To manage identity and product licenses for Experience Cloud applications, navig
 | [!DNL Target] | [Administrator first steps](https://experienceleague.adobe.com/en/docs/target/using/administer/start-target) <p> [User management](https://experienceleague.adobe.com/en/docs/target/using/administer/manage-users/user-management) |
 | [!DNL Workfront] | [Manage users in the Adobe Admin Console](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/create-manage-users/admin-console) | -->
 
-For help not described in the preceding locations, see [Enterprise and teams admin guide](https://helpx.adobe.com/enterprise/admin-guide.html), the central administration location for all Adobe application administrators.
-
 ## Admin Console set up 
 
 * [Set up identity and single sign-on](https://helpx.adobe.com/enterprise/using/set-up-identity.html) - Learn how to set up your users' accounts with different ID types with or without single sign-on (SSO). Set up SSO for Adobe software, configure SAML settings, and go through the most common questions and errors.
