@@ -84,7 +84,7 @@ For help not described in the preceding locations, see [Enterprise and teams adm
 
 * [User Sync Tool](https://helpx.adobe.com/enterprise/using/user-sync.html) (UST) - The Adobe User Sync Tool is a desktop application used to automate the process of syncing user data between an organization's identity management system (like Active Directory) and Adobe's Adobe Admin Console. The tool allows administrators to streamline user provisioning, updates, and deactivation across Adobe products. 
 
-  By using the User Sync Tool, organizations can simplify the management of user accounts and licenses by automatically syncing user data (such as roles, groups, and access permissions) between their directory service and Adobe systems, saving time and reducing errors. This tool is particularly useful for enterprises with large teams, as it helps to maintain consistency and security while ensuring that users only have access to the products and services they're entitled to.
+  The User Sync Tool enables organizations to simplify managing user accounts and licenses by automatically syncing user data (such as roles, groups, and access permissions) between their directory service and Adobe systems. This tool is particularly useful for enterprises with large teams. It helps to maintain consistency and security while ensuring that users have access only to the products and services to which they are entitled.
 
 ## Reports and logs
 
