@@ -66,24 +66,28 @@ For help not described in the preceding locations, see [Enterprise and teams adm
 
 ## Admin Console set up 
 
-* [Set up identity and Single Sign-On](https://helpx.adobe.com/enterprise/using/set-up-identity.html) - Learn how to set up your users' accounts with different ID types with or without Single Sign-on. Set up SSO for Adobe software, configure SAML settings, and go through the most common questions and errors.
+* [Set up identity and single sign-on](https://helpx.adobe.com/enterprise/using/set-up-identity.html) - Learn how to set up your users' accounts with different ID types with or without single sign-on (SSO). Set up SSO for Adobe software, configure SAML settings, and go through the most common questions and errors.
 
-* [Set up organization via directory trust](https://helpx.adobe.com/enterprise/using/directory-trust.html) - You can use directory trust to authenticate your users against a domain already claimed by another organization.    
+* [Set up organization via directory trust](https://helpx.adobe.com/enterprise/using/directory-trust.html) - Use directory trust to authenticate your users against a domain already claimed by another organization.    
 
 * [Authentication settings](https://helpx.adobe.com/enterprise/using/authentication-settings.html) (Applies to enterprise customers) - Adobe Admin Console supports several password protection levels and policies to ensure safety and security. You can specify to use a password protection level to apply to all users across your organization. Adobe Customer Care three levels of security.    
 
-* [Privacy and security contacts](https://helpx.adobe.com/enterprise/using/security-contacts.html) - With Adobe's emphasis on protecting your organization's and users' data, in the event of a security incident involving our software solutions, notifications are sent to the appropriate compliance officers. Enterprises have their own personnel whose role is specific to data protection, integrity, and other compliance matters. Therefore, contact information for such personnel is critical to help ensure prompt notification in the event of a security incident.    
+* [Privacy and security contacts](https://helpx.adobe.com/enterprise/using/security-contacts.html) - Adobe emphasizes protecting your organization's and users' data. In the event of a security incident involving our software solutions, notifications are sent to the appropriate compliance officers. 
+
+  Enterprises have their own personnel whose role is specific to data protection, integrity, and other compliance matters. Therefore, contact information for such personnel is critical to help ensure prompt notification in the event of a security incident.    
 
 ## User management
 
 * [Manage multiple users](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html) Bulk CSV upload - Learn how to manage multiple users via CSV bulk upload on the Adobe Admin Console.    
 
-* [Identity Types](https://helpx.adobe.com/enterprise/using/identity.html) - Identity types allow the organization different levels of control over the users' accounts and data. Your choice of identity model has a considerable impact on how your organization stores and shares assets. While Federated ID and Enterprise ID models are created and managed by the organization, Adobe IDs are created and managed by the individual.    
+* [Identity Types](https://helpx.adobe.com/enterprise/using/identity.html) - Identity types allow the organization different levels of control over the users' accounts and data. Your choice of identity model impacts how your organization stores and shares assets. While Federated ID and Enterprise ID models are created and managed by the organization, Adobe IDs are created and managed by the individual.    
 
-* [User Sync Tool](https://helpx.adobe.com/enterprise/using/user-sync.html) (UST) - The Adobe User Sync Tool is a desktop application used to automate the process of syncing user data between an organization's identity management system (like Active Directory) and Adobe's Adobe Admin Console. It allows administrators to streamline user provisioning, updates, and deactivation across Adobe products. By using the User Sync Tool, organizations can simplify the management of user accounts and licenses by automatically syncing user data (such as roles, groups, and access permissions) between their directory service and Adobe systems, saving time and reducing errors. This tool is particularly useful for enterprises with large teams, as it helps to maintain consistency and security while ensuring that users only have access to the products and services they're entitled to.
+* [User Sync Tool](https://helpx.adobe.com/enterprise/using/user-sync.html) (UST) - The Adobe User Sync Tool is a desktop application used to automate the process of syncing user data between an organization's identity management system (like Active Directory) and Adobe's Adobe Admin Console. The tool allows administrators to streamline user provisioning, updates, and deactivation across Adobe products. 
+
+  By using the User Sync Tool, organizations can simplify the management of user accounts and licenses by automatically syncing user data (such as roles, groups, and access permissions) between their directory service and Adobe systems, saving time and reducing errors. This tool is particularly useful for enterprises with large teams, as it helps to maintain consistency and security while ensuring that users only have access to the products and services they're entitled to.
 
 ## Reports and logs
 
 * [Audit log](https://helpx.adobe.com/enterprise/using/audit-logs.html) To track all changes made in the Admin Console.
 
-For help not described in the preceding locations, see [Enterprise and teams admin guide](https://helpx.adobe.com/enterprise/admin-guide.html), the central administration location for all Adobe application administrators.
+For help not described in the preceding locations, browse the [Enterprise and teams admin guide](https://helpx.adobe.com/enterprise/admin-guide.html).
