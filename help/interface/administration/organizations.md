@@ -17,7 +17,11 @@ The organization functions like a log-in company that spans all Experience Cloud
 
 ![Experience Cloud Organizations](../assets/organizations-menu.png)
 
-To verify that you have logged in to your correct organization, click **[!UICONTROL Profile]** to see the default organization name. If you have access to more than one organization, you can also view and switch to another organization in the header bar. 
+To verify that you have logged in to your correct organization, click **[!UICONTROL Profile]** to see the default organization name. If you have access to more than one organization, you can also view and switch to another organization in the header bar.
+
+>[!NOTE]
+>
+>Switching between organizations lets you access the Admin Console for that specific organization. If you don't see the desired organization listed, you may need to request access from an administrator in that organization. (If you need to merge multiple Admin Consoles, contact Adobe Customer Support for help.)
 
 ## Federated IDs
 
@@ -82,7 +86,7 @@ You can specify a default organization to use when you log in.
 1. Under [!UICONTROL General], select a default organization.
 
 
-![Edit Profile](../assets/edit-profile.png)
+![Edit Profile](../assets/edit-profile.png) 
 
 ## Troubleshoot account linking issues {#concept_DFCB29A3B4834FC59AA29E0BBA301584}
 

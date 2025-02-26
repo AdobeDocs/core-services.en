@@ -47,7 +47,7 @@ index: yes
   + [Browser and language support](browser-language.md)
 
 + Administration {#administration}
-  + [Manage users and products](administration/admin-console.md)
+  + [User and product license management](administration/admin-console.md)
   + [View user details (Admin Tool)](administration/admin-tool-experience-cloud.md)
   + [Organizations and account linking](administration/organizations.md)
   + [Experience Cloud integrations](administration/integrations.md)
