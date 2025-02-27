@@ -15,8 +15,6 @@ This page provides information specifically for Experience Cloud administrators,
 
 For general identity management help applicable to all Adobe applications, see the [Enterprise and teams admin guide](https://helpx.adobe.com/enterprise/admin-guide.html).
 
-The following sections provide links to resources in Admin Console help.
-
 ## Administrative roles in Admin Console
 
 The Admin Console provides three primary administrative roles, each with specific levels of access and responsibility:
@@ -54,39 +52,36 @@ Key responsibilities:
 
   Administrators can combine roles for greater flexibility, depending on organizational requirements.
 
-## Admin Console set up 
+## Admin Console for Experience Cloud 
 
 To manage identity and product licenses for Experience Cloud applications, navigate to the [Admin Console](https://adminconsole.adobe.com/enterprise/).
 
-* [Set up identity and single sign-on](https://helpx.adobe.com/enterprise/using/set-up-identity.html) - Learn how to set up your users' accounts with different ID types with or without single sign-on (SSO). Set up SSO for Adobe software, configure SAML settings, and go through the most common questions and errors.
+Here are helpful links that you might need when getting familiar with Admin Console:
 
-* [Set up organization via directory trust](https://helpx.adobe.com/enterprise/using/directory-trust.html) - Use directory trust to authenticate your users against a domain already claimed by another organization. 
+### Setup tasks
 
-  See [Organizations in Experience Cloud](organizations.md) for information about organizations.
+| Help link |  Description |
+| ------- | ------- |
+|[Set up identity and single sign-on](https://helpx.adobe.com/enterprise/using/set-up-identity.html) | **[!UICONTROL  Admin Console]** > **[!UICONTROL Settings]** <p>Learn how to set up your users' accounts with different ID types with or without single sign-on (SSO). Set up SSO for Adobe software, configure SAML settings, and go through the most common questions and errors. |
+|[Set up organization via directory trust](https://helpx.adobe.com/enterprise/using/directory-trust.html)  | Use directory trust to authenticate your users against a domain already claimed by another organization. See [Organizations in Experience Cloud](organizations.md) for information about organizations.  |
+|[Authentication settings (enterprise)](https://helpx.adobe.com/enterprise/using/authentication-settings.html)  |Admin Console supports several password protection levels and policies to ensure safety and security. You can specify to use a password protection level to apply to all users across your organization. Adobe Customer Care three levels of security.  |
+| [Privacy and security contacts](https://helpx.adobe.com/enterprise/using/security-contacts.html)  | Adobe emphasizes protecting your organization's and users' data. In the event of a security incident involving our software solutions, notifications are sent to the appropriate compliance officers. <p>Enterprises have personnel whose role is specific to data protection, integrity, and other compliance matters. Therefore, contact information for such personnel is critical to help ensure prompt notification in the event of a security incident.|
 
-* [Authentication settings (enterprise)](https://helpx.adobe.com/enterprise/using/authentication-settings.html) - Admin Console supports several password protection levels and policies to ensure safety and security. You can specify to use a password protection level to apply to all users across your organization. Adobe Customer Care three levels of security.    
+### User management
 
-* [Privacy and security contacts](https://helpx.adobe.com/enterprise/using/security-contacts.html) - Adobe emphasizes protecting your organization's and users' data. In the event of a security incident involving our software solutions, notifications are sent to the appropriate compliance officers. 
+| Help link | Description |
+| ------- | ------- |
+|[Manage multiple users](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html) |**[!UICONTROL Admin Console]** > **[!UICONTROL Users]** <p>Learn how to manage multiple users via CSV bulk upload to the Admin Console.  |
+| [Identity Types](https://helpx.adobe.com/enterprise/using/identity.html) | Identity types allow the organization different levels of control over the users' accounts and data. Your choice of identity model impacts how your organization stores and shares assets. While Federated ID and Enterprise ID models are created and managed by the organization, Adobe IDs are created and managed by the individual.  |
+|[User Sync Tool](https://helpx.adobe.com/enterprise/using/user-sync.html) (UST)  |The Adobe User Sync Tool is a desktop application used to automate the process of syncing user data between an organization's identity management system (like Active Directory) and Adobe's Adobe Admin Console. The tool allows administrators to streamline user provisioning, updates, and deactivation across Adobe products. <p>The User Sync Tool enables organizations to simplify managing user accounts and licenses by automatically syncing user data (such as roles, groups, and access permissions) between their directory service and Adobe systems. This tool is particularly useful for enterprises with large teams. It helps to maintain consistency and security while ensuring that users have access only to the products and services to which they are entitled.  |
+|[View user details (Admin Tool)](admin-tool-experience-cloud.md)  |Administrators can view a sortable and filterable list of all Experience Cloud users and policies with details in the [!UICONTROL Admin Tool]. |
 
-  Enterprises have their own personnel whose role is specific to data protection, integrity, and other compliance matters. Therefore, contact information for such personnel is critical to help ensure prompt notification in the event of a security incident.    
+### Reports and logs
 
-## User management
+| Help link | Description |
+| ------- |------- |
+| [Audit log](https://helpx.adobe.com/enterprise/using/audit-logs.html) |**[!UICONTROL Insights]** > **[!UICONTROL Logs]** > **[!UICONTROL Audit Log]** <p> Track all changes made in the Admin Console. |
 
-* [Manage multiple users](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html) Bulk CSV upload - Learn how to manage multiple users via CSV bulk upload on the Adobe Admin Console.    
-
-* [Identity Types](https://helpx.adobe.com/enterprise/using/identity.html) - Identity types allow the organization different levels of control over the users' accounts and data. Your choice of identity model impacts how your organization stores and shares assets. While Federated ID and Enterprise ID models are created and managed by the organization, Adobe IDs are created and managed by the individual.    
-
-* [User Sync Tool](https://helpx.adobe.com/enterprise/using/user-sync.html) (UST) - The Adobe User Sync Tool is a desktop application used to automate the process of syncing user data between an organization's identity management system (like Active Directory) and Adobe's Adobe Admin Console. The tool allows administrators to streamline user provisioning, updates, and deactivation across Adobe products. 
-
-  The User Sync Tool enables organizations to simplify managing user accounts and licenses by automatically syncing user data (such as roles, groups, and access permissions) between their directory service and Adobe systems. This tool is particularly useful for enterprises with large teams. It helps to maintain consistency and security while ensuring that users have access only to the products and services to which they are entitled.
-
-* [View user details (Admin Tool)](admin-tool-experience-cloud.md) - Administrators can view a sortable and filterable list of all Experience Cloud users and policies with details in the [!UICONTROL Admin Tool].
-
-## Reports and logs
-
-* [Audit log](https://helpx.adobe.com/enterprise/using/audit-logs.html) To track all changes made in the Admin Console.
-
-For help not described in the preceding locations, browse the [Enterprise and teams admin guide](https://helpx.adobe.com/enterprise/admin-guide.html).
 
 ## Application-specific resources
 
@@ -134,3 +129,5 @@ These links help you find administration information for specific Experience Clo
 * [Adobe Pass](https://experienceleague.adobe.com/en/docs/pass/aiq-help/get-started)
 * [Target](https://experienceleague.adobe.com/en/docs/target/using/administer/start-target)
 * [Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/create-manage-users/admin-console)
+
+For help not described in the preceding locations, browse the [Enterprise and teams admin guide](https://helpx.adobe.com/enterprise/admin-guide.html).
