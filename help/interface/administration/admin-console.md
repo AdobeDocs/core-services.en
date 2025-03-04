@@ -34,7 +34,7 @@ Here are resources you might need when getting started as an administrator in Ad
 ### Setup resources
 
 | Help link |  Description |
-| ------- | ------- |
+| ------- | ------ |
 |[Set up identity and single sign-on](https://helpx.adobe.com/enterprise/using/set-up-identity.html) | **[!UICONTROL  Admin Console]** > **[!UICONTROL Settings]** <br> Learn how to set up your users' accounts with different ID types with or without single sign-on (SSO). Set up SSO for Adobe software, configure SAML settings, and go through the most common questions and errors. |
 |[Set up organization via directory trust](https://helpx.adobe.com/enterprise/using/directory-trust.html)  | Authenticate your users against a domain already claimed by another organization. For information about finding and switching organizations, see [Organizations in Experience Cloud](organizations.md).  |
 |[Authentication settings (enterprise)](https://helpx.adobe.com/enterprise/using/authentication-settings.html)  |Admin Console supports several password protection levels and policies to ensure safety and security. You can specify to use a password protection level to apply to all users across your organization.  |
