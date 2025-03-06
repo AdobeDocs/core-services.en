@@ -18,11 +18,17 @@ For a list of documentation updates, see [Documentation updates](doc-updates.md)
 
 For release notes covering all applications, see [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html).
 
+## March 2025
+
+| Date | Update    | Description  |
+| -----------| -----------| ---------- |
+| March 6, 2025 | Right-click menu options | Experience Cloud application frame fix for header navigation tabs to allow right-click browser drop-down menu functions. This fixes an issue introduced in February's release of Spectrum 2 design system. |
+
 ## February 2025
 
 | Date | Feature    | Description  |
 | -----------| -----------| ---------- |
-| February 13 (planned release date) |Spectrum 2 |The Experience Cloud application frame, which includes the header bar and components accessed from the header bar, as well as left navigation rail for certain applications will be updated to Spectrum 2, Adobe's latest design system. This refreshed design includes updated iconography, but the same functionality. However, several elements in the header are re-positioned to align with other Adobe sites and applications. |
+| February 13 |Spectrum 2 |The Experience Cloud application frame, which includes the header bar and components accessed from the header bar, as well as left navigation rail for certain applications will be updated to Spectrum 2, Adobe's latest design system. This refreshed design includes updated iconography, but the same functionality. However, several elements in the header are re-positioned to align with other Adobe sites and applications. |
 
 ## January 2025
 
