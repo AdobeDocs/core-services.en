@@ -20,9 +20,9 @@ For release notes covering all applications, see [Experience Cloud Release Notes
 
 ## March 2025
 
-| Date | Update    | Description  |
+| Date | Update  | Description  |
 | -----------| -----------| ---------- |
-| March 6, 2025 | Right-click menu options | Experience Cloud application frame fix for header navigation tabs to allow right-click browser drop-down menu functions. This fixes an issue introduced in February's release of Spectrum 2 design system. |
+| March 6, 2025 | Right-click menu option fix | Experience Cloud header navigation tabs now allow right-click, browser drop-down menu functions. This fixes an issue introduced in February's release of Spectrum 2 design system. |
 
 ## February 2025
 
