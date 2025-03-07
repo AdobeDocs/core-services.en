@@ -1,6 +1,6 @@
 ---
 description: Learn about central interface components for Experience Cloud. Get help on user and product administration in the Admin Console, enable applications for Experience Cloud services. Get help on Audience Library, Customer Attributes, Experience Cloud Assets, and more.
-title: Experience Cloud Interface and Administration Guide
+title: Experience Cloud Interface and Administration
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 feature: Central Interface Components
 topic: Administration
@@ -8,7 +8,7 @@ role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
 ---
-# Experience Cloud interface and administration documentation
+# Experience Cloud interface and administration
 
 [Experience Cloud](https://experience.adobe.com) is Adobe's integrated family of digital marketing applications, products, and services. From its intuitive interface, you can quickly access your cloud applications, product features, and services.
 
