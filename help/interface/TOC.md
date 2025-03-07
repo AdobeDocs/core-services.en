@@ -7,9 +7,9 @@ description: Learn about Experience Cloud interface, cookies, and account prefer
 index: yes
 ---
 
-# Experience Cloud interface and administration guide {#interface}
+# Experience Cloud interface and administration {#interface}
 
-+ [Experience Cloud Central Interface Components Guide](experience-cloud.md)
++ [Experience Cloud interface and administration](experience-cloud.md)
 
 + Services {#services}
   + [Overview](services/overview.md)
