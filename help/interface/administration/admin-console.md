@@ -11,9 +11,9 @@ exl-id: c82821c4-aa5d-48ae-8bef-5937fede8db2
 ---
 # User management and product licenses
 
-This page provides information specifically for Experience Cloud administrators, with links to common user and product management documentation. 
+You can manage users and product licenses in the Adobe [Admin Console](https://adminconsole.adobe.com/enterprise/). For general identity management help applicable to all Adobe applications, see the [Enterprise and teams admin guide](https://helpx.adobe.com/enterprise/admin-guide.html). 
 
-For general identity management help applicable to all Adobe applications, see the [Enterprise and teams admin guide](https://helpx.adobe.com/enterprise/admin-guide.html).
+This page provides information specifically useful for Experience Cloud administrators, defines roles, and provides links to common user and product management topics in the enterprise guide.
 
 ## Administrative roles in Admin Console
 
