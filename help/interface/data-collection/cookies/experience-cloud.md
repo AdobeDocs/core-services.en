@@ -70,7 +70,7 @@ See also, [Cookies and the ID Service](https://experienceleague.adobe.com/docs/i
   </tr> 
   <tr> 
    <td colname="col1"> <p> Expiration </p> </td> 
-   <td colname="col2"> <p> 2 years </p> </td> 
+   <td colname="col2"> <p> 13 months </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Usage </p> </td> 
