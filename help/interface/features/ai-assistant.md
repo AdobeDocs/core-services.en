@@ -9,7 +9,6 @@ level: Intermediate
 hide: yes
 hidefromtoc: yes
 index: n
-exl-id: 1e34c6b2-a792-41c4-adb7-583de596237f
 ---
 
 # AI in Experience Cloud applications
