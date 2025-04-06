@@ -33,7 +33,10 @@ All product knowledge answers are verifiable and cited with links to product doc
 
 ## Experience Cloud applications that use AI
 
-Subhead version (unfinished)...
+>[!TIP]
+>
+>Subhead version (just a start)...
+
 
 * [GenStudio for Performance Marketing](#gspm)
 * [Experience Manager Sites (Cloud Service)](#aem-sites)
@@ -77,9 +80,12 @@ See [Generate Image](https://experienceleague.adobe.com/en/docs/experience-manag
 
 
 
-Table version...
-
 ## Experience Cloud applications that use AI
+
+>[!TIP]
+>
+>Table version...
+
 
 Learn how Experience Cloud applications use generative AI or AI Assistant, and whether Adobe Firefly is supported. 
 
