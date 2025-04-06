@@ -56,7 +56,7 @@ You can train GenStudio for Performance Marketing on your brand using examples, 
 
 **Compatibility with Adobe Firefly:** Planned
 
-### Experience Manager Sites (Cloud Service){aem-sites}
+### Experience Manager Sites {#aem-sites}
 
 AEM Sites uses [Generate Variations](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations). Generate Variations uses generative AI to create content variations based on prompts. These prompts are either provided by [Adobe](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations#get-started) or created and managed by [users](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations#create-prompt). 
 
