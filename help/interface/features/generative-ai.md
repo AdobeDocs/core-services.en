@@ -6,7 +6,7 @@ feature: AI Assistant, Generative AI
 topic: Administration
 role: Admin
 level: Intermediate
-hide: yes
+hide: no
 hidefromtoc: yes
 index: n
 ---
