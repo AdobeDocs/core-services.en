@@ -78,6 +78,26 @@ See [Generate Image](https://experienceleague.adobe.com/en/docs/experience-manag
  
 **Compatibility with Adobe Firefly:** Yes
 
+## Adobe Journey Optimizer 
+
+Journey Optimizer uses [AI Assistant](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) with two classes of questions:
+
+**Product knowledge** - Queries Adobe data stores (such as Experience League product documentation) for product insight. This output is customer agnostic. Example:
+
+* How many live activities can I have in one Adobe Journey Optimizer sandbox?
+
+**Operational Insights (Beta)** - queries a customer-specific operational insights data store that contains centralized operational data about Journeys, partitioned by the customer's sandbox. Pulls metadata only from business objects and does not access data within the sandbox.
+
+* How many Journeys have been created in the last seven days?
+
+Operational Insights output depends on metadata pulled from customer's business objects. 
+
+Journeys is the only object available for AI Assistant in Journey Optimizer, and metadata is pulled from the current sandbox. 
+
+See [Work with the AI Assistant](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant) and [Field Readiness](https://fieldreadiness-adobe.highspot.com/items/6661f1c132683fd5e6a8adf4?lfrm=srp.1#11) for more.
+
+**Compatibility with Adobe Firefly:** No
+
 
 
 ## Experience Cloud applications that use AI
