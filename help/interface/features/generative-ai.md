@@ -9,8 +9,8 @@ level: Intermediate
 hide: no
 hidefromtoc: yes
 index: n
+exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
 ---
-
 # AI in Experience Cloud applications
 
 This page helps you understand how Experience Cloud applications use generative AI, and where to find the application-specific information. Learn about the classes of questions, prompts, and input and output models.
