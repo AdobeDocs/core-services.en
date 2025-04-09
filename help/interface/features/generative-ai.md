@@ -38,9 +38,10 @@ All product knowledge answers are verifiable and cited with links to product doc
 >Subhead version (just a start)...
 
 
-* [GenStudio for Performance Marketing](#gspm)
-* [Experience Manager Sites (Cloud Service)](#aem-sites)
-* More to come...
+* [Adobe GenStudio for Performance Marketing](#gspm)
+* [Adobe Experience Manager Sites (Cloud Service)](#aem-sites)
+* [Adobe Journey Optimizer](#journey-optimizer)
+* [Adobe Journey Optimizer Prime and Ultimate](#ajo-prime-ultimate)
 
 ### GenStudio for Performance Marketing {#gspm}
 
@@ -78,7 +79,7 @@ See [Generate Image](https://experienceleague.adobe.com/en/docs/experience-manag
  
 **Compatibility with Adobe Firefly:** Yes
 
-## Adobe Journey Optimizer 
+## Journey Optimizer {#journey-optimizer}
 
 Journey Optimizer uses [AI Assistant](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) with two classes of questions:
 
@@ -98,7 +99,31 @@ See [Work with the AI Assistant](https://experienceleague.adobe.com/en/docs/jour
 
 **Compatibility with Adobe Firefly:** No
 
+## Journey Optimizer Prime and Ultimate {#ajo-prime-ultimate}
 
+Journey Optimizer Prime and Ultimate use [AI Assistant for Content Accelerator](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/gs-generative) to bring proactive content variation suggestions for text and images. 
+
+This feature is available for email, push, web and SMS channels. It provides prompt-based text and image generation. 
+
+**Email** - generate a full email, text only or image only. [Learn more...](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/generative-email)
+
+**Push Notification** - Generate a full push notification, text only or image only. [Learn more...](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/generative-push) 
+
+**SMS** - Generate a full SMS, or text only. [Learn more](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/generative-sms) 
+
+**Webpage** - Generate web page images or web page text. [Learn more...](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/generative-web) 
+
+**Content** - Generate content for various messaging campaigns. [Learn more...](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/generative-experimentation)
+
+**Note:** Output from Content Accelerator in AJO Prime and Ultimate is indemnified. 
+
+**Compatibility with Adobe Firefly:** Yes
+
+## Journey Optimizer B2B Edition {#ajo-b2b}
+
+Uses [AI Assistant](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/ai-assistant) for product knowledge prompts.  
+
+**Product knowledge** - Queries Adobe data stores (such as Experience League product documentation) for product insight. This output is customer agnostic. | <ul><li>**Input:** How do I send an email in an account journey?</li><li>**Output:** Product Knowledge pulls from Experience League (public documentation). [Learn more...](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/ai-assistant)</li></ul>   | No   |
 
 ## Experience Cloud applications that use AI
 
