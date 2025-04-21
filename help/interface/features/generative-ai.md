@@ -31,11 +31,11 @@ If you're new to Experience Cloud, you can use generative AI to gain product kno
 
 Product knowledge responses from Experience League are verifiable and cited with links. Learn about the types of [objective-based prompts](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) to get the most out of AI Assistant.
 
-## Applications and features that support AI
+## Applications with features that support AI
 
-* [Adobe GenStudio for Performance Marketing](#gspm)
-* [Adobe Experience Manager Sites (Cloud Service)](#aem-sites)
-* [Adobe Journey Optimizer](#journey-optimizer)
+* [GenStudio for Performance Marketing](#gspm)
+* [Generate Variations in AEM Sites (Cloud Service)](#aem-sites)
+* [AI Assistant in Journey Optimizer](#journey-optimizer)
 * [Adobe Journey Optimizer Prime and Ultimate](#ajo-prime-ultimate)
 * [Journey Optimizer B2B Edition](#ajo-b2b)
 
@@ -55,12 +55,14 @@ You can also train GenStudio for Performance Marketing on your brand using examp
 
 **Compatible withe Adobe Firefly:** Planned
 
-### Experience Manager Sites {#aem-sites}
+### Generate Variations in Experience Manager Sites {#aem-sites}
 
-AEM Sites uses [Generate Variations](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations). Generate Variations uses generative AI to create content variations based on prompts. These prompts are either provided by [Adobe](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations#get-started) or created and managed by [users](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations#create-prompt). 
+[Generate Variations](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations) in AEM Sites uses generative AI to create content variations based on prompts. These prompts are either provided by [Adobe](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations#get-started) or created and managed by [users](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations#create-prompt). 
 
 After creating variations, you can use the content on your website and measure its success using the Experimentation feature in Edge Delivery Services. 
- 
+
+### Input and output fields
+
 **Input:** Input fields include: 
  
 * Number of Variations to generate
@@ -71,27 +73,29 @@ After creating variations, you can use the content on your website and measure i
 
 **Output:** Generated Content / Market Copy. You also have the option to generate images in Adobe Express using the generative AI capabilities of Firefly. 
  
-See [Generate Image](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations#generate-image). 
+See [Generate Image](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations#generate-image) to learn more.
+
+**Compatible with Adobe Firefly:** Yes
  
-**Compatible withe Adobe Firefly:** Yes
+## AI Assistant in Journey Optimizer {#journey-optimizer}
 
-## Journey Optimizer {#journey-optimizer}
+In Journey Optimizer, AI Assistant can help you gain product knowledge and operational insights.
 
-Journey Optimizer uses [AI Assistant](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) with two classes of questions:
+**Product knowledge:** AI Assistant queries Adobe data stores (such as Experience League product documentation) for product insight. The output is customer agnostic. 
 
-**Product knowledge** - Queries Adobe data stores (such as Experience League product documentation) for product insight. This output is customer agnostic. Example:
+Example:
 
-* How many live activities can I have in one Adobe Journey Optimizer sandbox?
+* _How many live activities can I have in one Adobe Journey Optimizer sandbox?_
 
-**Operational Insights (Beta)** - queries a customer-specific operational insights data store that contains centralized operational data about Journeys, partitioned by the customer's sandbox. Pulls metadata only from business objects and does not access data within the sandbox.
+**Operational Insights (Beta)** - Queries a customer-specific operational insights data store that contains centralized operational data about Journeys, partitioned by the customer's sandbox. This feature pulls metadata only from business objects and does not access data within the sandbox.
 
-* How many Journeys have been created in the last seven days?
+Example prompt: 
 
-Operational Insights output depends on metadata pulled from customer's business objects. 
+* _How many Journeys have been created in the last seven days?_
 
-Journeys is the only object available for AI Assistant in Journey Optimizer, and metadata is pulled from the current sandbox. 
+Operational Insights output depends on metadata pulled from customer's business objects. This output is customer agnostic.
 
-See [Work with the AI Assistant](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant) and [Field Readiness](https://fieldreadiness-adobe.highspot.com/items/6661f1c132683fd5e6a8adf4?lfrm=srp.1#11) for more.
+_Journeys_ is the only object available for AI Assistant in Journey Optimizer, and metadata is pulled from the current sandbox. [Learn more...](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant).
 
 **Compatible withe Adobe Firefly:** No
 
@@ -99,23 +103,13 @@ See [Work with the AI Assistant](https://experienceleague.adobe.com/en/docs/jour
 
 Journey Optimizer Prime and Ultimate use [AI Assistant for Content Accelerator](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/gs-generative) to bring proactive content variation suggestions for text and images. 
 
-This feature is available for email, push, web and SMS channels. It provides prompt-based text and image generation. 
-
-* **Email** - Generate a full email, text only or image only. [Learn more...](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/generative-email)
-
-* **Push Notification** - Generate a full push notification, text only or image only. [Learn more...](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/generative-push)
-
-* **SMS** - Generate a full SMS, or text only. [Learn more](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/generative-sms)
-
-* **Webpage** - Generate web page images or web page text. [Learn more...](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/generative-web)
-
-* **Content** - Generate content for various messaging campaigns. [Learn more...](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/generative-experimentation)
+This feature is available for [email](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/generative-email), [push notifications](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/generative-push), [web page](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/generative-web), [content](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/generative-experimentation), and [SMS](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/generative-sms) channels. It provides prompt-based text and image generation. 
 
 **Note:** Output from Content Accelerator in AJO Prime and Ultimate is indemnified.
 
 **Compatible withe Adobe Firefly:** Yes
 
-## Journey Optimizer B2B Edition {#ajo-b2b}
+## AI Assistant in Journey Optimizer B2B Edition {#ajo-b2b}
 
 Journey Optimizer B2B Edition uses [AI Assistant](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/ai-assistant) to help you with product knowledge, based on your product knowledge prompts. 
 
