@@ -175,12 +175,22 @@ For more examples, see the _Product Knowledge_ and _Operational Insights_ input 
 
 ## Dynamic Chat in Marketo {#marketo}
 
-[Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview) creates AI-assisted conversations with customized and pre-approved questions and answers, as well as conversation summary |<ul><li> **Generate Questions:** Provide URLs from which content is extracted and used to generate questions / responses. </li><li> **Conversation Summary:** Generates a summary of a chat conversation. </li></ul> [Learn more...](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/response-library)  | No |
+Generative AI powered capabilities in Adobe Dynamic Chat allow you to optimize productivity for your sales agents, get insights into your website visitor intent, and respond to visitor questions in a safe manner. You can pre-approve the questions and answers, as well as the conversation summary. [Learn more...](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/overview)
+
+**Compatible with Firefly:** No
 
 ## AI Assistant in Workfront {#workfront}
 
-[AI Assistant](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant-overview) in Workfront helps you accomplish your work by offering in-app information and suggestions in a natural-language conversation. AI Assistant offers the following functionality: Summarizes projects/tasks/issues/documents, provides instructions or reference information pulled from the Workfront documentation on Experience League, generates or refines formulas for calculated custom fields.  | <ul><li>**Summarize Project Input:** Summarize this project </li><li> **Summarize Project Output:** Returns brief descriptions of the project's purpose and status, gives examples of tasks that are completed and that are still pending, and provides some additional details and notes.</li><li> **Generate/Refine Formula Input:** "Rewrite this formula to remove the invalid expression error." </li><li> **Generate/Refine Formula Output:** Generated or refined formula. </li></ul>**Note:** AI Assistant may take a few moments to generate the revised formula, depending on the size and complexity of the formula. | No  |
+AI Assistant in Workfront helps you accomplish your work by offering in-app information and suggestions in conversational language. How you can use AI Assistant in Workfront:
 
+* Summarize some objects, giving you a high-level view of the object's intent or details.
+* Ask questions and let AI Assistant find answers on Experience League.
+* Generate formulas based on a prompt you provide. You can also resolve errors in your invalid custom expressions in calculated fields.
+* Locate projects, tasks, and issues.
+
+[Learn more...](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant-overview)
+
+**Compatible with Firefly:** No
 
 <!-- ## Experience Cloud applications that use AI
 
