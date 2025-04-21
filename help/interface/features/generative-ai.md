@@ -21,17 +21,17 @@ Generative AI is a type of artificial intelligence that does more than simply an
 
 * **Create:** Refers to the AI's ability to generate new content (text, images, music, or videos) from scratch, based on its training and input prompts. This ability is the _generative_ aspect of generative AI.
 
-* **Respond:** Refers to the AI providing an answer or reaction to a specific question, statement, or prompt, typically drawing on its knowledge or reasoning capabilities.
+* **Respond:** Refers to the AI providing an answer or reaction to a specific prompt, typically drawing on its knowledge or reasoning capabilities.
 
-Certain Experience Cloud applications take advantage of generative AI, helping new users gain product knowledge quickly, and experienced users discover operational insights in seconds rather than hours.
+If you're new to Experience Cloud, you can use generative AI to gain product knowledge quickly. As an experienced user, you can discover operational insights in seconds rather than hours.
 
 ### AI Assistant
 
-[AI Assistant](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing) is a conversational tool supported in Experience Platform and related applications. Use it to accelerate your workflows, improve your product knowledge, troubleshoot problems, or search through information. AI Assistant enables you to discover operational insights in seconds, rather than hours. 
+[AI Assistant](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing) is a conversational tool supported in Experience Platform and related applications. Use it to accelerate your workflows, improve your product knowledge, troubleshoot problems, or search through information. In certain applications, AI Assistant lets you discover operational insights immediately. 
 
-All product knowledge answers are verifiable and cited with links to product documentation in Experience League. [Learn about AI Assistant](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) and the types of objective-based prompts to get the most out of AI Assistant.
+Product knowledge responses from Experience League are verifiable and cited with links. Learn about the types of [objective-based prompts](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) to get the most out of AI Assistant.
 
-## Experience Cloud applications that use AI
+## Applications and features that support AI
 
 * [Adobe GenStudio for Performance Marketing](#gspm)
 * [Adobe Experience Manager Sites (Cloud Service)](#aem-sites)
