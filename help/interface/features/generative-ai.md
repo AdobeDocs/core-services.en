@@ -38,6 +38,14 @@ Product knowledge responses from Experience League are verifiable and cited with
 * [AI Assistant in Journey Optimizer](#journey-optimizer)
 * [Adobe Journey Optimizer Prime and Ultimate](#ajo-prime-ultimate)
 * [Journey Optimizer B2B Edition](#ajo-b2b)
+* [AI Assistant in Journey Optimizer Prime and Ultimate](#ajo-prime-ultimate)
+* [AI Assistant in Journey Optimizer B2B Edition](#ajo-b2b)
+* [AI Assistant in Campaign Managed Cloud Services](campaign-cs)
+* [AI Assistant in Customer Journey Analytics](#cja)
+* [Intelligent Captions in Customer Journey Analytics](#cja-captions)
+* [AI Assistant in Real-Time CDP](#rtcdp)
+* [Dynamic Chat in Marketo](#marketo)
+* [AI Assistant in Workfront](#workfront)
 
 ### GenStudio for Performance Marketing {#gspm}
 
@@ -99,7 +107,7 @@ _Journeys_ is the only object available for AI Assistant in Journey Optimizer, a
 
 **Compatible withe Adobe Firefly:** No
 
-## Journey Optimizer Prime and Ultimate {#ajo-prime-ultimate}
+## AI Assistant in Journey Optimizer Prime and Ultimate {#ajo-prime-ultimate}
 
 Journey Optimizer Prime and Ultimate use [AI Assistant for Content Accelerator](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/gs-generative) to bring proactive content variation suggestions for text and images. 
 
@@ -111,31 +119,25 @@ This feature is available for [email](https://experienceleague.adobe.com/en/docs
 
 ## AI Assistant in Journey Optimizer B2B Edition {#ajo-b2b}
 
-Journey Optimizer B2B Edition uses [AI Assistant](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/ai-assistant) to help you with product knowledge, based on your product knowledge prompts. 
+Journey Optimizer B2B Edition uses [AI Assistant](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-assistant-overview) to help you with product knowledge, based on your product knowledge prompts. 
 
 **Product knowledge** - Queries Adobe data stores (such as Experience League product documentation) for product insight. This output is customer agnostic. 
 
 * **Input:** How do I send an email in an account journey?
 
-* **Output:** Product Knowledge pulls from Experience League (public documentation). [Learn more...](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/ai-assistant)
+* **Output:** Product Knowledge pulls from Experience League (public documentation). [Learn more...](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/question-guidance)
 
 **Compatible withe Adobe Firefly:** No
 
-## Campaign Managed Cloud Services 
+## AI Assistant in Campaign Managed Cloud Services {#campaign-cs}
 
-Campaign Managed Cloud Services uses [AI Assistant for Content Accelerator](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-gs) auto-generates personalized, engaging, and effective content based on the marketing objective with content optimized for brand outlined styles, layouts, tone, and more across channels like Email, SMS, Push. 
-
-* **Email** - Generate a full email, text only or image only. [Learn more](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-content) 
-
-* **SMS** - Generate full SMS or text only. [Learn more...](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-sms) 
-
-* **Push** - Craft compelling messaging and generate content. [Learn more...](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-push) 
+Campaign Managed Cloud Services uses [AI Assistant for Content Accelerator](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-gs) auto-generates personalized, engaging, and effective content based on the marketing objective with content optimized for brand outlined styles, layouts, tone, and more across channels like [email](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-content), [SMS](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-sms), and [push](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-push). 
 
 **Note:** Output from Content Accelerator in Campaign Managed Cloud Services is indemnified. 
 
 **Compatible withe Adobe Firefly:** Yes
 
-## Customer Journey Analytics - AI Assistant
+## AI Assistant in Customer Journey Analytics {#cja}
 
 CJA uses [AI Assistant](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/ai-assistant) to help you discover product knowledge and insights from Experience League. 
 
@@ -147,29 +149,17 @@ Experienced users can use AI Assistant to present more advanced use cases or tip
 
 **Compatible withe Adobe Firefly:** No
 
-## Customer Journey Analytics - Intelligent Captions
+## Intelligent Captions in Customer Journey Analytics {#cja-captions}
 
-[Intelligent Captions](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions) provides natural-language insights for line visualizations in Workspace visualizations.
-
-**Example input:** Line visualizations. Captions are auto-generated based on such line visualizations when you click **Intelligent captions**. 
-
-**Output:** Auto-generated natural-language captions.
+[Intelligent Captions](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions) in Customer Journey Analytics provide natural-language insights for the most frequently used Workspace visualizations.
 
 **Compatible withe Adobe Firefly:** No
 
-## Real-Time CDP
+## AI Assistant in Real-Time CDP {#rtcdp}
 
-Real-Time CDP uses [AI Assistant](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) to help you discover product knowledge and insights from Experience League. It queries a database and translates data from the database into a human-readable answer. 
+Real-Time CDP uses [AI Assistant](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) to help you discover product knowledge and insights from Experience League. [Get tips](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/questions) on asking questions.
 
-Two classes of questions are available: 
-
-**Product knowledge** - Queries Adobe data stores (such as Experience League product documentation) for product insight. This output is customer agnostic.
-
-For example: 
-
-* _How is profile richness calculated?_ 
-
-**Operational Insights (Beta)** - Queries a customer-specific operational insights data store that contains centralized operational data, partitioned by the customer's AEP sandbox. Pulls metadata only from Attributes, Audiences, Dataflows, Datasets, Destinations, Schemas, and Sources, and does not access data within the sandbox. 
+It also offers operational insights (in beta). AI Assistant queries a customer-specific operational insights data store that contains centralized operational data, partitioned by the customer's AEP sandbox. It pulls metadata only from Attributes, Audiences, Dataflows, Datasets, Destinations, Schemas, and Sources, and does not access data within the sandbox. 
 
 For example, for a query about an audience, [!DNL AI Assistant] can access the name of the audience and other associated metadata but cannot access the profiles within that audience. 
 
@@ -183,12 +173,11 @@ For more examples, see the _Product Knowledge_ and _Operational Insights_ input 
 
 **Compatible with Firefly:** No
 
-
-## Marketo
+## Dynamic Chat in Marketo {#marketo}
 
 [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview) creates AI-assisted conversations with customized and pre-approved questions and answers, as well as conversation summary |<ul><li> **Generate Questions:** Provide URLs from which content is extracted and used to generate questions / responses. </li><li> **Conversation Summary:** Generates a summary of a chat conversation. </li></ul> [Learn more...](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/response-library)  | No |
 
-## Workfront
+## AI Assistant in Workfront {#workfront}
 
 [AI Assistant](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant-overview) in Workfront helps you accomplish your work by offering in-app information and suggestions in a natural-language conversation. AI Assistant offers the following functionality: Summarizes projects/tasks/issues/documents, provides instructions or reference information pulled from the Workfront documentation on Experience League, generates or refines formulas for calculated custom fields.  | <ul><li>**Summarize Project Input:** Summarize this project </li><li> **Summarize Project Output:** Returns brief descriptions of the project's purpose and status, gives examples of tasks that are completed and that are still pending, and provides some additional details and notes.</li><li> **Generate/Refine Formula Input:** "Rewrite this formula to remove the invalid expression error." </li><li> **Generate/Refine Formula Output:** Generated or refined formula. </li></ul>**Note:** AI Assistant may take a few moments to generate the revised formula, depending on the size and complexity of the formula. | No  |
 
