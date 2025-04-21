@@ -13,11 +13,11 @@ exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
 ---
 # AI in Experience Cloud applications
 
-This page helps you understand how Experience Cloud applications use generative AI, and where to find the application-specific information. Learn about the classes of questions, prompts, and input and output models.
+This page helps you understand generative AI and how you can use it in Experience Cloud applications. Learn which product features use generative AI, AI Assistant, and whether Adobe Firefly is supported.
 
 ## About generative AI and AI Assistant
 
-Generative AI is a type of artificial intelligence that can _create_ new content and _respond_ to your statements and questions (prompts): 
+Generative AI is a type of artificial intelligence that does more than simply answer questions. It _creates_ content and _responds_ to your _prompts_ (questions and statements). 
 
 * **Create:** Refers to the AI's ability to generate new content (text, images, music, or videos) from scratch, based on its training and input prompts. This ability is the _generative_ aspect of generative AI.
 
@@ -33,21 +33,17 @@ All product knowledge answers are verifiable and cited with links to product doc
 
 ## Experience Cloud applications that use AI
 
->[!TIP]
->
->Subhead version (just a start)...
-
-
 * [Adobe GenStudio for Performance Marketing](#gspm)
 * [Adobe Experience Manager Sites (Cloud Service)](#aem-sites)
 * [Adobe Journey Optimizer](#journey-optimizer)
 * [Adobe Journey Optimizer Prime and Ultimate](#ajo-prime-ultimate)
+* [Journey Optimizer B2B Edition](#ajo-b2b)
 
 ### GenStudio for Performance Marketing {#gspm}
 
-[GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) is a generative AI-driven platform. It infuses the content creation lifecycle with generative AI capabilities that transform how marketing content is created, reviewed, shared, and analyzed.
+[GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) is a generative AI-driven platform that enables you to you create, deliver, and optimize campaign assets. Its generative AI capabilities transform how marketing content is created, reviewed, shared, and analyzed.
 
-_GenStudio for Performance Marketing Create_ leverages the power of Adobe GenAI to empower marketers and distributed teams to create high-performing, on-brand experiences. Generate content for: 
+The feature _GenStudio for Performance Marketing Create_ (or, simply _Create_) allows marketers and distributed teams to create high-performing, on-brand experiences. You can generate content for: 
 
 * Emails
 * Meta ads
@@ -55,7 +51,7 @@ _GenStudio for Performance Marketing Create_ leverages the power of Adobe GenAI 
 * Display ads
 * Banners
 
-You can train GenStudio for Performance Marketing on your brand using examples, descriptions of customer personas and products, and brand guidelines. [Learn more.](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/overview) 
+You can also train GenStudio for Performance Marketing on your brand using examples, descriptions of customer personas and products, and brand guidelines. [Learn more...](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/overview) 
 
 **Compatible withe Adobe Firefly:** Planned
 
@@ -63,7 +59,7 @@ You can train GenStudio for Performance Marketing on your brand using examples, 
 
 AEM Sites uses [Generate Variations](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations). Generate Variations uses generative AI to create content variations based on prompts. These prompts are either provided by [Adobe](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations#get-started) or created and managed by [users](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations#create-prompt). 
 
-After creating variations, you can use the content on your website and measure its success using the Experimentation functionality of Edge Delivery Services. 
+After creating variations, you can use the content on your website and measure its success using the Experimentation feature in Edge Delivery Services. 
  
 **Input:** Input fields include: 
  
@@ -115,7 +111,7 @@ This feature is available for email, push, web and SMS channels. It provides pro
 
 * **Content** - Generate content for various messaging campaigns. [Learn more...](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/generative-experimentation)
 
-**Note:** Output from Content Accelerator in AJO Prime and Ultimate is indemnified. 
+**Note:** Output from Content Accelerator in AJO Prime and Ultimate is indemnified.
 
 **Compatible withe Adobe Firefly:** Yes
 
@@ -203,12 +199,7 @@ For more examples, see the _Product Knowledge_ and _Operational Insights_ input 
 [AI Assistant](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant-overview) in Workfront helps you accomplish your work by offering in-app information and suggestions in a natural-language conversation. AI Assistant offers the following functionality: Summarizes projects/tasks/issues/documents, provides instructions or reference information pulled from the Workfront documentation on Experience League, generates or refines formulas for calculated custom fields.  | <ul><li>**Summarize Project Input:** Summarize this project </li><li> **Summarize Project Output:** Returns brief descriptions of the project's purpose and status, gives examples of tasks that are completed and that are still pending, and provides some additional details and notes.</li><li> **Generate/Refine Formula Input:** "Rewrite this formula to remove the invalid expression error." </li><li> **Generate/Refine Formula Output:** Generated or refined formula. </li></ul>**Note:** AI Assistant may take a few moments to generate the revised formula, depending on the size and complexity of the formula. | No  |
 
 
-## Experience Cloud applications that use AI
-
->[!TIP]
->
->Table version...
-
+<!-- ## Experience Cloud applications that use AI
 
 Learn how Experience Cloud applications use generative AI or AI Assistant, and whether Adobe Firefly is supported. 
 
@@ -224,4 +215,4 @@ Learn how Experience Cloud applications use generative AI or AI Assistant, and w
 | Customer Journey Analytics    | [Intelligent Captions](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions) provides natural-language insights for line visualizations in Workspace visualizations.| <ul><li>**Input:** Line visualizations. Captions are auto-generated based on such line visualizations when you click **Intelligent captions**. </li><li> **Output:** Auto-generated natural-language captions.</li></ul>  | No             |
 | Real-Time CDP |Uses [AI Assistant](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) to help you discover product knowledge and insights from Experience League. It queries a database and translates data from the database into a human-readable answer. Two classes of questions: <br> **Product knowledge** - Queries Adobe data stores (such as Experience League product documentation) for product insight. This output is customer agnostic. <br> **Operational Insights (Beta)** - Queries a customer-specific operational insights data store that contains centralized operational data, partitioned by the customer's AEP sandbox. Pulls metadata only from Attributes, Audiences, Dataflows, Datasets, Destinations, Schemas, and Sources, and does not access data within the sandbox. <br>For example, for a query about an audience [!DNL AI Assistant] can access the name of the audience and other associated metadata but cannot access the profiles within that audience. | <ul><li>**Product Knowledge Input:** How is profile richness calculated? </li><li>**Product Knowledge Output:** Product Knowledge pulls from Experience League (public documentation). </li><li> **Operational Insights Input:** How many datasets do I have? </li><li> **Operational Insights Output:** Operational Insights output depends on metadata pulled from Customer's business objects (Attributes, Audiences, Dataflows, Datasets, Destinations, Schemas, and Sources), and includes a link to specific UI page containing queried data. </li></ul>For examples, see the _Product Knowledge_ and _Operational Insights_ input tables in [AI Assistant in Experience Platform](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home)  | No |
 | Marketo  | [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview) creates AI-assisted conversations with customized and pre-approved questions and answers, as well as conversation summary |<ul><li> **Generate Questions:** Provide URLs from which content is extracted and used to generate questions / responses. </li><li> **Conversation Summary:** Generates a summary of a chat conversation. </li></ul> [Learn more...](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/response-library)  | No |
-| Workfront | [AI Assistant](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant-overview) in Workfront helps you accomplish your work by offering in-app information and suggestions in a natural-language conversation. AI Assistant offers the following functionality: Summarizes projects/tasks/issues/documents, provides instructions or reference information pulled from the Workfront documentation on Experience League, generates or refines formulas for calculated custom fields.  | <ul><li>**Summarize Project Input:** Summarize this project </li><li> **Summarize Project Output:** Returns brief descriptions of the project's purpose and status, gives examples of tasks that are completed and that are still pending, and provides some additional details and notes.</li><li> **Generate/Refine Formula Input:** "Rewrite this formula to remove the invalid expression error." </li><li> **Generate/Refine Formula Output:** Generated or refined formula. </li></ul>**Note:** AI Assistant may take a few moments to generate the revised formula, depending on the size and complexity of the formula. | No  |
+| Workfront | [AI Assistant](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant-overview) in Workfront helps you accomplish your work by offering in-app information and suggestions in a natural-language conversation. AI Assistant offers the following functionality: Summarizes projects/tasks/issues/documents, provides instructions or reference information pulled from the Workfront documentation on Experience League, generates or refines formulas for calculated custom fields.  | <ul><li>**Summarize Project Input:** Summarize this project </li><li> **Summarize Project Output:** Returns brief descriptions of the project's purpose and status, gives examples of tasks that are completed and that are still pending, and provides some additional details and notes.</li><li> **Generate/Refine Formula Input:** "Rewrite this formula to remove the invalid expression error." </li><li> **Generate/Refine Formula Output:** Generated or refined formula. </li></ul>**Note:** AI Assistant may take a few moments to generate the revised formula, depending on the size and complexity of the formula. | No  | -->
