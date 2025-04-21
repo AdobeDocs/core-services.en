@@ -49,9 +49,9 @@ Product knowledge responses from Experience League are verifiable and cited with
 
 ### GenStudio for Performance Marketing {#gspm}
 
-[GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) is a generative AI-driven platform that enables you to you create, deliver, and optimize campaign assets. Its generative AI capabilities transform how marketing content is created, reviewed, shared, and analyzed.
+[GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) is not a feature but a generative AI-driven platform. Its generative AI capabilities transform how marketing content is created, reviewed, shared, and analyzed. 
 
-The feature _GenStudio for Performance Marketing Create_ (or, simply _Create_) allows marketers and distributed teams to create high-performing, on-brand experiences. You can generate content for: 
+On the [Create](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/overview) home, you can create high-performing, on-brand experiences. Generate content for: 
 
 * Emails
 * Meta ads
@@ -95,7 +95,7 @@ Example:
 
 * _How many live activities can I have in one Adobe Journey Optimizer sandbox?_
 
-**Operational Insights (Beta)** - Queries a customer-specific operational insights data store that contains centralized operational data about Journeys, partitioned by the customer's sandbox. This feature pulls metadata only from business objects and does not access data within the sandbox.
+**Operational Insights (Beta)** - AI Assistant queries a customer-specific operational insights data store that contains centralized operational data about Journeys, partitioned by the customer's sandbox. This feature pulls metadata only from business objects and does not access data within the sandbox.
 
 Example prompt: 
 
@@ -131,7 +131,7 @@ Journey Optimizer B2B Edition uses [AI Assistant](https://experienceleague.adobe
 
 ## AI Assistant in Campaign Managed Cloud Services {#campaign-cs}
 
-Campaign Managed Cloud Services uses [AI Assistant for Content Accelerator](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-gs) auto-generates personalized, engaging, and effective content based on the marketing objective with content optimized for brand outlined styles, layouts, tone, and more across channels like [email](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-content), [SMS](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-sms), and [push](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-push). 
+Campaign Managed Cloud Services uses [AI Assistant for Content Accelerator](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-gs). This feature lets you auto-generate personalized, engaging, and effective content based on your marketing objective, with content optimized for brand outlined styles, layouts, tone, and more. You can use it across channels like [email](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-content), [SMS](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-sms), and [push](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-push). 
 
 **Note:** Output from Content Accelerator in Campaign Managed Cloud Services is indemnified. 
 
@@ -139,7 +139,7 @@ Campaign Managed Cloud Services uses [AI Assistant for Content Accelerator](http
 
 ## AI Assistant in Customer Journey Analytics {#cja}
 
-CJA uses [AI Assistant](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/ai-assistant) to help you discover product knowledge and insights from Experience League. 
+Customer Journey Analytics uses [AI Assistant](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/ai-assistant) to help you discover product knowledge and insights from Experience League. 
 
 **Example prompt:** How do I build a calculated metric? 
 
