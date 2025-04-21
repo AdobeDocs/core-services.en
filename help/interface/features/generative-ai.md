@@ -71,7 +71,7 @@ After creating variations, you can use the content on your website and measure i
 
 ### Input and output fields
 
-**Input:** Input fields include: 
+Input fields include: 
  
 * Number of Variations to generate
 * Audience Source
@@ -79,9 +79,9 @@ After creating variations, you can use the content on your website and measure i
 * Additional Context
 * Customer-driven prompts 
 
-**Output:** Generated Content / Market Copy. You also have the option to generate images in Adobe Express using the generative AI capabilities of Firefly. 
- 
-See [Generate Image](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations#generate-image) to learn more.
+The output is generated content or market copy. 
+
+You also have the option to generate images in Adobe Express using the generative AI capabilities of Firefly. [Learn more...](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations#generate-image)
 
 **Compatible with Adobe Firefly:** Yes
  
@@ -175,17 +175,17 @@ For more examples, see the _Product Knowledge_ and _Operational Insights_ input 
 
 ## Dynamic Chat in Marketo {#marketo}
 
-Generative AI powered capabilities in Adobe Dynamic Chat allow you to optimize productivity for your sales agents, get insights into your website visitor intent, and respond to visitor questions in a safe manner. You can pre-approve the questions and answers, as well as the conversation summary. [Learn more...](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/overview)
+Generative AI powered capabilities in Adobe Dynamic Chat allow you to optimize productivity for your sales agents, get insights into your website visitor intent, and respond to visitor questions in a safe manner. You can pre-approve the questions, answers, and the conversation summary. [Learn more...](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/overview)
 
 **Compatible with Firefly:** No
 
 ## AI Assistant in Workfront {#workfront}
 
-AI Assistant in Workfront helps you accomplish your work by offering in-app information and suggestions in conversational language. How you can use AI Assistant in Workfront:
+AI Assistant in Workfront helps you accomplish your work by offering in-app information and suggestions. You can:
 
-* Summarize some objects, giving you a high-level view of the object's intent or details.
+* Get summaries of some objects, giving you a high-level view of the object's intent or details.
 * Ask questions and let [!DNL AI Assistant] find answers on Experience League.
-* Generate formulas based on a prompt that you provide. You can also resolve errors in your invalid custom expressions in calculated fields.
+* Get generated formulas based on your prompts. You can also resolve errors in your invalid custom expressions in calculated fields.
 * Locate projects, tasks, and issues.
 
 [Learn more...](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant-overview)
