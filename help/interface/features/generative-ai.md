@@ -139,7 +139,7 @@ Campaign Managed Cloud Services uses [AI Assistant for Content Accelerator](http
 
 ## AI Assistant in Customer Journey Analytics {#cja}
 
-Customer Journey Analytics uses [AI Assistant](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/ai-assistant) to help you discover product knowledge and insights from Experience League. 
+Customer Journey Analytics uses [AI Assistant](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant) to help you discover product knowledge and insights from Experience League. 
 
 **Example prompt:** How do I build a calculated metric? 
 
@@ -167,7 +167,7 @@ For example:
 
 * Input: _How many datasets do I have?_ 
 
-* Response: _Operational Insights output depends on metadata pulled from Customer's business objects (Attributes, Audiences, Dataflows, Datasets, Destinations, Schemas, and Sources), and includes a link to specific UI page containing queried data._
+* Response: Operational Insights output depends on metadata pulled from Customer's business objects (Attributes, Audiences, Dataflows, Datasets, Destinations, Schemas, and Sources), and includes a link to specific UI page containing queried data.
 
 For more examples, see the _Product Knowledge_ and _Operational Insights_ input tables in [AI Assistant in Experience Platform](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home)  
 
@@ -184,8 +184,8 @@ Generative AI powered capabilities in Adobe Dynamic Chat allow you to optimize p
 AI Assistant in Workfront helps you accomplish your work by offering in-app information and suggestions in conversational language. How you can use AI Assistant in Workfront:
 
 * Summarize some objects, giving you a high-level view of the object's intent or details.
-* Ask questions and let AI Assistant find answers on Experience League.
-* Generate formulas based on a prompt you provide. You can also resolve errors in your invalid custom expressions in calculated fields.
+* Ask questions and let [!DNL AI Assistant] find answers on Experience League.
+* Generate formulas based on a prompt that you provide. You can also resolve errors in your invalid custom expressions in calculated fields.
 * Locate projects, tasks, and issues.
 
 [Learn more...](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant-overview)
