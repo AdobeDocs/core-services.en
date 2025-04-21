@@ -40,7 +40,7 @@ Product knowledge responses from Experience League are verifiable and cited with
 * [Journey Optimizer B2B Edition](#ajo-b2b)
 * [AI Assistant in Journey Optimizer Prime and Ultimate](#ajo-prime-ultimate)
 * [AI Assistant in Journey Optimizer B2B Edition](#ajo-b2b)
-* [AI Assistant in Campaign Managed Cloud Services](campaign-cs)
+* [AI Assistant in Campaign Managed Cloud Services](#campaign-cs)
 * [AI Assistant in Customer Journey Analytics](#cja)
 * [Intelligent Captions in Customer Journey Analytics](#cja-captions)
 * [AI Assistant in Real-Time CDP](#rtcdp)
