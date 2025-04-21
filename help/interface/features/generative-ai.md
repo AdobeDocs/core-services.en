@@ -71,7 +71,7 @@ After creating variations, you can use the content on your website and measure i
 
 ### Input and output fields
 
-**Input:** Input fields include: 
+Input fields include: 
  
 * Number of Variations to generate
 * Audience Source
@@ -79,9 +79,9 @@ After creating variations, you can use the content on your website and measure i
 * Additional Context
 * Customer-driven prompts 
 
-**Output:** Generated Content / Market Copy. You also have the option to generate images in Adobe Express using the generative AI capabilities of Firefly. 
- 
-See [Generate Image](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations#generate-image) to learn more.
+The output is generated content or market copy. 
+
+You also have the option to generate images in Adobe Express using the generative AI capabilities of Firefly. [Learn more...](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations#generate-image)
 
 **Compatible with Adobe Firefly:** Yes
  
@@ -139,7 +139,7 @@ Campaign Managed Cloud Services uses [AI Assistant for Content Accelerator](http
 
 ## AI Assistant in Customer Journey Analytics {#cja}
 
-Customer Journey Analytics uses [AI Assistant](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/ai-assistant) to help you discover product knowledge and insights from Experience League. 
+Customer Journey Analytics uses [AI Assistant](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant) to help you discover product knowledge and insights from Experience League. 
 
 **Example prompt:** How do I build a calculated metric? 
 
@@ -167,7 +167,7 @@ For example:
 
 * Input: _How many datasets do I have?_ 
 
-* Response: _Operational Insights output depends on metadata pulled from Customer's business objects (Attributes, Audiences, Dataflows, Datasets, Destinations, Schemas, and Sources), and includes a link to specific UI page containing queried data._
+* Response: Operational Insights output depends on metadata pulled from Customer's business objects (Attributes, Audiences, Dataflows, Datasets, Destinations, Schemas, and Sources), and includes a link to specific UI page containing queried data.
 
 For more examples, see the _Product Knowledge_ and _Operational Insights_ input tables in [AI Assistant in Experience Platform](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home)  
 
@@ -175,12 +175,22 @@ For more examples, see the _Product Knowledge_ and _Operational Insights_ input 
 
 ## Dynamic Chat in Marketo {#marketo}
 
-[Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview) creates AI-assisted conversations with customized and pre-approved questions and answers, as well as conversation summary |<ul><li> **Generate Questions:** Provide URLs from which content is extracted and used to generate questions / responses. </li><li> **Conversation Summary:** Generates a summary of a chat conversation. </li></ul> [Learn more...](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/response-library)  | No |
+Generative AI powered capabilities in Adobe Dynamic Chat allow you to optimize productivity for your sales agents, get insights into your website visitor intent, and respond to visitor questions in a safe manner. You can pre-approve the questions, answers, and the conversation summary. [Learn more...](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/overview)
+
+**Compatible with Firefly:** No
 
 ## AI Assistant in Workfront {#workfront}
 
-[AI Assistant](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant-overview) in Workfront helps you accomplish your work by offering in-app information and suggestions in a natural-language conversation. AI Assistant offers the following functionality: Summarizes projects/tasks/issues/documents, provides instructions or reference information pulled from the Workfront documentation on Experience League, generates or refines formulas for calculated custom fields.  | <ul><li>**Summarize Project Input:** Summarize this project </li><li> **Summarize Project Output:** Returns brief descriptions of the project's purpose and status, gives examples of tasks that are completed and that are still pending, and provides some additional details and notes.</li><li> **Generate/Refine Formula Input:** "Rewrite this formula to remove the invalid expression error." </li><li> **Generate/Refine Formula Output:** Generated or refined formula. </li></ul>**Note:** AI Assistant may take a few moments to generate the revised formula, depending on the size and complexity of the formula. | No  |
+AI Assistant in Workfront helps you accomplish your work by offering in-app information and suggestions. You can:
 
+* Get summaries of some objects, giving you a high-level view of the object's intent or details.
+* Ask questions and let [!DNL AI Assistant] find answers on Experience League.
+* Get generated formulas based on your prompts. You can also resolve errors in your invalid custom expressions in calculated fields.
+* Locate projects, tasks, and issues.
+
+[Learn more...](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant-overview)
+
+**Compatible with Firefly:** No
 
 <!-- ## Experience Cloud applications that use AI
 
