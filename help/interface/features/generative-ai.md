@@ -54,7 +54,7 @@ Learn about support for generative AI or AI Assistant in Experience Cloud produc
 * [Dynamic Chat in Marketo](#marketo)
 * [AI Assistant in Workfront](#workfront)
 
-### GenStudio for Performance Marketing {#gspm}
+## GenStudio for Performance Marketing {#gspm}
 
 GenStudio for Performance Marketing is an AI-driven platform that empowers you to generate and manage marketing content that adheres to your brand standards and complies with your enterprise policies. Generate content for emails, Meta ads, LinkedIn ads, display ads, and banners.
 
@@ -64,7 +64,7 @@ You can also train GenStudio for Performance Marketing on your brand using examp
 
 Compatibility with Adobe Firefly: **Planned**
 
-### Generate Variations in Experience Manager Sites {#aem-sites}
+## Generate Variations in Experience Manager Sites {#aem-sites}
 
 Generate Variations in AEM Sites uses generative AI to create content variations based on prompts. These prompts are either provided by Adobe or created and managed by you. 
 
