@@ -28,6 +28,16 @@ If you're new to Experience Cloud, you can use generative AI to gain product kno
 
 Product knowledge responses from Experience League are verifiable and cited with links. Learn about the types of [objective-based prompts](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) to get the most out of AI Assistant.
 
+<!-- **Your data remains yours**
+
+In AI Assistant, security is the priority:
+
+* Customer data is not used to train language models.
+* AI Assistant looks at only the documents that you tell it to. You are in control.
+* Your people can use AI Assistant only on documents they can access.
+* It's audit-ready: Responses are attributable to source documents.
+* Enterprise controls are in place to manage who has AI access in the company. -->
+
 ## Applications with features that support AI
 
 * [GenStudio for Performance Marketing](#gspm)
@@ -46,7 +56,7 @@ Product knowledge responses from Experience League are verifiable and cited with
 
 ### GenStudio for Performance Marketing {#gspm}
 
-[GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) is not a feature but a generative AI-driven platform. Its generative AI capabilities transform how marketing content is created, reviewed, shared, and analyzed. 
+[GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) is a generative AI-driven platform with capabilities that can transform how marketing content is created, reviewed, shared, and analyzed. 
 
 On the [Create](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/overview) home, you can create high-performing, on-brand experiences. Generate content for: 
 
