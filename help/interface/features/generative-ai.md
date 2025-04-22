@@ -10,17 +10,21 @@ exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
 ---
 # AI in Experience Cloud products
 
-Generative AI is a type of artificial intelligence that does more than simply answer questions. It _creates_ content and _responds_ to your _prompts_ (questions and statements). 
+This page helps you learn which products support generative AI, AI Assistant, and whether ADobe Firefly is compatible. You can also find links to product-specific help resources on how to use AI in Experience Cloud.
 
-* **Create:** Refers to the AI's ability to generate new content (text, images, music, or videos) from scratch, based on its training and input prompts. This ability is the _generative_ aspect of generative AI.
+**About Generative AI**
 
-* **Respond:** Refers to the AI providing an answer or reaction to a specific prompt, typically drawing on its knowledge or reasoning capabilities.
+Generative AI is a type of artificial intelligence that does more than simply answer questions. It can _create_ content and _respond_ to your questions or statements (known as _prompts_).
 
-If you're new to Experience Cloud, you can use generative AI to gain product knowledge quickly. As an experienced user, you can discover operational insights in seconds rather than hours.
+* **Create:** AI's ability to generate new content (text, images, music, or videos) from scratch, based on its training and input prompts. This ability is the _generative_ aspect of generative AI.
 
-**About AI Assistant**
+* **Respond:** AI's providing an answer or reaction to a prompt, typically drawing on its knowledge or reasoning capabilities.
 
-AI Assistant is a conversational tool supported in Experience Platform and related applications. Use it to accelerate your workflows, improve your product knowledge, troubleshoot problems, or search through information. In certain applications, AI Assistant lets you discover operational insights immediately. 
+With generative AI, you can gain product knowledge quickly if you're new to Experience Cloud. Seasoned users can discover operational insights in seconds rather than hours.
+
+**What is AI Assistant?**
+
+AI Assistant is a conversational tool supported in Experience Platform and related applications. These applications use it similarly but with product-specific advantages. Use it to accelerate your workflows, improve your product knowledge, troubleshoot problems, or search through information. In certain applications, AI Assistant lets you discover operational insights immediately. 
 
 Product knowledge responses from Experience League are verifiable and cited with links. Learn about the types of [objective-based prompts](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) to get the most out of AI Assistant.
 
