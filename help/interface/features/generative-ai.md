@@ -1,6 +1,6 @@
 ---
 title: AI in Experience Cloud applications
-description: Learn about generative AI and how Experience Cloud applications use genAI and AI Assistant. 
+description: Learn about generative AI and how Experience Cloud applications use genAI and [!DNL AI Assistant]. 
 solution: Experience Cloud
 feature: AI Assistant, Generative AI
 topic: Administration
@@ -10,7 +10,7 @@ exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
 ---
 # AI in Experience Cloud products
 
-This page helps you learn which products support generative AI, AI Assistant, and whether ADobe Firefly is compatible. You can also find links to product-specific help resources on how to use AI in Experience Cloud.
+This page helps you learn which products support generative AI, [!DNL AI Assistant], and whether ADobe Firefly is compatible. You can also find links to product-specific help resources on how to use AI in Experience Cloud.
 
 **About Generative AI**
 
@@ -22,11 +22,11 @@ Generative AI is a type of artificial intelligence that does more than simply an
 
 With generative AI, you can gain product knowledge quickly if you're new to Experience Cloud. Seasoned users can discover operational insights in seconds rather than hours.
 
-**What is AI Assistant?**
+**What is [!DNL AI Assistant]?**
 
-AI Assistant is a conversational tool supported in Experience Platform and related applications. These applications use it similarly but with product-specific advantages. Use it to accelerate your workflows, improve your product knowledge, troubleshoot problems, or search through information. In certain applications, AI Assistant lets you discover operational insights immediately. 
+[!DNL AI Assistant] is a conversational tool supported in Experience Platform and related applications. These applications use it similarly but with product-specific advantages. Use it to accelerate your workflows, improve your product knowledge, troubleshoot problems, or search through information. In certain applications, [!DNL AI Assistant] lets you discover operational insights immediately. 
 
-Product knowledge responses from Experience League are verifiable and cited with links. Learn about the types of [objective-based prompts](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) to get the most out of AI Assistant.
+Product knowledge responses from Experience League are verifiable and cited with links. Learn about the types of [objective-based prompts](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) to get the most out of [!DNL AI Assistant].
 
 [Learn more](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing) 
 
@@ -106,7 +106,7 @@ Journey Optimizer B2B Edition uses AI Assistant to help you with product knowled
 
 Compatibility with Adobe Firefly: **No**
 
-## AI Assistant in Campaign v8 Web UI  {#campaign-cs}
+## AI Assistant in Campaign v8 Web UI {#campaign-cs}
 
 Campaign Managed Cloud Services uses AI Assistant for Content Accelerator. This feature lets you auto-generate personalized, engaging, and effective content based on your marketing objective, with content optimized for brand outlined styles, layouts, tone, and more. You can use it across channels like email, SMS, and push.
 
@@ -136,7 +136,7 @@ Compatibility with Adobe Firefly: **No**
 
 ## AI Assistant in Real-Time CDP {#rtcdp}
 
-Real-Time CDP uses AI Assistant to help you with product knowledge from Experience League. It also offers operational insights (in beta). AI Assistant queries a customer-specific operational insights data store that contains centralized operational data, partitioned in your AEP sandbox. The system pulls metadata only from Attributes, Audiences, Dataflows, Datasets, Destinations, Schemas, and Sources, and does not access data within the sandbox. 
+Real-Time CDP uses [!DNL AI Assistant] to help you with product knowledge from Experience League. It also offers operational insights (in beta). [!DNL AI Assistant] queries a customer-specific operational insights data store that contains centralized operational data, partitioned in your AEP sandbox. The system pulls metadata only from Attributes, Audiences, Dataflows, Datasets, Destinations, Schemas, and Sources, and does not access data within the sandbox. 
 
 For example, if you query about an audience, [!DNL AI Assistant] can access the name of the audience and other associated metadata but cannot access the profiles within that audience. 
 
@@ -152,9 +152,9 @@ Generative AI powered capabilities in Adobe Dynamic Chat allow you to optimize p
 
 Compatibility with Adobe Firefly: **No**
 
-## AI Assistant in Workfront {#workfront}
+## [!DNL AI Assistant] in Workfront {#workfront}
 
-AI Assistant in Workfront helps you accomplish your work by offering in-app information and suggestions. You can:
+[!DNL AI Assistant] in Workfront helps you accomplish your work by offering in-app information and suggestions. You can:
 
 * Get summaries of some objects, giving you a high-level view of the object's intent or details.
 * Ask questions and let [!DNL AI Assistant] find answers on Experience League.
