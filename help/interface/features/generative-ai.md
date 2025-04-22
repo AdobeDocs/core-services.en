@@ -1,6 +1,6 @@
 ---
 title: AI in Experience Cloud applications
-description: Learn how Experience Cloud applications use generative AI and AI Assistant.
+description: Learn about generative AI and how Experience Cloud applications use genAI and AI Assistant. 
 solution: Experience Cloud
 feature: AI Assistant, Generative AI
 topic: Administration
