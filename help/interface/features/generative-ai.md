@@ -42,23 +42,23 @@ In AI Assistant, security is the priority:
 
 ## AI availability in Experience Cloud products
 
-Learn about support for generative AI or AI Assistant in Experience Cloud products, and whether Adobe Firefly is supported.
+Learn about support for generative AI or [!DNL AI Assistant] in Experience Cloud products, and whether Adobe Firefly is supported.
 
-* [GenStudio for Performance Marketing](#gspm)
-* [Generate Variations in Experience Manager Sites](#aem-sites)
-* [AI Assistant in Journey Optimizer](#journey-optimizer)
-* [AI Assistant in Journey Optimizer Prime and Ultimate](#ajo-prime-ultimate)
-* [AI Assistant in Journey Optimizer B2B Edition](#ajo-b2b)
-* [AI Assistant in Campaign v8 Web User Interface](#campaign-cs)
-* [AI Assistant in Customer Journey Analytics](#cja)
-* [Intelligent Captions in Customer Journey Analytics](#cja-captions)
-* [AI Assistant in Real-Time CDP](#rtcdp)
-* [Dynamic Chat in Marketo](#marketo)
-* [AI Assistant in Workfront](#workfront)
+* [[!DNL GenStudio for Performance Marketing]](#gspm)
+* [Generate Variations in [!DNL Experience Manager Sites]](#aem-sites)
+* [[!DNL AI Assistant] in [!DNL Journey Optimizer]](#journey-optimizer)
+* [[!DNL AI Assistant] in [!DNL Journey Optimizer] Prime and Ultimate](#ajo-prime-ultimate)
+* [[!DNL AI Assistant] in [!DNL Journey Optimizer] B2B Edition](#ajo-b2b)
+* [[!DNL AI Assistant] in [!DNL Campaign] v8 Web User Interface](#campaign-cs)
+* [[!DNL AI Assistant] in [!DNL Customer Journey Analytics]](#cja)
+* [Intelligent Captions in [!DNL Customer Journey Analytics]](#cja-captions)
+* [[!DNL AI Assistant] in [!DNL Real-Time CDP]](#rtcdp)
+* [Dynamic Chat in [!DNL Marketo]](#marketo)
+* [[!DNL AI Assistant] in [!DNL Workfront]](#workfront)
 
 ## GenStudio for Performance Marketing {#gspm}
 
-GenStudio for Performance Marketing is an AI-driven platform that empowers you to generate and manage marketing content that adheres to your brand standards and complies with your enterprise policies. Generate content for emails, Meta ads, LinkedIn ads, display ads, and banners.
+[!DNL GenStudio for Performance Marketing] is an AI-driven platform that empowers you to generate and manage marketing content that adheres to your brand standards and complies with your enterprise policies. Generate content for emails, Meta ads, LinkedIn ads, display ads, and banners.
 
 You can also train GenStudio for Performance Marketing on your brand using examples, descriptions of customer personas and products, and brand guidelines. 
 
@@ -66,9 +66,9 @@ You can also train GenStudio for Performance Marketing on your brand using examp
 
 Compatibility with Adobe Firefly: **Planned**
 
-## Generate Variations in Experience Manager Sites {#aem-sites}
+## Generate Variations in [!DNL Experience Manager Sites] {#aem-sites}
 
-Generate Variations in AEM Sites uses generative AI to create content variations based on prompts. These prompts are either provided by Adobe or created and managed by you. 
+[!UICONTROL Generate Variations] in AEM Sites uses generative AI to create content variations based on prompts. These prompts are either provided by Adobe or created and managed by you. 
 
 After creating variations, you can use the content on your website and measure its success using the Experimentation feature in Edge Delivery Services. You also have the option to generate images in Adobe Express using the generative AI capabilities of Firefly.
 
@@ -76,21 +76,21 @@ After creating variations, you can use the content on your website and measure i
 
 Compatibility with Adobe Firefly: **Yes**
  
-## AI Assistant in Journey Optimizer {#journey-optimizer}
+## AI Assistant in [!DNL Journey Optimizer] {#journey-optimizer}
 
-In Journey Optimizer, use AI Assistant to gain product knowledge and operational insights. For example, ask _How many live activities can I have in one Journey Optimizer sandbox?_ You'll immediately get your answer from Experience League and other Adobe data stores.
+In [!DNL Journey Optimizer], use [!DNL AI Assistant] to gain product knowledge and operational insights. For example, ask _How many live activities can I have in one Journey Optimizer sandbox?_ You'll immediately get your answer from Experience League and other Adobe data stores.
 
-AI Assistant also helps with operational insights (beta). For example, you can quickly learn how many Journeys have been created in the last seven days. 
+[!DNL AI Assistant] also helps with operational insights (beta). For example, you can quickly learn how many Journeys have been created in the last seven days. 
 
-For operational insights, AI Assistant queries a customer-specific data store. The data store contains centralized, operational data about [!UICONTROL Journeys]. This feature is customer agnostic and pulls metadata only from business objects. It does not access data within your sandbox.
+For operational insights, [!DNL AI Assistant] queries a customer-specific data store. The data store contains centralized, operational data about [!UICONTROL Journeys]. This feature is customer agnostic and pulls metadata only from business objects. It does not access data within your sandbox.
 
 [Learn more](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant).
 
 Compatibility with Adobe Firefly: **No**
 
-## AI Assistant in Journey Optimizer Prime and Ultimate {#ajo-prime-ultimate}
+## AI Assistant in [!DNL Journey Optimizer] Prime and Ultimate {#ajo-prime-ultimate}
 
-Journey Optimizer Prime and Ultimate use AI Assistant for Content Accelerator to bring proactive content variation suggestions for text and images. 
+[!DNL Journey Optimizer] Prime and Ultimate use [!DNL AI Assistant] for Content Accelerator to bring proactive content variation suggestions for text and images. 
 
 This feature is available for email, push notifications, web page, content, and SMS channels. It provides prompt-based text and image generation. Output from Content Accelerator in AJO Prime and Ultimate is indemnified.
 
@@ -98,17 +98,17 @@ This feature is available for email, push notifications, web page, content, and 
 
 Compatibility with Adobe Firefly: **Yes**
 
-## AI Assistant in Journey Optimizer B2B Edition {#ajo-b2b}
+## AI Assistant in [!DNL Journey Optimizer B2B Edition] {#ajo-b2b}
 
-Journey Optimizer B2B Edition uses AI Assistant to help you with product knowledge. 
+Journey Optimizer B2B Edition uses [!DNL AI Assistant] to help you with product knowledge. 
 
 [Learn more](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-assistant-overview)
 
 Compatibility with Adobe Firefly: **No**
 
-## AI Assistant in Campaign v8 Web UI {#campaign-cs}
+## AI Assistant in [!DNL Campaign] v8 Web UI {#campaign-cs}
 
-Campaign Managed Cloud Services uses AI Assistant for Content Accelerator. This feature lets you auto-generate personalized, engaging, and effective content based on your marketing objective, with content optimized for brand outlined styles, layouts, tone, and more. You can use it across channels like email, SMS, and push.
+Campaign Managed Cloud Services uses [!DNL AI Assistant] for Content Accelerator. This feature lets you auto-generate personalized, engaging, and effective content based on your marketing objective, with content optimized for brand outlined styles, layouts, tone, and more. You can use it across channels like email, SMS, and push.
 
 **Note:** Output from Content Accelerator in Campaign Managed Cloud Services is indemnified. 
 
@@ -116,9 +116,9 @@ Campaign Managed Cloud Services uses AI Assistant for Content Accelerator. This 
 
 Compatibility with Adobe Firefly: **Yes**
 
-## AI Assistant in Customer Journey Analytics {#cja}
+## AI Assistant in [!DNL Customer Journey Analytics] {#cja}
 
-Customer Journey Analytics uses AI Assistant to help you discover product knowledge and insights from Experience League. If you're a new user, quickly learn Customer Journey Analytics concepts and onboard yourself to products and features. 
+Customer Journey Analytics uses [!DNL AI Assistant] to help you discover product knowledge and insights from Experience League. If you're a new user, quickly learn Customer Journey Analytics concepts and onboard yourself to products and features. 
 
 Experienced users get advanced use cases or learn strategies to perform tasks at a fast pace. Understand concepts, troubleshoot problems, or search for information. 
 
@@ -126,15 +126,15 @@ Experienced users get advanced use cases or learn strategies to perform tasks at
 
 Compatibility with Adobe Firefly: **No**
 
-## Intelligent Captions in Customer Journey Analytics {#cja-captions}
+## Intelligent Captions in [!DNL Customer Journey Analytics] {#cja-captions}
 
-Intelligent Captions in Customer Journey Analytics provide natural-language insights for the most frequently used Workspace visualizations. Intelligent captions are ideal for analysts who need narratives and context to share with other users. Business users can use it to discover high-level takeaways quickly.
+Intelligent Captions in [!DNL Customer Journey Analytics] provide natural-language insights for the most frequently used Workspace visualizations. Intelligent captions are ideal for analysts who need narratives and context to share with other users. Business users can use it to discover high-level takeaways quickly.
 
 [Learn more](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions)
 
 Compatibility with Adobe Firefly: **No**
 
-## AI Assistant in Real-Time CDP {#rtcdp}
+## AI Assistant in [!DNL Real-Time CDP] {#rtcdp}
 
 Real-Time CDP uses [!DNL AI Assistant] to help you with product knowledge from Experience League. It also offers operational insights (in beta). [!DNL AI Assistant] queries a customer-specific operational insights data store that contains centralized operational data, partitioned in your AEP sandbox. The system pulls metadata only from Attributes, Audiences, Dataflows, Datasets, Destinations, Schemas, and Sources, and does not access data within the sandbox. 
 
@@ -144,7 +144,7 @@ For example, if you query about an audience, [!DNL AI Assistant] can access the 
 
 Compatibility with Adobe Firefly: **No**
 
-## Dynamic Chat in Marketo {#marketo}
+## Dynamic Chat in [!DNL Marketo] {#marketo}
 
 Generative AI powered capabilities in Adobe Dynamic Chat allow you to optimize productivity for your sales agents, get insights into your website visitor intent, and respond to visitor questions in a safe manner. You can pre-approve the questions, answers, and the conversation summary. 
 
@@ -152,9 +152,9 @@ Generative AI powered capabilities in Adobe Dynamic Chat allow you to optimize p
 
 Compatibility with Adobe Firefly: **No**
 
-## [!DNL AI Assistant] in Workfront {#workfront}
+## [!DNL AI Assistant] in [!DNL Workfront] {#workfront}
 
-[!DNL AI Assistant] in Workfront helps you accomplish your work by offering in-app information and suggestions. You can:
+[!DNL AI Assistant] in [!DNL Workfront] helps you accomplish your work by offering in-app information and suggestions. You can:
 
 * Get summaries of some objects, giving you a high-level view of the object's intent or details.
 * Ask questions and let [!DNL AI Assistant] find answers on Experience League.
