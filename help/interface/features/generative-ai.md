@@ -41,13 +41,11 @@ In AI Assistant, security is the priority:
 Learn about support for generative AI or AI Assistant in Experience Cloud products, and whether Adobe Firefly is supported.
 
 * [GenStudio for Performance Marketing](#gspm)
-* [Generate Variations in AEM Sites (Cloud Service)](#aem-sites)
+* [Generate Variations in Experience Manager Sites](#aem-sites)
 * [AI Assistant in Journey Optimizer](#journey-optimizer)
-* [Adobe Journey Optimizer Prime and Ultimate](#ajo-prime-ultimate)
-* [Journey Optimizer B2B Edition](#ajo-b2b)
 * [AI Assistant in Journey Optimizer Prime and Ultimate](#ajo-prime-ultimate)
 * [AI Assistant in Journey Optimizer B2B Edition](#ajo-b2b)
-* [AI Assistant in Campaign Managed Cloud Services](#campaign-cs)
+* [AI Assistant in Campaign v8 Web User Interface](#campaign-cs)
 * [AI Assistant in Customer Journey Analytics](#cja)
 * [Intelligent Captions in Customer Journey Analytics](#cja-captions)
 * [AI Assistant in Real-Time CDP](#rtcdp)
@@ -104,7 +102,7 @@ Journey Optimizer B2B Edition uses AI Assistant to help you with product knowled
 
 Compatibility with Adobe Firefly: **No**
 
-## AI Assistant in Campaign Managed Cloud Services {#campaign-cs}
+## AI Assistant in Campaign v8 Web UI  {#campaign-cs}
 
 Campaign Managed Cloud Services uses AI Assistant for Content Accelerator. This feature lets you auto-generate personalized, engaging, and effective content based on your marketing objective, with content optimized for brand outlined styles, layouts, tone, and more. You can use it across channels like email, SMS, and push.
 
