@@ -6,9 +6,6 @@ feature: AI Assistant, Generative AI
 topic: Administration
 role: Admin
 level: Intermediate
-hide: no
-hidefromtoc: yes
-index: n
 exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
 ---
 # AI in Experience Cloud applications
