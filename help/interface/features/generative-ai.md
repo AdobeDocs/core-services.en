@@ -92,9 +92,9 @@ Compatibility with Adobe Firefly: **No**
 
 ## [!DNL Journey Optimizer] Prime and Ultimate {#ajo-prime-ultimate}
 
-[!DNL Journey Optimizer] Prime and Ultimate use [!DNL AI Assistant] for Content Accelerator to bring proactive content variation suggestions for text and images. 
+[!DNL Journey Optimizer] Prime and Ultimate use [!DNL AI Assistant] for content generation to bring proactive content variation suggestions for text and images. 
 
-This feature is available for email, push notifications, web page, content, and SMS channels. It provides prompt-based text and image generation. Output from Content Accelerator in AJO Prime and Ultimate is indemnified.
+This feature is available for email, push notifications, web page, content, and SMS channels. It provides prompt-based text and image generation. Output from content generation in AJO Prime and Ultimate is indemnified.
 
 [Learn more](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/gs-generative)
 
@@ -110,9 +110,9 @@ Compatibility with Adobe Firefly: **No**
 
 ## [!DNL Campaign] v8 Web UI {#campaign-cs}
 
-Campaign Managed Cloud Services uses [!DNL AI Assistant] for Content Accelerator. This feature lets you auto-generate personalized, engaging, and effective content based on your marketing objective, with content optimized for brand outlined styles, layouts, tone, and more. You can use it across channels like email, SMS, and push.
+Campaign Managed Cloud Services uses [!DNL AI Assistant] for content generation. This feature lets you auto-generate personalized, engaging, and effective content based on your marketing objective, with content optimized for brand outlined styles, layouts, tone, and more. You can use it across channels like email, SMS, and push.
 
-**Note:** Output from Content Accelerator in Campaign Managed Cloud Services is indemnified. 
+**Note:** Output from content generation in Campaign Managed Cloud Services is indemnified. 
 
 [Learn more](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-gs)
 
