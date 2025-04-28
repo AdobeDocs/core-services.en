@@ -10,7 +10,7 @@ exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
 ---
 # AI in Experience Cloud products
 
-This page helps you learn which products support generative AI, [!DNL AI Assistant], and whether ADobe Firefly is compatible. You can also find links to product-specific help resources on how to use AI in Experience Cloud.
+This page helps you learn which products support generative AI, [!DNL AI Assistant], and whether Adobe Firefly is compatible. You can also find links to product-specific help resources on how to use AI in Experience Cloud.
 
 **About Generative AI**
 
@@ -130,7 +130,13 @@ Compatibility with Adobe Firefly: **No**
 
 ## [!DNL Customer Journey Analytics] {#cja-captions}
 
-Intelligent Captions in [!DNL Customer Journey Analytics] provide natural-language insights for the most frequently used Workspace visualizations. Intelligent captions are ideal for analysts who need narratives and context to share with other users. Business users can use it to discover high-level takeaways quickly.
+You can use _Intelligent Captions_ in [!DNL Customer Journey Analytics] to get natural-language insights for the most frequently used Workspace visualizations. Intelligent captions are ideal for analysts who need narratives and context to share with other users. Business users can use it to discover high-level takeaways quickly.
+
+For example:
+
+* **Input:** In CJA, run a supported visualization (inclucing Line, Area, Bar chart, Flow, or Fallout), then click **[!UICONTROL Intelligent captions]**. 
+
+* **Output:** View auto-generated, natural-language captions showing context and key takeaways. Then, you can take actions on the generated data, such as reviewing, copying, and sharing it with your organization. [See how](https://video.tv.adobe.com/v/3420131/?quality=12&learn=on#_blank)
 
 [Learn more](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions)
 
