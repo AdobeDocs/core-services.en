@@ -30,7 +30,7 @@ Generative AI is a type of artificial intelligence that does more than simply an
 
 [Learn more](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing) 
 
-**Your data remains yours**
+<!-- **Your data remains yours**
 
 In AI Assistant, security is the priority:
 
@@ -39,6 +39,7 @@ In AI Assistant, security is the priority:
 * Your people can use AI Assistant only on documents they can access.
 * It's audit-ready: Responses are attributable to source documents.
 * Enterprise controls are in place to manage who has AI access in the company.
+ -->
 
 ## AI availability in Experience Cloud products
 
