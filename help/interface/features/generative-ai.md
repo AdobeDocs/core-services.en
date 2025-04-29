@@ -8,7 +8,7 @@ role: Admin
 level: Intermediate
 exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
 ---
-# AI in Experience Cloud products
+# Generative AI in Experience Cloud products
 
 This page helps you learn which products support generative AI, [!DNL AI Assistant], and whether Adobe Firefly is compatible. You can also find links to information about how you can use AI in Experience Cloud applications.
 
@@ -51,7 +51,6 @@ Learn how the following Experience Cloud applications support generative AI or [
 * [[!DNL Journey Optimizer] B2B Edition](#ajo-b2b)
 * [[!DNL Campaign] Managed Cloud Services](#campaign-cs)
 * [[!DNL Customer Journey Analytics]](#cja)
-* [[!DNL Customer Journey Analytics]](#cja-captions)
 * [[!DNL Real-Time CDP]](#rtcdp)
 * [[!DNL Marketo]](#marketo)
 * [[!DNL Workfront]](#workfront)
@@ -147,9 +146,11 @@ Adobe Firefly compatibility: **Yes**
 
 ## [!DNL Customer Journey Analytics] {#cja}
 
-Customer Journey Analytics uses [!DNL AI Assistant] to help you discover product knowledge and insights from Experience League. 
+Customer Journey Analytics offers [!DNL AI Assistant] for product knowledge and insights, and [!UICONTROL Intelligent Captions] in Workspace visualizations.
 
-If you're a new user, quickly learn Customer Journey Analytics concepts and onboard yourself to products and features. For example:
+**AI Assistant**
+
+Discover product knowledge and insights from Experience League. If you're a new user, quickly learn Customer Journey Analytics concepts and onboard yourself to products and features. For example:
 
 * _How do I send an email in an account journey?_
 
@@ -157,9 +158,7 @@ Experienced users get advanced use cases or learn strategies to perform tasks at
 
 [Learn more](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant)
 
-Adobe Firefly compatibility: **No**
-
-## [!DNL Customer Journey Analytics] {#cja-captions}
+**Intelligent Captions**
 
 You can use _Intelligent Captions_ in [!DNL Customer Journey Analytics] to get natural-language insights for the most frequently used Workspace visualizations. Intelligent captions are ideal for analysts who need narratives and context to share with other users. Business users can use it to discover high-level takeaways quickly.
 
