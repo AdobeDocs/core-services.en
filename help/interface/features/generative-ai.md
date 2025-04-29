@@ -49,7 +49,7 @@ Learn about support for generative AI or [!DNL AI Assistant] in Experience Cloud
 * [[!DNL Experience Manager Sites]](#aem-sites)
 * [[!DNL Journey Optimizer]](#journey-optimizer)
 * [[!DNL Journey Optimizer] B2B Edition](#ajo-b2b)
-* [[!DNL Campaign] Managed Services (Campaign v8 Web)](#campaign-cs)
+* [[!DNL Campaign] Managed Cloud Services](#campaign-cs)
 * [[!DNL Customer Journey Analytics]](#cja)
 * [[!DNL Customer Journey Analytics]](#cja-captions)
 * [[!DNL Real-Time CDP]](#rtcdp)
@@ -134,9 +134,9 @@ Example input:
 
 Compatibility with Adobe Firefly: **No**
 
-## [!DNL Campaign] Managed Services (Campaign v8 Web) {#campaign-cs}
+## [!DNL Campaign] Managed Cloud Services {#campaign-cs}
 
-Campaign v8 (Campaign Managed Cloud Services) uses [!DNL AI Assistant] for content generation. This feature lets you auto-generate personalized, engaging, and effective content based on your marketing objective, with content optimized for brand outlined styles, layouts, tone, and more. You can use it across channels like email, SMS, and push.
+Campaign Managed Cloud Services uses [!DNL AI Assistant] for content generation. This feature lets you auto-generate personalized, engaging, and effective content based on your marketing objective, with content optimized for brand outlined styles, layouts, tone, and more. You can use it across channels like email, SMS, and push.
 
 **Note:** Output from content generation in Campaign Managed Cloud Services is indemnified. 
 
