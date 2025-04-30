@@ -1,6 +1,6 @@
 ---
 title: AI in Experience Cloud applications
-description: Learn about generative AI and how Experience Cloud applications use genAI and [!DNL AI Assistant]. 
+description: Learn about generative AI (GenAI) and how Experience Cloud applications use GenAI and [!DNL AI Assistant]. 
 solution: Experience Cloud
 feature: AI Assistant, Generative AI
 topic: Administration
@@ -10,7 +10,7 @@ exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
 ---
 # Generative AI in Experience Cloud products
 
-This page helps you learn which products support generative AI, [!DNL AI Assistant], and whether Adobe Firefly is compatible. You can also find links to information about how you can use AI in Experience Cloud applications.
+This page helps you learn which products support generative AI (GenAI), [!DNL AI Assistant], and whether Adobe Firefly is compatible. You can also find links to information about various ways you can use AI in Experience Cloud applications.
 
 **About Generative AI**
 
@@ -28,7 +28,7 @@ Generative AI is a type of artificial intelligence that does more than simply an
 
 * **Operational insights:** [Operational insights](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/questions#objects-questions) refer to generated responses about your metadata objects (attributes, audiences, dataflows, datasets, and so on). With AI Assistant, you can accomplish in seconds what otherwise might take hours or days.
 
-[Learn more](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing) 
+[Learn about AI Assistant](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing) 
 
 <!-- **Your data remains yours**
 
@@ -206,6 +206,21 @@ For example, if you query about an audience, [!DNL AI Assistant] can access the 
 Adobe Firefly compatibility: **No**
 
 ## [!DNL Marketo] {#marketo}
+
+In Marketo, generative AI is available in Interactive Webinars and Dynamic Chat.
+
+**Interactive Webinars**
+
+Automatically generate chapters and summaries for your recorded webinars, making them more accessible and easier to navigate for your audience. Features include:
+
+* Automatic chapter generation
+* AI-generated text summary
+* Editable content - Modify generated chapters and summaries
+* Easy integration - Add chapters and summaries to your Landing Pages by copying the HTML code to the webpage editor of your choice
+
+[Learn more](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai)
+
+**Dynamic Chat**
 
 Generative AI powered capabilities in Adobe Dynamic Chat allow you to optimize productivity for your sales agents, get insights into your website visitor intent, and respond to visitor questions in a safe manner. You can pre-approve the questions, answers, and the conversation summary. 
 
