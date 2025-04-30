@@ -46,7 +46,7 @@ In AI Assistant, security is the priority:
 Learn how the following Experience Cloud applications support generative AI or [!DNL AI Assistant]. Support for Adobe Firefly is also indicated.
 
 * [[!DNL GenStudio for Performance Marketing]](#gspm)
-* [[!DNL Experience Manager Sites]](#aem-sites)
+* [[!DNL Experience Manager]](#aem)
 * [[!DNL Journey Optimizer]](#journey-optimizer)
 * [[!DNL Journey Optimizer] B2B Edition](#ajo-b2b)
 * [[!DNL Campaign] Managed Cloud Services](#campaign-cs)
@@ -65,7 +65,11 @@ You can also train GenStudio for Performance Marketing on your brand using examp
 
 Adobe Firefly compatibility: **Yes**
 
-## Adobe [!DNL Experience Manager Sites] {#aem-sites}
+## Adobe [!DNL Experience Manager] {#aem}
+
+The following sections briefly describe generative AI in AEM applications.
+
+### Experience Manager Sites
 
 In AEM Sites, you can use _[!UICONTROL Generate Variations]_. This feature uses generative artificial intelligence to create content variations based on your input prompts. Prompts are either provided by Adobe or created and managed by you.
 
@@ -87,6 +91,15 @@ Adobe Firefly compatibility: **Yes**
 
 [Learn more about Generate Variations](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations-integrated-editor)
 
+### Experience Manager Assets
+
+[!UICONTROL Content Hub] is available as part of [!DNL Experience Manager Assets as a Cloud Service] for democratizing access to on-brand content for organizations and their business partners. It focuses on distributing assets for activation at scale and creation of on-brand content variants for improved marketing agility.
+
+In Content Hub, you can create content with Adobe Express (if you have Adobe Express entitlements). You can edit existing content with simple tools, produce on-brand variations with templates and brand elements, and create content with the latest GenAI capabilities from [!DNL Adobe Firefly].
+
+[Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview)
+
+Adobe Firefly compatibility: **Yes**
 
 ## Adobe [!DNL Journey Optimizer] {#journey-optimizer}
 
@@ -146,7 +159,11 @@ Adobe Firefly compatibility: **Yes**
 
 ## [!DNL Customer Journey Analytics] {#cja}
 
-Customer Journey Analytics offers [!DNL AI Assistant] for product knowledge and insights, and [!UICONTROL Intelligent Captions] in Workspace visualizations.
+Customer Journey Analytics lets you use generative AI in the following ways:
+
+* [!DNL AI Assistant] for product knowledge and insights
+* [!UICONTROL Intelligent Captions] in Workspace visualizations
+* AI and GenAI to assign every asset metadata automatically in [!DNL Content Analytics]
 
 **AI Assistant**
 
@@ -169,6 +186,12 @@ For example:
 * **Output:** View auto-generated, natural-language captions showing context and key takeaways. Then, you can take actions on the generated data, such as reviewing, copying, and sharing it with your organization. [See how](https://video.tv.adobe.com/v/3420131/?quality=12&learn=on#_blank)
 
 [Learn more](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions)
+
+**Content Analytics**
+
+Content Analytics uses AI and GenAI to assign every asset metadata automatically, such as subjects, scenes, foreground colors, and so on. An attribute is an AI-assigned metadata tag describing what is in an asset or experience. 
+
+For example: foreground `color: red` is an automatically assigned attribute. The visualizations help you identify which attributes of your assets contribute most to conversion. [Learn more](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/report#template)
 
 Adobe Firefly compatibility: **No**
 
