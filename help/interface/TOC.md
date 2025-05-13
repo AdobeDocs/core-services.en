@@ -68,7 +68,7 @@ index: yes
   + [Regional data collection](data-collection/rdc.md)
   + [Use DNS prefetch](data-collection/dns-prefetch.md)
 
-+ More Resources {#more-resources}
++ Release notes and resources {#more-resources}
   + [Release notes](more-resources/release-notes.md)
   + [Documentation updates](more-resources/doc-updates.md)
   + [Frequently asked questions](more-resources/faq.md)
