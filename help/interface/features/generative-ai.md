@@ -30,15 +30,26 @@ Generative AI is a type of artificial intelligence that does more than simply an
 
 [Learn about AI Assistant](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing) 
 
-<!-- **Your data remains yours**
+<!--## Adobe Marketing Agent for Microsoft 365 Copilot 
 
-In AI Assistant, security is the priority:
+The Adobe Marketing Agent for Microsoft 365 Copilot is a generative AI-powered assistant designed to enhance marketing workflows by integrating Adobe's marketing capabilities directly into Microsoft 365 applications such as Word, PowerPoint, Teams, and Outlook. This collaboration between Adobe and Microsoft aims to streamline marketing processes, allowing marketers to access insights and tools within their existing work environments.
+Adobe for Business
 
-* Customer data is not used to train language models.
-* AI Assistant looks at only the documents that you tell it to. You are in control.
-* Your people can use AI Assistant only on documents they can access.
-* It's audit-ready: Responses are attributable to source documents.
-* Enterprise controls are in place to manage who has AI access in the company.
+Key features and capabilities:
+
+**Audience Refinement:** Marketers can use natural language prompts within Microsoft 365 to access data and insights from Adobe Experience Platform, enabling quick audience analysis and segmentation for personalized campaigns. 
+
+**Insight Discovery:** The agent can retrieve meaningful insights from Adobe Customer Journey Analytics, facilitating the creation of campaign performance reports directly within Microsoft apps, thus supporting informed decision-making. 
+
+**Content Creation:** Through integration with Adobe Express, users can generate high-quality images and assets within Microsoft 365 applications, aiding in the development of presentations, documents, and social media content. 
+Adobe Newsroom
+
+**Workflow Optimization:** The agent can automate tasks in Adobe Workfront, manage content approvals, and provide real-time alerts in Microsoft Teams based on analytics data, enhancing operational efficiency. 
+
+**Campaign Performance Monitoring:** Users can query the agent for campaign performance metrics, which can be visualized and incorporated into PowerPoint presentations for easy sharing and analysis. 
+Adobe for Business
+
+Currently in private preview, the Adobe Marketing Agent for Microsoft 365 Copilot is expected to be generally available later in 2025. This integration represents a significant step in unifying marketing tools and data, aiming to improve productivity and collaboration for marketing teams.
  -->
 
 ## AI availability in Experience Cloud products
