@@ -14,7 +14,7 @@ This page helps you learn which products support generative AI (GenAI), [!DNL AI
 
 **About Generative AI**
 
-Generative AI is a type of artificial intelligence that does more than simply answer questions. It can _create_ content and _generate a response_ to your questions or statements (known as _prompts_).
+Generative AI is a type of AI that can create original content, such as text, images, video, audio, or software code in response to a user's prompt or request.
 
 * **Create:** The ability to generate content (text, images, music, or videos) from scratch, based on its training and input prompts. This ability is the _generative_ aspect of generative AI.
 
@@ -52,7 +52,7 @@ Adobe for Business
 Currently in private preview, the Adobe Marketing Agent for Microsoft 365 Copilot is expected to be generally available later in 2025. This integration represents a significant step in unifying marketing tools and data, aiming to improve productivity and collaboration for marketing teams.
  -->
 
-## AI availability in Experience Cloud products
+## GenAI availability in Experience Cloud products
 
 Learn how the following Experience Cloud applications support generative AI or [!DNL AI Assistant]. Support for Adobe Firefly is also indicated.
 
@@ -251,3 +251,7 @@ Adobe Firefly compatibility: **No**
 [Learn more](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant-overview)
 
 Adobe Firefly compatibility: **No**
+
+## Additional resources
+
+* [Responsible AI Resources on Trust Center](https://www.adobe.com/trust/responsible-ai.html)
