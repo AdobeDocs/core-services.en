@@ -254,4 +254,4 @@ Adobe Firefly compatibility: **No**
 
 ## Additional resources
 
-* [Responsible AI Resources on Trust Center](https://www.adobe.com/trust/responsible-ai.html)
+* [Responsible AI Resources on Trust Center](https://www.adobe.com/trust/responsible-ai.html)<!-- * [Customer AI Propensity Scoring Model Card](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/model-cards/ai-model-cards/customer-ai) -->
