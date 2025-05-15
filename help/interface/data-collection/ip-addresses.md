@@ -49,7 +49,6 @@ All IP ranges in this section are included in the above table.
 | California | `63.140.32.0/23` |
 | California | `63.140.34.0/24` |
 | France | `63.140.62.0/23` |
-| India | `66.117.20.0/24` |
 | India | `66.117.22.0/23` |
 | Japan | `130.248.169.0/23` |
 | Japan | `63.140.50.0/23` |
@@ -58,6 +57,7 @@ All IP ranges in this section are included in the above table.
 | London | `185.34.188.0/22` |
 | London | `130.248.152.0/22` |
 | London | `130.248.244.0/23` |
+| Ohio | `66.117.20.0/24` |
 | Oregon | `66.235.132.0/22` |
 | Oregon | `130.248.130.0/23` |
 | Oregon | `130.248.150.0/24` |
@@ -87,6 +87,7 @@ The Adobe Experience Cloud also supports IPv6 in limited capacity. These IP bloc
 | India | `2406:da1a:f34:6a00::/56` |
 | Ireland | `2a05:d018:309:600::/56` |
 | Japan | `2406:da14:b07:ab00::/56` |
+| Ohio | `2600:1f16:130f:7d00::/56` |
 | Oregon | `2600:1f14:1eb:7d00::/56` |
 | Oregon | `2600:1f14:9d3:2b00::/56` |
 | Singapore | `2406:da18:6e8:1e00::/56` |
