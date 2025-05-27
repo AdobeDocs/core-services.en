@@ -14,7 +14,7 @@ This page helps you learn which products support generative AI (GenAI), [!DNL AI
 
 **About Generative AI**
 
-Generative AI is a type of AI that can create original content, such as text, images, video, audio, or software code in response to a user's prompt or request.
+Generative AI is a type of AI that can create original content. For example, it can create text, images, video, audio, or software code in response to a user's prompt or request.
 
 * **Create:** The ability to generate content (text, images, music, or videos) from scratch, based on its training and input prompts. This ability is the _generative_ aspect of generative AI.
 
@@ -22,11 +22,11 @@ Generative AI is a type of AI that can create original content, such as text, im
 
 **What is [!DNL AI Assistant]?**
 
-[!DNL AI Assistant] is a conversational tool supported in Experience Platform and related applications. Use it to quickly gain _product knowledge_ and, in supported products, _operational insights_ almost immediately. 
+[!DNL AI Assistant] is a conversational tool supported in Experience Platform and related applications. Use it to gain _product knowledge_ quickly and, in supported products, _operational insights_ almost immediately. 
 
 * **Product knowledge:** Product knowledge refers to concepts and topics grounded in Experience League documentation. Learn how to create effective, [objective-based prompts](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) to get the most out of [!DNL AI Assistant]. All responses from Experience League are verifiable and cited with links.
 
-* **Operational insights:** [Operational insights](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/questions#objects-questions) refer to generated responses about your metadata objects (attributes, audiences, dataflows, datasets, and so on). With AI Assistant, you can accomplish in seconds what otherwise might take hours or days.
+* **Operational insights:** [Operational insights](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/questions#objects-questions) refer to generated responses about your metadata objects (attributes, audiences, dataflows, datasets, and so on). With [!DNL AI Assistant], you can accomplish in seconds what otherwise might take hours or days.
 
 [Learn about AI Assistant](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing) 
 
