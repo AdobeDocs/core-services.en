@@ -28,6 +28,10 @@ Generative AI is a type of AI that can create original content. For example, it 
 
 * **Operational insights:** [Operational insights](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/questions#objects-questions) refer to generated responses about your metadata objects (attributes, audiences, dataflows, datasets, and so on). With [!DNL AI Assistant], you can accomplish in seconds what otherwise might take hours or days.
 
+<!-- * **Customer support**: [AI Assistant for Customer support](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) is a self-serve debugging and troubleshooting capability of [!DNL AI Assistant] that you can use for Experience Platform features and applications. Troubleshoot support issues without leaving your workflows, create customer support tickets, and track case progress using AI Assistant. 
+
+**Note:** This feature is in Alpha and may not be available to your organization. To participate in the Alpha program and access this feature, contact your Adobe Account Team. -->
+
 [Learn about AI Assistant](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing) 
 
 <!--## Adobe Marketing Agent for Microsoft 365 Copilot 
