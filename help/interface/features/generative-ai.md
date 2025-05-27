@@ -1,5 +1,5 @@
 ---
-title: AI in Experience Cloud applications
+title: Generative AI in Experience Cloud Applications
 description: Learn about generative AI (GenAI) and how Experience Cloud applications use GenAI and [!DNL AI Assistant]. 
 solution: Experience Cloud
 feature: AI Assistant, Generative AI
