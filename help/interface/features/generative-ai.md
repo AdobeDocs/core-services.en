@@ -36,6 +36,8 @@ Generative AI is a type of AI that can create original content. For example, it 
 
 <!--## Adobe Marketing Agent for Microsoft 365 Copilot 
 
+AUGUST RELEASE
+
 The Adobe Marketing Agent for Microsoft 365 Copilot is a generative AI-powered assistant designed to enhance marketing workflows by integrating Adobe's marketing capabilities directly into Microsoft 365 applications such as Word, PowerPoint, Teams, and Outlook. This collaboration between Adobe and Microsoft aims to streamline marketing processes, allowing marketers to access insights and tools within their existing work environments.
 Adobe for Business
 
