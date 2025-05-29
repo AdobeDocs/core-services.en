@@ -10,9 +10,9 @@ exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
 ---
 # Generative AI in Experience Cloud products
 
-This page helps you learn which products support generative AI (GenAI), [!DNL AI Assistant], and whether Adobe Firefly is compatible. You can also find links to information about various ways you can use AI in Experience Cloud applications.
+Generative AI (genAI) in Experience Cloud helps you automate creative and cognitive tasks and enhance productivity. This page describes where Experience Cloud applications support genAI and AI Assistant, and provides links to learn more about these features.
 
-**About Generative AI**
+**What is genAI?**
 
 Generative AI is a type of AI that can create original content. For example, it can create text, images, video, audio, or software code in response to a user's prompt or request.
 
@@ -22,15 +22,22 @@ Generative AI is a type of AI that can create original content. For example, it 
 
 **What is [!DNL AI Assistant]?**
 
-[!DNL AI Assistant] is a conversational tool supported in Experience Platform and related applications. Use it to gain _product knowledge_ quickly and, in supported products, _operational insights_ almost immediately. 
+[!DNL AI Assistant] is a conversational tool supported in Experience Platform and related applications. Use it to quicktly gain _product knowledge_ and _operational insights_ in supported products.
 
 * **Product knowledge:** Product knowledge refers to concepts and topics grounded in Experience League documentation. Learn how to create effective, [objective-based prompts](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) to get the most out of [!DNL AI Assistant]. All responses from Experience League are verifiable and cited with links.
 
 * **Operational insights:** [Operational insights](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/questions#objects-questions) refer to generated responses about your metadata objects (attributes, audiences, dataflows, datasets, and so on). With [!DNL AI Assistant], you can accomplish in seconds what otherwise might take hours or days.
 
-* **Product Support Agent** (Alpha): [Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) is a self-serve debugging and troubleshooting capability of [!DNL AI Assistant] that you can use for Experience Platform features and applications. Troubleshoot support issues without leaving your workflows, create customer support tickets, and track case progress using AI Assistant. 
+* **Customer support**: The [Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) is a self-serve debugging and troubleshooting capability of [!DNL AI Assistant] that you can use for Experience Platform features and applications. Troubleshoot support issues without leaving your workflows, create customer support tickets, and track case progress using AI Assistant. 
 
     **Note:** This feature is in Alpha and may not be available to your organization. To participate in the Alpha program and access this feature, contact your Adobe Account Team.
+
+<!-- * **Model cards:**
+
+    * **AI Assistant Natural Language to SQL:** Translate customers' natural language queries about operational insights into SQL queries. [Learn more](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/model-cards/ai-model-cards/natural-language-to-sql)
+
+    * **Customer AI Propensity Scoring:** provide marketers and customer engagement teams with actionable insights by predicting the probability that a customer will perform a given action, such as making a purchase, signing up for a subscription, or engaging with an email campaign. The outputs allow businesses to optimize audience segmentation and personalize customer interactions based on predicted behaviors. [Learn more](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/model-cards/ai-model-cards/customer-ai)
+ -->
 
 [Learn about AI Assistant](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing) 
 
@@ -60,7 +67,7 @@ Currently in private preview, the Adobe Marketing Agent for Microsoft 365 Copilo
 
 ## GenAI availability in Experience Cloud products
 
-Learn how the following Experience Cloud applications support generative AI or [!DNL AI Assistant]. Support for Adobe Firefly is also indicated.
+The following Experience Cloud applications support generative AI or [!DNL AI Assistant]. Support for Adobe Firefly is also indicated per product.
 
 * [[!DNL GenStudio for Performance Marketing]](#gspm)
 * [[!DNL Experience Manager]](#aem)
@@ -72,17 +79,17 @@ Learn how the following Experience Cloud applications support generative AI or [
 * [[!DNL Marketo]](#marketo)
 * [[!DNL Workfront]](#workfront)
 
-## Adobe GenStudio for Performance Marketing {#gspm}
+## GenStudio for Performance Marketing {#gspm}
 
-[!DNL GenStudio for Performance Marketing] is an AI-driven platform that empowers you to generate and manage marketing content that adheres to your brand standards and complies with your enterprise policies. Generate content for emails, Meta ads, LinkedIn ads, display ads, and banners.
+[!DNL GenStudio for Performance Marketing] is a generative AI application designed to help enterprise marketing teams create, activate, and optimize on-brand campaign content across channels like paid media, email, and display ads. 
 
-You can also train GenStudio for Performance Marketing on your brand using examples, descriptions of customer personas and products, and brand guidelines. 
+Performance marketers can use natural language prompts to generate personalized, brand-compliant assets. GenStudio for Performance Marketing accelerates campaign execution, scales content production without compromising brand integrity, and provides performance analytics for improving overall ROI.
 
 [Learn more](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home)
 
 Adobe Firefly compatibility: **Yes**
 
-## Adobe [!DNL Experience Manager] {#aem}
+## [!DNL Experience Manager] {#aem}
 
 The following sections briefly describe generative AI in AEM applications.
 
@@ -106,7 +113,7 @@ The output is generated content or market copy.
 
 Adobe Firefly compatibility: **Yes**
 
-[Learn more about Generate Variations](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations-integrated-editor)
+[Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations-integrated-editor)
 
 ### Experience Manager Assets
 
@@ -136,7 +143,7 @@ Here's an example input for operational insights:
 
     For output, AI Assistant queries a customer-specific data store. The data store contains centralized, operational data about [!UICONTROL Journeys]. This feature is customer agnostic and pulls metadata only from business objects. It does not access data within your sandbox.
 
-[Learn more](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant).
+[Learn more](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant)
 
 Adobe Firefly compatibility: **No**
 
@@ -178,13 +185,16 @@ Adobe Firefly compatibility: **Yes**
 
 Customer Journey Analytics lets you use generative AI in the following ways:
 
-* [!DNL AI Assistant] for product knowledge and insights
+* [!DNL AI Assistant] for product knowledge
+* [!DNL Product Support Agent] in AI Assistant (currently in Alpha)
 * [!UICONTROL Intelligent Captions] in Workspace visualizations
 * AI and GenAI to assign every asset metadata automatically in [!DNL Content Analytics]
 
+Adobe Firefly compatibility: **No**
+
 **AI Assistant**
 
-Discover product knowledge and insights from Experience League. If you're a new user, quickly learn Customer Journey Analytics concepts and onboard yourself to products and features. For example:
+Discover product knowledge from Experience League. If you're a new user, quickly learn Customer Journey Analytics concepts and onboard yourself to products and features. For example:
 
 * _How do I send an email in an account journey?_
 
@@ -209,8 +219,6 @@ For example:
 Content Analytics uses AI and GenAI to assign every asset metadata automatically, such as subjects, scenes, foreground colors, and so on. An attribute is an AI-assigned metadata tag describing what is in an asset or experience. 
 
 For example: foreground `color: red` is an automatically assigned attribute. The visualizations help you identify which attributes of your assets contribute most to conversion. [Learn more](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/report#template)
-
-Adobe Firefly compatibility: **No**
 
 ## [!DNL Real-Time CDP] {#rtcdp}
 
