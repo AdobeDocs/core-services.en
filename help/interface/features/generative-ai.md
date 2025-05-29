@@ -10,19 +10,19 @@ exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
 ---
 # Generative AI in Experience Cloud products
 
-This page helps you learn which products support generative AI (GenAI), [!DNL AI Assistant], and whether Adobe Firefly is compatible. You can also find links to information about various ways you can use AI in Experience Cloud applications.
+Generative AI (genAI) in Experience Cloud helps you automate creative and cognitive tasks, enhance productivity, and enable personalization. This page describes where Experience Cloud applications support genAI and AI Assistant, and provides links to learn more about these features.
 
-## What is generative AI?
+**What is genAI?**
 
-GenAI is a type of AI that can create original content. For example, it can create text, images, video, audio, or software code in response to a user's prompt or request.
+Generative AI is a type of AI that can create original content. For example, it can create text, images, video, audio, or software code in response to a user's prompt or request.
 
 * **Create:** The ability to generate content (text, images, music, or videos) from scratch, based on its training and input prompts. This ability is the _generative_ aspect of generative AI.
 
 * **Generate a response:** AI provides an answer or reaction to a prompt, typically drawing on its available data and knowledge repositories.
 
-## What is [!DNL AI Assistant]?
+**What is [!DNL AI Assistant]?**
 
-[!DNL AI Assistant] is a conversational tool supported in Experience Platform and related applications. Use it to quicktly gain _product knowledge_, _operational insights_ (in supported products), and for _customer support_ (in supported products)
+[!DNL AI Assistant] is a conversational tool supported in Experience Platform and related applications. Use it to quicktly gain _product knowledge_ and _operational insights_ in supported products.
 
 * **Product knowledge:** Product knowledge refers to concepts and topics grounded in Experience League documentation. Learn how to create effective, [objective-based prompts](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) to get the most out of [!DNL AI Assistant]. All responses from Experience League are verifiable and cited with links.
 
@@ -67,7 +67,7 @@ Currently in private preview, the Adobe Marketing Agent for Microsoft 365 Copilo
 
 ## GenAI availability in Experience Cloud products
 
-Learn how the following Experience Cloud applications support generative AI or [!DNL AI Assistant]. Support for Adobe Firefly is also indicated.
+The following Experience Cloud applications support generative AI or [!DNL AI Assistant]. Support for Adobe Firefly is also indicated per product.
 
 * [[!DNL GenStudio for Performance Marketing]](#gspm)
 * [[!DNL Experience Manager]](#aem)
@@ -113,7 +113,7 @@ The output is generated content or market copy.
 
 Adobe Firefly compatibility: **Yes**
 
-[Learn more about Generate Variations](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations-integrated-editor)
+[Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations-integrated-editor)
 
 ### Experience Manager Assets
 
@@ -143,7 +143,7 @@ Here's an example input for operational insights:
 
     For output, AI Assistant queries a customer-specific data store. The data store contains centralized, operational data about [!UICONTROL Journeys]. This feature is customer agnostic and pulls metadata only from business objects. It does not access data within your sandbox.
 
-[Learn more](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant).
+[Learn more](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant)
 
 Adobe Firefly compatibility: **No**
 
