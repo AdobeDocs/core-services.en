@@ -10,7 +10,7 @@ exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
 ---
 # Generative AI in Experience Cloud products
 
-Generative AI (genAI) in Experience Cloud helps you automate creative and cognitive tasks, enhance productivity, and enable personalization. This page describes where Experience Cloud applications support genAI and AI Assistant, and provides links to learn more about these features.
+Generative AI (genAI) in Experience Cloud helps you automate creative and cognitive tasks and enhance productivity. This page describes where Experience Cloud applications support genAI and AI Assistant, and provides links to learn more about these features.
 
 **What is genAI?**
 
