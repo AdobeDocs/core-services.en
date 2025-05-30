@@ -49,11 +49,11 @@ Perform these steps on the Create New Customer Attribute Source page in Experien
 >When creating, modifying, or deleting Customer Attribute sources, there is a delay of up to one hour before IDs begin synchronizing with the new data source. You must have administrative rights in Audience Manager to create or modify Customer Attribute sources. Contact Audience Manager Customer Care or consulting to obtain administrative rights.
 
 1. In the [!DNL Experience Cloud], select the Menu  ![menu](assets/menu-icon.png) icon.
-1. Under **[!DNL Experience Platform]**, click **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**.
+1. Select **[!UICONTROL Customer Attributes]**.
 
    The [!UICONTROL Customer Attributes] page is where you can manage and edit existing attribute data sources. 
 
-   ![Step Result](assets/03_crs_usecase.png)
+   ![Customer attributes main screen](assets/03_crs_usecase.png)
 
 1. Click **[!UICONTROL New]**.
 
