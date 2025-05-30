@@ -53,13 +53,13 @@ Perform these steps on the Create New Customer Attribute Source page in Experien
 
    The [!UICONTROL Customer Attributes] page is where you can manage and edit existing attribute data sources. 
 
-   ![Customer attributes main screen](assets/03_crs_usecase.png)
+   ![Customer attributes main screen](assets/cust-attr.png)
 
 1. Click **[!UICONTROL New]**.
 
    ![Step Result](assets/04_crs_usecase.png)
  
-1. On the [!UICONTROL Edit Customer Attribute Source] page, configure the following fields:
+1. On the [!UICONTROL Create Customer Attribute Source] page, configure the following fields:
 
     * **[!UICONTROL Name:]** A friendly name for the data attribute source. For [!DNL Adobe Target], attribute names cannot include spaces. If an attribute with a space is passed, [!DNL Target] ignores it. Other characters not supported include: `< , >, ', "`. 
     
@@ -96,24 +96,30 @@ Perform these steps on the Create New Customer Attribute Source page in Experien
           `identifiers.put(`**`"idType"`**`, "idValue");`
         
           See [Leveraging multiple data sources](crs-data-file.md#section_76DEB6001C614F4DB8BCC3E5D05088CB) for additional information about data processing regarding the Alias ID field and Customer IDs. 
+
+    * **[!UICONTROL Namespace Code:]** Use this value to identify the Customer Attribute source when using the [IdentityMap](https://experienceleague.adobe.com/en/docs/experience-platform/web-sdk/identity/overview) as part of an AEP WebSDK Implementation.
         
-    * **[!UICONTROL File Upload:]** You can drag-and-drop the `.csv` data file, or upload the data via FTP. (Using FTP also requires a `.fin` file.) See [Upload the Data via FTP](t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B). 
+## Upload file
+
+
+1. Click File Upload.
+
+2. Drag and drop the `.csv` or `.zip` or `.gzip` data file into the drag-and-drop window.
     
-      >[!IMPORTANT]
-      >
-      >Specific data file requirements exist. See [Data File Requirements](crs-data-file.md) for more information. 
+  >[!IMPORTANT]
+  >
+  >Specific data file requirements exist. See [Data File Requirements](crs-data-file.md) for more information. 
     
-      After uploading the file, table data is displayed under the [!UICONTROL File Upload] heading on this page. You can validate the schema, configure subscriptions, or set up the FTP. 
+  After uploading the file, table data is displayed under the [!UICONTROL File Upload] heading on this page. You can validate the schema, configure subscriptions, or set up the FTP. 
     
-      **File upload graphic** 
+
+  ![attributes](assets/file_upload_attributes.png) 
     
-      ![attributes](assets/file_upload_attributes.png) 
+  * **[!UICONTROL Unique Customer ID:]** Displays how many unique IDs you have uploaded to this attribute source. 
     
-    * **[!UICONTROL Unique Customer ID:]** Displays how many unique IDs you have uploaded to this attribute source. 
+  * **[!UICONTROL Customer-Provided IDs Aliased to Experience Cloud Visitor IDs:]** Displays how many IDs have been aliased to Experience Cloud Visitor IDs. 
     
-    * **[!UICONTROL Customer-Provided IDs Aliased to Experience Cloud Visitor IDs:]** Displays how many IDs have been aliased to Experience Cloud Visitor IDs. 
-    
-    * **[!UICONTROL Customer-Provided IDs with High Alias Counts:]** Displays the count of customer-provided IDs with 500 or more aliased Experience Cloud Visitor IDs. These customer-provided IDs most likely do not represent individuals but rather some sort of shared login. The system distributes the attributes associated with these IDs to the 500 most recent aliased Experience Cloud Visitor IDs, until the alias count reaches 10,000. Then, the system invalidates the customer-provided ID and no longer distributes associated attributes.
+  * **[!UICONTROL Customer-Provided IDs with High Alias Counts:]** Displays the count of customer-provided IDs with 500 or more aliased Experience Cloud Visitor IDs. These customer-provided IDs most likely do not represent individuals but rather some sort of shared login. The system distributes the attributes associated with these IDs to the 500 most recent aliased Experience Cloud Visitor IDs, until the alias count reaches 10,000. Then, the system invalidates the customer-provided ID and no longer distributes associated attributes. -->
     
 ## Validate the schema {#task_404AAC411B0D4E129AB3AC8B7BE85859}
 
