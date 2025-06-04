@@ -90,17 +90,19 @@ Adobe Firefly compatibility: **Yes**
 
 In AEM Assets, you can use generative AI in **Content Hub** and **AI-generated Smart Tags**.
 
+Adobe Firefly compatibility: **Yes**
+
 **Content Hub**
 
 [!UICONTROL Content Hub] is available as part of [!DNL Experience Manager Assets as a Cloud Service] for democratizing access to on-brand content for organizations and their business partners. It focuses on distributing assets for activation at scale and creation of on-brand content variants for improved marketing agility.
 
 In Content Hub, you can create content with Adobe Express (if you have Adobe Express entitlements). You can edit existing content with simple tools, produce on-brand variations with templates and brand elements, and create content with the latest GenAI capabilities from [!DNL Adobe Firefly]. [Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview)
 
-Adobe Firefly compatibility: **Yes**
-
 **Smart Tags**
 
-Instead of relying on manual input, AI can automatically assign descriptive tags to digital assets. These AI-generated tags enhance metadata quality, making the assets easier to search, categorize, and recommend. [Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/smart-tags#ai-smart-tags)
+Instead of relying on manual input, AI can automatically assign descriptive tags to digital assets. These AI-generated tags enhance metadata quality, making the assets easier to search, categorize, and recommend. 
+
+For example, if the asset is an image, AI can identify objects, scenes, emotions, or even brand logos. It can generate relevant tags like _sunset_, _beach_, _vacation_, or _smiling_. [Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/smart-tags#ai-smart-tags)
 
 ## Adobe [!DNL Journey Optimizer] {#journey-optimizer}
 
