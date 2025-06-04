@@ -34,73 +34,11 @@ Generative AI is a type of AI that can create original content. For example, it 
 
 [Learn about AI Assistant](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing) 
 
-## Where AI is available 
-
-The following Experience Cloud applications support generative AI or [!DNL AI Assistant]. Support for Adobe Firefly is also indicated per product.
-
-| Adobe product | Generative AI | AI Assistant | Adobe Firefly compatibility | 
-|--------|--------|--------|--------|
-| **Adobe GenStudio for Performance Marketing** | Use natural language prompts to generate personalized, brand-compliant assets. <br>[Learn how](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home)|N/A | Yes |
-| **Adobe Experience Manager Sites**  | Use [Generate Variations](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations-integrated-editor) to create content variations based on your input.    <br> [Learn how](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations-integrated-editor)  | N/A | Yes |
-| **Adobe Experience Manager Assets** | Use Content Hub to create content with Adobe Express. Edit existing content with simple tools, produce on-brand variations with templates and brand elements, and create content using Adobe Firefly. <br>[Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview?lang=en)| N/A | Yes |
-| **Adobe Journey Optimizer**   | N/A | Gain product knowledge and operational insights (beta). [Learn more](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant?lang=en)   | No | Enhances customer experiences with real-time, personalized journey orchestration.  |
-| **Adobe Journey Optimizer B2B Edition** | Product knowledge | Product knowledge | No | Provides product knowledge insights for B2B journeys |
-| **Adobe Campaign**   | Automated campaign content creation and optimization  | Workflow automation, customer journey tracking   | Yes    | Enhances email and cross-channel marketing campaigns with personalized content. <br>[Learn more](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-gs?lang=en)|
-| **Adobe Marketo** | Lead scoring, predictive content, and engagement analysis   | Lead management, campaign performance insights   | No | Optimizes B2B marketing strategies with AI-driven insights. <br>[Learn about Interactive Webinars](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai?lang=en) <br>[Learn about Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/overview?lang=en)|
-| **Adobe Workfront**  | Project planning and resource allocation   | Task management, workflow optimization   | No | Streamlines project management with AI-driven task prioritization. <br>[Learn more](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant-overview?lang=en)  |
-| **Adobe Real-Time CDP** | Customer segmentation, predictive analytics  | Data integration, audience insights   | No | Provides real-time customer data insights for personalized marketing. <br>[Learn more](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home?lang=en)  |
-| **Adobe Customer Journey Analytics** | [Intelligent Captions](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions?lang=en), Cross-channel data analysis, predictive modeling  | Customer journey mapping, performance tracking | No | Delivers comprehensive insights into customer behavior across multiple touchpoints. <br>[Learn more](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant?lang=en)   |
-
-**With scenarios**
-
-| Adobe product | GenAI | AI Assistant | Adobe Firefly compatibility | Scenarios |
-|--------|--------|--------|--------|--------|
-| **Adobe GenStudio for Performance Marketing** | Use natural language prompts to generate personalized, brand-compliant assets. <br>[Learn more](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home)|N/A | Yes | Use natural language prompts to generate personalized, brand-compliant assets. <br>[Learn more](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) |
-| **Adobe Experience Manager Sites**  | Use [Generate Variations](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations-integrated-editor) to create content variations based on your input prompts. | N/A | Yes | Automate content creation and personalization for web experiences. <br> [Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations-integrated-editor)|
-| **Adobe Experience Manager Assets** | Asset management, content generation, and optimization | N/A | Yes | Streamlines digital asset management with AI-driven content generation and optimization. create content with Adobe Express (if you have Adobe Express entitlements). You can edit existing content with simple tools, produce on-brand variations with templates and brand elements, and create content with the latest GenAI capabilities from Adobe Firefly.<br>[Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview?lang=en) |
-| **Adobe Journey Optimizer**   | Personalized journey orchestration, real-time decisioning   | Product knowledge, operational insights (beta). [Learn more](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant?lang=en)   | No | Enhances customer experiences with real-time, personalized journey orchestration.  |
-| **Adobe Journey Optimizer B2B Edition** | Product knowledge | Product knowledge | No | Provides product knowledge insights for B2B journeys |
-| **Adobe Campaign**   | Automated campaign content creation and optimization  | Workflow automation, customer journey tracking   | Yes    | Enhances email and cross-channel marketing campaigns with personalized content. <br>[Learn more](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-gs?lang=en)|
-| **Adobe Marketo** | Lead scoring, predictive content, and engagement analysis   | Lead management, campaign performance insights   | No | Optimizes B2B marketing strategies with AI-driven insights. <br>[Learn about Interactive Webinars](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai?lang=en) <br>[Learn about Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/overview?lang=en)|
-| **Adobe Workfront**  | Project planning and resource allocation   | Task management, workflow optimization   | No | Streamlines project management with AI-driven task prioritization. <br>[Learn more](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant-overview?lang=en)  |
-| **Adobe Real-Time CDP** | Customer segmentation, predictive analytics  | Data integration, audience insights   | No | Provides real-time customer data insights for personalized marketing. <br>[Learn more](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home?lang=en)  |
-| **Adobe Customer Journey Analytics** | [Intelligent Captions](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions?lang=en), Cross-channel data analysis, predictive modeling  | Customer journey mapping, performance tracking | No | Delivers comprehensive insights into customer behavior across multiple touchpoints. <br>[Learn more](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant?lang=en)   |
-
-<!-- * **Model cards:**
-
-    * **AI Assistant Natural Language to SQL:** Translate customers' natural language queries about operational insights into SQL queries. [Learn more](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/model-cards/ai-model-cards/natural-language-to-sql)
-
-    * **Customer AI Propensity Scoring:** provide marketers and customer engagement teams with actionable insights by predicting the probability that a customer will perform a given action, such as making a purchase, signing up for a subscription, or engaging with an email campaign. The outputs allow businesses to optimize audience segmentation and personalize customer interactions based on predicted behaviors. [Learn more](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/model-cards/ai-model-cards/customer-ai)
- -->
-
-<!--## Adobe Marketing Agent for Microsoft 365 Copilot 
-
-AUGUST RELEASE
-
-The Adobe Marketing Agent for Microsoft 365 Copilot is a generative AI-powered assistant designed to enhance marketing workflows by integrating Adobe's marketing capabilities directly into Microsoft 365 applications such as Word, PowerPoint, Teams, and Outlook. This collaboration between Adobe and Microsoft aims to streamline marketing processes, allowing marketers to access insights and tools within their existing work environments.
-Adobe for Business
-
-Key features and capabilities:
-
-**Audience Refinement:** Marketers can use natural language prompts within Microsoft 365 to access data and insights from Adobe Experience Platform, enabling quick audience analysis and segmentation for personalized campaigns. 
-
-**Insight Discovery:** The agent can retrieve meaningful insights from Adobe Customer Journey Analytics, facilitating the creation of campaign performance reports directly within Microsoft apps, thus supporting informed decision-making. 
-
-**Content Creation:** Through integration with Adobe Express, users can generate high-quality images and assets within Microsoft 365 applications, aiding in the development of presentations, documents, and social media content. 
-Adobe Newsroom
-
-**Workflow Optimization:** The agent can automate tasks in Adobe Workfront, manage content approvals, and provide real-time alerts in Microsoft Teams based on analytics data, enhancing operational efficiency. 
-
-**Campaign Performance Monitoring:** Users can query the agent for campaign performance metrics, which can be visualized and incorporated into PowerPoint presentations for easy sharing and analysis. 
-Adobe for Business
-
-Currently in private preview, the Adobe Marketing Agent for Microsoft 365 Copilot is expected to be generally available later in 2025. This integration represents a significant step in unifying marketing tools and data, aiming to improve productivity and collaboration for marketing teams.
- -->
-
-
 ## GenAI availability in Experience Cloud products
 
 The following Experience Cloud applications support generative AI or [!DNL AI Assistant]. Support for Adobe Firefly is also indicated per product.
+
+Updated: **June 4, 2025**
 
 * [[!DNL GenStudio for Performance Marketing]](#gspm)
 * [[!DNL Experience Manager]](#aem)
@@ -150,13 +88,19 @@ Adobe Firefly compatibility: **Yes**
 
 ### Experience Manager Assets
 
+In AEM Assets, you can use generative AI in **Content Hub** and **AI-generated Smart Tags**.
+
+**Content Hub**
+
 [!UICONTROL Content Hub] is available as part of [!DNL Experience Manager Assets as a Cloud Service] for democratizing access to on-brand content for organizations and their business partners. It focuses on distributing assets for activation at scale and creation of on-brand content variants for improved marketing agility.
 
-In Content Hub, you can create content with Adobe Express (if you have Adobe Express entitlements). You can edit existing content with simple tools, produce on-brand variations with templates and brand elements, and create content with the latest GenAI capabilities from [!DNL Adobe Firefly].
-
-[Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview)
+In Content Hub, you can create content with Adobe Express (if you have Adobe Express entitlements). You can edit existing content with simple tools, produce on-brand variations with templates and brand elements, and create content with the latest GenAI capabilities from [!DNL Adobe Firefly]. [Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview)
 
 Adobe Firefly compatibility: **Yes**
+
+**Smart Tags**
+
+Instead of relying on manual input, AI can automatically assign descriptive tags to digital assets. These AI-generated tags enhance metadata quality, making the assets easier to search, categorize, and recommend. [Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/smart-tags#ai-smart-tags)
 
 ## Adobe [!DNL Journey Optimizer] {#journey-optimizer}
 
