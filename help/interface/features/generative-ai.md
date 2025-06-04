@@ -90,13 +90,13 @@ Adobe Firefly compatibility: **Yes**
 
 In AEM Assets, you can use generative AI in **Content Hub** and **AI-generated Smart Tags**.
 
+Adobe Firefly compatibility: **Yes**
+
 **Content Hub**
 
 [!UICONTROL Content Hub] is available as part of [!DNL Experience Manager Assets as a Cloud Service] for democratizing access to on-brand content for organizations and their business partners. It focuses on distributing assets for activation at scale and creation of on-brand content variants for improved marketing agility.
 
 In Content Hub, you can create content with Adobe Express (if you have Adobe Express entitlements). You can edit existing content with simple tools, produce on-brand variations with templates and brand elements, and create content with the latest GenAI capabilities from [!DNL Adobe Firefly]. [Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview)
-
-Adobe Firefly compatibility: **Yes**
 
 **Smart Tags**
 
