@@ -23,15 +23,15 @@ Create the Customer Attribute source (CSV and FIN files) and upload the data. Yo
 >
 >To use the Customer Attributes feature, users must also belong to application-level groups (Analytics or [!DNL Target]). 
 
-## Create a data file {#task_B5FB8C0649374C7A94C45DCF2878EA1A}
+## Create a data file {#create-data}
 
 This data is enterprise customer data from your CRM. The data might include subscriber data for products, including member IDs, entitled products, most-launched products, and so on.
 
-1. Create a `.csv`.
+1. Create a `.csv` file.
 
    >[!NOTE]
    >
-   >Later in this process, you drag-and-drop the `.csv` to upload the file. However, if you [upload via FTP](t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B), you also need a `.fin` file with the same name as the `.csv`. 
+   >Later in this process, you drag and drop the `.csv` file to upload the file. However, if you [upload via FTP](t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B), you also need a `.fin` file with the same name as the `.csv`. 
 
    Sample enterprise customer data file: 
 
@@ -40,7 +40,7 @@ This data is enterprise customer data from your CRM. The data might include subs
 1. Before continuing, review the important information in [Data File Requirements](crs-data-file.md), before you upload the file.
 1. [Create a Customer Attribute source and upload the data](t-crs-usecase.md), described below.
 
-## Create the attribute source and upload the data file {#task_09DAC0F2B76141E491721C1E679AABC8}
+## Create the attribute source and upload the data file {#create-source}
 
 Perform these steps on the Create New Customer Attribute Source page in Experience Cloud.
 
@@ -99,7 +99,7 @@ Perform these steps on the Create New Customer Attribute Source page in Experien
 
     * **[!UICONTROL Namespace Code:]** Use this value to identify the Customer Attribute source when using the [IdentityMap](https://experienceleague.adobe.com/en/docs/experience-platform/web-sdk/identity/overview) as part of an AEP WebSDK Implementation.
         
-## Upload file
+## Upload file {#upload}
 
 
 1. Click File Upload.
@@ -121,7 +121,7 @@ Perform these steps on the Create New Customer Attribute Source page in Experien
     
   * **[!UICONTROL Customer-Provided IDs with High Alias Counts:]** Displays the count of customer-provided IDs with 500 or more aliased Experience Cloud Visitor IDs. These customer-provided IDs most likely do not represent individuals but rather some sort of shared login. The system distributes the attributes associated with these IDs to the 500 most recent aliased Experience Cloud Visitor IDs, until the alias count reaches 10,000. Then, the system invalidates the customer-provided ID and no longer distributes associated attributes. -->
     
-## Validate the schema {#task_404AAC411B0D4E129AB3AC8B7BE85859}
+## Validate the schema {#validate-schema}
 
 The validation process lets you map display names and descriptions to uploaded attributes (strings, integers, numbers, and so on). You can also delete attributes by updating the schema.
 

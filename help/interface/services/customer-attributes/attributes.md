@@ -20,11 +20,11 @@ exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
 
 ![Customer Attributes overview](assets/custom_reports.png)
 
-## Prerequisites for uploading [!DNL Customer Attributes] {#section_BD38693AFBF34926BA28E964963B4EA0}
+## Prerequisites for uploading [!DNL Customer Attributes] {#prerequisites}
 
 * **Group membership:** To upload Customer Attribute data, users must be members of the Customer Attributes group. You must also belong to either an Adobe Analytics group or an Adobe Target group.
 
-  To know whether your company has access to Customer Attributes, your [!DNL Experience Cloud] administrator should log into the [Experience Cloud](https://experience.adobe.com). Navigate to **[!UICONTROL Administration]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *[!DNL Customer Attributes]* displays as one of the [!UICONTROL product profiles], you are ready to begin.
+  To know whether your company has access to Customer Attributes, your [!DNL Experience Cloud] administrator should log into the [Experience Cloud](https://experience.adobe.com). Navigate to **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *[!DNL Customer Attributes]* displays as one of the [!UICONTROL product profiles], you are ready to begin.
 
   Users that are added to [!DNL Customer Attributes] see the [!UICONTROL Customer Attributes] menu item on the left side of the Experience Cloud interface.
 
@@ -32,7 +32,7 @@ exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
 
   See [How to deploy at.js](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/overview.html).
 
-## What is enterprise customer data? {#section_6F34C29F11414842AA57D2B1248FA3C6}
+## What is enterprise customer data? {#enterprise_data}
 
 Enterprise data resides in other systems. It can be complex and mean different things to different people. This data can include information such as memberships, loyalty level, age, gender, products owned, interests, and Lifetime Value.
 
@@ -44,7 +44,7 @@ After you create the data file, you can upload it to the Customer Attribute sour
 
 See [Upload Customer Attribute data](t-crs-usecase.md) to learn this workflow.
 
-## Examples of Customer Attributes in Analytics and Target {#section_4E77650F6CEE4C4ABCD0B3221A5AE5D9}
+## Examples of Customer Attributes in Analytics and Target {#examples}
 
 After the data resides in Experience Cloud, you can customize it and share it to solutions for reporting, segmentation, activities, and campaigns.
 

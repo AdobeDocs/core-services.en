@@ -19,28 +19,12 @@ You need access to CRM or similar data from your enterprise. The data you upload
 
 ## Allowed file types and naming requirements {#section_6F64FA02ACCC4215B0862CB6A1821FBF}
 
-<table id="table_C27955F6B52A45B28BEEAAF14FFC86D8"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> File Type </th> 
-   <th colname="col2" class="entry"> Description </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p> <span class="filepath"> .csv </span> </p> </td> 
-   <td colname="col2"> <p>A comma-separated values file (such as one created in Excel). This file contains the Customer Attribute data. </p> <p> <b>Naming requirements:</b> Ensure that file name extensions do not contain white spaces. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="filepath"> .fin </span> </p> </td> 
-   <td colname="col2"> <p>(Required) The <span class="filepath"> .fin </span> file tells the system that you are finished uploading data. The name of the <span class="filepath"> .fin </span> file must match the name of the <span class="filepath"> .csv </span> file. </p> <p>Adobe recommends creating an empty text file with a <span class="filepath"> .fin </span> extension. An empty file saves space and upload time. </p> <p> <p>Note:  Renaming a <span class="filepath"> .fin </span> file is not allowed after it is uploaded. The <span class="filepath"> .fin </span> file must be uploaded separately and cannot be a renamed, previously uploaded file. </p> </p> <p>After you upload the <span class="filepath"> .fin </span> file in the Customer Attributes FTP, the system retrieves data quickly (within one minute). This differs from other Adobe FTP-based systems, which pick up data less frequently (around once per hour). </p> <p>The <span class="filepath"> .fin </span> file is not required when using the drag-and-drop upload method. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <span class="filepath"> .gz </span> or <span class="filepath"> .zip </span> </p> </td> 
-   <td colname="col2"> <p> <span class="filepath"> .gz </span> (gzip) or <span class="filepath"> .zip </span> - for compressed files. A <span class="filepath"> .zip </span> file cannot contain more than one file in the archive. </p> <p> <b>Naming requirements:</b> The name of the <span class="filepath"> .zip </span> or <span class="filepath"> .gz </span> should match the name of the <span class="filepath"> .csv </span>. For example, if your <span class="filepath"> .csv </span> file is <span class="filepath"> crm_small.csv </span>, the <span class="filepath"> .zip </span> file should be <span class="filepath"> crm_small.csv.zip </span>. </p> <p>The .fin file must match the .csv. </p> </td> 
-  </tr> 
- </tbody> 
-</table>
+|File Type|Description|
+|--- |--- |
+|`.csv`|A comma-separated values file (such as one created in Excel). This file contains the Customer Attribute data.   Naming requirements: Ensure that file name extensions do not contain white spaces.|
+|`.fin`|(Required) The `.fin` file tells the system that you are finished uploading data. The name of the `.fin` file must match the name of the `.csv` file.  Adobe recommends creating an empty text file with a `.fin` extension. An empty file saves space and upload time. **Note:**  Renaming a `.fin` file is not allowed after it is uploaded. The `.fin` file must be uploaded separately and cannot be a renamed, previously uploaded file. After you upload the `.fin` file in the Customer Attributes FTP, the system retrieves data quickly (within one minute). This differs from other Adobe FTP-based systems, which pick up data less frequently (around once per hour). The `.fin` file is not required when using the drag-and-drop upload method.|
+|`.gz` or `.zip`|`.gz` (gzip) or `.zip`  - for compressed files. A `.zip` file cannot contain more than one file in the archive. Naming requirements: The name of the `.zip` or `.gz`  should match the name of the `.csv` file . For example, if your `.csv` file is `crm_small.csv`, the `.zip` file should be `crm_small.csv.zip` . The `.fin` file must match the `.csv`.|
+
 
 ## Requirements for the attribute data files {#section_169FBF5B7BBA47CE825B7A330CF3FE98}
 
@@ -131,7 +115,7 @@ The same file viewed in a text editor:
  </tbody> 
 </table>
 
-## Using multiple data sources {#section_76DEB6001C614F4DB8BCC3E5D05088CB}
+## Using multiple data sources {#multiple}
 
 When creating, modifying, or deleting Customer Attribute sources, there is a delay around one hour before IDs begin synchronizing with the new data source.
 
