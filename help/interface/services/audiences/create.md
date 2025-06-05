@@ -51,7 +51,7 @@ The following example shows how to create the rules for a composite audience. Th
    >
    >Due to caching, deleted report suites in Analytics require 12 hours before the deletion is shown in Experience Cloud.
 
-   * **[!UICONTROL Experience Cloud:]** Attribute data derived from the [!DNL Experience Cloud] sources. For example, this can be data from audience segments you create in [!DNL Analytics], or data from [!DNL Audience Manager].
+   * **[!UICONTROL Experience Cloud:]** attribute data derived from the [!DNL Experience Cloud] sources. For example, this can be data from audience segments you create in [!DNL Analytics], or data from [!DNL Audience Manager].
 
 1. Define audience rules, then click **[!UICONTROL Save].**
 

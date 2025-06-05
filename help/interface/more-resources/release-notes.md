@@ -1,5 +1,5 @@
 ---
-description: Learn about the latest features, release notes, and known issues for Experience Cloud services like Customer Attributes, Audiences, and user management.
+description: Learn about the latest features, release notes, and known issues for Experience Cloud services like customer attributes, Audiences, and user management.
 solution: Experience Cloud
 title: Cumulative Release Notes for Experience Cloud Interface
 uuid: fcff8cc6-e587-4bf2-9a75-261d4eabc7d4
@@ -176,7 +176,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 
 **Fixes**
 
-* **Customer Attributes:** Customer Attributes UI now displays additional statuses of profiles synced in Target. (MCUI-10231)
+* **Customer attributes:** Customer attributes UI now displays additional statuses of profiles synced in Target. (MCUI-10231)
 * **Triggers Core Service:** Due to lack of use, the propensity score "Likelihood to Return in 30 days" when creating an Abandonment type trigger has been removed. (MCUI-10056)
 
 ## January 2020
@@ -195,7 +195,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 * Updated the app switcher to include Marketo in Experience Cloud application suite, and branding updates to Experience Platform. (MCUI-6529)
 * Updated Experience Cloud Home to include navigation links to the Feed and Administration pages. (MCUI-6682)
 * Fixed an issue in the [!UICONTROL Trigger] definition for correct usage of "like" clause. (MCUI-6611)
-* Improvements to Customer Attributes for better logging in the Subscription service. (MCUI-6519)
+* Improvements to Customer attributes for better logging in the Subscription service. (MCUI-6519)
 
 ## January 2019
 
@@ -246,7 +246,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 
 | Feature | Description |
 |--- |--- |
-|Notifications - Granular settings|You can enable notifications for product and application events and activities, including notifications about [Customer Attributes](../services/customer-attributes/attributes.md) upload activity.|
+|Notifications - Granular settings|You can enable notifications for product and application events and activities, including notifications about [customer attributes](../services/customer-attributes/attributes.md) upload activity.|
 |Notifications - Maintenance notifications|In Notification settings, you can enable maintenance notifications for products and applications.|
 |Admin Console for Experience Cloud Solutions|New Experience Cloud customers can begin using the Admin Console, a central location for managing your Adobe entitlements across your entire organization.<br>The migration to the Admin Console for user management will proceed in waves. Adobe contacts you (system administrators) when it is time to migrate.<br>Analytics administrators, see  [Analytics Migration](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html).|
 
@@ -354,18 +354,18 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 
 ## September 2015
 
-* Fixed an Audience Manager API performance issue causing intermittent timeouts when uploading Customer Attributes data. (MAC-26305)
-* Fixed an issue that prevented users from adding up to 200 Customer Attributes to a subscription. (MAC-26188)
+* Fixed an Audience Manager API performance issue causing intermittent timeouts when uploading customer attributes data. (MAC-26305)
+* Fixed an issue that prevented users from adding up to 200 customer attributes to a subscription. (MAC-26188)
 * Fixed an Audience Library issue that prevented audience sharing from Analytics segmentation. This issue caused "Collecting Data" (0 audiences) to display. To prevent this issue, Adobe recommends keeping the segment sizes under 50k audience members per segment. (MAC-25788)
-* Fixed a previous known issue on the Customer attributes - Edit Schema page that was causing a Content Aware error that was issued when changing a display name. (MAC-25589, AN-103834)
+* Fixed a previous known issue on the customer attributes - Edit Schema page that was causing a Content Aware error that was issued when changing a display name. (MAC-25589, AN-103834)
 
 ## July 2015
 
-* Fixed an issue that prevented attribute descriptions specified on the View/Edit Schema page (in Customer Attributes) from being updated in Analytics reports. (MAC-25985)
+* Fixed an issue that prevented attribute descriptions specified on the View/Edit Schema page (in customer attributes) from being updated in Analytics reports. (MAC-25985)
 * Fixed an issue preventing the thumbnails from rendering for uploaded assets. (MAC-25863)
 * Fixed an issue that prevented new segments created in reports & analytics from being available in Experience Cloud Audiences. (MAC-25817)
 * Fixed an issue that prevented audience sharing from Analytics, when using the visitor ID service. (MAC-25788, MAC-25747)
-* Added support for multibyte characters in Customer Attributes. (MAC-25552)
+* Added support for multibyte characters in customer attributes. (MAC-25552)
 
 **Known Issue**: A known issue is causing duplicate auto-generated accounts to be created in Audience Manager, and automatically linking them to a user's Experience Cloud identity. This issue occurs if you attempt to navigate to Audience Manager before linking your accounts. Adobe recommends that you link your Audience Manager accounts to Experience Cloud before navigating to Audience Manager. (MAC-25640) 
 
@@ -383,7 +383,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
    <td colname="col1"> <p> </p> </td> 
    <td colname="col2"> <p>The left navigation menus have been updated and arranged to provide access to all the core services and applications. Notable changes include: </p> 
     <ul id="ul_5BEBAB86B9234A239C4E2DAF8826D8E3"> 
-     <li id="li_7FA9F64CE69144B8A8A92746BF40E5A1">The <span class="term"> Audience Library</span> and <span class="term"> Customer Attributes</span> menu selections are now located under <span class="term"> Audiences</span>. </li> 
+     <li id="li_7FA9F64CE69144B8A8A92746BF40E5A1">The <span class="term"> Audience Library</span> and <span class="term"> customer attributes</span> menu selections are now located under <span class="term"> Audiences</span>. </li> 
      <li id="li_95D62A43AE6243DBB2A65EDB830D05C4">The <span class="term"> Exchange</span> menu selection was moved from the Help drop-down menu to the left navigation rail. </li> 
      <li id="li_0443FD50C78446CD8AA27A4F272CAD31"> <span class="term"> Solutions</span> has been removed. You can launch all applications from the bottom half of the navigation rail. </li> 
     </ul> </td> 
@@ -391,7 +391,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
  </tbody> 
 </table>
 
-* Fixed an issue preventing Customer Attributes from syncing for some customers.
+* Fixed an issue preventing customer attributes from syncing for some customers.
 * Fixed an issue preventing [Adobe Target Product Documentation](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html) page from displaying in Japanese.
 * Fixed an issue preventing the use of Japanese text in comments between the [!DNL Creative Cloud] and the [!DNL Experience Cloud].
 
@@ -436,8 +436,8 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Customer Attributes </p> </td> 
-   <td colname="col2"> <p>If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a Customer Attribute data source in Experience Cloud. After the data is uploaded, you can run <span class="uicontrol"> Visitor Profile</span> &gt; <span class="uicontrol"> Customer Attributes</span> reports in Analytics. </p> <p>You can also use the uploaded data as an audience segment in <span class="keyword"> Adobe Target</span>. </p> <p>See <a href="../services/customer-attributes/attributes.md" format="dita" scope="local"> Customer Attributes</a> product documentation. </p> </td> 
+   <td colname="col1"> <p>Customer attributes </p> </td> 
+   <td colname="col2"> <p>If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in Experience Cloud. After the data is uploaded, you can run <span class="uicontrol"> Visitor Profile</span> &gt; <span class="uicontrol"> customer attributes</span> reports in Analytics. </p> <p>You can also use the uploaded data as an audience segment in <span class="keyword"> Adobe Target</span>. </p> <p>See <a href="../services/customer-attributes/attributes.md" format="dita" scope="local"> customer attributes</a> product documentation. </p> </td> 
   </tr> 
  </tbody> 
 </table>

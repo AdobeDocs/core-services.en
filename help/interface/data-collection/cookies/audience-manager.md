@@ -33,7 +33,7 @@ Audience Manager relies on a few simple cookies to perform different functions. 
    <td colname="col2"> <p>The <span class="wintitle"> demdex </span> cookie contains a Unique User ID (UUID) as shown in the example below: </p> <p> <span class="codeph"> 06151304227769720433039235178204449977 </span> </p> <p>See also, <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/ids-in-aam.html" format="https" scope="external"> Index of IDs in Audience Manager </a>. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <b>Other Attributes</b> </p> </td> 
+   <td colname="col1"> <p> <b>Other attributes</b> </p> </td> 
    <td colname="col2"> <p> 
      <ul id="ul_11291DA87C5045E880034E06C863BCDA"> 
       <li id="li_40C30A06A12449A4A8748621223CA71B">Lifetime: The <span class="wintitle"> demdex </span> cookie has a time-to-live (TTL) interval of 180-days. The TTL is reset to 180-days upon each user interaction with a partner website. The cookie expires if a user does not come back to your site within the TTL interval. </li> 
@@ -66,7 +66,7 @@ Audience Manager relies on a few simple cookies to perform different functions. 
      </ul> </p> <p>See also, the dextp data syntax section below. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <b>Other Attributes</b> </p> </td> 
+   <td colname="col1"> <p> <b>Other attributes</b> </p> </td> 
    <td colname="col2"> <p> 
      <ul id="ul_4922AC2CD55D4C888A6FBEB22F8B889B"> 
       <li id="li_91A68C44E53840379C2ACDED25468735">Lifetime: The <span class="wintitle"> dextp </span> cookie has a time-to-live (TTL) interval of 180-days. </li> 
@@ -134,7 +134,7 @@ The following table lists and defines the elements in a `dextp` cookie by locati
      </ul> </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <b>Other Attributes</b> </p> </td> 
+   <td colname="col1"> <p> <b>Other attributes</b> </p> </td> 
    <td colname="col2"> <p> 
      <ul id="ul_5D13DD701B484B51BF2808A69A919106"> 
       <li id="li_4E665114C63246FBA32A4E19984D2693">Lifetime: The <span class="wintitle"> dst </span> cookie has a time-to-live (TTL) interval of 180-days. </li> 

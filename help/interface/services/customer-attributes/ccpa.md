@@ -1,15 +1,15 @@
 ---
-title: Customer Attributes Support for California Consumer Privacy Act 
-description: Learn about Customer Attributes support for California Consumer Privacy Act
+title: Customer attributes support for California Consumer Privacy Act 
+description: Learn about customer attributes support for California Consumer Privacy Act
 feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 320defc7-2cd5-4481-955d-77cf6fbfef6d
 ---
-# Customer Attributes support for California Consumer Privacy Act
+# Customer attributes support for California Consumer Privacy Act
 
-This page describes [!UICONTROL Customer Attributes]' support for the California Consumer Privacy Act (CCPA).
+This page describes [!UICONTROL customer attributes] support for the California Consumer Privacy Act (CCPA).
 
 >[!IMPORTANT]
 >
@@ -21,13 +21,13 @@ As a business, you determine the personal data that Adobe Experience Cloud proce
 
 As your service provider, Adobe Experience Cloud provides support for your business to fulfill its obligations under CCPA that are applicable to the use of Experience Cloud products and services. This support includes managing requests to access and delete personal information.
 
-This document describes how [!UICONTROL Customer Attributes] supports your data subjects' CCPA data access and deletion rights using the Adobe Experience Platform Privacy Service API and Privacy Service UI.
+This document describes how [!UICONTROL customer attributes] supports your data subjects' CCPA data access and deletion rights using the Adobe Experience Platform Privacy Service API and Privacy Service UI.
 
 For more information about the Adobe Privacy services for CCPA, see the [Adobe Privacy Center](https://www.adobe.com/privacy/ccpa.html).
 
-## Required setup to send requests for [!UICONTROL Customer Attributes]
+## Required setup to send requests for [!UICONTROL customer attributes]
 
-To make requests to access and delete data for [!UICONTROL Customer Attributes], you must:
+To make requests to access and delete data for [!UICONTROL customer attributes], you must:
 
 1. Identify the following:
 
@@ -37,9 +37,9 @@ To make requests to access and delete data for [!UICONTROL Customer Attributes],
 
     Your organization ID is a 24-character alphanumeric string appended with @AdobeOrg. You need the organization's ID to submit requests to the Privacy API. Contact Adobe Customer Care at `gdprsupport@adobe.com` if you cannot locate the ID.
 
-1. In [!UICONTROL Privacy Service], you can submit Access and Delete requests to Customer Attributes, and check the status of existing requests.
+1. In [!UICONTROL Privacy Service], you can submit Access and Delete requests to customer attributes, and check the status of existing requests.
 
-## Required field values in [!UICONTROL Customer Attributes] JSON Requests
+## Required field values in [!UICONTROL customer attributes] JSON Requests
 
 "company context": 
 

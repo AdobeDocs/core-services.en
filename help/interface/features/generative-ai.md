@@ -222,7 +222,7 @@ For example: foreground `color: red` is an automatically assigned attribute. The
 
 ## [!DNL Real-Time CDP] {#rtcdp}
 
-Real-Time CDP uses [!DNL AI Assistant] to help you with product knowledge from Experience League. It also offers operational insights (in beta). [!DNL AI Assistant] queries a customer-specific operational insights data store that contains centralized operational data, partitioned in your AEP sandbox. The system pulls metadata only from Attributes, Audiences, Dataflows, Datasets, Destinations, Schemas, and Sources, and does not access data within the sandbox. 
+Real-Time CDP uses [!DNL AI Assistant] to help you with product knowledge from Experience League. It also offers operational insights (in beta). [!DNL AI Assistant] queries a customer-specific operational insights data store that contains centralized operational data, partitioned in your AEP sandbox. The system pulls metadata only from ttributes, Audiences, Dataflows, Datasets, Destinations, Schemas, and Sources, and does not access data within the sandbox. 
 
 For example, if you query about an audience, [!DNL AI Assistant] can access the name of the audience and other associated metadata but cannot access the profiles within that audience. 
 
