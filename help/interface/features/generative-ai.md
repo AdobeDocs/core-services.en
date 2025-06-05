@@ -32,7 +32,7 @@ Generative AI is a type of AI that can create original content. For example, it 
 
     **Note:** This feature is in Alpha and may not be available to your organization. To participate in the Alpha program and access this feature, contact your Adobe Account Team.
 
-* **Data Insights Agent:** [Data Insights Agent](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai), accessible from the AI Assistant in Customer Journey Analytics, is a generative AI conversation agent that quickly and efficiently answers questions about your data. It builds relevant visualizations in Analysis Workspace using components from your data view and using your actual data.
+* **Data Insights Agent:** [Data Insights Agent](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai), accessible from the AI Assistant in [!DNL Customer Journey Analytics], is a generative AI conversation agent that quickly and efficiently answers questions about your data. It builds relevant visualizations in [!UICONTROL Analysis Workspace] using components from your data view and using your actual data.
 
 [Learn about AI Assistant](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing) 
 
@@ -218,7 +218,7 @@ Adobe Firefly compatibility: **No**
 
 ## [!DNL Marketo] {#marketo}
 
-In Marketo (premium), generative AI is available in Interactive Webinars and Dynamic Chat.
+In Marketo, generative AI is available in Interactive Webinars and Dynamic Chat.
 
 **Interactive Webinars**
 
@@ -233,7 +233,7 @@ Automatically generate chapters and summaries for your recorded webinars, making
 
 **Dynamic Chat**
 
-Generative AI powered capabilities in Adobe Dynamic Chat allow you to optimize productivity for your sales agents, get insights into your website visitor intent, and respond to visitor questions in a safe manner. You can pre-approve the questions, answers, and the conversation summary. 
+Generative AI powered capabilities in Adobe Dynamic Chat allow you to optimize productivity for your sales agents, get insights into your website visitor intent, and respond to visitor questions in a safe manner. You can pre-approve the questions, answers, and the conversation summary. Dynamic Chat includes both a free and premium version.
 
 [Learn more](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/overview)
 
