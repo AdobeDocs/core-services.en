@@ -38,7 +38,7 @@ Generative AI is a type of AI that can create original content. For example, it 
 
 The following Experience Cloud applications support generative AI or [!DNL AI Assistant]. Support for Adobe Firefly is also indicated per product.
 
-Updated: **June 4, 2025**
+Updated: **June 5, 2025**
 
 * [[!DNL GenStudio for Performance Marketing]](#gspm)
 * [[!DNL Experience Manager]](#aem)
@@ -165,7 +165,7 @@ Adobe Firefly compatibility: **Yes**
 Customer Journey Analytics lets you use generative AI in the following ways:
 
 * [!DNL AI Assistant] for product knowledge
-* [!DNL Product Support Agent] in AI Assistant (currently in Alpha)
+* [!DNL Product Support Agent] in AI Assistant
 * [!UICONTROL Intelligent Captions] in Workspace visualizations
 * AI and GenAI to assign every asset metadata automatically in [!DNL Content Analytics]
 
@@ -211,7 +211,7 @@ Adobe Firefly compatibility: **No**
 
 ## [!DNL Marketo] {#marketo}
 
-In Marketo, generative AI is available in Interactive Webinars and Dynamic Chat.
+In Marketo (premium), generative AI is available in Interactive Webinars and Dynamic Chat.
 
 **Interactive Webinars**
 
