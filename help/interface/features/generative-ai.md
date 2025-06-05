@@ -86,7 +86,11 @@ Adobe Firefly compatibility: **Yes**
 
 [Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations-integrated-editor)
 
-### Experience Manager Assets
+### Sites Optimizer {#sites-optimizer}
+
+AEM Sites Optimizer uses generative AI to analyze and improve the performance and effectiveness of web experiences. These insights are grouped into key opportunity areas: Engagement, Traffic Acquisition, Security Posture, and, Site Health. Each category highlights specific ways to enhance your site, whether by increasing visitor interaction, improving discoverability, strengthening security, or maintaining site stability. [Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/opportunity-types/overview)
+
+### Experience Manager Assets {#aem-assets}
 
 In AEM Assets, you can use generative AI in **Content Hub** and **AI-generated Smart Tags**.
 
