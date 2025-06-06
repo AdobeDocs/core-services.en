@@ -32,15 +32,13 @@ AI Assistant also includes conversation agent AI features (known as _agentic AI_
 
 * **Product support:** The [Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) is a self-serve debugging and troubleshooting capability of [!UICONTROL AI Assistant] that you can use for Experience Platform features and applications. Troubleshoot support issues without leaving your workflows, create customer support tickets, and track case progress using AI Assistant. 
 
-* **Data Insights Agent:** [Data Insights Agent](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai), accessible from the AI Assistant in [!DNL Customer Journey Analytics], is a generative AI conversation agent that quickly and efficiently answers questions about your data. It builds relevant visualizations in [!UICONTROL Analysis Workspace] using components from your data view and using your actual data.
-
 [Learn about AI Assistant](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing) 
 
 ## GenAI availability in Experience Cloud products {#products}
 
 The following Experience Cloud applications support generative AI or [!UICONTROL AI Assistant]. Support for Adobe Firefly is also indicated per product.
 
-Updated: **June 5, 2025**
+Updated: **June 6, 2025**
 
 * [[!DNL GenStudio for Performance Marketing]](#gspm)
 * [[!DNL Experience Manager]](#aem)
@@ -170,11 +168,11 @@ Adobe Firefly compatibility: **Yes**
 
 Customer Journey Analytics lets you use generative AI or AI Assistant in the following ways:
 
-* [AI Assistant](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant) for product knowledge
-* [Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) in AI Assistant
-* [Data Insights Agent](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai) in AI Assistant
-* [Intelligent Captions](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions) in Workspace visualizations
-* [Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/report#template) to assign every asset metadata automatically
+* [AI Assistant](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant) for product knowledge.
+* [Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) to create customer support tickets, complete with context and session details from your interactions with AI Assistant.  
+* [Data Insights Agent](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai) for answers to questions about your data. It builds relevant visualizations in Analysis Workspace using components from your data view and using your actual data.
+* [Intelligent Captions](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions) to provide key insights for the most frequently used Workspace visualizations in natural language.
+* [Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/report#template) to assign every asset metadata automatically.
 
 Adobe Firefly compatibility: **No**
 
