@@ -38,7 +38,7 @@ AI Assistant also includes conversation agent AI features (known as _agentic AI_
 
 The following Experience Cloud applications support generative AI or [!UICONTROL AI Assistant]. Support for Adobe Firefly is also indicated per product.
 
-Updated: **June 6, 2025**
+Updated: **June 9, 2025**
 
 * [[!DNL GenStudio for Performance Marketing]](#gspm)
 * [[!DNL Experience Manager]](#aem)
@@ -254,4 +254,5 @@ Adobe Firefly compatibility: **No**
 
 * [Responsible AI Resources on Trust Center](https://www.adobe.com/trust/responsible-ai.html)<!-- * [Customer AI Propensity Scoring Model Card](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/model-cards/ai-model-cards/customer-ai) -->
 
-**Disclaimer:** The information on this page is for general informational purposes only. We aim to keep it accurate and up to date, but software and AI features may change frequently. We do not guarantee the completeness or reliability of the information at all times. Please double-check any important details before making decisions based on this content.
+**Disclaimer:** The information on this page is for general informational purposes only. While effort is made to ensure the information remains accurate and current, software and generative AI features may change frequently. Accordingly, we do not warrant the completeness, accuracy, or reliability of the information at all times. Please verify any important details before making decisions based on this content.
+
