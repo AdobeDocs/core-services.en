@@ -3,8 +3,8 @@ title: Generative AI in Experience Cloud Applications
 description: Learn about generative AI (GenAI) and how Experience Cloud applications use GenAI and [!UICONTROL AI Assistant]. 
 solution: Experience Cloud
 feature: AI Assistant, Generative AI
-topic: Administration
-role: Admin
+topic: Artificial Intelligence
+role: Admin, User
 level: Intermediate
 exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
 ---
@@ -20,6 +20,8 @@ Generative AI is a type of AI that can create original content. For example, it 
 
 * **Generate a response:** AI provides an answer or reaction to a prompt, typically drawing on its available data and knowledge repositories.
 
+This type of AI contrasts with [agentic AI](agentic-ai.md) (Adobe's agentic framework), which refers to AI that operates autonomously. 
+
 **What is [!UICONTROL AI Assistant]?**
 
 [!UICONTROL AI Assistant] is a conversational tool supported in Experience Platform and related applications. Use it to quicktly gain _product knowledge_ and _operational insights_ in supported products.
@@ -28,17 +30,32 @@ Generative AI is a type of AI that can create original content. For example, it 
 
 * **Operational insights:** [Operational insights](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/questions#objects-questions) refer to generated responses about your metadata objects (attributes, audiences, dataflows, datasets, and so on). With [!UICONTROL AI Assistant], you can accomplish in seconds what otherwise might take hours or days.
 
-AI Assistant also includes conversation agent AI features (known as _agentic AI_) in supported applications:
-
-* **Product support:** The [Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) is a self-serve debugging and troubleshooting capability of [!UICONTROL AI Assistant] that you can use for Experience Platform features and applications. Troubleshoot support issues without leaving your workflows, create customer support tickets, and track case progress using AI Assistant. 
-
 [Learn about AI Assistant](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing) 
+
+<!-- ## Summary of AI availability in Experience Cloud products
+
+Here's a brief look at how Experience Cloud applications use GenAI, AI Assistant, and agentic AI. Adobe Firefly compatibility is indicated:
+
+| **Product Name** | **Generative AI** | **AI Assistant** | **Firefly Compatibility** |
+|------------------|-------------------------|------------------|---------------------------|
+| [Adobe GenStudio for Performance Marketing](#gspm) | Uses generative AI to help marketing and creative teams easily create personalized, on-brand content. | N/A | Yes |
+| [Adobe Experience Manager Sites](#aem) | Uses Generate Variations to create content variations based on input. | N/A | Yes |
+| [Adobe Experience Manager Assets](#aem) | Uses Content Hub to create content with Adobe Express | N/A | Yes |
+| [Sites Optimizer](#aem) | Uses generative AI to analyze and improve the performance and effectiveness of web experiences. | N/A | N/A |
+| [Adobe Journey Optimizer](#journey-optimizer) | Accelerates content creation for marketing campaigns with copy, design, and full message creation | Available for operational insights and journey fragment creation | No |
+| Adobe Journey Optimizer B2B Edition | N/A | N/A | N/A |
+| Adobe Campaign Managed Cloud Services | N/A | Uses AI Assistant for Content Accelerator to auto-generate personalized, engaging, and effective content based on marketing objectives across channels like Email, SMS, and Push | Yes |
+| Adobe Customer Journey Analytics | Generates visualizations to simplify insights discovery and data analysis | Available for data analysis and operational insights | No |
+| Adobe Real-Time CDP | Uses GenAI for operational insights, audience size estimation, audience propensities, and audience overlap | Available for product knowledge, support ticket creation, and status tracking | No |
+| Adobe Marketo Engage | Uses generative AI for Dynamic Chat and Interactive Webinars | N/A | Yes |
+| Adobe Workfront | Expands Fusion Headless Capabilities to support Firefly, automating content production and achieving hyper-personalization | N/A | Yes |
+ -->
 
 ## GenAI availability in Experience Cloud products {#products}
 
 The following Experience Cloud applications support generative AI or [!UICONTROL AI Assistant]. Support for Adobe Firefly is also indicated per product.
 
-Updated: **June 9, 2025**
+Updated: **June 16, 2025**
 
 * [[!DNL GenStudio for Performance Marketing]](#gspm)
 * [[!DNL Experience Manager]](#aem)
@@ -169,8 +186,6 @@ Adobe Firefly compatibility: **Yes**
 Customer Journey Analytics lets you use generative AI or AI Assistant in the following ways:
 
 * [AI Assistant](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant) for product knowledge.
-* [Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) to create customer support tickets, complete with context and session details from your interactions with AI Assistant.  
-* [Data Insights Agent](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai) for answers to questions about your data. It builds relevant visualizations in Analysis Workspace using components from your data view and using your actual data.
 * [Intelligent Captions](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions) to provide key insights for the most frequently used Workspace visualizations in natural language.
 * [Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/report#template) to assign every asset metadata automatically.
 
