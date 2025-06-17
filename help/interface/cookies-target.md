@@ -9,7 +9,7 @@ role: Admin
 level: Experienced
 exl-id: c4399cc0-8333-47b8-b830-2ba7359f464a
 ---
-# Adobe Target cookies
+# [!DNL Adobe Target] cookies
 
 [!DNL Adobe Target] uses cookies to give website operators the ability to test which online content and offers are more relevant to visitors.
 
