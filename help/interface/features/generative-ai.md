@@ -51,7 +51,7 @@ Here's a roundup of the Experience Cloud applications that use GenAI, AI Assista
 | [[!DNL Marketo]](#marketo) |Available in [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/overview?lang=en) and [Interactive Webinars](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai?lang=en). | Not applicable | No |
 | [[!DNL Workfront]](#workfront) | Used with [in-app](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant-overview?lang=en) information and suggestions. | Not applicable | Yes |
 
-## Examples of using GenAI in Experience Cloud {#products}
+## How you can use GenAI in Experience Cloud {#products}
 
 The following sections go into more detail about how you can use genAI or AI Assistant in specific applications. Links to learn more are provided.
 
