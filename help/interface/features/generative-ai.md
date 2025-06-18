@@ -55,16 +55,6 @@ Here's a roundup of the Experience Cloud applications that use GenAI, AI Assista
 
 The following sections go into more detail about how you can use genAI or AI Assistant in specific applications. Links to learn more are provided.
 
-* [[!DNL GenStudio for Performance Marketing]](#gspm)
-* [[!DNL Experience Manager]](#aem)
-* [[!DNL Journey Optimizer]](#journey-optimizer)
-* [[!DNL Journey Optimizer] B2B Edition](#ajo-b2b)
-* [[!DNL Campaign] Managed Cloud Services](#campaign-cs)
-* [[!DNL Customer Journey Analytics]](#cja)
-* [[!DNL Real-Time CDP]](#rtcdp)
-* [[!DNL Marketo]](#marketo)
-* [[!DNL Workfront]](#workfront)
-
 ## GenStudio for Performance Marketing {#gspm}
 
 +++Details
