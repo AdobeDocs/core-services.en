@@ -2,8 +2,7 @@
 description: Learn the considerations and best practices regarding personally identifiable information (PII) uploaded and used in Experience Cloud.
 solution: Experience Cloud
 title: Privacy Considerations for customer attributes 
-uuid: 5666dc4e-55fa-4196-9985-cf530cfb9247
-feature: customer attributes
+feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced

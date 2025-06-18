@@ -1,8 +1,7 @@
 ---
 description: How to delete and replace attributes in the schema in Adobe Experience Cloud.
 title: Update the Schema (Delete an attribute) 
-uuid: a465fa89-6c7f-4c07-aa59-84c968a82917
-feature: Customer attributes
+feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced

@@ -3,7 +3,7 @@ description: Create a customer attribute source and upload it to the Adobe Exper
 solution: Experience Cloud
 title: Create a customer attribute Source and Upload the Data File 
 uuid: 53dca789-9a91-4385-839d-c9d1aa36b9be
-feature: customer attributes
+feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced

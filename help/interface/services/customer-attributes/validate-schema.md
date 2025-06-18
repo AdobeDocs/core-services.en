@@ -1,9 +1,8 @@
 ---
 description: Learn how to validate the customer attribute schema in Adobe Experience Cloud.
 solution: Experience Cloud
-title: How to Validate the customer attribute Schema 
-uuid: 163a4dbe-d60b-4089-8ff8-65f7461fbdf7
-feature: customer attributes
+title: How to validate the customer attribute schema 
+feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced

@@ -2,8 +2,7 @@
 description: Learn about data file requirements and multiple data sources for uploading [!DNL customer attributes] to Experience Cloud.
 solution: Experience Cloud
 title: Data File and Data Sources 
-uuid: 9dd0e364-889b-45db-b190-85c0930a101e
-feature: customer attributes
+feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced

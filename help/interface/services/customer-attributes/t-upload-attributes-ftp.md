@@ -2,7 +2,7 @@
 description: Learn how to upload customer attribute data via FTP to Experience Cloud.
 solution: Experience Cloud
 title: Upload the customer attribute Data File via FTP 
-feature: Customer attributes
+feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced

@@ -2,8 +2,7 @@
 description: Frequently asked questions about [!DNL customer attributes] in Adobe Experience Cloud, for Adobe Analytics and Adobe Target.
 solution: Experience Cloud
 title: Frequently Asked Questions about [!DNL customer attributes] 
-uuid: e93eb531-23c7-4d75-92e8-75699f58546a
-feature: customer attributes
+feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced

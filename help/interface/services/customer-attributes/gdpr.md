@@ -1,7 +1,7 @@
 ---
 title: "[!DNL Customer attributes] Support for General Data Protection Regulation"
 description: Learn about customer attributes support for General Data Protection Regulation
-feature: Customer attributes
+feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced
