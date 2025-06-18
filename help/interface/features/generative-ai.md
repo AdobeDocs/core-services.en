@@ -221,7 +221,6 @@ For example: foreground `color: red` is an automatically assigned attribute. The
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/report#template" tooltip="Learn about Content Analytics"}
 
-+++
 
 ## [!DNL Real-Time CDP] {#rtcdp}
 

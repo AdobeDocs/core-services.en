@@ -3,7 +3,7 @@ role: User,Admin
 user-guide-title: Experience Cloud interface and administration
 breadcrumb-title: Experience Cloud interface and administration
 title: Experience Cloud Interface and Administration
-description: Learn about Experience Cloud interface, cookies, and account preferences. Manage products and configure the People service, including Customer Attributes and Audience Library. Share Experience Cloud Assets.
+description: Learn about Experience Cloud interface, cookies, and account preferences. Manage products and configure the People service, including Customer attributes and Audience Library. Share Experience Cloud Assets.
 index: yes
 ---
 
@@ -26,18 +26,18 @@ index: yes
     + [Overview](services/audiences/overview.md)
     + [Create an audience](services/audiences/create.md)
   + [Exchange](services/exchange.md)
-  + Customer Attributes {#customer-attributes}
+  + Customer attributes {#customer-attributes}
     + [Overview](services/customer-attributes/attributes.md)
-    + [Frequently asked questions about Customer Attributes](services/customer-attributes/faq-crs.md)
-    + [About data file and data sources for Customer Attributes](services/customer-attributes/crs-data-file.md)
-    + [Create a Customer Attribute source and upload the data file](services/customer-attributes/t-crs-usecase.md)
+    + [Frequently asked questions about customer attributes](services/customer-attributes/faq-crs.md)
+    + [About data file and data sources for customer attributes](services/customer-attributes/crs-data-file.md)
+    + [Create a customer attribute source and upload the data file](services/customer-attributes/t-crs-usecase.md)
     + [Optional - Upload the data file via FTP](services/customer-attributes/t-upload-attributes-ftp.md)
     + [Validate the schema](services/customer-attributes/validate-schema.md)
     + [Configure subscriptions](services/customer-attributes/subscription.md)
     + [Update the schema](services/customer-attributes/t-update-schema.md)
     + [Support for General Data Protection Regulation](services/customer-attributes/gdpr.md)
     + [Support for California Consumer Privacy Act](services/customer-attributes/ccpa.md)
-    + [Privacy considerations for Customer Attributes](services/customer-attributes/privacy-mac.md)
+    + [Privacy considerations for customer attributes](services/customer-attributes/privacy-mac.md)
   + [Triggers](services/triggers.md)
 
 + Features {#features}

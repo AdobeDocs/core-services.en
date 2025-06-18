@@ -75,7 +75,7 @@ Adobe Customer Care can submit an impersonation request for which you receive an
 Provisioning in Experience Cloud means:
 
 * Your users can begin logging in to the Experience Cloud and linking applications.
-* They can begin to use the features available through Experience Cloud, such as People.
+* They can begin to use the features available through Experience Cloud.
 * You can become prepared to retire your application-specific login process.
 * You can retain access control to applications.
 

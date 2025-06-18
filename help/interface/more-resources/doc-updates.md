@@ -102,11 +102,11 @@ Added [View Experience Cloud user details (Admin Tool)](../administration/admin-
 
 **Updated: 9/5/2018**
 
-Added how to delete a Customer Attribute. See [(Optional) Update the schema (delete attributes)](../services/customer-attributes/t-crs-usecase.md).
+Added how to delete a customer attribute. See [(Optional) Update the schema (delete attributes)](../services/customer-attributes/t-crs-usecase.md).
 
 **8 June 2018**
 
-Updated [About data file and data sources for Customer Attributes](../services/customer-attributes/crs-data-file.md) with information about uploading multiple files.
+Updated [About data file and data sources for customer attributes](../services/customer-attributes/crs-data-file.md) with information about uploading multiple files.
 
 **6 June 2018**
 

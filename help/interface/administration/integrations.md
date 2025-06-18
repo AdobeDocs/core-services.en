@@ -21,7 +21,7 @@ Describes how to:
 * Enable you to become an administrator.
 * [Implement the Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html).
 * Modernize your [!DNL Analytics] and [!DNL Target] implementations via [!UICONTROL Platform Data Collection].
-* Start using Experience Cloud services like [[!DNL Customer Attributes]](../services/customer-attributes/attributes.md) and [[!DNL Audience Library]](../services/audiences/overview.md).
+* Start using Experience Cloud services like [[!DNL customer attributes]](../services/customer-attributes/attributes.md) and [[!DNL Audience Library]](../services/audiences/overview.md).
 
 Solutions or services: 
 
@@ -57,16 +57,16 @@ Create and manage Audiences in Experience Cloud [!UICONTROL Audience Library]. A
 * [Segmentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/audience-analytics-workflow/aam-analytics-segments.html) in Audience Manager
 * [Advertising Cloud](https://enterprise.efrontier.com/CMDashboard/?ticket=JrciD7q2bF1y2mDWFHmEyibbOnNwb2JBRF7z6tKAOIWkBimlPxCUaZyJnPLqsfdqsf3fpxWoxGasvatKA8S6-h4tlDvxQcm8Gc10dSF9q_E%3D&ticket=JrciD7q2bF1y2mDWFHmEyibmxtHqnZFSOMml-n993zOBc-ovZGNZkX5vgePWqKNMoMmPSqf9PkzFeYF4UN6GqSXDVNDvwgnvv9KT8PvVxk8%3D) (login required)
 
-## Customer Attributes {#section_6A9EA6847F654F129381869E5016626C}
+## Customer attributes {#section_6A9EA6847F654F129381869E5016626C}
 
-Help: [Customer Attributes](/help/interface/services/customer-attributes/attributes.md) 
+Help: [Customer attributes](/help/interface/services/customer-attributes/attributes.md) 
 
-If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a Customer Attribute data source in Experience Cloud. Once uploaded, use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target]. 
+If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in Experience Cloud. Once uploaded, use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target]. 
 
 **Applicable solutions or services** 
 
-* Adobe Analytics: Customer Attributes Report
-* Adobe Target: Configure Adobe Target's [subscription](/help/interface/services/customer-attributes/subscription.md) to Customer Attributes
+* Adobe Analytics: Customer attributes Report
+* Adobe Target: Configure Adobe Target's [subscription](/help/interface/services/customer-attributes/subscription.md) to customer attributes
 
 ## Experience Cloud Assets {#section_92BC5DFDB0E0499CB0DD34B85E06F79A}
 
@@ -111,7 +111,7 @@ Integrate Adobe Target with Adobe Analytics and other Experience Cloud applicati
 
 **Applicable applications or services** 
 
-* Customer Attributes: Configure Adobe Target's [subscription](/help/interface/services/customer-attributes/subscription.md) to Customer Attributes
+* Customer attributes: Configure Adobe Target's [subscription](/help/interface/services/customer-attributes/subscription.md) to customer attributes
 * Experience Cloud Audiences: [Experience Cloud Audience Library](/help/interface/services/audiences/overview.md)
 * Analytics: [Adobe Analytics as the Reporting Source for Adobe Target](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html)
 * Audience Manager: [Adobe Target Data Integration with Adobe Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-solutions/aam-target-integration.html)
