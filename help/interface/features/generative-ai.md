@@ -67,13 +67,19 @@ The following sections go into more detail about how you can use genAI or AI Ass
 
 ## GenStudio for Performance Marketing {#gspm}
 
++++Details
+
 [!DNL GenStudio for Performance Marketing] is a generative AI application designed to help enterprise marketing teams create, activate, and optimize on-brand campaign content across channels like paid media, email, and display ads. 
 
 Performance marketers can use natural language prompts to generate personalized, brand-compliant assets. GenStudio for Performance Marketing accelerates campaign execution, scales content production without compromising brand integrity, and provides performance analytics for improving overall ROI.
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home" tooltip="Go to GenStudio for Performance Marketing"}
 
++++
+
 ## [!DNL Experience Manager] {#aem}
+
++++Details
 
 The following sections briefly describe generative AI in AEM applications.
 
@@ -123,7 +129,11 @@ For example, if the asset is an image, AI can identify objects, scenes, emotions
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/smart-tags#ai-smart-tags" tooltip="Learn about Smart Tags"}
 
++++
+
 ## Adobe [!DNL Journey Optimizer] {#journey-optimizer}
+
++++Details
 
 In [!DNL Journey Optimizer] (AJO), you can use [AI Assistant](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant) to gain _product knowledge_ and _operational insights_ (beta). 
 
@@ -151,7 +161,11 @@ This feature is available for email, push notifications, web page, content, and 
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/gs-generative" tooltip="Learn about AI Assistant in AJO"}
 
++++
+
 ## [!DNL Journey Optimizer B2B Edition] {#ajo-b2b}
+
++++Details
 
 Journey Optimizer B2B Edition uses [!UICONTROL AI Assistant] to help you with product knowledge. 
 
@@ -163,7 +177,11 @@ Example input:
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-assistant-overview" tooltip="Learn about AI Assistant in AJO"}
 
++++
+
 ## [!DNL Campaign] Managed Cloud Services {#campaign-cs}
+
++++Details
 
 Campaign Managed Cloud Services uses [!UICONTROL AI Assistant] for content generation. This feature lets you auto-generate personalized, engaging, and effective content based on your marketing objective, with content optimized for brand outlined styles, layouts, tone, and more. You can use it across channels like email, SMS, and push.
 
@@ -171,7 +189,11 @@ Campaign Managed Cloud Services uses [!UICONTROL AI Assistant] for content gener
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-gs" tooltip="Learn about AI Assistant in AJO"}
 
++++
+
 ## [!DNL Customer Journey Analytics] {#cja}
+
++++Details
 
 Customer Journey Analytics lets you use generative AI or AI Assistant in the following ways:
 
@@ -209,7 +231,11 @@ For example: foreground `color: red` is an automatically assigned attribute. The
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/report#template" tooltip="Learn about Content Analytics"}
 
++++
+
 ## [!DNL Real-Time CDP] {#rtcdp}
+
++++Details
 
 Real-Time CDP uses [!UICONTROL AI Assistant] to help you with product knowledge from Experience League. It also offers operational insights (in beta). [!UICONTROL AI Assistant] queries a customer-specific operational insights data store that contains centralized operational data, partitioned in your AEP sandbox. The system pulls metadata only from Attributes, Audiences, Dataflows, Datasets, Destinations, Schemas, and Sources, and does not access data within the sandbox. 
 
@@ -217,7 +243,11 @@ For example, if you query about an audience, [!UICONTROL AI Assistant] can acces
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home" tooltip="Learn about Real-Time CDP"}
 
++++
+
 ## [!DNL Marketo] {#marketo}
+
++++Details
 
 In Marketo, generative AI is available in Interactive Webinars and Dynamic Chat.
 
@@ -238,7 +268,11 @@ Generative AI powered capabilities in Adobe Dynamic Chat allow you to optimize p
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/overview" tooltip="Learn about Dynamic Chat"}
 
++++
+
 ## [!DNL Workfront] {#workfront}
+
++++Details
 
 [!UICONTROL AI Assistant] in [!DNL Workfront] helps you accomplish your work by offering in-app information and suggestions. You can:
 
@@ -249,9 +283,15 @@ Generative AI powered capabilities in Adobe Dynamic Chat allow you to optimize p
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant-overview" tooltip="Learn about AI Assistant in Workfront"}
 
++++
+
 ## Additional resources
 
++++Details
+
 * [Responsible AI Resources on Trust Center](https://www.adobe.com/trust/responsible-ai.html)<!-- * [Customer AI Propensity Scoring Model Card](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/model-cards/ai-model-cards/customer-ai) -->
+
++++
 
 **Disclaimer:** The information on this page is for general informational purposes only. While effort is made to ensure the information remains accurate and current, software and generative AI features may change frequently. Accordingly, we do not warrant the completeness, accuracy, or reliability of the information at all times. Please verify any important details before making decisions based on this content.
 
