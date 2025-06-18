@@ -114,7 +114,7 @@ Contact Customer Care to enable historical data.
 >
 >Report Suite Mapping functionality was deprecated in November 2020. Reach out to Customer Support with any questions.
 
-Experience Cloud services (such as Experience Cloud ID Service and the [!UICONTROL People service]) are associated with an Experience Cloud organization instead of an individual Analytics report suite. To ensure that these services operate correctly, each Analytics report suite must be mapped to an Experience Cloud organization. 
+Experience Cloud services (such as Experience Cloud ID Service) are associated with an Experience Cloud organization instead of an individual Analytics report suite. To ensure that these services operate correctly, each Analytics report suite must be mapped to an Experience Cloud organization. 
 
 ## Update your Analytics AppMeasurement code {#section_1798D9D0F05C47E29816AC4EEB9A0913}
 

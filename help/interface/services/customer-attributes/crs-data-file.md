@@ -134,6 +134,6 @@ Visitor.setcustomerIDs({
 
 (See [customer IDs and Authentication States](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) for more information.)
 
-In the **[!UICONTROL Experience Cloud]** > **[!UICONTROL People]** > **[!UICONTROL customer attributes]**:
+In the **[!UICONTROL Experience Cloud]** > **[!UICONTROL Customer Attributes]**:
 
 Create two customer attributes sources using unique alias IDs corresponding to the customer IDs above. Using this method allows the same reference ID to be sent to multiple customer attribute sources.

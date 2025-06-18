@@ -1,5 +1,5 @@
 ---
-description: Learn about Experience Cloud user and product management, People (Audiences and customer attributes), Journey Orchestration, Offers, Places, Experience Platform, and Mobile Services.
+description: Learn about Experience Cloud user and product management, Audiences, Customer attributes, Journey Orchestration, Offers, Places, Experience Platform, and Mobile Services.
 solution: Experience Cloud
 title: Overview of Experience Cloud Services 
 feature: Central Interface Components
@@ -22,7 +22,7 @@ This help describes the following products and services:
 | Core Service | Description |
 |--- |--- |
 |[Central interface components](../experience-cloud.md)|Access account preferences, search for product help, and access applications and services.|
-|[People - [!DNL Audience Library]](audiences/overview.md)|Audiences are collections of visitors (a list of visitor IDs). Adobe's [!DNL Audience Library] lets you manage the translation of visitor data into audience segmentation. |
+|[!DNL Audience Library](audiences/overview.md)|Audiences are collections of visitors (a list of visitor IDs). Adobe's [!DNL Audience Library] lets you manage the translation of visitor data into audience segmentation. |
 |[Customer attributes](customer-attributes/attributes.md)| Build real-time orchestration use cases using contextual data stored in events or data sources. [!UICONTROL Journey Orchestration] is an application service integrated with the Experience Platform.|
 |[Assets](assets/experience-cloud-assets.md)|Experience Cloud Assets provide a single, centralized repository of marketing-ready assets that you can share across applications.|
 
