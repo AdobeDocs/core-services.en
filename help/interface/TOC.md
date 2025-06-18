@@ -42,7 +42,8 @@ index: yes
 
 + Features {#features}
   + [Account preferences and notifications](features/account-preferences.md)
-  + [Generative AI in Experience Cloud applications](features/generative-ai.md)
+  + [Generative AI](features/generative-ai.md)
+  + [Agentic AI](features/agentic-ai.md)
   + [Unified search](features/search.md)
   + [Personalized learning](features/personalized-learning.md)
   + [Browser and language support](browser-language.md)
