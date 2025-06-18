@@ -115,11 +115,11 @@ Perform these steps on the Create new customer attribute source page in Experien
 
   ![attributes](assets/file_upload_attributes.png) 
     
-  * **[!UICONTROL Unique customer ID:]** Displays how many unique IDs you have uploaded to this attribute source. 
+* **[!UICONTROL Unique customer ID:]** Displays how many unique IDs you have uploaded to this attribute source. 
     
-  * **[!UICONTROL customer-Provided IDs Aliased to Experience Cloud Visitor IDs:]** Displays how many IDs have been aliased to Experience Cloud Visitor IDs. 
+* **[!UICONTROL customer-Provided IDs Aliased to Experience Cloud Visitor IDs:]** Displays how many IDs have been aliased to Experience Cloud Visitor IDs. 
     
-  * **[!UICONTROL customer-Provided IDs with High Alias Counts:]** Displays the count of customer-provided IDs with 500 or more aliased Experience Cloud Visitor IDs. These customer-provided IDs most likely do not represent individuals but rather some sort of shared login. The system distributes the attributes associated with these IDs to the 500 most recent aliased Experience Cloud Visitor IDs, until the alias count reaches 10,000. Then, the system invalidates the customer-provided ID and no longer distributes associated attributes. -->
+* **[!UICONTROL customer-Provided IDs with High Alias Counts:]** Displays the count of customer-provided IDs with 500 or more aliased Experience Cloud Visitor IDs. These customer-provided IDs most likely do not represent individuals but rather some sort of shared login. The system distributes the attributes associated with these IDs to the 500 most recent aliased Experience Cloud Visitor IDs, until the alias count reaches 10,000. Then, the system invalidates the customer-provided ID and no longer distributes associated attributes. -->
     
 ## Validate the schema {#validate-schema}
 
