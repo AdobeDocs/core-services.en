@@ -29,7 +29,7 @@ Adobe Experience Cloud uses cookies to store a visitor ID that is used across Ex
   </tr> 
   <tr> 
    <td colname="col1"> <p> Expiration </p> </td> 
-   <td colname="col2"> <p>2 years </p> </td> 
+   <td colname="col2"> <p>2 years, though most modern browsers truncate to 13 months</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Usage </p> </td> 
