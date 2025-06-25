@@ -1,6 +1,6 @@
 ---
 title: Generative AI in Experience Cloud Applications
-description: Learn about generative AI (GenAI) and how Experience Cloud applications use GenAI and [!UICONTROL AI Assistant]. 
+description: Find help on generative AI (GenAI) and AI Assistant in Experience Cloud applications. 
 solution: Experience Cloud
 feature: AI Assistant, Generative AI
 topic: Artificial Intelligence
@@ -20,7 +20,9 @@ Generative AI is a type of AI that can create original content. For example, it 
 
 * **Generate a response:** AI provides an answer or reaction to a prompt, typically drawing on its available data and knowledge repositories.
 
-This type of AI contrasts with [agentic AI](agentic-ai.md) (Adobe's agentic framework), which refers to AI that operates autonomously. 
+  GenAI contrasts with [agentic AI](agentic-ai.md) (Adobe's agentic framework), which refers to AI that operates autonomously. 
+
+[!BADGE Learn more]{type=Informative url="https://business.adobe.com/ai/adobe-genai.html" tooltip="GenAI at Adobe"}
 
 **What is [!UICONTROL AI Assistant]?**
 
@@ -34,7 +36,7 @@ This type of AI contrasts with [agentic AI](agentic-ai.md) (Adobe's agentic fram
 
 ## AI availability in Experience Cloud products
 
-Here's a roundup of the Experience Cloud applications that use GenAI, AI Assistant, or agentic AI. Compatibility with Adobe Firefly is indicated.
+Here's a roundup of the Experience Cloud applications that use GenAI, AI Assistant, or agentic AI. Compatibility with [Adobe Firefly](https://business.adobe.com/products/firefly-business/firefly-ai-approach.html) is indicated.
 
 | **Product Name** | **Generative AI** | **AI Assistant** | **Firefly Compatibility** | Resources |
 |------------------|-------------------------|------------------|-------------------|------------|
