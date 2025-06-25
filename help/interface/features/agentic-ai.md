@@ -10,7 +10,7 @@ exl-id: c1a8f9a7-4752-4040-b5f0-dc775417f536
 ---
 # Agentic AI in Experience Cloud products
 
-Adobe's agentic framework amplifies your teams' capacity, combining their uniquely human qualities--creativity, connection, and innovation--with AI to deliver experiences faster and with greater impact.
+Adobe's agentic framework amplifies your teams' capacity with AI to deliver experiences faster and with greater impact.
 
 The following agentic AI features are available in Experience Cloud:
 
