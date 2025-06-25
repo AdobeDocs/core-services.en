@@ -10,7 +10,7 @@ exl-id: c1a8f9a7-4752-4040-b5f0-dc775417f536
 ---
 # Agentic AI in Experience Cloud products
 
-Agentic AI refers to systems that operate as autonomous agents. These agents can make decisions on their own, adapt, and take initiative. This type of AI contrasts with [generative AI](generative-ai.md), which only responds to your input prompts.
+Give your teams the productivity partner and always-on insights they need to customize every journey with Adobe Experience Platform Agent Orchestrator, or _agentic AI_.
 
 You can use Adobe's agentic framework to increase your creativity, connection, and innovation and deliver experiences faster and with greater impact. 
 
