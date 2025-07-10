@@ -20,8 +20,6 @@ Generative AI is a type of AI that can create original content. For example, it 
 
 * **Generate a response:** AI provides an answer or reaction to a prompt, typically drawing on its available data and knowledge repositories.
 
-  GenAI contrasts with [agentic AI](agentic-ai.md) (Adobe's agentic framework), which refers to AI that operates autonomously. 
-
 [!BADGE Learn more]{type=Informative url="https://business.adobe.com/ai/adobe-genai.html" tooltip="GenAI at Adobe"}
 
 **What is [!UICONTROL AI Assistant]?**
