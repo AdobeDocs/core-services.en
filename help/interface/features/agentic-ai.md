@@ -1,6 +1,6 @@
 ---
 title: Agentic AI in Experience Cloud Applications
-description: Learn about agentic AI (GenAI) and how Experience Cloud applications use Adobe's agentic framework.
+description: Learn about agentic AI and how Experience Cloud applications use Adobe's agentic framework.
 solution: Experience Cloud
 topic: Artificial Intelligence
 feature: Agentic AI, AI Tools
