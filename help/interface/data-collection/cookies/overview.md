@@ -6,38 +6,40 @@ exl-id: 60f1a89e-d989-461b-a6a3-c1df022cd30b
 ---
 # Cookies used in Experience Cloud
 
-Many services within the Adobe Experience Cloud use cookies. A cookie is a small piece of data that is presented by a website to a web browser. The browser stores this piece of data, allowing a website to reference its data when needed. This action is performed with each subsequent request for pages and images.
+Adobe Experience Cloud uses cookies. A cookie is a small piece of data a website sends to your browser, which stores it for later use. Cookies help the website remember things when you visit again or move between pages. Cookies help track visits and tell one device apart from another.
 
-Cookies are provided to maintain information during and sometimes between visits to a website. Cookies enable devices to be uniquely differentiated from other browsers who view the site.
-
-Laws, regulations, and self-regulatory principles require you to obtain consent from visitors before you can store or retrieve information on a computer or other web connected device. Adobe suggests that you review with your organization's legal counsel what laws, regulations, and principles control your use of cookies.
+Laws often require you to get permission before storing or using cookies on someone's device. Adobe recommends checking with your legal team to understand the rules that apply.
 
 ## About first-party cookies
 
-Adobe Experience Cloud services use cookies to provide information on variables and components that do not persist between image requests and browser sessions. Where possible, Adobe uses first-party cookies to record activities on your site. To record activity on different sites such as other domains you may own, third-party cookies are required.
+Adobe Experience Cloud uses cookies to track information that doesn't last between page views or browser sessions. When possible, Adobe uses first-party cookies (tied to your own website). To track activity across multiple sites or domains you own, third-party cookies are needed.
 
-Many browsers and anti-spyware applications are designed to reject and delete third-party cookies. Adobe ensures that cookies can always be set even if third-party cookies are blocked. The specific behavior varies depending on whether you are using the Experience Platform Identity Service (ECID Service) or Analytics' legacy identifiers (such as the `s_vi` cookie):
+Some browsers and anti-spyware tools block third-party cookies. Adobe has ways to make sure cookies still work even if cookies are blocked. How this works depends on whether you use the Experience Platform Identity Service (ECID) or older Analytics cookies (like the `s_vi` cookie):
 
-* The [Experience Platform Identity Service (ECID Service)](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html) automatically sets first-party cookies regardless of whether your collection domain matches your site domain. If they do not match, the Identity Service uses JavaScript to set cookies on your site's domain.
-* If you use [Analytics legacy identifiers](analytics.md) (such as the `s_vi` cookie), it depends on how you have configured your data collection server. If the data collection server matches your site's domain, then cookies are set as first-party. If the collection server does not match your current domain, then cookies are set as third-party. In this case, if third-party cookies are blocked, Analytics sets a first-party fallback id (`s_fid`) instead of the standard `s_vi` cookie.
+* [Experience Cloud Identity Service](https://experienceleague.adobe.com/en/docs/id-service/using/intro/overview): The ECID Service always sets first-party cookies, whether your collection domain matches your site domain. It uses JavaScript to place the cookie on your site's domain.
 
-If you would like to ensure that your collection server matches your site's domain, you can use a CNAME implementation which enables forwarding from a custom domain specified in your CNAME implementation to Adobe's collection servers. This task involves changes to your company's DNS settings to configure a CNAME alias to pointing to an Adobe hosted domain. Please note that while various Adobe products support using a CNAME, in all cases the CNAME is used to a create a trusted first-party endpoint for a specific customer and is owned by that customer. If you control multiple domains, they may use a single CNAME endpoint to track users across their domains, but wherever the site domain does not match the CNAME domain cookies are set as third party.
+* [Analytics legacy identifiers](analytics.md) (such as the `s_vi` cookie): Whether cookies are first- or third-party depends on your setup:
+
+  * If your data collection server matches your site's domain, cookies are first-party.
+  * If it doesn't match, cookies are third-party. If third-party cookies are blocked, Adobe sets a fallback cookie (`s_fid`) instead of the usual one.
+
+To ensure that your collection server matches your site's domain, you can use a **CNAME setup**. This involves updating your DNS settings to point a custom domain (you own) to Adobe's servers. This makes the tracking cookie appear as first-party. While one CNAME can work across multiple domains, any domain that doesn't match the CNAME will still set third-party cookies.
 
 >[!NOTE]
 >
->Regardless of whether your collection domain matches your site domain, Apple's Intelligent Tracking Prevention (ITP) program makes the first-party cookies set by Adobe short-lived on browsers that are governed by ITP, which include Safari on macOS and all browsers on iOS and iPadOS. As of November 2020, cookies set via CNAME also have the same expiry as cookies set via JavaScript. This expiry is subject to change.
+>Apple's Intelligent Tracking Prevention (ITP) limits how long Adobe's first-party cookies last, even if your collection domain matches your site domain. ITP affects Safari on macOS and all browsers on iOS and iPadOS. Since November 2020, cookies set using CNAME expire just as quickly as cookies set with JavaScript. This time limit may change in the future.
+
+Here's a simplified version of the text:
 
 ## Cookies and privacy
 
-Maintaining customer privacy and data security are top priorities at Adobe. Adobe participates in multiple privacy organizations and cooperates with privacy regulators and self-regulatory principles. This cooperation includes the Digital Advertising Alliance AdChoices program to provide customers with information about how their information is used, and choices about its use.
+Adobe takes privacy and data security seriously. It works with privacy organizations, regulators, and programs like AdChoices to give people control over how their data is used.
 
-Most of the cookies set by Experience Cloud products contain no personally identifiable information. These cookies and associated data are secure and used only for your company's reports, and to provide relevant content and advertisements. The data is not available to third parties or other Adobe customers, unless used in aggregated industry reports. For example, the [!DNL Digital Marketing Insight Report] analyzes aggregated and anonymous data across retailers.
+Most cookies from Adobe Experience Cloud don't store personal information. They're secure and only used by your company--for reporting, content, and advertising. Adobe doesn't share this data with other customers or third parties, except in anonymous, industry-wide reports (like Digital Marketing Insight Reports).
 
-Adobe does not merge browser-level information across companies. To protect the privacy and security of customers' data, some of the services within the Experience Cloud offer companies the ability to use a separate set of cookies for each site tracked. Some offerings also offer customers the ability to use their own domain name as the owner of the cookie. This practice creates an extra layer of privacy and security, as it makes the Experience Cloud cookies *first party cookies*, belonging permanently to the company's site.
+Adobe doesn't combine browser data across different companies. To protect privacy, some Adobe tools let each website use its own set of cookies. Some also allow using your own domain for cookies, making them first-party and more secure.
 
-Cookies can store and provide only the information that was previously deposited in them. They are not able to execute code or access other information stored on the computer. Also, web browsers restrict access to cookie data. Browsers enforce a cookie security policy that makes all cookie data available only to the website that originally set the information.
-
-For example, data contained in cookies set from the Adobe.com website cannot be viewed by any other website other than Adobe.com.
+Cookies can only store information that was saved in them earlier. They can't run code or read other data on your device. Also, web browsers only allow cookies to be read by the website that set them. For example, only Adobe.com can read cookies it sets.
 
 The following diagram illustrates cookie usage for a standard image request: 
 
