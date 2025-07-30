@@ -83,6 +83,7 @@ These links help you find administration information for specific Experience Clo
 
  -->
 
+* [Advertising Search, Social, & Commerce](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/new-ui/user-administration)
 * [Analytics](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/home) 
 * [Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/frequently-asked-questions-analysis-workspace) 
 * [Audience Manager](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/features/administration/admin-console-migration) 
