@@ -80,3 +80,4 @@ Click the bell icon to view notifications and announcements. Announcements can b
 ![Notifications and Announcements](assets/notifications-menu-small.png)
 
 To manage notifications and alerts, see [Account preferences and notifications](features/account-preferences.md)
+
