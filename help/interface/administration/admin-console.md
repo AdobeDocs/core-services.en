@@ -44,6 +44,7 @@ Here are resources you might need when getting started as an administrator in Ad
 
 | Help link | Description |
 | ------- | ------- |
+| [Reset your Adobe ID](https://helpx.adobe.com/manage-account/kb/account-password-sign-help.html) | Sign out, then click **[!UICONTROL Get help signing in]** > **[!UICONTROL Reset your password]**.|
 |[Manage multiple users](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html) |**[!UICONTROL Admin Console]** > **[!UICONTROL Users]** <br>Learn how to manage multiple users via CSV bulk upload to the Admin Console.  |
 | [Identity Types](https://helpx.adobe.com/enterprise/using/identity.html) | Identity types allow the organization different levels of control over the users' accounts and data. Your choice of identity model impacts how your organization stores and shares assets. While Federated ID and Enterprise ID models are created and managed by the organization, Adobe IDs are created and managed by the individual.  |
 |[User Sync Tool](https://helpx.adobe.com/enterprise/using/user-sync.html) (UST)  |The Adobe User Sync Tool is a desktop application used to automate syncing user data between an organization's identity management system (like Active Directory) and Adobe Admin Console. The tool allows administrators to streamline user provisioning, updates, and deactivation across Adobe products.  |
