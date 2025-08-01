@@ -12,6 +12,10 @@ exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
 
 Learn where documentation updates occur for the central interface and administration of Experience Cloud.
 
+**August 2025**
+
+Added information about [resetting your Adobe ID](../features/account-preferences.md).
+
 **February 2025**
 
 Added [Manage users and products in Experience Cloud](../administration/admin-console.md). This page helps administrators locate user and product management (Admin Console) help for all applications.
