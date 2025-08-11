@@ -32,6 +32,8 @@ Generative AI is a type of AI that can create original content. For example, it 
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing" tooltip="Go to AI Assistant"}
 
+[!BADGE Privacy, security, and governance]{type=Informative url="https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/privacy" tooltip="GenAI at Adobe"}
+
 ## AI availability in Experience Cloud products
 
 Here's a roundup of the Experience Cloud applications that use GenAI, AI Assistant, or agentic AI. Compatibility with [Adobe Firefly](https://business.adobe.com/products/firefly-business/firefly-ai-approach.html) is indicated.
