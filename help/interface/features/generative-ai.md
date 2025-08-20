@@ -261,7 +261,7 @@ Generative AI powered capabilities in Adobe Dynamic Chat allow you to optimize p
 
 **Email Designer**
 
-AI Assistant in the Marketo Engage Email Designer helps you create contemporary, performant, and intuitive emails. This is achieved through Adobe's generative AI technology and prompt library along with Firefly for image generation that aids in creating suitable content for a particular persona/buying group, marketing journey stage, communication strategy, tone, etc. Specific brand assets can be also utilized to create content.
+[!UICONTROL AI Assistant] in Marketo Engage [!UICONTROL Email Designer] helps you create contemporary, performant, and intuitive emails. This is achieved through Adobe's generative AI technology and prompt library along with Firefly for image generation that aids in creating suitable content for a particular persona/buying group, marketing journey stage, communication strategy, tone, etc. Specific brand assets can be also utilized to create content.
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant" tooltip="Learn about Dynamic Chat"}
 
