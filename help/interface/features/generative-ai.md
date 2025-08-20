@@ -50,7 +50,7 @@ Here's a roundup of the Experience Cloud applications that use GenAI, AI Assista
 | **[!DNL Campaign] Managed Cloud Services** | Not applicable | Available for Content Accelerator to auto-generate personalized, engaging, and effective content based on marketing objectives across channels like Email, SMS, and Push | Yes |[!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-gs" tooltip="Learn about AI Assistant in AJO"} |
 | **[!DNL Customer Journey Analytics]** | GenAI is used with:<ul><li> [Intelligent Captions](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions?lang=en): For insights about the most frequently used Workspace visualizations.</li><li>[Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/report?lang=en#template): To assign asset metadata automatically.</li></ul> |Available for:<ul><li>[Product knowledge](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant?lang=en) (Experience League)</li><li>[Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support?lang=en) </li><li>[Data Insights Agent](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai)</li></ul> | No | [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions" tooltip="Learn about Intelligent Captions"} |
 | **Real-Time CDP** | Not applicable | Available for product knowledge from Experience League. It also offers operational insights (in beta).| No | [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home" tooltip="Learn about Real-Time CDP"} |
-| **[!DNL Marketo]** |GenAI is available in [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/overview?lang=en) and [Interactive Webinars](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai?lang=en). | Not applicable | No | [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai?lang=en" tooltip="Learn about AI in Workfront"} |
+| **[!DNL Marketo]** |GenAI is available in [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/overview?lang=en) and [Interactive Webinars](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai?lang=en). | AI Assistant in the Marketo Engage [Email Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant) helps you create contemporary, performant, and intuitive emails.  | Yes | [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai?lang=en" tooltip="Learn about AI in Workfront"} |
 | **[!DNL Workfront]** | GenAI is used with [in-app](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant-overview?lang=en) information and suggestions. | Not applicable | Yes | [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant-overview" tooltip="Learn about AI Assistant in Workfront"} |
 
 ## How you can use GenAI in Experience Cloud {#products}
@@ -240,7 +240,7 @@ For example, if you query about an audience, [!UICONTROL AI Assistant] can acces
 
 +++Details
 
-In Marketo, generative AI is available in Interactive Webinars and Dynamic Chat.
+In Marketo, generative AI is available in Interactive Webinars and Dynamic Chat. AI Assistant is available in Email Designer.
 
 **Interactive Webinars**
 
@@ -258,6 +258,12 @@ Automatically generate chapters and summaries for your recorded webinars, making
 Generative AI powered capabilities in Adobe Dynamic Chat allow you to optimize productivity for your sales agents, get insights into your website visitor intent, and respond to visitor questions in a safe manner. You can pre-approve the questions, answers, and the conversation summary. Dynamic Chat includes both a free and premium version.
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/overview" tooltip="Learn about Dynamic Chat"}
+
+**Email Designer**
+
+AI Assistant in the Marketo Engage Email Designer helps you create contemporary, performant, and intuitive emails. This is achieved through Adobe's generative AI technology and prompt library along with Firefly for image generation that aids in creating suitable content for a particular persona/buying group, marketing journey stage, communication strategy, tone, etc. Specific brand assets can be also utilized to create content.
+
+[!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant" tooltip="Learn about Dynamic Chat"}
 
 +++
 
