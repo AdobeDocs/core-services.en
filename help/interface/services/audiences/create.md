@@ -1,7 +1,7 @@
 ---
-description: Learn how to use attribute rules to create an audience and define a composite audience in Adobe Experience Cloud.
+title: How to Create an Audience in Audience Library
+description: Find out how to use attribute rules to create a sharable  audience in Audience Library. Learn to configure a rule and define a composite audience.
 solution: Experience Cloud
-title: Create an Audience 
 uuid: 7e622539-296e-4ff3-93b0-ec1c08b35429
 feature: Audience Library
 topic: Administration
@@ -11,7 +11,7 @@ exl-id: b65a12f5-fa89-400a-b279-13c381cd6c22
 ---
 # Create an audience
 
-Learn how to use attribute rules to create an audience and define a composite audience in Experience Cloud.
+In [!UICONTROL Audience Library], you can use attribute rules to create an audience and define a composite audience for sharing in Experience Cloud applications.
 
 This article helps you understand how to:
 
@@ -32,26 +32,28 @@ Each circle represents a rule that defines audience membership. Visitors that qu
 The following example shows how to create the rules for a composite audience. This audience is composed of:
 
 * Home & Garden section derived from page data, or raw analytics data.
-* Chrome and Safari users derived from an [!DNL Adobe Analytics] segment [published](overview.md) to the [!DNL Experience Cloud].
+* Chrome and Safari users derived from an [!DNL Adobe Analytics] segment [published](overview.md) to [!DNL Experience Cloud].
 
   ![Create the rules for a composite audience](assets/audience_create.png) 
 
 **To create an audience**
 
-1. In the [!DNL Experience Cloud], under [!DNL Experience Platform], click **[!UICONTROL People]** > **[!UICONTROL Audience Library].**
-1. On the [!UICONTROL Audiences] page, click **[!UICONTROL New]**. ![add](assets/add_icon_small.png)
+1. Click [!DNL Experience Cloud] apps (![Apps icon](assets/apps-icon.png)), then click **[!UICONTROL People]** > **[!UICONTROL Audience Library].**
 
-   ![Step Result](assets/audience_create_new.png)
+1. On the [!UICONTROL Audiences] page, click **[!UICONTROL New]**. ![New audience](assets/add_icon_small.png)
 
-1. On the [!UICONTROL Create New Audience] page, specify a title and description.
-1. Under [!UICONTROL Rules], select an attribute source:
+   ![Create an audience](assets/audience_create_new.png)
 
-   * **[!UICONTROL Real-Time Analytics Data:]** (or Raw data) This is attribute data derived from Real-Time Analytics image requests, and includes data such as eVars and events. You must select a report suite when using this attribute source, and define the dimension or event to include. This report suite selection provides the variable structure used by the report suite.
+1. On the [!UICONTROL Create New Audience] page, complete the **[!UICONTROL Title]** and **[!UICONTROL Description]** fields.
+1. Under [!UICONTROL Rules], select a reference report suite, then an attribute source:
+
+   * **[!UICONTROL Real-Time Analytics Data:]** (or Raw data) This is attribute data derived from Real-Time Analytics image requests. It includes eVars and events. You must select a report suite when using this attribute source, and define the dimension or event to include. This report suite selection provides the variable structure used by the report suite.
+   
    >[!NOTE]
    >
    >Due to caching, deleted report suites in Analytics require 12 hours before the deletion is shown in Experience Cloud.
 
-   * **[!UICONTROL Experience Cloud:]** attribute data derived from the [!DNL Experience Cloud] sources. For example, this can be data from audience segments you create in [!DNL Analytics], or data from [!DNL Audience Manager].
+   * **[!UICONTROL Experience Cloud:]** attribute data derived from [!DNL Experience Cloud] sources. For example, this can be data from audience segments you create in [!DNL Analytics], or data from [!DNL Audience Manager].
 
 1. Define audience rules, then click **[!UICONTROL Save].**
 
@@ -87,4 +89,4 @@ The resulting rule is a defined audience comprising Chrome & Safari users who vi
 
 After the data collection completes for the specified period, the circles combine to show a defined audience.
 
-After the audience is saved, it is available for other applications. For example, you can include a shared audience in an Adobe Target activity.
+After the audience is saved, it is available for other Experience Cloud applications. For example, you can include a shared audience in an Adobe Target [activity](https://experienceleague.adobe.com/en/docs/target/using/activities/activities).

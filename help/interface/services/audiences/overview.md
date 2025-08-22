@@ -12,14 +12,14 @@ exl-id: 1c6e54ac-4886-46ed-9df7-201d2df31847
 ---
 # Experience Cloud audiences {#topic_679810123CAA4E0CA4FA3417FB0100C7}
 
-The [!DNL Audience Library] displays audiences in Experience Cloud. Audiences are collections of visitors (a list of [!DNL Experience Cloud] IDs). You can manage the translation of visitor data into audience segmentation. As such, creating, and managing audiences is similar to creating and using segments. You can also share the audience segment to products and services in [!DNL Experience Cloud]. 
+[!DNL Audience Library] displays audiences in Experience Cloud. Audiences are collections of visitors (a list of [!DNL Experience Cloud] IDs). You can manage the translation of visitor data into audience segmentation. As such, creating and managing audiences is similar to creating and using segments. You can also share the audience segment to products and services in [!DNL Experience Cloud]. 
 
 ![Experience Cloud audiences](assets/audiences.png) 
 
 Audiences can be created or derived from various sources, such as: 
 
-* New ones created in the [!DNL Experience Cloud]
-* [!DNL Analytics] segments published to the [!DNL Experience Cloud]
+* New ones created in [!DNL Experience Cloud]
+* [!DNL Analytics] segments published to [!DNL Experience Cloud]
 * [!DNL Audience Manager]
 
 **Real-Time versus historical audiences**
@@ -35,7 +35,7 @@ The following table describes how audiences are used in Experience Cloud applica
 
 | Solution | Description |
 |--- |--- |
-|Experience Cloud Audiences|Create, manage, and share audiences natively using Audience Library. You can:<ul><li>Use real-time audiences using raw analytics attributes</li><li>Combine audiences to create composite ones, joining real-time and historical data</li><li>See graphical views of estimated audiences size</li></ul><br>For suggestions about what type of audience you want to create see [Audience creation options](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html).|
+|Experience Cloud Audiences|Create, manage, and share audiences natively using Audience Library. You can:<ul><li>Use real-time audiences using raw analytics attributes.</li><li>Combine audiences to create composite ones, joining real-time and historical data.</li><li>See graphical views of estimated audiences size.</li></ul><br>For suggestions about what type of audience you want to create see [Audience creation options](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html).|
 |Analytics|In segmentation, you can build a segment, combine it with a report suite, and then publish the segment to Experience Cloud. Publishing the segment displays it on the [!DNL Audience Library] page in Experience Cloud. (See [Publish segments to Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html) in [!DNL Analytics] help for details.) The audience is also available as a targeted audience for a campaign experience delivered by [!DNL Adobe Target], and in [!DNL Audience Manager]. After you share an audience from [!DNL Adobe Analytics], and select it for use in an active campaign, the visitor profiles who meet the segment definition criteria for the past 90 days are sent to [!UICONTROL Audience Services]. The limit for shared audiences has been increased to 75. Audiences shared to Experience Cloud from [!DNL Analytics] cannot exceed 20 million unique members. Also, due to caching, deleted report suites in Analytics require 12 hours before the deletion is shown in Experience Cloud.|
 |Mobile Services|Analyze mobile traffic using the sunburst visualization in the [!UICONTROL Device Types] report.|
 |[!DNL Target]|The [ID service](https://experienceleague.adobe.com/docs/id-service/using/home.html) unifies visitor IDs and data into a single, actionable profile for use across applications. The [!UICONTROL Publish to Experience Cloud] checkbox during the segment creation process in Adobe Analytics allows the segment to be available within the Adobe Target's custom audience library. A segment created in [!DNL Analytics] or [!DNL Audience Manager] can be used for activities in [!DNL Target]. For example, you can create campaign activities based on [!DNL Analytics] conversion metrics and audience segments created in [!DNL Analytics].|
@@ -51,7 +51,7 @@ The following table describes how audiences are used in Experience Cloud applica
 
 ## Audience Library interface elements {#section_D04ACEF61CEF4B189AE6BA9F40D0DBF4}
 
-The [!DNL Experience Cloud] provides a library for creating and managing audiences, with native, real-time audience identification. 
+[!DNL Experience Cloud] provides a library for creating and managing audiences, with native, real-time audience identification. 
 
 **[!UICONTROL Experience Cloud]** > **[!UICONTROL Experience Platform]** > **[!UICONTROL People]** > **[!UICONTROL Audience Library]** 
 

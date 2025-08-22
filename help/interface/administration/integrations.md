@@ -47,8 +47,8 @@ Help: [Audiences](/help/interface/services/audiences/overview.md)
 
 Create and manage Audiences in Experience Cloud [!UICONTROL Audience Library]. Audiences can be created or derived from various sources, such as: 
 
-* New ones created in the [!DNL Experience Cloud].
-* From [!DNL Analytics] segments published to the [!DNL Experience Cloud].
+* New ones created in [!DNL Experience Cloud].
+* From [!DNL Analytics] segments published to [!DNL Experience Cloud].
 * From [!DNL Audience Manager].
 
 **Applicable solutions or services** 
