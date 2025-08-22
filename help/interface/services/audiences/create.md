@@ -57,6 +57,8 @@ The following example shows how to create the rules for a composite audience. Th
 
 1. Define audience rules, then click **[!UICONTROL Save].**
 
+**Example: Define rules for composite audience**
+
 >[!NOTE]
 >
 >You should have an understanding of your implementation variables when defining audience rules.
