@@ -14,7 +14,7 @@ exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
 
 ## Locate the [!DNL customer attributes] feature
 
-1. Log in to the [!DNL Experience Cloud] and select the Menu ![menu](assets/menu-icon.png) icon.
+1. Log in to [!DNL Experience Cloud] and select the Menu ![menu](assets/menu-icon.png) icon.
 
 1. Select **[!UICONTROL Customer Attributes]**.
 
