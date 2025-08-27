@@ -12,6 +12,10 @@ exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
 
 Generative AI (genAI) in Experience Cloud helps you automate creative and cognitive tasks and enhance productivity. This page describes where Experience Cloud applications support genAI and AI Assistant, and provides links to learn more about these features.
 
+>[!IMPORTANT]
+>
+>Before using Experience Cloud generative AI features, you must understand and follow the [Adobe Experience Cloud Generative AI User Guidelines](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html).
+
 **What is genAI?**
 
 Generative AI is a type of AI that can create original content. For example, it can create text, images, video, audio, or software code in response to a user's prompt or request.
@@ -24,7 +28,7 @@ Generative AI is a type of AI that can create original content. For example, it 
 
 **What is [!UICONTROL AI Assistant]?**
 
-[!UICONTROL AI Assistant] is a conversational tool supported in Experience Platform and related applications. Use it to quicktly gain _product knowledge_ and _operational insights_ in supported products.
+[!UICONTROL AI Assistant] is a conversational tool supported in Experience Platform and related applications. Use it to quickly gain _product knowledge_ and _operational insights_ in supported products.
 
 * **Product knowledge:** Product knowledge refers to concepts and topics grounded in Experience League documentation. Learn how to create effective, [objective-based prompts](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) to get the most out of [!UICONTROL AI Assistant]. All responses from Experience League are verifiable and cited with links.
 
