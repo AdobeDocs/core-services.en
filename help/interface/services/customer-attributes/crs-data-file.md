@@ -1,5 +1,5 @@
 ---
-description: Learn about data file requirements and multiple data sources for uploading [!DNL customer attributes] to Experience Cloud.
+description: Learn about data file requirements and multiple data sources for uploading customer attributes to Experience Cloud.
 solution: Experience Cloud
 title: Data File and Data Sources 
 feature: Customer Attributes
@@ -8,13 +8,13 @@ role: Admin
 level: Experienced
 exl-id: e2dfe10d-7003-4afa-a5e6-57703d74efd4
 ---
-# About data file and data sources for [!DNL customer attributes]
+# About data file and data sources for [!DNL Customer Attributes]
 
-Data file requirements and multiple data sources for uploading [!DNL customer attributes] to Experience Cloud.
+Data file requirements and multiple data sources for uploading customer attribute data to Experience Cloud.
 
 You need access to CRM or similar data from your enterprise. The data you upload to Experience Cloud must be a `.csv` file. If you upload via FTP or sFTP, you also upload a `.fin` file. 
 
-[!DNL customer attributes] is designed to handle a few files per day. To mitigate the issue of having many small files delaying processing, files sent within 30 minutes of a previous batch from the same organization are routed to a lower-priority queue.
+[!DNL Customer Attributes] is designed to handle a few files per day. To mitigate the issue of having many small files delaying processing, files sent within 30 minutes of a previous batch from the same organization are routed to a lower-priority queue.
 
 ## Allowed file types and naming requirements {#section_6F64FA02ACCC4215B0862CB6A1821FBF}
 
@@ -97,7 +97,7 @@ The same file viewed in a text editor:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Multiple files </p> </td> 
-   <td colname="col2"> <p>When uploading customer attribute data, if you have several files you want to upload in rapid succession, and especially if the files are large, make certain that the previous file has been processed before uploading the next file. You can monitor this by checking when the previous file has been moved to the processed or failed folder within your [!UICONTROL customer attributes] FTP account. </p> <p> Breaking a large file into smaller files and submitting them in rapid succession may actually slow down processing unless you can ensure that each file is processed before submitting the next. </p> </td> 
+   <td colname="col2"> <p>When uploading customer attribute data, if you have several files you want to upload in rapid succession, and especially if the files are large, make certain that the previous file has been processed before uploading the next file. You can monitor this by checking when the previous file has been moved to the processed or failed folder within your [!DNL Customer Attributes] FTP account. </p> <p> Breaking a large file into smaller files and submitting them in rapid succession may actually slow down processing unless you can ensure that each file is processed before submitting the next. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Character Encoding </p> </td> 
@@ -105,7 +105,7 @@ The same file viewed in a text editor:
   </tr> 
    <tr> 
    <td colname="col1"> <p>Historical data </p> </td> 
-   <td colname="col2"> <p> customer attributes are tied to the underlying visitor profile in [!DNL Analytics]. As such, [!UICONTROL customer attributes] are associated with the visitor for the entire life of that visitor profile in [!DNL Analytics]. This profile includes behavior that occurred before the customer logged in for the first time. </p> <p> If you use the Data Warehouse backfill method, the data is tied to a post_visid_high/low that is based on the Analytics ID (AID). If you are using the Experience Cloud ID Service, the data is tied to a post_visid_high/low that is based on Experience Cloud ID (MID). </p> <p> Note that the Data Warehouse backfill method will no longer be available beginning in October 2022. </td> 
+   <td colname="col2"> <p> customer attributes are tied to the underlying visitor profile in [!DNL Analytics]. As such, [!DNL Customer Attributes] are associated with the visitor for the entire life of that visitor profile in [!DNL Analytics]. This profile includes behavior that occurred before the customer logged in for the first time. </p> <p> If you use the Data Warehouse backfill method, the data is tied to a post_visid_high/low that is based on the Analytics ID (AID). If you are using the Experience Cloud ID Service, the data is tied to a post_visid_high/low that is based on Experience Cloud ID (MID). </p> <p> Note that the Data Warehouse backfill method will no longer be available beginning in October 2022. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data feeds </p> </td> 
@@ -133,6 +133,6 @@ Visitor.setcustomerIDs({
 
 (See [customer IDs and Authentication States](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) for more information.)
 
-In the **[!UICONTROL Experience Cloud]** > **[!UICONTROL Customer Attributes]**:
+In **[!DNL Experience Cloud]** > **[!DNL Customer Attributes]**:
 
 Create two customer attributes sources using unique alias IDs corresponding to the customer IDs above. Using this method allows the same reference ID to be sent to multiple customer attribute sources.

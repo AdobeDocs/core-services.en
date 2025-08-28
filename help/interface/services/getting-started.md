@@ -61,7 +61,7 @@ The following sections describe how to modernize your implementation. Modernizin
 
 ## Implement the [!UICONTROL Experience Cloud ID Service] {#section_3C9F6DF37C654D939625BB4D485E4354}
 
-The [!UICONTROL Experience Cloud ID Service] provides a common ID for cross-application integration. It provides cross-domain visitor identification and a path for cross-device/browser targeting and personalization based on CRM data uploaded via [!UICONTROL customer attributes].
+The [!UICONTROL Experience Cloud ID Service] provides a common ID for cross-application integration. It provides cross-domain visitor identification and a path for cross-device/browser targeting and personalization based on CRM data uploaded via [!DNL Customer Attributes].
 
 The simplest method for enabling Experience Cloud core services is to activate it automatically for Analytics and Adobe Target via the [Experience Cloud ID Service extension](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/id-service/overview.html) in [!UICONTROL Experience Platform Launch].  
 
@@ -169,7 +169,7 @@ Once you are up and running, navigate to the [Admin Console](https://adminconsol
 
 ### Customer attributes
 
-Users that are added to the [!UICONTROL customer attributes] group can see the [!UICONTROL customer attributes] menu item on the left side of Experience Cloud.
+Users that are added to the [!DNL Customer Attributes] group can see the [!DNL Customer Attributes] menu item on the left side of Experience Cloud.
 
 ## Begin sharing attribute and audience data {#section_960C06093623462E8EA247B3E97274A1}
 

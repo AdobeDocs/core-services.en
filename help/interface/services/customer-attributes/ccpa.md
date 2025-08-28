@@ -9,7 +9,7 @@ exl-id: 320defc7-2cd5-4481-955d-77cf6fbfef6d
 ---
 # Customer attributes support for California Consumer Privacy Act
 
-This page describes [!UICONTROL customer attributes] support for the California Consumer Privacy Act (CCPA).
+This page describes [!DNL Customer Attributes] support for the California Consumer Privacy Act (CCPA).
 
 >[!IMPORTANT]
 >
@@ -21,13 +21,13 @@ As a business, you determine the personal data that Adobe Experience Cloud proce
 
 As your service provider, Adobe Experience Cloud provides support for your business to fulfill its obligations under CCPA that are applicable to the use of Experience Cloud products and services. This support includes managing requests to access and delete personal information.
 
-This document describes how [!UICONTROL customer attributes] supports your data subjects' CCPA data access and deletion rights using the Adobe Experience Platform Privacy Service API and Privacy Service UI.
+This document describes how [!DNL Customer Attributes] supports your data subjects' CCPA data access and deletion rights using the Adobe Experience Platform Privacy Service API and Privacy Service UI.
 
 For more information about the Adobe Privacy services for CCPA, see the [Adobe Privacy Center](https://www.adobe.com/privacy/ccpa.html).
 
-## Required setup to send requests for [!UICONTROL customer attributes]
+## Required setup to send requests for [!DNL Customer Attributes]
 
-To make requests to access and delete data for [!UICONTROL customer attributes], you must:
+To make requests to access and delete data for [!DNL Customer Attributes], you must:
 
 1. Identify the following:
 
@@ -39,7 +39,7 @@ To make requests to access and delete data for [!UICONTROL customer attributes],
 
 1. In [!UICONTROL Privacy Service], you can submit Access and Delete requests to customer attributes, and check the status of existing requests.
 
-## Required field values in [!UICONTROL customer attributes] JSON Requests
+## Required field values in [!DNL Customer Attributes] JSON Requests
 
 "company context": 
 

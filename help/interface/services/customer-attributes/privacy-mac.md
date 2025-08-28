@@ -8,7 +8,7 @@ role: Admin
 level: Experienced
 exl-id: 27c026ff-198b-4f49-9718-f25f77a9e716
 ---
-# Privacy considerations for [!DNL customer attributes]
+# Privacy considerations for [!DNL Customer Attributes]
 
 Considerations and best practices regarding personally identifiable information (PII) uploaded and used in the Adobe Experience Cloud.
 

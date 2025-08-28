@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Customer attributes]"
-description: Learn about [!DNL customer attributes] in Experience Cloud. Discover how to upload customer attribute data for use in Adobe Analytics and Adobe Target.
+title: "[!DNL Customer Attributes]"
+description: Learn about [!DNL Customer Attributes] in Experience Cloud. Discover how to upload customer attribute data for use in Adobe Analytics and Adobe Target.
 solution: Experience Cloud,Target,Analytics
 feature: Customer Attributes
 role: Admin
@@ -8,25 +8,25 @@ topic: Administration
 level: Experienced
 exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
 ---
-# [!DNL Customer attributes] in Experience Cloud
+# [!DNL Customer Attributes] in Experience Cloud
 
-[!DNL Customer attributes] in Experience Cloud enables you to upload your captured enterprise data from a customer relationship management (CRM) database. You can upload the data into a customer attribute data source in Experience Cloud, then use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target].  
+[!DNL Customer Attributes] in Experience Cloud enables you to upload your captured enterprise data from a customer relationship management (CRM) database. You can upload the data into a customer attribute data source in Experience Cloud, then use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target].  
 
-## Locate the [!DNL customer attributes] feature
+## Locate the [!DNL Customer Attributes] feature
 
 1. Log in to [!DNL Experience Cloud] and select the Menu ![menu](assets/menu-icon.png) icon.
 
-1. Select **[!UICONTROL Customer Attributes]**.
+1. Select **[!DNL Customer Attributes]**.
 
 ![Customer attributes overview](assets/custom_reports.png)
 
-## Prerequisites for uploading [!DNL customer attributes] {#prerequisites}
+## Prerequisites for uploading customer attribute data {#prerequisites}
 
 * **Group membership:** To upload customer attribute data, users must be members of the Customer Attributes group. You must also belong to either an Adobe Analytics group or an Adobe Target group.
 
   To know whether your company has access to customer attributes, your [!DNL Experience Cloud] administrator should log into the [Experience Cloud](https://experience.adobe.com). Navigate to **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *[!DNL Customer Attributes]* displays as one of the [!UICONTROL product profiles], you are ready to begin.
 
-  Users that are added to [!DNL Customer Attributes] see the [!UICONTROL Customer Attributes] menu item on the left side of the Experience Cloud interface.
+  Users that are added to [!DNL Customer Attributes] see the [!DNL Customer Attributes] menu item on the left side of the Experience Cloud interface.
 
 * **Adobe Target** `at.js` (any version) or `mbox.js` version 58 or later is required for customer attributes.
 
