@@ -24,9 +24,9 @@ exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
 
 * **Group membership:** To upload customer attribute data, users must be members of the Customer Attributes group. You must also belong to either an Adobe Analytics group or an Adobe Target group.
 
-  To know whether your company has access to customer attributes, your [!DNL Experience Cloud] administrator should log into the [Experience Cloud](https://experience.adobe.com). Navigate to **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *[!DNL Customer Attributes]* displays as one of the [!UICONTROL product profiles], you are ready to begin.
+  To know whether your company has access to customer attributes, your [!DNL Experience Cloud] administrator should log into the [Experience Cloud](https://experience.adobe.com). Navigate to **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *[!UICONTROL Customer Attributes]* displays as one of the [!UICONTROL product profiles], you are ready to begin.
 
-  Users that are added to [!DNL Customer Attributes] see the [!UICONTROL Customer Attributes] menu item on the left side of the Experience Cloud interface.
+  Users that are added to [!UICONTROL Customer Attributes] see the [!UICONTROL Customer Attributes] menu item on the left side of the Experience Cloud interface.
 
 * **Adobe Target** `at.js` (any version) or `mbox.js` version 58 or later is required for customer attributes.
 
