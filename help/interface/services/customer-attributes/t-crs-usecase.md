@@ -19,7 +19,7 @@ Create the customer attribute source (`.csv` and `.fin` files) and upload the da
 
 ## Prerequisites
 
-**Product access:** To access [!DNL Customer Attributes], users must be assigned to the Customer Attributes product profile (**[!UICONTROL Customer Attributes - Default Access]**) in [Admin Console](adminconsole.adobe.com).
+**Product access:** To access [!DNL Customer Attributes], users must be assigned to the Customer Attributes product profile (**[!UICONTROL Customer Attributes - Default Access]**) in Admin Console (`adminconsole.adobe.com`).
 
   Navigate to **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *Customer Attributes* displays as one of the products (a [!UICONTROL Product profile]), you are ready to begin. Users that are added to the customer attributes product profile see **[!DNL Customer Attributes]** in the **[!UICONTROL Apps]** selector. (![customer attributes workflow](assets/menu-icon.png))
 
