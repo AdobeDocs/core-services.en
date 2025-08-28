@@ -33,7 +33,7 @@ index: yes
     + [Create a customer attribute source and upload the data file](services/customer-attributes/t-crs-usecase.md)
     + [Optional - Upload the data file via FTP](services/customer-attributes/t-upload-attributes-ftp.md)
     + [Validate the schema](services/customer-attributes/validate-schema.md)
-    + [Configure subscriptions](services/customer-attributes/subscription.md)
+    + [Configure subscriptions and activate data source](services/customer-attributes/subscription.md)
     + [Update the schema](services/customer-attributes/t-update-schema.md)
     + [Support for General Data Protection Regulation](services/customer-attributes/gdpr.md)
     + [Support for California Consumer Privacy Act](services/customer-attributes/ccpa.md)
