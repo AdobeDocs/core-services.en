@@ -1,7 +1,7 @@
 ---
-description: Learn to create a customer attribute source and upload it to the Adobe Experience Cloud.
+description: Learn to create a [!DNL Customer Attributes] data source and upload it to Experience Cloud.
 solution: Experience Cloud
-title: Create and Upload a Customer Attribute Data Source File
+title: Create and Upload a [!DNL Customer Attributes] Data Source File
 uuid: 53dca789-9a91-4385-839d-c9d1aa36b9be
 feature: Customer Attributes
 topic: Administration
@@ -9,7 +9,7 @@ role: Admin
 level: Experienced
 exl-id: 21ed7c35-aac9-46f1-a50c-84e7c075209c
 ---
-# Create a customer attribute source and upload the data file
+# Create a data source and upload the file
 
 Create the customer attribute source (`.csv` and `.fin` files) and upload the data. You can activate the data source when you are ready. After the data source is active, share the attribute data to [!DNL Analytics] and [!DNL Target]. 
 

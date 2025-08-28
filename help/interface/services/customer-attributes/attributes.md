@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Customer Attributes]"
+title: About [!DNL Customer Attributes]
 description: Learn about [!DNL Customer Attributes] in Experience Cloud. Discover how to upload customer attribute data for use in Adobe Analytics and Adobe Target.
 solution: Experience Cloud,Target,Analytics
 feature: Customer Attributes

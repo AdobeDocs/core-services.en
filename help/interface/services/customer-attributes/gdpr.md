@@ -7,7 +7,7 @@ role: Admin
 level: Experienced
 exl-id: 02417c0c-6780-4699-9470-f1685c3cd25d
 ---
-# [!DNL Customer attributes] support for General Data Protection Regulation
+# [!DNL Customer Attributes] support for General Data Protection Regulation
 
 This page describes how [!DNL Customer Attributes] supports General Data Protection Regulation (GDPR).
 
