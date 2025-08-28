@@ -13,17 +13,25 @@ exl-id: 21ed7c35-aac9-46f1-a50c-84e7c075209c
 
 Create the customer attribute source (`.csv` and `.fin` files) and upload the data. You can activate the data source when you are ready. After the data source is active, share the attribute data to [!DNL Analytics] and [!DNL Target]. 
 
-**Customer attributes workflow**
+**[!DNL Customer Attributes] workflow**
 
 ![customer attributes workflow](assets/crs.png) 
 
-## Prerequisites
+## Locate [!DNL Customer Attributes]
 
-**Product access:** To access [!DNL Customer Attributes], users must be assigned to the Customer Attributes product profile (**[!UICONTROL Customer Attributes - Default Access]**) in Admin Console (`adminconsole.adobe.com`).
+In [!DNL Experience Cloud], click **[!UICONTROL Apps]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**.
 
-  Navigate to **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *Customer Attributes* displays as one of the products (a [!UICONTROL Product profile]), you are ready to begin. Users that are added to the customer attributes product profile see **[!DNL Customer Attributes]** in the **[!UICONTROL Apps]** selector. (![customer attributes workflow](assets/menu-icon.png))
+## Prerequisites for using [!DNL Customer Attributes] {#prerequisites}
 
-**Application groups:** To use the **[!DNL Customer Attributes]** feature, users must also belong to application-level groups (Adobe [!DNL Analytics] or [!DNL Adobe Target]). 
+* **Group membership:** To upload the data, users must be members of the [!DNL Customer Attributes] group. You must also belong to either an Adobe Analytics group or an Adobe Target group.
+
+  To know whether your company has access to customer attributes, your [!DNL Experience Cloud] administrator should log into the [Experience Cloud](https://experience.adobe.com). Navigate to **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *[!DNL Customer Attributes]* displays as one of the [!UICONTROL product profiles], you are ready to begin.
+
+  Users that are added to [!DNL Customer Attributes] see the [!DNL Customer Attributes] menu item on the left side of the Experience Cloud interface.
+
+* **Adobe Target** `at.js` (any version) or `mbox.js` version 58 or later is required for customer attributes.
+
+  See [How to deploy at.js](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/overview.html).
 
 ## Create a data file {#create-data}
 
@@ -44,7 +52,7 @@ This data is enterprise customer data from your CRM. The data might include subs
 
 ## Create the attribute source and upload the data file {#create-source}
 
-Perform these steps on the Create new customer attribute source page in Experience Cloud.
+Perform these steps on the the [!UICONTROL Create Customer Attribute Source] page in Experience Cloud.
 
 >[!IMPORTANT]
 >
@@ -148,7 +156,7 @@ Configuring a subscription sets up the data flow between Experience Cloud and ap
 
 See [Configure subscriptions and activate the data source](subscription.md). 
 
-## Use customer attributes in Adobe Analytics {#task_7EB0680540CE4B65911B2C779210915D}
+## Use [!DNL Customer Attributes] data in Adobe Analytics {#task_7EB0680540CE4B65911B2C779210915D}
 
 With the data now available in applications like Adobe Analytics, you can report on the data, analyze it, and take the appropriate action in your marketing campaigns.
 
@@ -158,10 +166,10 @@ The following example shows an [!DNL Analytics] segment based on the uploaded at
 
 When you publish a segment to Experience Cloud, it becomes available in Experience Cloud Audiences and Audience Manager. 
 
-## Use customer attributes in Adobe Target {#task_FC5F9D9059114027B62DB9B1C7D9E257}
+## Use [!DNL Customer Attributes] data in Adobe Target {#task_FC5F9D9059114027B62DB9B1C7D9E257}
 
 In [!DNL Target], you can select a customer attribute from the [!UICONTROL Visitor Profile] section when creating an audience. All customer attributes have the prefix `crs.` in the list. Combine these attributes as required with other data attributes to build audiences.
 
-![Use customer attributes in Adobe Target](assets/crs-add-attribute-target.png) 
+![Use Customer Attributes in Adobe Target](assets/crs-add-attribute-target.png) 
 
-See [Creating a New Audience](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html) in [!DNL Target] help.
+See [Create an Audience](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html) in [!DNL Target] help.
