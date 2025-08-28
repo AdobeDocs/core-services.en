@@ -1,5 +1,5 @@
 ---
-description: Learn about data file requirements and multiple data sources for uploading [!DNL customer attributes] to Experience Cloud.
+description: Learn about data file requirements and multiple data sources for uploading customer attributes to Experience Cloud.
 solution: Experience Cloud
 title: Data File and Data Sources 
 feature: Customer Attributes
@@ -8,13 +8,13 @@ role: Admin
 level: Experienced
 exl-id: e2dfe10d-7003-4afa-a5e6-57703d74efd4
 ---
-# About data file and data sources for [!DNL customer attributes]
+# About data file and data sources for [!DNL Customer Attributes]
 
-Data file requirements and multiple data sources for uploading [!DNL customer attributes] to Experience Cloud.
+Data file requirements and multiple data sources for uploading customer attribute data to Experience Cloud.
 
 You need access to CRM or similar data from your enterprise. The data you upload to Experience Cloud must be a `.csv` file. If you upload via FTP or sFTP, you also upload a `.fin` file. 
 
-[!DNL customer attributes] is designed to handle a few files per day. To mitigate the issue of having many small files delaying processing, files sent within 30 minutes of a previous batch from the same organization are routed to a lower-priority queue.
+[!DNL Customer Attributes] is designed to handle a few files per day. To mitigate the issue of having many small files delaying processing, files sent within 30 minutes of a previous batch from the same organization are routed to a lower-priority queue.
 
 ## Allowed file types and naming requirements {#section_6F64FA02ACCC4215B0862CB6A1821FBF}
 
@@ -133,6 +133,6 @@ Visitor.setcustomerIDs({
 
 (See [customer IDs and Authentication States](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) for more information.)
 
-In the **[!UICONTROL Experience Cloud]** > **[!UICONTROL Customer Attributes]**:
+In **[!DNL Experience Cloud]** > **[!DNL Customer Attributes]**:
 
 Create two customer attributes sources using unique alias IDs corresponding to the customer IDs above. Using this method allows the same reference ID to be sent to multiple customer attribute sources.

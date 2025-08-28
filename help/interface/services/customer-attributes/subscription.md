@@ -18,7 +18,7 @@ For example, an Adobe Analytics subscription enables attribute data in reports. 
 
 1. Locate your customer attribute source for edit:
 
-    In [!DNL Experience Cloud], click **[!UICONTROL Apps]** ![menu](assets/menu-icon.png) > **[!UICONTROL Customer Attributes]**.
+    In [!DNL Experience Cloud], click **[!UICONTROL Apps]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**.
 
 1. On [!UICONTROL Edit Customer Attribute Source], click **[!UICONTROL File Upload]**. 
 

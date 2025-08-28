@@ -19,11 +19,11 @@ Create the customer attribute source (`.csv` and `.fin` files) and upload the da
 
 ## Prerequisites
 
-**Product access:** To access [!UICONTROL Customer Attributes], users must be assigned to the Customer Attributes product profile (**[!UICONTROL Customer Attributes - Default Access]**) in [Admin Console](adminconsole.adobe.com).
+**Product access:** To access [!DNL Customer Attributes], users must be assigned to the Customer Attributes product profile (**[!UICONTROL Customer Attributes - Default Access]**) in [Admin Console](adminconsole.adobe.com).
 
-  Navigate to **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *Customer Attributes* displays as one of the products (a [!UICONTROL Product profile]), you are ready to begin. Users that are added to the customer attributes product profile see **[!UICONTROL Customer Attributes]** in the **[!UICONTROL Apps]** selector. (![customer attributes workflow](assets/menu-icon.png))
+  Navigate to **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *Customer Attributes* displays as one of the products (a [!UICONTROL Product profile]), you are ready to begin. Users that are added to the customer attributes product profile see **[!DNL Customer Attributes]** in the **[!UICONTROL Apps]** selector. (![customer attributes workflow](assets/menu-icon.png))
 
-**Application groups:** To use the **[!UICONTROL Customer Attributes]** feature, users must also belong to application-level groups (Adobe [!DNL Analytics] or [!DNL Adobe Target]). 
+**Application groups:** To use the **[!DNL Customer Attributes]** feature, users must also belong to application-level groups (Adobe [!DNL Analytics] or [!DNL Adobe Target]). 
 
 ## Create a data file {#create-data}
 
@@ -50,7 +50,7 @@ Perform these steps on the Create new customer attribute source page in Experien
 >
 >When creating, modifying, or deleting customer attribute sources, there is a delay of up to one hour before IDs begin synchronizing with the new data source. You must have administrative rights in Audience Manager to create or modify customer attribute sources. Contact Audience Manager customer Care or consulting to obtain administrative rights.
 
-1. In [!DNL Experience Cloud], click **[!UICONTROL Apps]** ![menu](assets/menu-icon.png) > **[!UICONTROL Customer Attributes]**.
+1. In [!DNL Experience Cloud], click **[!UICONTROL Apps]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**.
 
    ![Customer Attributes page](assets/cust-attr.png)
 
@@ -104,7 +104,7 @@ Perform these steps on the Create new customer attribute source page in Experien
 
 The customer attribute record is created, and you can upload the file by editing the customer attribute.
 
-1. On the [!UICONTROL Customer Attributes] page, click the attribute source.
+1. On the [!DNL Customer Attributes] page, click the attribute source.
 
 1. On the [!UICONTROL Edit Customer Data Source] page, click **[!UICONTROL File Upload]**.
 
