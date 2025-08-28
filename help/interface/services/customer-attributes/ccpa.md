@@ -1,13 +1,13 @@
 ---
-title: Customer attributes support for California Consumer Privacy Act 
-description: Learn about customer attributes support for California Consumer Privacy Act
+title: "[!DNL Customer Attributes] Support for California Consumer Privacy Act"
+description: Learn about [!DNL Customer Attributes] support for California Consumer Privacy Act
 feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 320defc7-2cd5-4481-955d-77cf6fbfef6d
 ---
-# Customer attributes support for California Consumer Privacy Act
+# [!DNL Customer Attributes] support for California Consumer Privacy Act
 
 This page describes [!DNL Customer Attributes] support for the California Consumer Privacy Act (CCPA).
 

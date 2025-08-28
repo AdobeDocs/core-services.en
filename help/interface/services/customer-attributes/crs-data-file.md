@@ -1,7 +1,7 @@
 ---
-description: Learn about data file requirements and multiple data sources for uploading customer attributes to Experience Cloud.
+description: Learn about data file requirements and multiple data sources for uploading data in [!DNL Customer Attributes] to Experience Cloud.
 solution: Experience Cloud
-title: Data File and Data Sources 
+title: Customer Attribute Data File and Data Sources 
 feature: Customer Attributes
 topic: Administration
 role: Admin

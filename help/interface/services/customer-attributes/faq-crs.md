@@ -1,5 +1,5 @@
 ---
-description: Frequently asked questions about [!DNL Customer Attributes] in Adobe Experience Cloud, for Adobe Analytics and Adobe Target.
+description: Get answers to frequently asked questions about [!DNL Customer Attributes] in Adobe Experience Cloud, for Adobe Analytics and Adobe Target.
 solution: Experience Cloud
 title: Frequently Asked Questions about [!DNL Customer Attributes] 
 feature: Customer Attributes
@@ -18,7 +18,7 @@ Guidance and limitations when using [!DNL Customer Attributes].
 
 | Issue | Description |
 |--- |--- |
-|[!UICONTROL customer attribute] subscription limitations|When you upgrade to Analytics Premium, there is a 24-hour delay before more attributes are available. You might see an [!UICONTROL attribute Subscription Max] error issued during this delay.|
+|[!DNL Customer Attribute] subscription limitations|When you upgrade to Analytics Premium, there is a 24-hour delay before more attributes are available. You might see an [!UICONTROL attribute Subscription Max] error issued during this delay.|
 |Multiple logins on the same device|When using [!DNL Customer Attributes] to upload customer profiles into a data source, Adobe recommends against users sharing devices (meaning, the same Experience Cloud ID). The Experience Cloud ID (ECID) persists on the device. Sharing devices can cause the ECID to link multiple users to the same ECID, causing unexpected results in [!DNL Target]. **Note:** For Mobile, the ECID is permanent after the Mobile app is installed. Reinstall the app to generate a new ECID. For Web, a new ECID is generated after the browser cookie is cleared.|
 |Daily frequency upload limitation| Adobe recommends that you update [!DNL Customer Attributes] only once per day. You must wait at least 24 hours to upload another customer profile data file for the same set of profiles.|
 |Custom Analytics ID (`s.visitorID`)|Setting a customer ID using `s.visitorID` is a method of identifying users in Adobe Analytics. However, integrations in which [!DNL Analytics] data is exported or imported using the ID Service do not function when a visitor is identified using `s.visitorID.`<br>This includes, but is not limited to, shared Audiences, [!DNL Analytics] for Adobe Target (A4T), and [!DNL Customer Attributes].<br>For these integrations, setting a custom Analytics ID is not supported.|

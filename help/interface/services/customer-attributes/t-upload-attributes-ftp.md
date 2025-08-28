@@ -1,14 +1,14 @@
 ---
 description: Learn how to upload customer attribute data via FTP to Experience Cloud.
 solution: Experience Cloud
-title: Upload the customer attribute Data File via FTP 
+title: Upload Customer Attribute Data File via FTP 
 feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: ed9e4a8f-493a-4a0f-a87e-674c7da95b99
 ---
-# Optional - Upload the data file via FTP
+# Upload the data file via FTP (optional)
 
 If you do not upload using drag-and-drop, you can upload customer attribute data via FTP to Experience Cloud.
 
@@ -38,3 +38,29 @@ File uploads to the customer attributes FTP site can be done via FTP or SFTP:
    If the upload is successful, both files are moved to a folder called **processed**. 
 
    See [Data file requirements for uploading customer attributes](crs-data-file.md) for important information about file names and structure.
+
+## Set up an FTP account
+
+Set up one FTP account per attribute source. 
+
+On the [!UICONTROL File Upload and Schema Validation] page, click **[!UICONTROL FTP Setup]**.
+
+![Edit a schema](assets/ftp-account.png)
+
+The uploaded files are stored in the root folder of that account. The data must be in `.csv` format, with a second `.fin` file to indicate that the upload is complete.
+
+The names you apply to strings, integers, and numbers are used to create [!DNL Analytics] metrics.
+
+* **[!UICONTROL attribute:]** attribute data read from the uploaded `.csv` file.
+
+* **[!UICONTROL Type:]** The data type, such as:
+
+  * **String:** A sequence of characters.
+    
+  * **Integers:** Whole numbers.
+  
+  * **Numbers:** Can have up to two decimal places.
+    
+* **[!UICONTROL Display Name:]** A friendly name for the attribute. For example, you can change an attribute *customer age* to *customer Since*.
+
+* **[!UICONTROL Description:]** A friendly description of the attribute.
