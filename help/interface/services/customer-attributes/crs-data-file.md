@@ -97,7 +97,7 @@ The same file viewed in a text editor:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Multiple files </p> </td> 
-   <td colname="col2"> <p>When uploading customer attribute data, if you have several files you want to upload in rapid succession, and especially if the files are large, make certain that the previous file has been processed before uploading the next file. You can monitor this by checking when the previous file has been moved to the processed or failed folder within your [!UICONTROL customer attributes] FTP account. </p> <p> Breaking a large file into smaller files and submitting them in rapid succession may actually slow down processing unless you can ensure that each file is processed before submitting the next. </p> </td> 
+   <td colname="col2"> <p>When uploading customer attribute data, if you have several files you want to upload in rapid succession, and especially if the files are large, make certain that the previous file has been processed before uploading the next file. You can monitor this by checking when the previous file has been moved to the processed or failed folder within your [!DNL Customer Attributes] FTP account. </p> <p> Breaking a large file into smaller files and submitting them in rapid succession may actually slow down processing unless you can ensure that each file is processed before submitting the next. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Character Encoding </p> </td> 
@@ -105,7 +105,7 @@ The same file viewed in a text editor:
   </tr> 
    <tr> 
    <td colname="col1"> <p>Historical data </p> </td> 
-   <td colname="col2"> <p> customer attributes are tied to the underlying visitor profile in [!DNL Analytics]. As such, [!UICONTROL customer attributes] are associated with the visitor for the entire life of that visitor profile in [!DNL Analytics]. This profile includes behavior that occurred before the customer logged in for the first time. </p> <p> If you use the Data Warehouse backfill method, the data is tied to a post_visid_high/low that is based on the Analytics ID (AID). If you are using the Experience Cloud ID Service, the data is tied to a post_visid_high/low that is based on Experience Cloud ID (MID). </p> <p> Note that the Data Warehouse backfill method will no longer be available beginning in October 2022. </td> 
+   <td colname="col2"> <p> customer attributes are tied to the underlying visitor profile in [!DNL Analytics]. As such, [!DNL Customer Attributes] are associated with the visitor for the entire life of that visitor profile in [!DNL Analytics]. This profile includes behavior that occurred before the customer logged in for the first time. </p> <p> If you use the Data Warehouse backfill method, the data is tied to a post_visid_high/low that is based on the Analytics ID (AID). If you are using the Experience Cloud ID Service, the data is tied to a post_visid_high/low that is based on Experience Cloud ID (MID). </p> <p> Note that the Data Warehouse backfill method will no longer be available beginning in October 2022. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data feeds </p> </td> 
