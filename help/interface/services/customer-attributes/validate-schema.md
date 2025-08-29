@@ -26,11 +26,11 @@ A schema is created based on these settings. The schema is used to validate all 
 
 1. On the [!UICONTROL File Upload and Schema Validation] page, click **[!UICONTROL Actions]** > **[!UICONTROL View/Edit Schema]**
 
-   ![Edit a schema](assets/view_edit_schema.png)
+   ![Edit a schema](assets/actions.png)
 
    On the [!UICONTROL Edit Schema] page, each row of the schema represents a column of the uploaded CSV file.
 
-   ![Edit schema page in Experience Cloud](assets/edit-schema.png)
+   ![Edit schema page in Experience Cloud](assets/schema-edit.png)
 
 **Actions**
 
