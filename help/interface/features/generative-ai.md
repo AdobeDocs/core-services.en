@@ -8,7 +8,7 @@ role: Admin, User
 level: Beginner, Intermediate
 exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
 ---
-# Generative AI in Experience Cloud products
+# Generative AI in Experience Cloud applications
 
 Generative AI (genAI) in Experience Cloud helps you automate creative and cognitive tasks and enhance productivity. This page describes where Experience Cloud applications support genAI and AI Assistant, and provides links to learn more about these features.
 
@@ -38,7 +38,7 @@ Generative AI is a type of AI that can create original content. For example, it 
 
 [!BADGE Privacy, security, and governance]{type=Informative url="https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/privacy" tooltip="GenAI at Adobe"}
 
-## What Experience Cloud products offer AI features?
+## What AI features are supported in Experience Cloud? {#ai-roundup}
 
 Here's a roundup of the Experience Cloud applications that use GenAI, AI Assistant, or agentic AI. Compatibility with [Adobe Firefly](https://business.adobe.com/products/firefly-business/firefly-ai-approach.html) is indicated.
 
