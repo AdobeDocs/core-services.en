@@ -30,13 +30,13 @@ Generative AI is a type of AI that can create original content. For example, it 
 
 [!UICONTROL AI Assistant] is a conversational genAI tool supported in many Experience Cloud applications. Use it to quickly gain _product knowledge_ and _operational insights_, depending on the application you are using.
 
-* **Product knowledge:** Product knowledge refers to concepts and topics grounded in Experience League documentation. For example learn how to create effective, [objective-based prompts](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) to get the most out of Experience Platform. All responses from Experience League are verifiable and cited with links.
+* **Product knowledge:** Product knowledge refers to concepts and topics grounded in Experience League documentation. For example, use [objective-based prompts](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) to quickly learn about Experience Platform. All responses from Experience League are verifiable and cited with links.
 
 * **Operational insights:** For example, [operational insights](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/questions#objects-questions) in Experience Platform refer to generated responses about your metadata objects (attributes, audiences, dataflows, datasets, and so on). With [!UICONTROL AI Assistant], you can accomplish in seconds what otherwise might take hours or days.
 
 >[!NOTE]
 >
->Many Experience Cloud applications offer _AI Assistant_ as a feature name (as described below). However, this feature pulls information only for the specific application you are using. For example, AI Assistant in AEM only provides relevant, helpful information related to AEM.
+>Many Experience Cloud applications use _AI Assistant_ as a feature name (as described below). However, this feature pulls information only for the specific application you are using. For example, AI Assistant in AEM provides relevant, helpful information related to AEM.
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing" tooltip="Go to AI Assistant"}
 
