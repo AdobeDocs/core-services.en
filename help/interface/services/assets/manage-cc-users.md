@@ -1,7 +1,7 @@
 ---
 description: Learn about administrative tools for managing approved Creative Cloud users in Experience Cloud. 
 solution: Experience Cloud
-title: Manage Creative Cloud Users 
+title: Manage Creative Cloud Users in Experience Cloud 
 feature: Assets
 topic: Administration
 role: Admin
