@@ -70,7 +70,7 @@ If you capture enterprise customer data in a customer relationship management (C
 
 ## Experience Cloud Assets {#section_92BC5DFDB0E0499CB0DD34B85E06F79A}
 
-Help: [Share Experience Cloud Folders with Creative Cloud](/help/interface/services/assets/creative-cloud.md)
+Help: [Share Experience Cloud Folders with Creative Cloud](/help/interface/services/assets/share.md)
 
 Share folders and assets between Experience Cloud and Creative Cloud. Collaborate, annotate shared assets, and use them in Experience Cloud applications like Adobe Target.
 
