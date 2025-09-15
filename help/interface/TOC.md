@@ -13,7 +13,7 @@ index: yes
 
 + Services {#services}
   + [Overview](services/overview.md)
-  + [Getting started](services/getting-started.md)
+  + [Get started](services/getting-started.md)
   + Assets {#assets}
     + [Overview](services/assets/experience-cloud-assets.md)
     + [Manage Creative Cloud users](services/assets/manage-cc-users.md)
@@ -27,16 +27,16 @@ index: yes
   + [Exchange](services/exchange.md)
   + Customer attributes {#customer-attributes}
     + [Overview](services/customer-attributes/attributes.md)
-    + [Frequently asked questions about customer attributes](services/customer-attributes/faq-crs.md)
-    + [About data file and data sources for customer attributes](services/customer-attributes/crs-data-file.md)
-    + [Create a customer attribute source and upload the data file](services/customer-attributes/t-crs-usecase.md)
-    + [Optional - Upload the data file via FTP](services/customer-attributes/t-upload-attributes-ftp.md)
+    + [FAQ](services/customer-attributes/faq-crs.md)
+    + [About data file and data sources](services/customer-attributes/crs-data-file.md)
+    + [Create and upload the data file](services/customer-attributes/t-crs-usecase.md)
+    + [Optional - Upload via FTP](services/customer-attributes/t-upload-attributes-ftp.md)
     + [Validate the schema](services/customer-attributes/validate-schema.md)
     + [Configure subscriptions and activate data source](services/customer-attributes/subscription.md)
     + [Update the schema](services/customer-attributes/t-update-schema.md)
-    + [Support for General Data Protection Regulation](services/customer-attributes/gdpr.md)
-    + [Support for California Consumer Privacy Act](services/customer-attributes/ccpa.md)
-    + [Privacy considerations for customer attributes](services/customer-attributes/privacy-mac.md)
+    + [Support for GDPR](services/customer-attributes/gdpr.md)
+    + [Support for CCPA](services/customer-attributes/ccpa.md)
+    + [Privacy considerations](services/customer-attributes/privacy-mac.md)
   + [Triggers](services/triggers.md)
 
 + Features {#features}
@@ -50,7 +50,7 @@ index: yes
 + Administration {#administration}
   + [User management and product licenses](administration/admin-console.md)
   + [View user details (Admin Tool)](administration/admin-tool-experience-cloud.md)
-  + [Organizations and account linking](administration/organizations.md)
+  + [Organizations](administration/organizations.md)
   + [Experience Cloud integrations](administration/integrations.md)
   
 + Data collection {#data-collection}
