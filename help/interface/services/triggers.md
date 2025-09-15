@@ -11,11 +11,9 @@ exl-id: 9dc26e2f-479b-49a5-93ce-b877559fea43
 ---
 # Experience Cloud Triggers
 
-[!UICONTROL Triggers] in Experience Cloud enables you to identify, define, and monitor key consumer behaviors, then generate cross-application communication to re-engage visitors. 
+[!UICONTROL Triggers] in Experience Cloud enables you to identify, define, and monitor key consumer behaviors, then generate cross-application communication to re-engage visitors. You can use triggers in real-time decisions and personalization. 
 
-## Triggers Overview {#topic_4F21FCE9A64E46E8B6D51F494FA652A7}
-
-You can use triggers in real-time decisions and personalization. For example:
+For example:
 
 * Configure fast re-marketing for cart abandons or cart abandons with products removed
 * Incomplete forms and applications
@@ -27,7 +25,7 @@ You can use triggers in real-time decisions and personalization. For example:
 >
 >More information about using [!UICONTROL Triggers] is available in [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/using-triggers-in-campaign.html).
 
-### Types of Triggers
+## Types of triggers
 
 Generally, a trigger can take 15-90 minutes to launch a marketing campaign. This delay varies depending on the implementation of data collection, load on the pipeline, custom configuration of the defined trigger, and the workflow in Adobe Campaign.
 
@@ -65,17 +63,17 @@ Create a trigger and configure the conditions for the trigger. For example, you 
 5. Click **[!UICONTROL Save]**.
 6. Use triggers for [real-time remarketing](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html) in [!DNL Adobe Campaign].
 
-### Example triggers
+## Example triggers
 
 Examples of Experience Cloud Triggers:
 
-#### Cart Abandonment Trigger
+### Cart Abandonment trigger
 
 For example, the following page shows rules that you might use for a [!UICONTROL Cart Abandonment] trigger, based on products viewed during a visit.
 
 ![Cart Abandonment trigger](../assets/abandonment-trigger.png)
 
-#### Referrer Trigger
+### Referrer trigger
 
 The following trigger fires when a hit comes in with the product of Men's Boots and referrer of Facebook. For the two criteria (*products* and *referrer*) to be evaluated in the same hit, they should be added to the same container.
 
