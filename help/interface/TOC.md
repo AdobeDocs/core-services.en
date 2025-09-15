@@ -16,7 +16,6 @@ index: yes
   + [Getting started](services/getting-started.md)
   + Assets {#assets}
     + [Overview](services/assets/experience-cloud-assets.md)
-    + [Share folders and assets with Creative Cloud](services/assets/creative-cloud.md)
     + [Manage Creative Cloud users](services/assets/manage-cc-users.md)
     + [Share an asset folder](services/assets/share.md)
     + [Upload an asset to a shared folder](services/assets/upload.md)

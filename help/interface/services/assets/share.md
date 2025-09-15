@@ -1,7 +1,7 @@
 ---
-description: How to share an Experience Cloud asset folder with Creative Cloud users.
+description: Learn how to share an Experience Cloud asset folder with Creative Cloud users.
 solution: Experience Cloud
-title: Share an Experience Cloud Asset Folder 
+title: Share an Experience Cloud Asset Folder
 uuid: 105cf627-0148-4bf8-ab6a-7afa612e198c
 feature: Assets
 topic: Administration
@@ -11,7 +11,19 @@ exl-id: 32f4723e-0e66-46b6-b0c2-ae47b9a06a87
 ---
 # Share an Experience Cloud asset folder
 
-Share an Experience Cloud asset folder with Creative Cloud users.
+Share folders and assets between Experience Cloud and Creative Cloud. Collaborate, annotate shared assets, and use them in Experience Cloud applications like Adobe Target. The shared folder must originate from Experience Cloud. 
+
+**Benefits of sharing**
+
+* Streamline creative production workflows in the review, approve, and publish phase
+* Spend less time managing in-process files and versions in multiple locations
+* Track and manage creative assets more effectively
+* Enjoy increase enterprise security
+* Easily share, save, and send files between creatives and marketers
+
+Before Creative Cloud users have access to assets, they must be allow-listed in Experience Cloud. See [Manage Creative Cloud users](manage-cc-users.md). 
+
+**To share an Experience Cloud asset folder**
 
 1. On an Asset folder, click **[!UICONTROL Share to Creative Cloud]**.
 
@@ -40,7 +52,7 @@ Share an Experience Cloud asset folder with Creative Cloud users.
 
    ![Add a comment on the image](../../assets/asset_comment_mac.png) 
 
- 1. To unshare a folder, click **[!UICONTROL Share Using Creative Cloud]** (similar to [Step 3](share.md)), then remove users by selecting X, then click **[!UICONTROL Share]**.
+1. To unshare a folder, click **[!UICONTROL Share Using Creative Cloud]** (similar to [Step 3](share.md)), then remove users by selecting X, then click **[!UICONTROL Share]**.
 
    ![Unshare a folder](../../assets/asset_remove_user.png) 
 
@@ -57,3 +69,9 @@ Related help:
 * [Creative Cloud Help - Manage and sync files](https://helpx.adobe.com/creative-cloud/help/sync-creative-cloud-files.html)
 * [Creative Cloud Help - Collaborate with others](https://helpx.adobe.com/creative-cloud/help/collaboration.html)
 * [Creative Cloud Help - Collaboration FAQ](https://helpx.adobe.com/creative-cloud/help/collaboration-faq.html)
+
+## About asset sharing with Adobe Target {#section_B7CD64CAB35D43A4B12957B304072DC9}
+
+When creating activities in [!DNL Adobe Target], you can use a shared image asset when swapping images in the [!UICONTROL Offers Library].
+
+See [Offers Library](https://experienceleague.adobe.com/docs/target/using/experiences/offers/manage-content.html) in [!DNL Target] Help.
