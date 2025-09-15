@@ -138,7 +138,7 @@ Added [Experience Cloud Assets](../services/assets/experience-cloud-assets.md).
 
 **15 January 2015**
 
-Added Experience Cloud Users can now share folders to the Creative Cloud and sync assets and comments across the two Clouds. See [Asset Sharing](../services/assets/creative-cloud.md).
+Added Experience Cloud Users can now share folders to the Creative Cloud and sync assets and comments across the two Clouds. See [Asset Sharing](../services/assets/share.md).
 
 **17 July 2014**
 
