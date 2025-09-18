@@ -1,6 +1,6 @@
 ---
 title: Generative AI in Experience Cloud Applications
-description: Get a high-level look at where you can take advantage of AI-powered features in Experience Cloud applications. Learn which applications use AI Assistant (genAI) and agentic AI, and where to find help.
+description: Get a high-level look at where you can take advantage of AI-powered features in Experience Cloud applications.
 solution: Experience Cloud
 feature: AI Assistant, Generative AI
 topic: Artificial Intelligence
@@ -8,9 +8,9 @@ role: Admin, User
 level: Beginner, Intermediate
 exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
 ---
-# Generative AI in Experience Cloud applications
+# Generative AI in Experience Cloud
 
-Generative AI (genAI) in Experience Cloud helps you automate creative and cognitive tasks and enhance productivity. This page describes where Experience Cloud applications support genAI and AI Assistant, and provides links to learn more about these features.
+Generative AI (genAI) in Experience Cloud helps you automate creative and cognitive tasks and enhance productivity. This page helps you understand where Experience Cloud applications support genAI and AI Assistant, and provides links to learn more about these features.
 
 >[!IMPORTANT]
 >
@@ -42,9 +42,27 @@ Generative AI is a type of AI that can create original content. For example, it 
 
 [!BADGE Privacy, security, and governance]{type=Informative url="https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/privacy" tooltip="GenAI at Adobe"}
 
-## What AI features are supported in Experience Cloud? {#ai-roundup}
+## What genAI features are supported? {#ai-roundup}
 
-Here's a roundup of the Experience Cloud applications that use AI-powered features, AI Assistant, or agentic AI. Compatibility with [Adobe Firefly](https://business.adobe.com/products/firefly-business/firefly-ai-approach.html) is indicated.
+Here's a roundup of the [!DNL Experience Cloud] applications that use generative AI features and AI Assistant. Compatibility with [Adobe Firefly](https://business.adobe.com/products/firefly-business/firefly-ai-approach.html) is indicated for generative AI features.
+
+**Note:** [!DNL Experience Platform Agents] are described in [Agentic AI in Experience Cloud](agentic-ai.md).
+
+<!-- ### Generative AI
+
+| Product | Key AI features | Firefly Compatibility |
+|----------------|-----------------|---------|
+| GenStudio for Performance Marketing | Create personalized, on-brand content | Yes|
+| Adobe Experience Manager (Sites, Assets, Dynamic Media, Forms) | Generative AI for content variations, smart tagging, content optimization | Yes|
+| Marketo Engage      | Generative Email Designer, AI for webinars & chat | Yes|
+| Campaign          | Content Accelerator for cross-channel personalization | Yes|
+| Journey Optimizer          | Generative text & image variations, AI-assisted subject lines | No|
+| Real-Time CDP           | Predictive Audiences, AI Assistant support | No|
+| Journey Optimizer        | AI-driven orchestration recommendations |
+| Experience Platform      | AI Assistant for data and schema insights |
+| Customer Journey Analytics       | AI Assistant, intelligent captions, automated content insights |
+| Experience Platform       | Operational insights via AI Assistant |
+| Workfront            | AI-assisted work management and recommendations | -->
 
 | **Product Name** | **AI Features** | **AI Assistant** | **Firefly Compatibility** |
 |------------------|-------------------------|------------------|-------------------|
@@ -52,11 +70,12 @@ Here's a roundup of the Experience Cloud applications that use AI-powered featur
 | **Adobe Experience Manager as a Cloud Service (AEM CS)** | AI is available in:<ul><li>[Generate Variations](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations-integrated-editor) in **AEM Sites**</li><li>[GenAI](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/opportunity-types/overview) in **Sites Optimizer**</li><li>[Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview?lang=en) and [Smart Tags](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/smart-tags?lang=en#ai-smart-tags) in **AEM Assets**</li></ul> [Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generative-ai-in-aem) <br>  | AI Assistant is available for: <ul><li>Experience Hub overview page<li>Edge Delivery Services</li><li>Sites</li><li>Assets</li><li>Forms</li><li>Dynamic Media</li><li>Cloud Manager</li></ul> [Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-assistant/ai-assistant-in-aem)| Yes |
 |**Adobe Experience Manager 6.5** | |AI Assistant is available for: <ul><li>Experience Hub overview page<li>Edge Delivery Services</li><li>Sites</li><li>Assets</li><li>Forms</li><li>Dynamic Media</li><li>Cloud Manager</li></ul> [Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/ai-assistant/ai-assistant-in-aem) | Yes|
 |**Adobe Experience Manager 6.5 LTS** | |AI Assistant is available for: <ul><li>Experience Hub overview page<li>Edge Delivery Services</li><li>Sites</li><li>Assets</li><li>Forms</li><li>Dynamic Media</li><li>Cloud Manager</li></ul> [Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/ai-assistant/ai-assistant-in-aem) | Yes|
+| **Adobe Experience Platform** | |Available for product knowledge and operational insights. [Learn more](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing) |No |
 | **Adobe Journey Optimizer** | |  Available for product knowledge and operational insights. [Learn more](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant) | No |
 | | |_AJO Prime_ and _Ultimate_ offer [Content generation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/gs-generative?lang=en) to bring proactive content variation suggestions for text and images. | Yes |
 | **Adobe Journey Optimizer B2B Edition** |  | Available to help with product knowledge. [Learn more](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-assistant-overview) | No |
 | **[!DNL Campaign] Managed Cloud Services** |  | Available for Content Accelerator to auto-generate personalized, engaging, and effective content based on marketing objectives across channels like Email, SMS, and Push. [Learn more](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-gs) | Yes |
-| **[!DNL Customer Journey Analytics]** | AI is used with:<ul><li> [Intelligent Captions](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions?lang=en): For insights about the most frequently used Workspace visualizations.</li><li>[Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/report?lang=en#template): To assign asset metadata automatically.</li></ul> |Available for:<ul><li>[Product knowledge](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant?lang=en) (Experience League)</li><li>[Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support?lang=en) </li><li>[Data Insights Agent](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai)</li></ul> | No |
+| **[!DNL Customer Journey Analytics]** | AI is used with:<ul><li> [Intelligent Captions](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions?lang=en): For insights about the most frequently used Workspace visualizations.</li><li>[Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/report?lang=en#template): To assign asset metadata automatically.</li></ul> |Available for:<ul><li>[Product knowledge](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant?lang=en) (Experience League)</li><li>[Product Support Agent](agentic-ai.md) </li><li>[Data Insights Agent](agentic-ai.md)</li></ul> | No |
 | **Real-Time CDP** |  | Available for product knowledge from Experience League. It also offers operational insights. [Learn more](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) | No |
 | **[!DNL Marketo]** |AI is available in Email Designer (with Firefly), [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/overview?lang=en), and [Interactive Webinars](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai?lang=en). | Available in Marketo Engage [Email Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant) | Yes |
 | **[!DNL Workfront]** |  | Available for in-app information and suggestions. [Learn more](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant-overview) | Yes |
