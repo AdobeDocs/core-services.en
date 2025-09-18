@@ -8,7 +8,7 @@ role: Admin, User
 level: Intermediate
 exl-id: c1a8f9a7-4752-4040-b5f0-dc775417f536
 ---
-# Agentic AI in Experience Cloud products
+# Agentic AI in Experience Cloud
 
 AI agents ("agentic AI") in [!DNL Experience Cloud] help turn your goals into clear steps, making hard tasks easier while keeping you in control.
 
@@ -18,15 +18,15 @@ AI agents ("agentic AI") in [!DNL Experience Cloud] help turn your goals into cl
 
 * **AI-first Experience Cloud apps:** These apps are built with AI at the core. They use generative or agentic AI for key tasks, and the agentic features are already included in the license.
 
-## When will Platform Agents be available?
+## AEP Agents and how to use them
 
-| AEP Agent    | Availability | Description   | Supported Applications    |
-|---|----------|----------|------------|
-| **Audience Agent**  | Coming soon | Create and optimize audiences using natural language prompts. | <ul><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li></ul> |
-| [Data Insights Agent](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai)  | Available | Answer data questions and build visualizations in Analysis Workspace. | <ul><li>Customer Journey Analytics</li></ul>  |
-| **Experimentation Agent** | Coming soon | Automate analysis to identify experiments and growth opportunities.  | <ul><li>AJO Experimentation Accelerator</li></ul>   |
-| **Journey Agent** | Coming soon | Create, analyze, and optimize customer journeys at scale. | <ul><li>Adobe Journey Optimizer</li></ul>    |
-| [Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) | Available | Troubleshoot issues, create support tickets, and track progress with AI Assistant. | <ul><li>Adobe Experience Platform</li><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li><li>Adobe Journey Optimizer B2B Edition</li><li>Customer Journey Analytics</li><li>Adobe Experience Manager</li></ul>  |
+| Agent name    | Availability | Supported applications    | Capabilities   |
+|---|----------|------------|----------|
+| **Audience Agent**  | Coming soon | <ul><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li></ul> | Create and optimize audiences using natural language prompts. |
+| [Data Insights Agent](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai)  | Available | <ul><li>Customer Journey Analytics</li></ul>  | Answer data questions and build visualizations in Analysis Workspace. |
+| **Experimentation Agent** | Coming soon | <ul><li>AJO Experimentation Accelerator</li></ul>   | Automate analysis to identify experiments and growth opportunities.  |
+| **Journey Agent** | Coming soon | <ul><li>Adobe Journey Optimizer</li></ul>    | Create, analyze, and optimize customer journeys at scale. |
+| [Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) | Available | <ul><li>Adobe Experience Platform</li><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li><li>Adobe Journey Optimizer B2B Edition</li><li>Customer Journey Analytics</li><li>Adobe Experience Manager</li></ul>  | Troubleshoot issues, create support tickets, and track progress with AI Assistant. |
 
 [!BADGE Learn more on Adobe for Business]{type=Informative url="https://business.adobe.com/products/experience-platform/agent-orchestrator.html" tooltip="Go to Business.adobe.com"}
 
