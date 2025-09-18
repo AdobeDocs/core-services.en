@@ -10,7 +10,13 @@ exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
 ---
 # Generative AI in Experience Cloud applications
 
-Generative AI (genAI) in Experience Cloud helps you automate creative and cognitive tasks and enhance productivity. This page describes where Experience Cloud applications support genAI and AI Assistant, and provides links to learn more about these features.
+AI features in Experience Cloud can help you:
+
+* Improve your product knowledge
+* Gain operational insights
+* Carry out tasks on your behalf
+
+Generative AI (genAI) in Experience Cloud helps you automate creative and cognitive tasks and enhance productivity. This page helps you understand where Experience Cloud applications support genAI and AI Assistant, and provides links to learn more about these features.
 
 >[!IMPORTANT]
 >
@@ -44,7 +50,35 @@ Generative AI is a type of AI that can create original content. For example, it 
 
 ## What AI features are supported in Experience Cloud? {#ai-roundup}
 
-Here's a roundup of the Experience Cloud applications that use AI-powered features, AI Assistant, or agentic AI. Compatibility with [Adobe Firefly](https://business.adobe.com/products/firefly-business/firefly-ai-approach.html) is indicated.
+Here's a roundup of the Experience Cloud applications that use AI-powered features, AI Assistant, or AI agents. Compatibility with [Adobe Firefly](https://business.adobe.com/products/firefly-business/firefly-ai-approach.html) is indicated for generative AI features.
+
+### AI agents
+
+| AEP Agent    | Availability | Description   | Supported Applications    |
+|---|----------|----------|------------|
+| **Audience Agent**  | Coming soon | Create and optimize audiences using natural language prompts. | <ul><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li></ul> |
+| [Data Insights Agent](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai)  | Available | Answer data questions and build visualizations in Analysis Workspace. | <ul><li>Customer Journey Analytics</li></ul>  |
+| **Experimentation Agent** | Coming soon | Automate analysis to identify experiments and growth opportunities.  | <ul><li>AJO Experimentation Accelerator</li></ul>   |
+| **Journey Agent** | Coming soon | Create, analyze, and optimize customer journeys at scale. | <ul><li>Adobe Journey Optimizer</li></ul>    |
+| [Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) | Available | Troubleshoot issues, create support tickets, and track progress with AI Assistant. | <ul><li>Adobe Experience Platform</li><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li><li>Adobe Journey Optimizer B2B Edition</li><li>Customer Journey Analytics</li><li>Adobe Experience Manager</li></ul>  |
+
+### Generative AI
+
+| Product / Application  | Key AI Features (Highlights) | Firefly Compatibility |
+|----------------|-----------------|
+| GenStudio for Performance Marketing | Create personalized, on-brand content | Yes|
+| Adobe Experience Manager (Sites, Assets, Dynamic Media, Forms) | Generative AI for content variations, smart tagging, content optimization | Yes|
+| Marketo Engage      | Generative Email Designer, AI for webinars & chat | Yes|
+| Campaign          | Content Accelerator for cross-channel personalization | Yes|
+| Journey Optimizer          | Generative text & image variations, AI-assisted subject lines | No|
+| Real-Time CDP           | Predictive Audiences, AI Assistant support | No|
+| Journey Optimizer        | AI-driven orchestration recommendations |
+| Experience Platform      | AI Assistant for data and schema insights |
+| Customer Journey Analytics       | AI Assistant, intelligent captions, automated content insights |
+| Experience Platform       | Operational insights via AI Assistant |
+| Workfront            | AI-assisted work management and recommendations |
+
+## GenAI
 
 | **Product Name** | **AI Features** | **AI Assistant** | **Firefly Compatibility** |
 |------------------|-------------------------|------------------|-------------------|
