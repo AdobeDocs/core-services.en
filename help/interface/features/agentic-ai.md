@@ -20,7 +20,7 @@ Adobe Experience Platform Agent Orchestrator and the Platform Agents enable agen
 
 Learn about agnetic AI availability and supported applications:
 
-| Agent name    | Availability | Supported applications    | Capabilities   |
+| Agent name  | Availability | Supported applications | Capabilities   |
 |---|----------|------------|----------|
 | **Audience Agent**  | Coming soon | <ul><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li></ul> | Create and optimize audiences using natural language prompts. |
 | [Data Insights Agent](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai)  | Available | <ul><li>Customer Journey Analytics</li></ul>  | Answer data questions and build visualizations in Analysis Workspace. |
