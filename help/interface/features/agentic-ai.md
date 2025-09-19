@@ -18,7 +18,9 @@ AI agents ("agentic AI") in [!DNL Experience Cloud] help turn your goals into cl
 
 * **AI-first Experience Cloud apps:** These apps are built with AI at the core. They use generative or agentic AI for key tasks, and the agentic features are already included in the license. _AI-first apps are marked with *_.
 
-## AEP Agents and how to use them
+## Availability and supported applications
+
+Learn about agnetic AI availability and supported applications:
 
 | Agent name    | Availability | Supported applications    | Capabilities   |
 |---|----------|------------|----------|
