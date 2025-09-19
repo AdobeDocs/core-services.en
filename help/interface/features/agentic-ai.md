@@ -10,9 +10,7 @@ exl-id: c1a8f9a7-4752-4040-b5f0-dc775417f536
 ---
 # Agentic AI in Experience Cloud
 
-AI agents ("agentic AI") in [!DNL Experience Cloud] help turn your goals into clear steps, making hard tasks easier while keeping you in control.
-
-[!DNL Adobe Experience Platform Agent Orchestrator] and [!DNL Platform Agents] bring these AI abilities into our solutions. You can use them in two ways:
+Adobe Experience Platform Agent Orchestrator and the Platform Agents enable agentic capabilities within our solutions. You can gain access to the capabilities of AEP Agent Orchestrator and AEP Agents either through::
 
 * **Existing [!DNL Experience Cloud] apps:** These apps work on their own, but adding [!DNL AEP Agents] gives you extra power and impact. If you have a license for [!DNL Platform Agent Orchestrator], you can use the [!DNL Platform Agents] for the apps you're entitled to.
 
