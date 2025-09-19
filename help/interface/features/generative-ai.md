@@ -174,6 +174,8 @@ For example, if the asset is an image, AI can identify objects, scenes, emotions
 
 ### Experience Platform
 
++++Details
+
 AI Assistant in Adobe Experience Platform is a chat tool that helps you work faster in Adobe applications. You can use it to:
 
 * Learn how the product works
@@ -183,6 +185,8 @@ AI Assistant in Adobe Experience Platform is a chat tool that helps you work fas
 AI Assistant is available in Experience Platform, Real-Time Customer Data Platform, Adobe Journey Optimizer, and Customer Journey Analytics. (Described below)
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing" tooltip="AI Assistant in Adobe Experience Platform"}
+
++++
 
 ### Adobe [!DNL Journey Optimizer] {#journey-optimizer}
 
@@ -272,6 +276,7 @@ For example: foreground `color: red` is an automatically assigned attribute. The
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/report#template" tooltip="Learn about Content Analytics"}
 
++++
 
 ### [!DNL Real-Time CDP] {#rtcdp}
 
