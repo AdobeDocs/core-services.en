@@ -172,6 +172,18 @@ For example, if the asset is an image, AI can identify objects, scenes, emotions
 
 +++
 
+### Experience Platform
+
+AI Assistant in Adobe Experience Platform is a chat tool that helps you work faster in Adobe applications. You can use it to:
+
+* Learn how the product works
+* Get help solving problems
+* Search for information and insights about your data and setup
+
+AI Assistant is available in Experience Platform, Real-Time Customer Data Platform, Adobe Journey Optimizer, and Customer Journey Analytics. (Described below)
+
+[!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing" tooltip="AI Assistant in Adobe Experience Platform"}
+
 ### Adobe [!DNL Journey Optimizer] {#journey-optimizer}
 
 +++Details
@@ -217,18 +229,6 @@ Example input:
     Product knowledge output is pulled from Experience League.
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-assistant-overview" tooltip="Learn about AI Assistant in AJO"}
-
-+++
-
-### [!DNL Campaign] Managed Cloud Services {#campaign-cs}
-
-+++Details
-
-Campaign Managed Cloud Services uses [!UICONTROL AI Assistant] for content generation. This feature lets you auto-generate personalized, engaging, and effective content based on your marketing objective, with content optimized for brand outlined styles, layouts, tone, and more. You can use it across channels like email, SMS, and push.
-
-**Note:** Output from content generation in Campaign Managed Cloud Services is indemnified. 
-
-[!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-gs" tooltip="Learn about AI Assistant in AJO"}
 
 +++
 
@@ -282,6 +282,18 @@ Real-Time CDP uses [!UICONTROL AI Assistant] to help you with product knowledge 
 For example, if you query about an audience, [!UICONTROL AI Assistant] can access the name of the audience and other associated metadata but cannot access the profiles within that audience. 
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home" tooltip="Learn about Real-Time CDP"}
+
++++
+
+### [!DNL Campaign] Managed Cloud Services {#campaign-cs}
+
++++Details
+
+Campaign Managed Cloud Services uses [!UICONTROL AI Assistant] for content generation. This feature lets you auto-generate personalized, engaging, and effective content based on your marketing objective, with content optimized for brand outlined styles, layouts, tone, and more. You can use it across channels like email, SMS, and push.
+
+**Note:** Output from content generation in Campaign Managed Cloud Services is indemnified. 
+
+[!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-gs" tooltip="Learn about AI Assistant in AJO"}
 
 +++
 
