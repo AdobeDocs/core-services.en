@@ -16,7 +16,7 @@ AI agents ("agentic AI") in [!DNL Experience Cloud] help turn your goals into cl
 
 * **Existing [!DNL Experience Cloud] apps:** These apps work on their own, but adding [!DNL AEP Agents] gives you extra power and impact. If you have a license for [!DNL Platform Agent Orchestrator], you can use the [!DNL Platform Agents] for the apps you're entitled to.
 
-* **AI-first Experience Cloud apps:** These apps are built with AI at the core. They use generative or agentic AI for key tasks, and the agentic features are already included in the license. At-first apps are marked with *.
+* **AI-first Experience Cloud apps:** These apps are built with AI at the core. They use generative or agentic AI for key tasks, and the agentic features are already included in the license. _AI-first apps are marked with *_.
 
 ## AEP Agents and how to use them
 
@@ -27,7 +27,7 @@ AI agents ("agentic AI") in [!DNL Experience Cloud] help turn your goals into cl
 | **Experimentation Agent** | Coming soon | <ul><li>AJO Experimentation Accelerator</li></ul>   | Automate analysis to identify experiments and growth opportunities.*  |
 | **Journey Agent** | Coming soon | <ul><li>Adobe Journey Optimizer</li></ul>    | Create, analyze, and optimize customer journeys at scale. |
 | [Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) | Available | <ul><li>Adobe Experience Platform</li><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li><li>Adobe Journey Optimizer B2B Edition</li><li>Customer Journey Analytics</li><li>Adobe Experience Manager</li></ul>  | Troubleshoot issues, create support tickets, and track progress with AI Assistant. |
-| **Site Optimization Agent** | Coming soon | <ul><li>AEM Sites Optimizer</li></ul>    | Uses generative AI to find and launch website improvements that boost traffic, engagement, and overall business results.* |
+| **Site Optimization Agent** | Coming soon | <ul><li>AEM Sites Optimizer</li></ul>    | Uses generative AI to find and launch website improvements that boost traffic, engagement, and overall business results.*  |
 
 
 
