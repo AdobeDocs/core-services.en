@@ -18,11 +18,11 @@ For a list of documentation updates, see [Documentation updates](doc-updates.md)
 
 For release notes covering all applications, see [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html).
 
-<!-- ## September 2025
+## September 2025
 
 | Date | Update  | Description  |
 | -----------| -----------| ---------- |
-| September 25, 2025 | Support for IP Access Lists | For organizations that have IP Access Lists in Admin Console available and enabled, Experience Cloud will honor those IP restrictions to access applications on the https://experience.adobe.com domain. This update affects all web applications accessed via that domain, and checks occur at login and new page loads in that organization.  | -->
+| **September 25, 2025** | Support for IP Access Lists | For organizations that have IP Access Lists in Admin Console available and enabled, Experience Cloud will honor those IP restrictions to access applications on the `https://experience.adobe.com` domain. This update affects all web applications accessed via that domain, and checks occur at login and new page loads in that organization.  |
 
 ## March 2025
 
