@@ -18,12 +18,12 @@ Adobe Experience Platform Agent Orchestrator and the Platform Agents enable agen
 
 ## Availability and supported applications
 
-Learn about agnetic AI availability and supported applications:
+Learn about availability of AI agents and supported applications:
 
 | Agent name  | Availability | Supported applications | Capabilities   |
 |---|----------|------------|----------|
 | [Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) | Available | <ul><li>Adobe Experience Platform</li><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li><li>Adobe Journey Optimizer B2B Edition</li><li>Customer Journey Analytics</li><li>Adobe Experience Manager</li></ul>  | Troubleshoot issues, create support tickets, and track progress with AI Assistant. |
-| [Site Optimization Agent](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/home) <b>*</b>  | Available | <ul><li>AEM Sites Optimizer</li></ul>    | Uses generative AI to find and launch website improvements that boost traffic, engagement, and overall business results. |
+| [Site Optimization Agent](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/home)   | Available | <ul><li>AEM Sites Optimizer</li></ul>    | Uses generative AI to find and launch website improvements that boost traffic, engagement, and overall business results. |
 | [Data Insights Agent](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai)  | Available | <ul><li>Customer Journey Analytics</li></ul>  | Answer data questions and build visualizations in Analysis Workspace. |
 | [Audience Agent](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/audience)  | Available | <ul><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li></ul> | Create and optimize audiences using natural language prompts. |
 | [Journey Agent](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ajo-agent-analyze) | Available | <ul><li>Adobe Journey Optimizer</li></ul>    | Create, analyze, and optimize customer journeys at scale. |
