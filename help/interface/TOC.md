@@ -10,7 +10,6 @@ index: yes
 # Experience Cloud interface and administration {#interface}
 
 + [Experience Cloud interface and administration](experience-cloud.md)
-
 + Services {#services}
   + [Overview](services/overview.md)
   + [Get started](services/getting-started.md)
@@ -38,7 +37,6 @@ index: yes
     + [Support for CCPA](services/customer-attributes/ccpa.md)
     + [Privacy considerations](services/customer-attributes/privacy-mac.md)
   + [Triggers](services/triggers.md)
-
 + Features {#features}
   + [Account preferences and notifications](features/account-preferences.md)
   + [Generative AI](features/generative-ai.md)
@@ -46,13 +44,11 @@ index: yes
   + [Unified search](features/search.md)
   + [Personalized learning](features/personalized-learning.md)
   + [Browser and language support](browser-language.md)
-
 + Administration {#administration}
   + [User management and product licenses](administration/admin-console.md)
   + [View user details (Admin Tool)](administration/admin-tool-experience-cloud.md)
   + [Organizations](administration/organizations.md)
   + [Experience Cloud integrations](administration/integrations.md)
-  
 + Data collection {#data-collection}
   + [Adobe-managed certificate program](data-collection/adobe-managed-cert.md)
   + [IP addresses](data-collection/ip-addresses.md)
@@ -67,10 +63,8 @@ index: yes
     + [Web SDK cookies](data-collection/cookies/web-sdk.md)
   + [Regional data collection](data-collection/rdc.md)
   + [Use DNS prefetch](data-collection/dns-prefetch.md)
-
 + Release notes and resources {#more-resources}
   + [Release notes](more-resources/release-notes.md)
   + [Documentation updates](more-resources/doc-updates.md)
   + [Frequently asked questions](more-resources/faq.md)
   + [Terminology](more-resources/terms.md)
-

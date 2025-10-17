@@ -8,7 +8,7 @@ role: Admin
 level: Experienced
 exl-id: 020a6478-13ef-42c0-80de-7867cfe0c937
 ---
-# Experience Cloud services {#topic_C1087DCC538F4F9A99D983C1BB29EBE0}
+# Experience Cloud services
 
 This documentation applies to features of the unified header in Experience Cloud, such as the [!DNL People] service ([!DNL Audience Library] and [!DNL Customer Attributes]), user and product management for Experience Cloud, cookies, account preferences, notifications, and so on. 
 
