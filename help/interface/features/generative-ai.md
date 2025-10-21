@@ -69,6 +69,7 @@ Here's a roundup of the [!DNL Experience Cloud] applications that use generative
 | [Adobe Experience Manager as a Cloud Service (AEM CS)](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/overview) | GenAI is available in:<ul><li>[Generate Variations](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations-integrated-editor) in **AEM Sites**</li><li>[GenAI](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/opportunity-types/overview) in **Sites Optimizer**</li><li>[Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview?lang=en) and [Smart Tags](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/smart-tags?lang=en#ai-smart-tags) in **AEM Assets**</li></ul> AI Assistant for: <ul><li>Experience Hub overview page<li>Edge Delivery Services</li><li>Sites</li><li>Assets</li><li>Forms</li><li>Dynamic Media</li><li>Cloud Manager</li></ul> | Yes |
 |[Adobe Experience Manager 6.5](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/ai-assistant/ai-assistant-in-aem) | AI Assistant for: <ul><li>Experience Hub overview page<li>Edge Delivery Services</li><li>Sites</li><li>Assets</li><li>Forms</li><li>Dynamic Media</li><li>Cloud Manager</li></ul> | Yes|
 |[Adobe Experience Manager 6.5 LTS](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/ai-assistant/ai-assistant-in-aem)  | AI Assistant for: <ul><li>Experience Hub overview page<li>Edge Delivery Services</li><li>Sites</li><li>Assets</li><li>Forms</li><li>Dynamic Media</li><li>Cloud Manager</li></ul> | Yes|
+| [LLM Optimizer](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/home) | An generative, AI-First application that uses AI agents to auto-identify visibility gaps, auto-suggest improvements, and--in select cases--auto-optimize your site experience. |No |
 | [Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing) | AI Assistant for product knowledge and operational insights.  |No |
 | [Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant) | AI Assistant for product knowledge and operational insights.  | No |
 | |_AJO Prime_ and _Ultimate_ offer [Content generation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/gs-generative?lang=en) to bring proactive content variation suggestions for text and images. | Yes |
@@ -170,6 +171,16 @@ Instead of relying on manual input, AI can automatically assign descriptive tags
 For example, if the asset is an image, AI can identify objects, scenes, emotions, or even brand logos. It can generate relevant tags like _sunset_, _beach_, _vacation_, or _smiling_. 
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/smart-tags#ai-smart-tags" tooltip="Learn about Smart Tags"}
+
++++
+
+### LLM Optimizer
+
++++Details
+
+Adobe LLM Optimizer is a generative AI-first application for Generative Engine Optimization, designed to help brands enhance their visibility, accuracy, and influence in AI-driven search environments. It provides insights into brand presence in AI-generated answers, offers prescriptive content recommendations, and automates optimization fixes.
+
+[!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/llm-optimizer/using/home" tooltip="Learn about LLM Optimizer"}
 
 +++
 
@@ -360,6 +371,10 @@ Marketo integrates with GenStudio for Performance Marketing
 * [Responsible AI Resources on Trust Center](https://www.adobe.com/trust/responsible-ai.html)<!-- * [Customer AI Propensity Scoring Model Card](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/model-cards/ai-model-cards/customer-ai) -->
 
 +++
+
+<!-- ## More help on this topic
+
+* [AI in Experience Cloud](https://experienceleague.adobe.com/en/docs/ai) documentation home -->
 
 **Disclaimer:** The information on this page is for general informational purposes only. While effort is made to ensure the information remains accurate and current, software and generative AI features may change frequently. Accordingly, we do not warrant the completeness, accuracy, or reliability of the information at all times. Please verify any important details before making decisions based on this content.
 
