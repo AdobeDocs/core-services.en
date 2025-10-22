@@ -50,7 +50,7 @@ While all application team are committed to global language support, not all app
 
 ## Sign in to Experience Cloud {#signin}
 
-Sign in and verify that you are in the right [organization](organizations.md).
+Sign in and verify that you are in the right organization.
 
 1. Navigate to [Adobe Experience Cloud](https://experience.adobe.com).
 1. Click **[!UICONTROL Sign in with an Adobe ID]**.
@@ -58,7 +58,7 @@ Sign in and verify that you are in the right [organization](organizations.md).
 
     ![Verify your organization](assets/organizations-menu.png)
 
-    To verify that you have logged in to your correct [organization](organizations.md), click **[!UICONTROL Profile]** to see organization name. If you have access to more than one organization, you can also view and switch to another organization using the **[!UICONTROL Organization]** selector. 
+    To verify that you have logged in to your correct organization, click **[!UICONTROL Profile]** to see organization name. If you have access to more than one organization, you can also view and switch to another organization using the **[!UICONTROL Organization]** selector. 
 
     If your organization uses Federated IDs, Experience Cloud allows you to sign in with your organization's single sign-on without being required to enter your email address and password. Add `#/sso:@domain` to the Experience Cloud URL (`https://experience.adobe.com`) to accomplish this task.
     
@@ -90,7 +90,7 @@ The [!UICONTROL Help] menu also gives you access to:
 In the account preferences menu, you can:
 
 * Specify a dark theme (not all applications support this theme)
-* Search for [Organizations](organizations.md)
+* Search for Organizations
 * Sign out
 * Configure account [preferences, notifications, and subscriptions](#preferences)
 
@@ -106,7 +106,7 @@ On [!UICONTROL Experience Cloud preferences], you can configure the following fe
 
 | Feature | Description |
 |--- |--- |
-|Default [organization](organizations.md)|Select the organization that you want to see when you launch Experience Cloud. |
+|Default organization |Select the organization that you want to see when you launch Experience Cloud. |
 |[!UICONTROL Subscriptions]|Select the products and categories to which you would like to subscribe. Notifications in the [!UICONTROL Notifications] pop-over and in your email.|
 |[!UICONTROL Priority]|Select the categories that you want to be considered high priority. These categories are marked with a High tag and can be configured for delivery like alerts.|
 |[!UICONTROL Alerts]|Select the notifications for which you would like to see alerts displayed in your browser. Alerts appear in the top-right corner of your window for a few seconds.|
