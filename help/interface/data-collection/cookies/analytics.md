@@ -24,6 +24,8 @@ Analytics uses cookies to define new visitors anonymously, help analyze clickstr
 | **`s_fid`** | 2 years | 33 bytes | First-party | Stores the fallback unique visitor ID and timestamp. Set by JavaScript if the standard `s_vi` cookie cannot be set due to third-party cookie restrictions. Not used for first-party cookie implementations. |
 | **`s_ac`** | Immediate | 1 byte | First-party | Helps determine the correct domain to set AppMeasurement cookies. Contains the static value `"1"`. Once this cookie is set, it is deleted immediately. |
 
+See [Visitor identification in Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/implementation/id/overview) for more information on how Adobe Analytics identifies visitors using cookies.
+
 ## Cookies Set By Plug-ins
 
 Some implementations make use of plug-ins, which are snippets of code that provide additional functionality for Analytics. These plug-ins can set cookies that are not listed above. See [Analytics plug-ins overview](https://experienceleague.adobe.com/en/docs/analytics/implementation/vars/plugins/impl-plugins) for a list of available plug-ins and what cookies that they set.
@@ -32,7 +34,7 @@ Some implementations make use of plug-ins, which are snippets of code that provi
 
 If a visitor deletes their Analytics cookies, consider the following:
 
-* **Visitor identification is lost:** When cookies are deleted, Adobe Analytics cannot recognize returning visitors. The next time the user visits your site, they are counted as a new visitor. [Cross-device Analytics](https://experienceleague.adobe.com/en/docs/analytics/components/cda/overview) can help mitigate this impact.
+* **Visitor identification is lost:** When cookies are deleted, Adobe Analytics cannot recognize returning visitors. The next time the user visits your site, they are counted as a new visitor.
 * **Session continuity is broken:** Any session-based or multi-visit analysis (such as attribution or conversion tracking) is disrupted. Events and conversions that happen after cookie deletion cannot be tied to previous activities by the same user.
 * **Personalization and segmentation are affected:** Segments or personalized experiences based on visitor history or behavior are reset, as previous data is no longer associated with their current visit.
 * **Cross-domain tracking is interrupted:** For third-party cookies, deleting them prevents Adobe Analytics from linking user activity across multiple domains that you own.
