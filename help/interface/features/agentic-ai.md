@@ -1,6 +1,6 @@
 ---
 title: Agentic AI in Experience Cloud Applications
-description: Learn about the availability of AI agents, AI-First agents, and supported applications.
+description: Learn where agentic AI is available in Experience Cloud applications.
 solution: Experience Cloud
 topic: Artificial Intelligence
 feature: Agentic AI, AI Tools
@@ -10,7 +10,7 @@ exl-id: c1a8f9a7-4752-4040-b5f0-dc775417f536
 ---
 # Experience Platform agents in Experience Cloud
 
-Adobe Experience Platform [Agent Orchestrator](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/home) and the Platform Agents enable agentic capabilities within our solutions. You can gain access to the capabilities of AEP Agent Orchestrator and AEP Agents either through:
+Adobe [!DNL Experience Platform] [Agent Orchestrator](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/home) is the central technology for building and coordinating expert AI agents in Adobe [!DNL Experience Cloud]. You can gain access to the capabilities of AEP Agent Orchestrator and AEP Agents either through:
 
 * [Existing [!DNL Experience Cloud] apps](#existing-apps)
 * [AI-First [!DNL Experience Cloud] apps](#ai-first-apps)
