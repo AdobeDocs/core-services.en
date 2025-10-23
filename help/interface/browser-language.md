@@ -8,7 +8,7 @@ role: Admin
 level: Intermediate
 exl-id: cc44008e-8b8a-4afb-b692-0ef9b87d5b21
 ---
-# Browser support in Experience Cloud {#browser}
+# Browser support in Experience Cloud 
 
 For the best performance, Experience Cloud is optimized for the most popular browsers, including the latest version, plus the two previous versions.
 
@@ -24,7 +24,7 @@ If your browser is not listed, it may still be supported, but it is recommended 
 >
 >Not all applications running on Experience Cloud domain support all browsers. If you're unsure, check the documentation of a specific application.
 
-## Language support in Experience Cloud {#languages}
+## Language support in Experience Cloud 
 
 The Experience Cloud user interface is available in the following languages:
 

@@ -29,7 +29,7 @@ If your organization uses Federated IDs, Experience Cloud allows you to sign in 
     
 For example, for an organization with Federated IDs and the domain `adobecustomer.com`, set your URL link to `https://experience.adobe.com/#/sso:@adobecustomer.com`. You can also go directly to a specific application by bookmarking this URL, appended with the application path. (For example, for Adobe Analytics, `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.)
 
-## View your organization ID {#concept_EA8AEE5B02CF46ACBDAD6A8508646255}
+## View your organization ID 
 
 You can locate your assigned organization ID for support purposes. You can verify that you are in the correct organization, or switch between organizations, using the **[!UICONTROL Organization]** selector in the header.
 
@@ -55,7 +55,7 @@ You can view your organization ID, along with other account information, using t
 
    `C538193582390300A495CC9@AdobeOrg`
 
-## Link an application account to an Adobe ID {#task_FD389E78640848919E247AC5E95B8369}
+## Link an application account to an Adobe ID 
 
 Typically, Experience Cloud administrators grant access to applications and services. In rare circumstances, you can link application credentials to an Adobe ID.
 
@@ -77,7 +77,7 @@ Typically, Experience Cloud administrators grant access to applications and serv
 
 1. Click **[!UICONTROL Link Account]**, then provide your credentials.
 
-## Specify a default organization {#concept_6A191B42A9874A9780882903BA18F071}
+## Specify a default organization 
 
 You can specify a default organization to use when you log in.
 
@@ -88,7 +88,7 @@ You can specify a default organization to use when you log in.
 
 ![Edit Profile](../assets/edit-profile.png) 
 
-## Troubleshoot account linking issues {#concept_DFCB29A3B4834FC59AA29E0BBA301584}
+## Troubleshoot account linking issues 
 
 Help on problems that arise from account linking.
 

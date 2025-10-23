@@ -16,7 +16,7 @@ exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
 
 ![Customer attributes overview](assets/custom_reports.png)
 
-## What is enterprise customer data? {#enterprise_data}
+## What is enterprise customer data? 
 
 Enterprise data resides in other systems. It can be complex and mean different things to different people. This data can include information such as memberships, loyalty level, age, gender, products owned, interests, and Lifetime Value.
 
@@ -28,7 +28,7 @@ After you create the data file, you can upload it to the customer attribute sour
 
 See [Upload customer attribute data](t-crs-usecase.md) to learn this workflow.
 
-## Examples of customer attributes in Analytics and Target {#examples}
+## Examples of customer attributes in Analytics and Target 
 
 After the data resides in Experience Cloud, you can customize it and share it to solutions for reporting, segmentation, activities, and campaigns.
 

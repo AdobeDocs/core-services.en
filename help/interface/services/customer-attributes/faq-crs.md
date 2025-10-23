@@ -12,7 +12,7 @@ exl-id: 6031e544-822b-4843-b3d8-98a36a3c40e8
 
 Frequently asked questions and best practices for [!DNL Customer Attributes] in Adobe Analytics and Adobe Target.
 
-## Best practices and limitations {#best_practices}
+## Best practices and limitations 
 
 Guidance and limitations when using [!DNL Customer Attributes].
 
@@ -26,7 +26,7 @@ Guidance and limitations when using [!DNL Customer Attributes].
 
 {style="table-layout:auto"}
 
-## FAQ about [!DNL Customer Attributes] {#section_E47866EEA83348E09FE43CEC5E44C461}
+## FAQ about [!DNL Customer Attributes] 
 
 | Question | Answer |
 |--- |--- |

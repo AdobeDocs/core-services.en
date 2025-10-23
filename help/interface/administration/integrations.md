@@ -13,7 +13,7 @@ exl-id: 7f8fa610-32f0-4b18-8054-3ba05436a10e
 
 This page describes several ways to begin integrating Experience Cloud applications. For more information, browse our library of [integration video tutorials](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html) on Experience League.
 
-## Enable your Experience Cloud applications for Platform services {#section_A3D024994DA3492F8435CFCC4EF035C2}
+## Enable your Experience Cloud applications for Platform services 
 
 Describes how to:
 
@@ -30,7 +30,7 @@ Solutions or services:
 * [[!DNL Target]](https://experienceleague.adobe.com/docs/target.html)
 * [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html)
 
-## Experience Cloud ID Service {#section_6ECCCFA2D84D4D4F88C879C799CA9D78}
+## Experience Cloud ID Service 
 
 The ID service provides a universal, persistent ID that identifies your visitors across all the applications in Experience Cloud. It can replace ID generation code for services such as Analytics, Audience Manager, Adobe Target, video heartbeat, and other Experience Cloud applications and products.
 
@@ -41,7 +41,7 @@ See [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-ser
 * [Adobe Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html)
 * [Adobe Target](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-target.html)
 
-## Audiences {#section_5F60D7B0833348B9A1D74663AADCB42C}
+## Audiences 
 
 Help: [Audiences](/help/interface/services/audiences/overview.md) 
 
@@ -57,7 +57,7 @@ Create and manage Audiences in Experience Cloud [!UICONTROL Audience Library]. A
 * [Segmentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/audience-analytics-workflow/aam-analytics-segments.html) in Audience Manager
 * [Advertising Cloud](https://enterprise.efrontier.com/CMDashboard/?ticket=JrciD7q2bF1y2mDWFHmEyibbOnNwb2JBRF7z6tKAOIWkBimlPxCUaZyJnPLqsfdqsf3fpxWoxGasvatKA8S6-h4tlDvxQcm8Gc10dSF9q_E%3D&ticket=JrciD7q2bF1y2mDWFHmEyibmxtHqnZFSOMml-n993zOBc-ovZGNZkX5vgePWqKNMoMmPSqf9PkzFeYF4UN6GqSXDVNDvwgnvv9KT8PvVxk8%3D) (login required)
 
-## Customer attributes {#section_6A9EA6847F654F129381869E5016626C}
+## Customer attributes 
 
 Help: [Customer attributes](/help/interface/services/customer-attributes/attributes.md) 
 
@@ -68,7 +68,7 @@ If you capture enterprise customer data in a customer relationship management (C
 * Adobe Analytics: Customer attributes Report
 * Adobe Target: Configure Adobe Target's [subscription](/help/interface/services/customer-attributes/subscription.md) to customer attributes
 
-## Experience Cloud Assets {#section_92BC5DFDB0E0499CB0DD34B85E06F79A}
+## Experience Cloud Assets 
 
 Help: [Share Experience Cloud Folders with Creative Cloud](/help/interface/services/assets/share.md)
 
@@ -80,7 +80,7 @@ Share folders and assets between Experience Cloud and Creative Cloud. Collaborat
 * Adobe Creative Cloud
 * Adobe Target
 
-## Analytics - AEM Assets reporting in Analytics {#section_0A16AE14F128470AA02EFC6457BDCE75}
+## Analytics - AEM Assets reporting in Analytics 
 
 Help: [AEM Assets reporting in Analytics](https://experienceleague.adobe.com/docs/analytics/integration/aem-assets-reporting.html) 
 
@@ -91,7 +91,7 @@ Enables Analytics to collect impressions and clicks on Assets served up from AEM
 * [!DNL Analytics]
 * [!DNL Experience Manager]
 
-## Audience Manager integrations {#section_8FEFE1746E26416EB7E73095BBAD5345}
+## Audience Manager integrations 
 
 [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/implementation-and-integration.html) 
 
@@ -103,7 +103,7 @@ Work with data from Experience Cloud applications or other external systems in A
 * [Send Audience Manager Segments to Analytics](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/experience-cloud-destinations/create-analytics-destination.html)
 * [Adobe Target Data Integration](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-applications/aam-target-integration.html)
 
-## Adobe Target {#section_739716AB6022424CBC38724CDED10701}
+## Adobe Target 
 
 Help: [Integrating Adobe Target with Experience Cloud](/help/interface/services/audiences/overview.md)
 
@@ -117,13 +117,13 @@ Integrate Adobe Target with Adobe Analytics and other Experience Cloud applicati
 * Audience Manager: [Adobe Target Data Integration with Adobe Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-solutions/aam-target-integration.html)
 * Campaign: [Integrating Adobe Target with Campaign](https://experienceleague.adobe.com/docs/target/using/integrate/campaign-and-target.html)
 
-## Experience Manager integrations {#section_32FB010EF8B4429FBC63C8DC2A9BE98F}
+## Experience Manager integrations 
 
 * Video tutorials: [Experience Manager integrations](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/integrations-between-applications/overview.html) 
 
 * Product documentation: [Experience Manager documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html) 
 
-## Experience Manager - Assets {#section_CB865F8EFE4C4147BF8E2E4B66B5A318}
+## Experience Manager - Assets 
 
 Help: [Configuring AEM Assets integration with Experience Cloud and Creative Cloud](https://experienceleague.adobe.com/docs/) 
 
@@ -135,7 +135,7 @@ Synchronize your assets within Adobe Experience Manager (AEM) Assets with Adobe 
 * Creative Cloud
 * [Experience Cloud](https://experienceleague.adobe.com/docs/)
 
-## [!DNL Adobe Advertising] {#section_9B1935F8BBC147C89C6DB68A35CB1BAB}
+## [!DNL Adobe Advertising] 
 
 * Help (login required): [Integration with Adobe Experience Cloud Solutions and Services](https://enterprise.efrontier.com/CMDashboard?ticket=JrciD7q2bF1y2mDWFHmEyhyMKZp71ZLeaANvF-RcNMF7oNuZNABh76cKJLNlJJeJ1hQ5vAW1AO1t1DW8tZWM3lYZ8TSh96YAQISUdtHCCgA%3D&ticket=JrciD7q2bF1y2mDWFHmEyibbOnNwb2JBRF7z6tKAOIWkBimlPxCUaZyJnPLqsfdqsf3fpxWoxGasvatKA8S6-h4tlDvxQcm8Gc10dSF9q_E%3D) 
 

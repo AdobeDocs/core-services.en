@@ -16,7 +16,7 @@ You need access to CRM or similar data from your enterprise. The data you upload
 
 [!DNL Customer Attributes] is designed to handle a few files per day. To mitigate the issue of having many small files delaying processing, files sent within 30 minutes of a previous batch from the same organization are routed to a lower-priority queue.
 
-## Allowed file types and naming requirements {#section_6F64FA02ACCC4215B0862CB6A1821FBF}
+## Allowed file types and naming requirements 
 
 |File Type|Description|
 |--- |--- |
@@ -25,7 +25,7 @@ You need access to CRM or similar data from your enterprise. The data you upload
 |`.gz` or `.zip`|`.gz` (gzip) or `.zip`  - for compressed files. A `.zip` file cannot contain more than one file in the archive. Naming requirements: The name of the `.zip` or `.gz`  should match the name of the `.csv` file . For example, if your `.csv` file is `crm_small.csv`, the `.zip` file should be `crm_small.csv.zip` . The `.fin` file must match the `.csv`.|
 
 
-## Requirements for the attribute data files {#section_169FBF5B7BBA47CE825B7A330CF3FE98}
+## Requirements for the attribute data files 
 
 **Example CSV** 
 
@@ -114,7 +114,7 @@ The same file viewed in a text editor:
  </tbody> 
 </table>
 
-## Using multiple data sources {#multiple}
+## Using multiple data sources 
 
 When creating, modifying, or deleting customer attribute sources, there is a delay around one hour before IDs begin synchronizing with the new data source.
 
