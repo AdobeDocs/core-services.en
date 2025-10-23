@@ -21,7 +21,7 @@ Create the customer attribute source (`.csv` and `.fin` files) and upload the da
 
 In [!DNL Experience Cloud], click **[!UICONTROL Apps]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**.
 
-## Prerequisites for using [!DNL Customer Attributes] {#prerequisites}
+## Prerequisites for using [!DNL Customer Attributes] 
 
 * **Group membership:** To upload the data, users must be members of the [!DNL Customer Attributes] group. You must also belong to either an Adobe Analytics group or an Adobe Target group.
 
@@ -33,7 +33,7 @@ In [!DNL Experience Cloud], click **[!UICONTROL Apps]** ![menu](assets/menu-icon
 
   See [How to deploy at.js](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/overview.html).
 
-## Create a data file {#create-data}
+## Create a data file 
 
 This data is enterprise customer data from your CRM. The data might include subscriber data for products, including member IDs, entitled products, most-launched products, and so on.
 
@@ -50,7 +50,7 @@ This data is enterprise customer data from your CRM. The data might include subs
 1. Before continuing, review the important information in [Data File Requirements](crs-data-file.md), before you upload the file.
 1. [Create a customer attribute source and upload the data](t-crs-usecase.md#create-source), described below.
 
-## Create the attribute source and upload the data file {#create-source}
+## Create the attribute source and upload the data file 
 
 Perform these steps on the the [!UICONTROL Create Customer Attribute Source] page in Experience Cloud.
 
@@ -108,7 +108,7 @@ Perform these steps on the the [!UICONTROL Create Customer Attribute Source] pag
 
 1. Click **[!UICONTROL Save]**.
 
-## Upload file {#upload}
+## Upload file 
 
 The customer attribute record is created, and you can upload the file by editing the customer attribute.
 
@@ -134,7 +134,7 @@ The customer attribute record is created, and you can upload the file by editing
     
 * **[!UICONTROL customer-Provided IDs with High Alias Counts:]** Displays the count of customer-provided IDs with 500 or more aliased Experience Cloud Visitor IDs. These customer-provided IDs most likely do not represent individuals but rather some sort of shared login. The system distributes the attributes associated with these IDs to the 500 most recent aliased Experience Cloud Visitor IDs, until the alias count reaches 10,000. Then, the system invalidates the customer-provided ID and no longer distributes associated attributes. -->
     
-## Validate the schema {#validate-schema}
+## Validate the schema 
 
 The validation process lets you map display names and descriptions to uploaded attributes (strings, integers, numbers, and so on). You can also delete attributes by updating the schema.
 
@@ -142,7 +142,7 @@ See [Validate the schema](validate-schema.md).
 
 To delete attributes, see [(Optional) Update the schema (deletes attributes)](t-crs-usecase.md). 
 
-## (Optional) Update the schema (delete attributes) {#task_6568898BB7C44A42ABFB86532B89063C}
+## (Optional) Update the schema (delete attributes) 
 
 How to delete attributes and replace attributes in the schema.
 
@@ -150,13 +150,13 @@ How to delete attributes and replace attributes in the schema.
 
 1. [Upload a new data file with updated fields](t-crs-usecase.md).
 
-## Configure subscriptions and activate the attribute source {#task_1ACA21198F0E46A897A320C244DFF6EA}
+## Configure subscriptions and activate the attribute source 
 
 Configuring a subscription sets up the data flow between Experience Cloud and applications. Activating the attribute source allows the data to flow to subscribed applications. The customer records you have uploaded are matched up with incoming ID signals from your web site or application.
 
 See [Configure subscriptions and activate the data source](subscription.md). 
 
-## Use [!DNL Customer Attributes] data in Adobe Analytics {#task_7EB0680540CE4B65911B2C779210915D}
+## Use [!DNL Customer Attributes] data in Adobe Analytics 
 
 With the data now available in applications like Adobe Analytics, you can report on the data, analyze it, and take the appropriate action in your marketing campaigns.
 
@@ -166,7 +166,7 @@ The following example shows an [!DNL Analytics] segment based on the uploaded at
 
 When you publish a segment to Experience Cloud, it becomes available in Experience Cloud Audiences and Audience Manager. 
 
-## Use [!DNL Customer Attributes] data in Adobe Target {#task_FC5F9D9059114027B62DB9B1C7D9E257}
+## Use [!DNL Customer Attributes] data in Adobe Target 
 
 In [!DNL Target], you can select a customer attribute from the [!UICONTROL Visitor Profile] section when creating an audience. All customer attributes have the prefix `crs.` in the list. Combine these attributes as required with other data attributes to build audiences.
 

@@ -15,7 +15,7 @@ Experience Cloud's central interface components include features that enable you
 * Find product help and business objects using a global search
 * Manage your account preferences (alerts, notifications, and subscriptions)
 
-## Browser support in Experience Cloud {#browser}
+## Browser support in Experience Cloud 
 
 For the best performance, Experience Cloud is optimized for the most popular browsers, including the latest version, plus the two previous versions.
 
@@ -31,7 +31,7 @@ If your browser is not listed, it may still be supported, but it is recommended 
 >
 >Not all applications running on Experience Cloud domain support all browsers. If you're unsure, check the documentation of a specific application.
 
-## Language support in Experience Cloud {#languages}
+## Language support in Experience Cloud 
 
 Experience Cloud supports preferred languages for each user, as set in your Adobe user account preferences. Supported languages currently are: 
 
@@ -48,7 +48,7 @@ Experience Cloud supports preferred languages for each user, as set in your Adob
 
 While all application team are committed to global language support, not all applications are offered in all languages noted above. If your primary language is not supported in an Experience Cloud application, you can also set a secondary language to default to when applicable. This can be done in [Experience Cloud user preferences](https://experience.adobe.com/preferences).
 
-## Sign in to Experience Cloud {#signin}
+## Sign in to Experience Cloud 
 
 Sign in and verify that you are in the right organization.
 
@@ -64,7 +64,7 @@ Sign in and verify that you are in the right organization.
     
     For example, for an organization with Federated IDs and the domain `adobecustomer.com`, set your URL link to `https://experience.adobe.com/#/sso:@adobecustomer.com`. You can also go directly to a specific application by bookmarking this URL, appended with the application path. (For example, for Adobe Analytics, `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.)
 
-## Access Experience Cloud applications {#navigation}
+## Access Experience Cloud applications 
 
 After signing in to Experience Cloud, you can quickly access all your applications, services, and organizations from the unified header.
 
@@ -72,7 +72,7 @@ Click the application selector ![menu](assets/menu-icon.png) to access Experienc
 
 ![Access Experience Cloud applications](assets/platform-core-services.png)
 
-## Search and support in Experience Cloud {#search-support}
+## Search and support in Experience Cloud 
 
 Experience Cloud search allows you to search for help (documentation, tutorials, and courses) on [Experience League](https://experienceleague.adobe.com/#home). 
 
@@ -85,7 +85,7 @@ The [!UICONTROL Help] menu also gives you access to:
 * **[!UICONTROL Status]:** Navigate to `https://status.adobe.com/experience_cloud` and check product operational status and [!UICONTROL Manage Subscriptions].
 * **[!UICONTROL Developer Connection]:** Navigation to `adobe.io` and find developer documentation.
 
-## Account preferences {#account-menu}
+## Account preferences 
 
 In the account preferences menu, you can:
 
@@ -94,7 +94,7 @@ In the account preferences menu, you can:
 * Sign out
 * Configure account [preferences, notifications, and subscriptions](#preferences)
 
-### Manage Experience Cloud [!UICONTROL Preferences] {#preferences}
+### Manage Experience Cloud [!UICONTROL Preferences] 
 
 Experience Cloud preferences include notifications, subscriptions, and alerts. 
 
@@ -114,7 +114,7 @@ On [!UICONTROL Experience Cloud preferences], you can configure the following fe
 
 {style="table-layout:auto"}
 
-## Notifications and Announcements {#notifications}
+## Notifications and Announcements 
 
 Click **[!UICONTROL Notifications]** to see notifications that are important to you, and announcements from Adobe.
 

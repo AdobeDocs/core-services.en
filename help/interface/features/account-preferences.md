@@ -8,7 +8,7 @@ role: Admin
 level: Intermediate
 exl-id: 1e34c6b2-a792-41c4-adb7-583de596237f
 ---
-# Account preferences and notifications {#preferences}
+# Account preferences and notifications 
 
 To find Experience Cloud preferences, click **[!UICONTROL Profile]** ![preferences](../assets/preferences-icon-sm.png) in the header, then click **[!UICONTROL Preferences]**.
 
@@ -23,7 +23,7 @@ On the [!UICONTROL Experience Cloud preferences] page, you can manage the follow
 |[!UICONTROL Product usage data]| You can control what product usage data is shared with Adobe when using Experience Cloud applications. This is data about how you use our products, not your organization's content or data itself. Adobe uses this information to help improve our products, provide you with enhanced in-product support, and to personalize your experience and communications from us. <p>To learn more, see [Product usage data](#product-usage-data) (on this page).|
 |[!UICONTROL Notifications]| Configure how and when you would like product [notifications](#subscribe-to-notifications-in-experience-cloud) and alerts: <ul><li>Select the products to which you want to subscribe for alerts</li><li>Configure the type of notification ([!UICONTROL in-app], [!UICONTROL email], or [Slack](#slack-notifications))</li><li>Specify the frequency at which you would like to receive notification emails. (Not sent, instant, daily, or weekly.)</li><li>Determine the alert priority. In-app alerts appear in the top-right corner of your window for a few seconds. Or, you can specify whether alerts should display until you dismiss them.</li></ul>|
 
-## [!UICONTROL Product usage data] {#product-usage-data}
+## [!UICONTROL Product usage data] 
 
 Product usage data that you choose to share with Adobe includes the following types of information about how you use and interact with Adobe applications:
 
@@ -36,7 +36,7 @@ Product usage data that you choose to share with Adobe includes the following ty
 
 Adobe uses this information to help improve our products, provide you with support both in-product and via customer care, and to personalize your experience and communications from us. Learn more about [personalized experiences](personalized-learning.md).
 
-## Subscribe to notifications in Experience Cloud {#notifications}
+## Subscribe to notifications in Experience Cloud 
 
 You can select the products and categories to which you would like to subscribe. Notifications appear in the [!UICONTROL Notifications] popover (in-app), or in your email, or in [Slack](#slack-notifications) (depending on your subscriptions).
 
@@ -50,7 +50,7 @@ Email and Slack notifications are useful for situations when you are not signed 
 
    Changes to notifications are saved automatically.
 
-### Subscribe to [!DNL Slack] notifications {#slack}
+### Subscribe to [!DNL Slack] notifications 
 
 You can configure your account preferences to send Experience Cloud notifications to a [!DNL Slack] channel. 
 
@@ -78,7 +78,7 @@ You can configure your account preferences to send Experience Cloud notification
 
    Updates to notifications are automatically saved.
 
-### Request permission in [!DNL Slack] (troubleshooting) {#slack-troubleshoot}
+### Request permission in [!DNL Slack] (troubleshooting) 
 
 If [!DNL Slack] is not installed, a _[!UICONTROL Request to install]_ message displays when Slack opens after you click **[!UICONTROL Add to Slack]**. For example:
 
@@ -103,7 +103,7 @@ After successfully integrating [!DNL Slack], the [!DNL Slack] notifications disp
 * A link to view all notifications on Experience Cloud.
 * A link to manage notification preferences on Experience Cloud. 
 
-## View [!UICONTROL notifications] and announcements in Experience Cloud {#view-notifications}
+## View [!UICONTROL notifications] and announcements in Experience Cloud 
 
 In the [!DNL Experience Cloud] header, you can view notifications to which you [subscribed](#notifications), as well as view announcements.
 

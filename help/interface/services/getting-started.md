@@ -15,7 +15,7 @@ If you recently implemented Experience Cloud using Experience Platform tags, you
 
 Existing customers can modernize their application implementations and implement Experience Cloud. Doing so enables you to use customer attributes and audience features across Adobe Analytics, Audience Manager, and Adobe Target.
 
-## Join the Experience Cloud and become an administrator {#section_2423F0BD3DF642658103310EE5EA6154}
+## Join the Experience Cloud and become an administrator 
 
 What you must do to join Experience Cloud: 
 
@@ -59,7 +59,7 @@ See [Link accounts in Experience Cloud](../administration/organizations.md)
 
 The following sections describe how to modernize your implementation. Modernizing your implementation enables core services in Experience Cloud. 
 
-## Implement the [!UICONTROL Experience Cloud ID Service] {#section_3C9F6DF37C654D939625BB4D485E4354}
+## Implement the [!UICONTROL Experience Cloud ID Service] 
 
 The [!UICONTROL Experience Cloud ID Service] provides a common ID for cross-application integration. It provides cross-domain visitor identification and a path for cross-device/browser targeting and personalization based on CRM data uploaded via [!DNL Customer Attributes].
 
@@ -78,7 +78,7 @@ If you are not using [!UICONTROL Experience Platform tags], manually implement t
 
 {style="table-layout:auto"}
 
-### Analytics & Adobe Target - synching the customer ID {#section_AD473A6A21C1446498E700363F9A8437}
+### Analytics & Adobe Target - synching the customer ID 
 
 As a part of setting up the Experience Cloud ID Service, Adobe recommends for Analytics and [!DNL Target] that you synchronize your [customer IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) with the Experience Cloud. 
 
@@ -108,7 +108,7 @@ Customer attribute data is made available after visitors log in. If you have not
 
 Contact Customer Care to enable historical data.
 
-## Map report suites to an Experience Cloud Organization {#section_7B08516B01BA421681DF03D0E86CE3BA}
+## Map report suites to an Experience Cloud Organization 
 
 >[!NOTE]
 >
@@ -116,13 +116,13 @@ Contact Customer Care to enable historical data.
 
 Experience Cloud services (such as Experience Cloud ID Service) are associated with an Experience Cloud organization instead of an individual Analytics report suite. To ensure that these services operate correctly, each Analytics report suite must be mapped to an Experience Cloud organization. 
 
-## Update your Analytics AppMeasurement code {#section_1798D9D0F05C47E29816AC4EEB9A0913}
+## Update your Analytics AppMeasurement code 
 
 If you are using first-party cookies, refer to [CNAME and the Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/cname.html) for information about data collection CNAMEs and cross-domain tracking. 
 
 It is recommended that you modernize your Analytics implementation by updating your JavaScript libraries, including the Visitor API. The simple way to accomplish is to add an [Adobe Analytics extension](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/analytics/overview.html) in Experience Platform Data Collection.
 
-## Update your Adobe Target implementation {#section_C2F4493C7A36406DAE2266B429A4BD24}
+## Update your Adobe Target implementation 
 
 * It is recommended that you add an [Adobe Target extension](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target-v2/overview.html) in [!UICONTROL Experience Platform] tags, so that your library retrieval is automatic. You can also set up the [Experience Cloud ID Service extension](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/id-service/overview.html) for Adobe Target (and other applications) using [!UICONTROL Experience Platform] tags. The [!UICONTROL Experience Cloud ID Service] update **is required** for Adobe Target to use the People services.
 * If you are not using [!UICONTROL Experience Platform] tags, [update your mbox library](https://experienceleague.adobe.com/docs/target/using/implement-target/client-side/implement-target-for-client-side-web.html) manually.
@@ -132,7 +132,7 @@ It is recommended that you modernize your Analytics implementation by updating y
   >
   >All Analytics customers are already provisioned for core services like customer attributes. If you are not an Analytics customer, contact Customer Care to request to be provisioned.
 
-## Verify the implementation {#section_E641782A0F4F44AF8C9C91216BE330D5}
+## Verify the implementation 
 
 Use the following process to ensure that Experience Cloud ID Service is implemented correctly on your site.
 
@@ -161,7 +161,7 @@ For example, if the support section of your site is managed in a separate CMS, y
 
 Deploying the Experience Cloud ID Service on sites that are using multiple JavaScript files or other technologies (such as Flash) can cause coordination issues. These issues occur because you must enable the Experience Cloud ID Service on all portions of your site at the same time. By configuring a grace period, new visitors to continue to receive an Analytics visitor ID from the ID service. Visitors can be consistently identified on sections of your site that have not been upgraded to use the visitor ID service. 
 
-## Manage users and products {#section_B6E95F4E0E12483CB9DA99CBC0C5A4AF}
+## Manage users and products 
 
 Once you are up and running, navigate to the [Admin Console](https://adminconsole.adobe.com/), where you can manage users and product profiles. 
 
@@ -171,7 +171,7 @@ Once you are up and running, navigate to the [Admin Console](https://adminconsol
 
 Users that are added to the [!DNL Customer Attributes] group can see the [!DNL Customer Attributes] menu item on the left side of Experience Cloud.
 
-## Begin sharing attribute and audience data {#section_960C06093623462E8EA247B3E97274A1}
+## Begin sharing attribute and audience data 
 
 Take advantage of the following features. 
 

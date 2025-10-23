@@ -42,7 +42,7 @@ Generative AI is a type of AI that can create original content. For example, it 
 
 [!BADGE Privacy, security, and governance]{type=Informative url="https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/privacy" tooltip="GenAI at Adobe"}
 
-## What genAI features are supported? {#ai-roundup}
+## What genAI features are supported? 
 
 Here's a roundup of the [!DNL Experience Cloud] applications that use generative AI features and AI Assistant. Compatibility with [Adobe Firefly](https://business.adobe.com/products/firefly-business/firefly-ai-approach.html) is indicated for generative AI features.
 
@@ -82,11 +82,11 @@ Here's a roundup of the [!DNL Experience Cloud] applications that use generative
 
 **Note:** [!DNL Experience Platform Agents] are described in [AI agents in Experience Cloud](agentic-ai.md).
 
-## How can I use generative AI in Experience Cloud? {#products}
+## How can I use generative AI in Experience Cloud? 
 
 The following sections go into more detail about how you can use genAI or AI Assistant in specific applications. Links to learn more are provided.
 
-### GenStudio for Performance Marketing {#gspm}
+### GenStudio for Performance Marketing 
 
 +++Details
 
@@ -98,7 +98,7 @@ Performance marketers can use natural language prompts to generate personalized,
 
 +++
 
-### [!DNL Experience Manager] {#aem}
+### [!DNL Experience Manager] 
 
 +++Details
 
@@ -146,13 +146,13 @@ The output is generated content or market copy.
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations-integrated-editor" tooltip="Go to Generate Variations on Experience League"}
 
-#### Sites Optimizer {#sites-optimizer}
+#### Sites Optimizer 
 
 AEM Sites Optimizer uses generative AI to analyze and improve the performance and effectiveness of web experiences. These insights are grouped into key opportunity areas: Engagement, Traffic Acquisition, Security Posture, and, Site Health. Each category highlights specific ways to enhance your site, whether by increasing visitor interaction, improving discoverability, strengthening security, or maintaining site stability.
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/opportunity-types/overview" tooltip="Go to Sites Optimizer on Experience League"}
 
-#### Experience Manager Assets {#aem-assets}
+#### Experience Manager Assets 
 
 In AEM Assets, you can use generative AI in **Content Hub** and **AI-generated Smart Tags**.
 
@@ -200,7 +200,7 @@ AI Assistant is available in Experience Platform, Real-Time Customer Data Platfo
 
 +++
 
-### Adobe [!DNL Journey Optimizer] {#journey-optimizer}
+### Adobe [!DNL Journey Optimizer] 
 
 +++Details
 
@@ -222,7 +222,7 @@ Here's an example input for operational insights:
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant" tooltip="Learn about AI Assistant in AJO"}
 
-#### AI Assistant for content generation (AJO Prime and Ultimate) {#ajo-prime}
+#### AI Assistant for content generation (AJO Prime and Ultimate) 
 
 In AJO _Prime_ and _Ultimate_, you can use [content generation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/gs-generative) for content generation to bring proactive content variation suggestions for text and images.
 
@@ -232,7 +232,7 @@ This feature is available for email, push notifications, web page, content, and 
 
 +++
 
-### [!DNL Journey Optimizer B2B Edition] {#ajo-b2b}
+### [!DNL Journey Optimizer B2B Edition] 
 
 +++Details
 
@@ -248,7 +248,7 @@ Example input:
 
 +++
 
-### [!DNL Customer Journey Analytics] {#cja}
+### [!DNL Customer Journey Analytics] 
 
 +++Details
 
@@ -290,7 +290,7 @@ For example: foreground `color: red` is an automatically assigned attribute. The
 
 +++
 
-### [!DNL Real-Time CDP] {#rtcdp}
+### [!DNL Real-Time CDP] 
 
 +++Details
 
@@ -302,7 +302,7 @@ For example, if you query about an audience, [!UICONTROL AI Assistant] can acces
 
 +++
 
-### [!DNL Campaign] Managed Cloud Services {#campaign-cs}
+### [!DNL Campaign] Managed Cloud Services 
 
 +++Details
 
@@ -314,7 +314,7 @@ Campaign Managed Cloud Services uses [!UICONTROL AI Assistant] for content gener
 
 +++
 
-### [!DNL Marketo] {#marketo}
+### [!DNL Marketo] 
 
 +++Details
 
@@ -349,7 +349,7 @@ Marketo integrates with GenStudio for Performance Marketing
 
 +++
 
-### [!DNL Workfront] {#workfront}
+### [!DNL Workfront] 
 
 +++Details
 

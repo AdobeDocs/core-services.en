@@ -70,7 +70,7 @@ Related help:
 * [Creative Cloud Help - Collaborate with others](https://helpx.adobe.com/creative-cloud/help/collaboration.html)
 * [Creative Cloud Help - Collaboration FAQ](https://helpx.adobe.com/creative-cloud/help/collaboration-faq.html)
 
-## About asset sharing with Adobe Target {#section_B7CD64CAB35D43A4B12957B304072DC9}
+## About asset sharing with Adobe Target 
 
 When creating activities in [!DNL Adobe Target], you can use a shared image asset when swapping images in the [!UICONTROL Offers Library].
 

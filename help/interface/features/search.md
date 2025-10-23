@@ -9,7 +9,7 @@ role: Admin
 level: Beginner
 exl-id: 70586f18-6f84-4308-bab3-1da7fab823d6
 ---
-# [!UICONTROL Unified Search] for objects and entities {#globally-search}
+# [!UICONTROL Unified Search] for objects and entities 
 
 The [!UICONTROL Unified Search] search enables you to find searchable business objects or entities in a seamless, consistent, one-click experience. This search surfaces your recently accessed objects, too.
 

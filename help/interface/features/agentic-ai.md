@@ -15,7 +15,7 @@ Adobe Experience Platform [Agent Orchestrator](https://experienceleague.adobe.co
 * [Existing [!DNL Experience Cloud] apps](#existing-apps)
 * [AI-First [!DNL Experience Cloud] apps](#ai-first-apps)
 
-## Existing [!DNL Experience Cloud] apps {#existing-apps}
+## Existing [!DNL Experience Cloud] apps 
 
 These apps work on their own, but adding [!DNL AEP Agents] gives you extra power and impact. If you have a license for [!DNL Platform Agent Orchestrator], you can use the [!DNL Platform Agents] for the apps you're entitled to.
 
@@ -26,7 +26,7 @@ These apps work on their own, but adding [!DNL AEP Agents] gives you extra power
 | [Journey Agent](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ajo-agent-analyze) | Available | Create, analyze, and optimize customer journeys at scale. | <ul><li>Adobe Journey Optimizer (B2B and B2C additions)</li></ul>    |
 | [Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) | Available | Troubleshoot issues, create support tickets, and track progress with AI Assistant. | <ul><li>Adobe Experience Platform</li><li>Real-Time CDP (B2B and B2C additions)</li><li>Adobe Journey Optimizer (B2B and B2C additions)</li><li>Adobe Journey Optimizer B2B Edition</li><li>Customer Journey Analytics</li><li>Adobe Experience Manager</li></ul>  |
 
-## AI-First Experience Cloud apps {#ai-first-apps}
+## AI-First Experience Cloud apps 
 
 These apps are built with AI at the core. They use generative or agentic AI for key tasks, and the agentic features are already included in the application license without requiring the Agent Orchestrator add-on. 
 

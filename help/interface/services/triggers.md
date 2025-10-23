@@ -33,7 +33,7 @@ Generally, a trigger can take 15-90 minutes to launch a marketing campaign. This
 * **Action:** You can create triggers, for example, to fire after newsletter sign-ups, email subscriptions, or applications for credit cards (confirmations). If you are a retailer, you can create a trigger for a visitor who signs up for a loyalty program. In media and entertainment, create triggers for visitors who watch a certain show, and perhaps you want to respond with a survey.
 * **Session Start and Session End:** Create a trigger for session start and session end events.
 
-## Create an Experience Cloud trigger {#task_821F37183AC045E5AC8EED20317598FE}
+## Create an Experience Cloud trigger 
 
 Create a trigger and configure the conditions for the trigger. For example, you can specify the criteria for a trigger's rules during a visit, such as metrics like Cart Abandon, or dimensions like the product name. When the rules are met, the trigger runs.
 

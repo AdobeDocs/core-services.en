@@ -10,7 +10,7 @@ role: Admin
 level: Experienced
 exl-id: 1c6e54ac-4886-46ed-9df7-201d2df31847
 ---
-# Experience Cloud audiences {#topic_679810123CAA4E0CA4FA3417FB0100C7}
+# Experience Cloud audiences 
 
 [!DNL Audience Library] displays audiences in Experience Cloud. Audiences are collections of visitors (a list of [!DNL Experience Cloud] IDs). You can manage the translation of visitor data into audience segmentation. As such, creating and managing audiences is similar to creating and using segments. You can also share the audience segment to products and services in [!DNL Experience Cloud]. 
 
@@ -29,7 +29,7 @@ All audiences, regardless of where they are sourced, are accessible for real-tim
 * Historical audiences from Analytics are evaluated every four hours. Total time to process and share takes up to eight hours. Historical audiences always include return visitors.
 * Real-time audiences are sourced in Experience Cloud Audiences and evaluated in real time.
 
-## How applications use audiences {#concept_01EB9345C5344597BC94A864EDD38EE1}
+## How applications use audiences 
 
 The following table describes how audiences are used in Experience Cloud applications: 
 
@@ -49,7 +49,7 @@ The following table describes how audiences are used in Experience Cloud applica
 >
 >Once a visitor qualifies for the audience shared from Analytics, there is a 4-8 hour delay before that information is actionable in [!DNL Target], Ad Cloud, and Campaign Standard.
 
-## Audience Library interface elements {#section_D04ACEF61CEF4B189AE6BA9F40D0DBF4}
+## Audience Library interface elements 
 
 [!DNL Experience Cloud] provides a library for creating and managing audiences, with native, real-time audience identification. 
 

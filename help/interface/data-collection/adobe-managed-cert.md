@@ -25,7 +25,7 @@ Follow these steps to implement a new certificate for first-party data collectio
 1. Upon receiving the ticket, the Adobe representative provides you with a CNAME record. These records must be configured on your company's DNS server before Adobe can purchase the certificate on your behalf. For example, the hostname `data.example.com` points to `hiodsibxvip01.data.adobedc.net`.
 1. When the CNAME record is in place on your organization's servers, Adobe works with DigiCert to purchase and install a certificate on Adobe data collection servers.
 
-## Validate hostname forwarding {#validate}
+## Validate hostname forwarding 
 
 Once Adobe has installed the certificate, you can use one of the following methods to validate that it is working.
 
@@ -81,7 +81,7 @@ Aliases: smetrics.example.com
 
 +++
 
-## Update implementation code {#update}
+## Update implementation code 
 
 Once you have validated that your certificate works correctly, you can update your Adobe implementation to use these values.
 
