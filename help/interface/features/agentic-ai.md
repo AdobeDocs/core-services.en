@@ -17,7 +17,7 @@ Adobe [!DNL Experience Platform] [Agent Orchestrator](https://experienceleague.a
 
 ## Existing [!DNL Experience Cloud] apps 
 
-These apps work on their own, but adding [!DNL AEP Agents] gives you extra power and impact. If you have a license for [!DNL Platform Agent Orchestrator], you can use the [!DNL Platform Agents] for the apps you're entitled to.
+These apps work on their own, but adding [!DNL AEP Agents] gives you extra power and impact. If you have a license for [!DNL Platform Agent Orchestrator], you can use the [!DNL Platform Agents] for the apps you're entitled to. 
 
 | Agent name  | Availability | Capabilities | Supported applications   |
 |---|----------|----------|----------|
