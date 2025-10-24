@@ -80,7 +80,7 @@ Here's a roundup of the [!DNL Experience Cloud] applications that use generative
 | **[!DNL Marketo]** |GenAI is available in Email Designer (with Firefly), [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/overview?lang=en), and [Interactive Webinars](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai?lang=en). <br> AI Assistant for Marketo Engage [Email Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant) | Yes |
 | [Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant-overview) |  AI Assistant for in-app information and suggestions.  | Yes |
 
-**Note:** [!DNL Experience Platform Agents] are described in [AI agents in Experience Cloud](agentic-ai.md).
+**Note:** [!DNL Experience Platform Agents] are described in [AI agents in Experience Cloud](agentic-ai.md). 
 
 ## How can I use generative AI in Experience Cloud? 
 
