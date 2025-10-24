@@ -10,14 +10,16 @@ exl-id: c1a8f9a7-4752-4040-b5f0-dc775417f536
 ---
 # Experience Platform agents in Experience Cloud
 
-Adobe [!DNL Experience Platform] [Agent Orchestrator](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/home) is the central technology for building and coordinating expert AI agents in Adobe [!DNL Experience Cloud]. You can gain access to the capabilities of AEP Agent Orchestrator and AEP Agents either through:
+Adobe [!DNL Experience Platform] [Agent Orchestrator](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/home) is the central technology for building and coordinating expert AI agents in Adobe [!DNL Experience Cloud]. 
 
-* [Existing [!DNL Experience Cloud] apps](#existing-apps)
-* [AI-First [!DNL Experience Cloud] apps](#ai-first-apps)
+You can gain access to AI agents either through:
+
+* [Existing [!DNL Experience Cloud] apps](#existing-apps) (A license is required to use an AI agent)
+* [AI-First [!DNL Experience Cloud] apps](#ai-first-apps) (Agents are native to the application)
 
 ## Existing [!DNL Experience Cloud] apps 
 
-These apps work on their own, but adding [!DNL AEP Agents] gives you extra power and impact. If you have a license for [!DNL Platform Agent Orchestrator], you can use the [!DNL Platform Agents] for the apps you're entitled to. 
+Existing apps work on their own, but adding AI agents gives you extra power and impact. If you have a license for [!DNL Platform Agent Orchestrator], you can use the [!DNL Platform Agents] for the apps you're entitled to. 
 
 | Agent name  | Availability | Capabilities | Supported applications   |
 |---|----------|----------|----------|
@@ -28,7 +30,7 @@ These apps work on their own, but adding [!DNL AEP Agents] gives you extra power
 
 ## AI-First Experience Cloud apps 
 
-These apps are built with AI at the core. They use generative or agentic AI for key tasks, and the agentic features are already included in the application license without requiring the Agent Orchestrator add-on. 
+These apps are built with AI at the core. They use generative or agentic AI for key tasks, and the AI agents are already included in the application license without requiring the Agent Orchestrator add-on. 
 
 | Agent name  | Availability | Capabilities | Supported applications   |
 |---|----------|----------|----------|
