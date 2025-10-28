@@ -51,7 +51,7 @@ Most likely, you have users who are already members of application groups, such 
 
 When you map these groups to Experience Cloud enterprise groups, those users must manually link their application account credentials to their Adobe ID.
 
-See [Link accounts in Experience Cloud](../administration/organizations.md)
+See [Link accounts in Experience Cloud](https://experienceleague.adobe.com/en/docs/core-services/interface/administration/organizations)
 
 >[!NOTE]
 >
@@ -71,10 +71,10 @@ For complete Experience Cloud ID Service help (formerly, visitor ID), go [here](
 
 If you are not using [!UICONTROL Experience Platform tags], manually implement the ID service via the JavaScript Deployment (`VisitorAPI.js`), as follows:
 
-| Task    | Description  |
-| -----------| ---------- |  
-| [Implement the Experience Cloud ID Service for Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html)  | Adobe also recommends setting additional [customer IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html). These IDs are associated with each visitor and enable current and future functionality in Experience Cloud. |  
-| Update your existing `s_code` to version H.27.3 or later, or your existing `AppMeasurement.js` to version 1.4 or later.  | These files are available for download in the [Code Manager](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html) in Analytics Admin Tools. (The [JavaScript Implementation](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html#js) guide is available if you need more information about `AppMeasurement.js`.) |
+| Task  | Description  |
+|--- |--- |  
+| [Implement the Experience Cloud ID Service for Analytics](https://experienceleague.adobe.com/en/docs/analytics/implementation/id/overview)  | Adobe also recommends setting additional [customer IDs](https://experienceleague.adobe.com/en/docs/id-service/using/reference/authenticated-state). These IDs are associated with each visitor and enable current and future functionality in Experience Cloud. |
+| Update your existing `s_code` to version H.27.3 or later, or your existing `AppMeasurement.js` to version 1.4 or later.  | These files are available for download in the [Code Manager](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html) in Analytics Admin Tools. (The [JavaScript Implementation](https://experienceleague.adobe.com/en/docs/analytics/implementation/js/overview#js) guide is available if you need more information about `AppMeasurement.js`.) |
 
 {style="table-layout:auto"}
 
@@ -179,13 +179,13 @@ Take advantage of the following features.
 
 If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in Experience Cloud. Once uploaded, use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target].
 
-See [customer attributes](customer-attributes/attributes.md) fore more information.
+See [customer attributes](https://experienceleague.adobe.com/en/docs/core-services/interface/services/customer-attributes/attributes) for more information.
 
 ### [!UICONTROL People] > [!UICONTROL Audience Library] 
 
 Experience Cloud [!UICONTROL Audiences] is the interface that lets you create audiences, combine existing audiences to create composite audiences, and view all shared audiences. 
 
-See [Audiences](audiences/overview.md) for more information.
+See [Audiences](https://experienceleague.adobe.com/en/docs/core-services/interface/services/audiences/overview) for more information.
 
 ## Data storage and privacy disclosure 
 
