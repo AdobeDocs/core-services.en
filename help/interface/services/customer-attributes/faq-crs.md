@@ -45,3 +45,4 @@ Guidance and limitations when using [!DNL Customer Attributes].
 |What do the file upload metrics represent in [!DNL Customer Attributes] Source?|You can check the status of attributes uploaded to [!DNL Customer Attributes] with the help of following metrics: <ul><li>Records:  Number of records in the attributes file.</li><li>**New Records:** Number of new records present in the attributes file.</li> <li>**Updated Records:** Number of records in that exist in [!DNL Customer Attributes] with updated values in the file.</li><li>**All Data (Records):** Total number of records successfully uploaded to [!DNL Customer Attributes].</li></ul>|
 
 {style="table-layout:auto"}
+

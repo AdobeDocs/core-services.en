@@ -26,3 +26,4 @@ See [https://helpx.adobe.com/creative-cloud/help/sync-creative-cloud-files.html]
 1. Launch the [!DNL Creative Cloud] desktop and navigate to [!UICONTROL **Assets**].
 1. Click **[!UICONTROL Open Folder].**
 1. Use your operating system's file browsing to select or move assets.
+

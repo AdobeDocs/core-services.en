@@ -27,3 +27,4 @@ File size limitations come from the browser and can vary from browser to browser
 |Internet Explorer 7|2 GB|4 GB|
 |Internet Explorer 8|2 GB|17,592 GB|
 |Internet Explorer 9 to 11|4 GB|17,592 GB|
+

@@ -21,3 +21,4 @@ The Experience Cloud provides administrative tools for managing approved Creativ
 1. Click **[!UICONTROL Add New User]**.  ![add new user](../../assets/mac_add_icon.png)
 1. Type an email, display name, title, and optionally add an Avatar.
 1. Click **[!UICONTROL Create]**.
+
