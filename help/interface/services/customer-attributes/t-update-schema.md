@@ -16,3 +16,4 @@ How to delete and replace attributes in the schema.
 1. Remove mapped values for **[!UICONTROL Target]** or **[!UICONTROL Analytics]**.
 
 1. [Upload a new data file with updated fields](t-crs-usecase.md).
+

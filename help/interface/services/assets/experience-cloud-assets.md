@@ -84,3 +84,4 @@ See the number of users, storage used, and total assets.
 Click **[!UICONTROL Tools]** > **[!UICONTROL Reports]** > **[!UICONTROL Usage Report]** 
 
 ![Run usage reports](../../assets/assets-usage-report.png)
+

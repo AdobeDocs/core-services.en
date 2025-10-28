@@ -136,3 +136,4 @@ Visitor.setcustomerIDs({
 In **[!DNL Experience Cloud]** > **[!DNL Customer Attributes]**:
 
 Create two customer attributes sources using unique alias IDs corresponding to the customer IDs above. Using this method allows the same reference ID to be sent to multiple customer attribute sources.
+
