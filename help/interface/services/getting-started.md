@@ -11,7 +11,7 @@ exl-id: 48e79e23-b339-4143-b3b1-969c370efeff
 ---
 # Get started with Experience Cloud services
 
-If you recently implemented Experience Cloud using Experience Platform tags, you're already set up for customer attributes and Experience Cloud Audiences. You can also manage users and products in the Admin Console.
+If you recently implemented Experience Cloud using Experience Platform tags, you are already set up for customer attributes and Experience Cloud Audiences. You can also manage users and products in the Admin Console.
 
 Existing customers can modernize their application implementations and implement Experience Cloud. Doing so enables you to use customer attributes and audience features across Adobe Analytics, Audience Manager, and Adobe Target.
 
