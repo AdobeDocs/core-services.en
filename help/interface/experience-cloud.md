@@ -40,10 +40,8 @@ Sign in and verify that you are in the right [organization](administration/organ
    If your organization uses Federated IDs, Experience Cloud allows you to sign in with your organization's single sign-on without being required to enter your email address and password. Add `#/sso:@domain` to the Experience Cloud URL (`https://experience.adobe.com`) to accomplish this task.
     
    For example, for an organization with Federated IDs and the domain `adobecustomer.com`, set your URL link to `https://experience.adobe.com/#/sso:@adobecustomer.com`. You can also go directly to a specific application by bookmarking this URL, appended with the application path. (For example, for Adobe Analytics, `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.)
-
-   >[!NOTE]
-   >
-   >The administrator of your organization may restrict access to Adobe products by IP addresses. If so, you may receive an error after logging into Experience Cloud or switching to an organization with this enabled. More information is available in [Limit product access by IP addresses](https://helpx.adobe.com/enterprise/using/ip-based-access.html).
+   
+   **Note:** The administrator of your organization may restrict access to Adobe products by IP addresses. If so, you may receive an error after logging into Experience Cloud or switching to an organization with this enabled. More information is available in [Limit product access by IP addresses](https://helpx.adobe.com/enterprise/using/ip-based-access.html).
 
 
 ## Access Experience Cloud applications 
