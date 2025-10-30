@@ -12,6 +12,10 @@ exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
 
 Learn where documentation updates occur for the central interface and administration of Experience Cloud.
 
+**October 2025**
+
+Updated [Verify your organization](experience-cloud.md) with note about error message if an administrator restricts access to Adobe products by IP addresses.
+
 **August 2025**
 
 Added information about [resetting your Adobe ID](../features/account-preferences.md).
