@@ -44,7 +44,7 @@ Generative AI is a type of AI that can create original content. For example, it 
 
 ## What genAI features are supported? 
 
-Here's a roundup of the [!DNL Experience Cloud] applications that use generative AI features and AI Assistant. Compatibility with [Adobe Firefly](https://business.adobe.com/products/firefly-business/firefly-ai-approach.html) is indicated for generative AI features.
+Here's a roundup of [!DNL Experience Cloud] applications that use generative AI features and AI Assistant. Compatibility with [Adobe Firefly](https://business.adobe.com/products/firefly-business/firefly-ai-approach.html) is indicated for generative AI features.
 
 ### Generative AI
 
