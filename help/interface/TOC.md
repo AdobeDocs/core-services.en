@@ -10,9 +10,12 @@ index: yes
 # Experience Cloud interface and administration {#interface}
 
 + [Experience Cloud interface and administration](experience-cloud.md)
++ [Hidden home](hidden-experience-cloud.md)
 + Services {#services}
   + [Overview](services/overview.md)
   + [Get started](services/getting-started.md)
+  + [Hidden Overview](services/hidden-overview.md)
+  + [Hidden Get started](services/hidden-getting-started.md)
   + Assets {#assets}
     + [Overview](services/assets/experience-cloud-assets.md)
     + [Manage Creative Cloud users](services/assets/manage-cc-users.md)
