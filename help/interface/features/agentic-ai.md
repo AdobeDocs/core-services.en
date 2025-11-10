@@ -28,6 +28,17 @@ Existing apps work on their own, but adding AI agents gives you extra power and 
 | [Journey Agent](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ajo-agent-analyze) | Available | Create, analyze, and optimize customer journeys at scale. | <ul><li>Adobe Journey Optimizer (B2B and B2C additions)</li></ul>    |
 | [Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) | Available | Troubleshoot issues, create support tickets, and track progress with AI Assistant. | <ul><li>Adobe Experience Platform</li><li>Real-Time CDP (B2B and B2C additions)</li><li>Adobe Journey Optimizer (B2B and B2C additions)</li><li>Adobe Journey Optimizer B2B Edition</li><li>Customer Journey Analytics</li><li>Adobe Experience Manager</li></ul>  |
 
+<!-- Draft AEM or upcoming agents: release 11/20
+* Experience Production: Automates high-effort and high-volume tasks. Empowering teams and turning manual, weeks-long processes into fast, AI-assisted workflows that keep every experience current and consistent helping the business achieve their goals.
+
+* Experience Governance - Brand governance - Digital Rights (DRM) and permissions
+
+* Experience Advisory (agentic version of Content Advisor)
+
+* Workflow Optimization: Improve your project request process and ensure all incoming work is vetted against priorities by consolidating intake channels.
+
+* Site Advisory Agent: Content discovery - Search for the most relevant brand-approved content and assets. Content summarization - Transform existing site content into AI-generated summaries. -->
+
 ## AI-First Experience Cloud apps 
 
 These apps are built with AI at the core. They use generative or agentic AI for key tasks, and the AI agents are already included in the application license without requiring the Agent Orchestrator add-on. 
