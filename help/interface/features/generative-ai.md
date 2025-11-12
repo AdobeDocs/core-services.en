@@ -2,6 +2,8 @@
 title: Generative AI in Experience Cloud Applications
 description: Get a high-level look at where you can take advantage of AI-powered features in Experience Cloud applications.
 solution: Experience Cloud
+landing-page-name: ai
+landing-page-breadcrumb-title: AI Documentation
 feature: AI Assistant, Generative AI
 topic: Artificial Intelligence
 role: Admin, User

@@ -2,6 +2,8 @@
 title: Agentic AI in Experience Cloud Applications
 description: Learn where agentic AI is available in Experience Cloud applications.
 solution: Experience Cloud
+landing-page-name: ai
+landing-page-breadcrumb-title: AI Documentation
 topic: Artificial Intelligence
 feature: Agentic AI, AI Tools
 role: Admin, User
