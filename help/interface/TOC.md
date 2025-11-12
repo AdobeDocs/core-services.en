@@ -71,3 +71,4 @@ index: yes
   + [Documentation updates](more-resources/doc-updates.md)
   + [Frequently asked questions](more-resources/faq.md)
   + [Terminology](more-resources/terms.md)
+
