@@ -310,8 +310,6 @@ For example, if you query about an audience, [!UICONTROL AI Assistant] can acces
 
 Campaign Managed Cloud Services uses [!UICONTROL AI Assistant] for content generation. This feature lets you auto-generate personalized, engaging, and effective content based on your marketing objective, with content optimized for brand outlined styles, layouts, tone, and more. You can use it across channels like email, SMS, and push.
 
-**Note:** Output from content generation in Campaign Managed Cloud Services is indemnified. 
-
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-gs" tooltip="Learn about AI Assistant in AJO"}
 
 +++
