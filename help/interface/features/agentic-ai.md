@@ -60,6 +60,10 @@ Here is the list of Experience Platform Agents available in AI-First application
 
 <!-- **Content Optimization Agent**  November 20, 2025  Simplify creating visual content variants from source assets using natural language prompts.  <ul><li>Adobe Experience Manager (with [Dynamic Media with OpenAPI](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview))</li></ul> 
 
+Discovery Agent: Speed authoring and boost discovery with simplified natural-language prompts to instantly find and surface relevant and precise Adobe Experience Manager content across images, videos, text based documents, content fragments, forms.
+
+Supported apps: Adobe Experience Manager Cloud Services
+
 **Governance Agent** Safeguard brand integrity and compliance by enforcing security, regulatory, and brand policies across Experience Manager. This agent applies brand governance to maintain visual and messaging standards, uses granular permissions to manage access and content changes, and incorporates DRM to uphold licensing and usage constraints.  <ul><li>Adobe Experience Manager Sites</li><li>Adobe Experience Manager Assets</li><li>Adobe Experience Manager Forms </li></ul>  -->
 
 ## More help on this topic
