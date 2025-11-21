@@ -20,7 +20,7 @@ You can gain access to these agentic capabilities either through:
 
 * [Existing [!DNL Experience Cloud] apps](#existing-apps): These applications work on their own, but enabling Experience Platform Agent Orchestrator and Agents enhances the efficiency of your existing jobs and workflows executed in these applications and increases productivity of the teams leveraging them. To enable these agentic capabilities in Experience Cloud applications that you have currently licensed, you must also purchase the Agent Orchestrator license.
 
-* [AI-First [!DNL Experience Cloud] apps](#ai-first-apps): These applications are built with generative or agentic AI at the core. They use generative or agentic AI for key tasks, and the agentic features are already included in the AI first application license and do not require the Agent Orchestrator license. 
+* [AI-first [!DNL Experience Cloud] apps](#ai-first-apps): These applications are built with generative or agentic AI at the core. They use generative or agentic AI for key tasks, and the agentic features are already included in the AI-first application license and do not require the Agent Orchestrator license. 
 
 ## Existing [!DNL Experience Cloud] applications
 
@@ -33,11 +33,11 @@ Here is the list of Experience Platform Agents available in existing experience 
 | [Journey Agent](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ajo-agent-analyze) | Available | Enable your teams to quickly create, analyze, and optimize multi-touch customer journeys at scale. | <ul><li>Adobe Journey Optimizer (B2B and B2C additions)</li></ul>    |
 | [Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) | Available | Troubleshoot support issues without leaving your workflows, create customer support tickets, and track case progress using AI Assistant. | <ul><li>Real-Time CDP (B2B and B2C additions)</li><li>Adobe Journey Optimizer (B2B and B2C additions)</li><li>Adobe Journey Optimizer B2B Edition</li><li>Customer Journey Analytics</li><li>Adobe Experience Manager</li></ul>  |
 
-## AI-First Experience Cloud applications 
+## AI-first Experience Cloud applications 
 
-Here is the list of Experience Platform Agents available in AI-First applications and enabled by licensing these AI-fFirst applications: 
+Here is the list of Experience Platform Agents available in AI-first applications and enabled by licensing these AI-first applications: 
 
-|Agent name  | Availability | Capabilities | Supported applications   |
+| Agent name  | Availability | Capabilities | Supported applications   |
 |---|----------|----------|----------|
 | [Content Optimization Agent](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/business-agents/content-optimization/using) | Available | Simplify creating visual content variants from source assets using natural language prompts.|  <ul><li>Adobe Experience Manager (with [Dynamic Media with OpenAPI](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview))</li></ul>  |
 | [Development Agent](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/business-agents/development/overview) | Available | Helps AEM CS developers and technical administrators troubleshoot build-step failures in the Cloud Manager pipeline by analyzing the root cause and suggesting fixes.|  <ul><li>AI Assistant in AEM Cloud Service and Adobe Managed Services</li></ul>  |
