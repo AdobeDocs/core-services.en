@@ -38,8 +38,8 @@ See [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-ser
 
 **Applicable applications or services** 
 
-* [Adobe Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html)
-* [Adobe Target](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-target.html)
+* [Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/implementation/id/overview)
+* [Adobe Target](https://experienceleague.adobe.com/en/docs/id-service/using/implementation/setup-target)
 
 ## Audiences 
 
