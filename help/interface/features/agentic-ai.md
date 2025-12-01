@@ -12,7 +12,7 @@ exl-id: c1a8f9a7-4752-4040-b5f0-dc775417f536
 ---
 # Experience Platform agents in Experience Cloud
 
-Updated: **Available**
+Updated: **December 1, 2025**
 
 Adobe [!DNL Experience Platform] [Agent Orchestrator](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/home) and Adobe Experience Platform Agents enable agentic capabilities within Experience Cloud applications. 
 
