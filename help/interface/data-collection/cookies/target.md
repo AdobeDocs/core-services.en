@@ -45,3 +45,4 @@ Adobe Target users can create customized third-party cookies. The following thir
 These third-party cookies are HTTPOnly out of the box and are set by Adobe Target data collection servers.
 
 The `secure` setting can be enabled on all of the cookies using the `secureOnly: true` configuration in `at.js`.
+

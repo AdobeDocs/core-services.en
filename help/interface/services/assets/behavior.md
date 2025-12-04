@@ -99,4 +99,3 @@ You restore content from an archive that belonged to a shared folder. You owned 
 ![Restored content from archive](../../assets/12_assets_move.png) 
 
 **Result:** The content is restored to the shared folder and all collaborators can access it again. If the shared folder no longer exists, the content is put into an unshared copy of its original parent folder(s).
-

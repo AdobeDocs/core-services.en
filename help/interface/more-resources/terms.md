@@ -40,3 +40,4 @@ A terminology reference for Experience Cloud users, and how those terms are used
 |**Trait**|N/A|A key-value pair, for example, color=blue. In Audience Manager, [traits](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/traits-overview.html) are used to build segments.|
 
 {style="table-layout:auto"}
+

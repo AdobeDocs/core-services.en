@@ -22,3 +22,4 @@ The Adobe Experience Platform Web SDK uses cookies to store values specific to y
 | **AMCV_###@AdobeOrg** | 34128000 (395 days) | | Present when [`idMigrationEnabled`](https://experienceleague.adobe.com/en/docs/experience-platform/web-sdk/commands/configure/idmigrationenabled) is enabled. It helps when transitioning to Web SDK while some parts of the site are still using `visitor.js`. |
 
 The Edge Network sets all cookies with the `secure` and `sameSite="none"` attributes. If you currently have both secure and non-secure sections on your website, user identification can be inaccurate. When a user navigates from a secure section of the site to a non-secure section, the Edge Network generates a new `ECID` with the request.
+

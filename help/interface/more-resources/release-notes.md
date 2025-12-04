@@ -823,4 +823,4 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 * Fixed an issue causing applications to display on the [!UICONTROL Experience Cloud Solutions] page as linked, even if the applications accounts were not linked.
 * Fixed an issue that prevented [!DNL Adobe Target] customers in Asia from being able to select the **[!UICONTROL Continue to Experience Cloud]** button on the linking page.
 * Fixed an issue that prevented the sharing of YouTube videos.
- -->
+-->

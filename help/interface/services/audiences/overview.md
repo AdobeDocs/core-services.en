@@ -72,4 +72,3 @@ The following table describes how audiences are used in Experience Cloud applica
 ## Publish audiences from Adobe Analytics
 
 See [Publish segments to Experience Cloud](https://experienceleague.adobe.com/en/docs/analytics/components/segmentation/segmentation-workflow/seg-publish) in the Adobe Analytics documentation for more information.
-

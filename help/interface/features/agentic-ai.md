@@ -72,11 +72,3 @@ Here is the list of Experience Platform Agents available in AI-first application
 * [AI in Experience Cloud](https://experienceleague.adobe.com/en/docs/ai) documentation home
 
 [!BADGE Learn more on Adobe for Business]{type=Informative url="https://business.adobe.com/products/experience-platform/agent-orchestrator.html" tooltip="Go to Business.adobe.com"}
-
-
-
-
-
-
-
-

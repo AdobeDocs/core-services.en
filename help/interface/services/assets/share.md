@@ -75,3 +75,4 @@ Related help:
 When creating activities in [!DNL Adobe Target], you can use a shared image asset when swapping images in the [!UICONTROL Offers Library].
 
 See [Offers Library](https://experienceleague.adobe.com/docs/target/using/experiences/offers/manage-content.html) in [!DNL Target] Help.
+

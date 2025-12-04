@@ -30,4 +30,3 @@ The Exchange Marketplace is a single destination where you can search, browse, s
 * Search and filter by category, company, type, user, and more. 
 
 See [Experience Cloud Exchange](https://exchange.adobe.com/experiencecloud.html) for more information.
-

@@ -24,3 +24,4 @@ In addition to the domains listed below, individual Adobe Experience Cloud produ
 | Fonts | `typekit.net` |
 | Data collection (for product performance and usage) | `adobedtm.com` |
 | Gainsight (for product guidance and help) | `esp.aptrinsic.com`, `esp-m.aptrinsic.com` |
+

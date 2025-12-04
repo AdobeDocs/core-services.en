@@ -147,3 +147,4 @@ The following table lists and defines the elements in a `dextp` cookie by locati
 **_dp Cookie**
 
 This cookie is temporary. [!DNL Audience Manager] tries to set the `_dp` cookie to determine if it can set other cookies in the demdex.net domain in a third-party context. When `_dp` is set it contains a value of 1. [!DNL Audience Manager] reads this value and immediately removes the cookie. If the `_dp` cookie is not present, [!DNL Audience Manager] knows it cannot set cookies.
+
