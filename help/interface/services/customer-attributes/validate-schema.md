@@ -47,4 +47,3 @@ A schema is created based on these settings. The schema is used to validate all 
   * **[!UICONTROL CID (customer ID):]** The attributes associated with this CID. If you are using a prop or eVar to upload CIDs (AVID), and you see attributes displayed but no AVID, this indicates that the visitor has not logged in to your site.
       
   * **[!UICONTROL AVID (Analytics visitor ID):]** Displays if you use a prop or eVar to upload CIDs. If those IDs are being passed to Experience Cloud, any visitor IDs associated with the CID you entered are displayed here.
-

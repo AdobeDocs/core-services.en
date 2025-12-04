@@ -112,3 +112,4 @@ In the [!DNL Experience Cloud] header, you can view notifications to which you [
 1. Click **[!UICONTROL Notifications]** or **[!UICONTROL Announcements]**.
 
    This location is where you receive important information about products, your collaboration with fellow users, and other relevant updates. Updates include product releases, maintenance notices, shared items, and approval requests.
+

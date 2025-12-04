@@ -100,3 +100,4 @@ The Adobe Experience Cloud also supports IPv6 in limited capacity. These IP bloc
 >[!TIP]
 >
 >FTP connections for Adobe Analytics export features (including Data Warehouse and data feeds) only originate from IPv4 addresses in the London, Oregon, and Singapore locations.
+

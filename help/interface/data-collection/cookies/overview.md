@@ -48,3 +48,4 @@ The following diagram illustrates cookie usage for a standard image request:
 The following diagram illustrates cookie usage for a straight image request (used in scenarios where a JS file is not loaded): 
 
 ![Cookie usage for a straight image request](assets/CookiesProcessGraphic2.png)
+

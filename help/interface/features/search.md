@@ -96,3 +96,4 @@ Try these tips:
 * Check the spelling
 * Try to write the complete search term
 * Make sure you have the permissions to objects you search for
+

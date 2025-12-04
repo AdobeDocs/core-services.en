@@ -148,3 +148,4 @@ See [Identity Types](https://helpx.adobe.com/enterprise/using/identity.html).
 No. Users must link their own applications with their user names and passwords.
 
 +++
+

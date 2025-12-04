@@ -41,4 +41,3 @@ For example, an Adobe Analytics subscription enables attribute data in reports. 
     |Attributes to Include (Analytics and [!DNL Target])|The attributes that you want to send to the application. <br>When configuring subscriptions and selecting attributes, the following limits apply _per report suite,_ depending on the applications you own:<ul><li>Foundation: 0</li><li>Select: 3</li><li>Prime: 15</li><li>Ultimate: 200</li><li>Standard: 3 total</li><li>Premium: 200 per report suite</li><li>[!DNL Target] Standard: 5</li><li>[!DNL Target] Premium: 200</li></ul><br>**Note:** When you upgrade to Analytics Premium, there is a 24-hour delay before additional attributes are available. You may see an attribute Subscription Max error issued during this delay.|
 
 1. Click **[!UICONTROL Save]**.
-

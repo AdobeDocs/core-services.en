@@ -164,3 +164,4 @@ Adobe supports both RSA and ECC certificate types to meet varying customer needs
 
 Yes. However, if you manage your own certificates, you are responsible for renewing your certificates and providing them to Adobe each time you renew them. This process is less secure and can cause data loss if your organization forgets to renew a certificate in time. Adobe recommends using the managed certificate program instead of managing certificates yourself, especially due to reductions in TLS certificate maximum lifetime. See [6.3.1 Public key archival](https://cabforum.org/working-groups/server/baseline-requirements/requirements/#632-certificate-operational-periods-and-key-pair-usage-periods) in the CA/Browser Forum Server Certificate Baseline Requirements for more information.
 +++
+

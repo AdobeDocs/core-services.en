@@ -38,3 +38,4 @@ If a visitor deletes their Analytics cookies, consider the following:
 * **Session continuity is broken:** Any session-based or multi-visit analysis (such as attribution or conversion tracking) is disrupted. Events and conversions that happen after cookie deletion cannot be tied to previous activities by the same user.
 * **Personalization and segmentation are affected:** Segments or personalized experiences based on visitor history or behavior are reset, as previous data is no longer associated with their current visit.
 * **Cross-domain tracking is interrupted:** For third-party cookies, deleting them prevents Adobe Analytics from linking user activity across multiple domains that you own.
+

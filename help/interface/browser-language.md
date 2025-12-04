@@ -58,3 +58,4 @@ Additionally, locale-specific formatting (such as dates, times, calendars, numbe
     While all application teams are committed to global language support, not all applications are offered in all languages listed in the interface. If your primary language is not supported in an Experience Cloud application, you can set a secondary default language when applicable.
 
 1. Click **[!UICONTROL Save]**.
+

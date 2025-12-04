@@ -173,4 +173,3 @@ In [!DNL Target], you can select a customer attribute from the [!UICONTROL Visit
 ![Use Customer Attributes in Adobe Target](assets/crs-add-attribute-target.png) 
 
 See [Create an Audience](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html) in [!DNL Target] help.
-

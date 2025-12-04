@@ -38,4 +38,3 @@ As consumer privacy law remains in flux, Adobe recommends that advertisers respe
 1. Do not surprise your consumers.
 
 With these expectations in mind, Adobe recommends that when an advertiser associates browsing activities to PII, the advertiser provides notices or personalization indicating that the consumer is authenticated. An example of this is including a greeting within the header of the website. Adobe also recommends that advertisers describe in its privacy policy what type of browsing information it associates with PII and under what circumstances browsing information is associated with PII. Lastly, Adobe strongly recommends advertisers review the opt-out choices they provide their consumers to understand whether and how they can use unauthenticated profile information post opt-out.
-

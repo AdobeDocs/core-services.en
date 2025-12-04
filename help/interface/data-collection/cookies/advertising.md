@@ -28,3 +28,4 @@ Adobe Advertising (formerly Adobe Advertising Cloud) uses cookies to map ad enga
 | **`id_adcloud`** | 91 days | 16 bytes | First-party | Stores the visitor ID. |
 
 {style="table-layout:auto"}
+

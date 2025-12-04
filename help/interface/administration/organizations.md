@@ -96,3 +96,4 @@ Typically, account linking fails because the Adobe ID is linked to a previous us
 
 * [Contact Adobe Support](https://experienceleague.adobe.com/?support-solution=General#support).
 * Access your application using the standard login while the issue is being solved.
+
