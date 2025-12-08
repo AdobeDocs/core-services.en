@@ -12,7 +12,7 @@ exl-id: c1a8f9a7-4752-4040-b5f0-dc775417f536
 ---
 # Experience Platform agents in Experience Cloud
 
-Updated: **December 5, 2025**
+Updated: **December 8, 2025**
 
 Adobe [!DNL Experience Platform] [Agent Orchestrator](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/home) and Adobe Experience Platform Agents enable agentic capabilities within Experience Cloud applications. 
 
@@ -38,7 +38,7 @@ Here is the list of Experience Platform Agents available in existing experience 
 | [Journey Agent](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ajo-agent-analyze) | Available | Enable your teams to quickly create, analyze, and optimize multi-touch customer journeys at scale. | <ul><li>Adobe Journey Optimizer (B2B and B2C editions)</li></ul>    |
 | [Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) | Available | Troubleshoot support issues without leaving your workflows, create customer support tickets, and track case progress using AI Assistant. | <ul><li>Real-Time CDP (B2B and B2C editions)</li><li>Adobe Journey Optimizer (B2B and B2C editions)</li><li>Adobe Journey Optimizer B2B Edition</li><li>Customer Journey Analytics</li><li>Adobe Experience Manager</li></ul>  |
 
-Asterisk (*): Customers can unlock access to these agents by enrolling in the Explorer Program. The Explorer Program is an invite-only program providing early access to our latest, innovative agentic capabilities. Please reach out to your account representative to indicate interest in becoming an Explorer.
+Asterisk (*): Customers can unlock access to these agents by enrolling in the Explorer Program. The Explorer Program is an invite-only program providing early access to our latest innovative agentic capabilities to select customers. Please reach out to your account representative for more information.
 
 <!-- | Agent name  | Availability | Capabilities | Supported applications   |
 |---|----------|----------|----------|
