@@ -9,15 +9,15 @@ role: Admin
 level: Beginner
 exl-id: 70586f18-6f84-4308-bab3-1da7fab823d6
 ---
-# [!UICONTROL Unified Search] for objects and entities 
+# [!UICONTROL Unified Search] in Experience Cloud 
 
 The [!UICONTROL Unified Search] search enables you to find searchable business objects or entities in a seamless, consistent, one-click experience. This search surfaces your recently accessed objects, too.
 
 ![Globally search for objects and entities](../assets/platform-search.png)
 
-## Accessing Unified Search
+## Accessing [!UICONTROL Unified Search]
 
-Unified Search is available on every page in the Experience Cloud header at the top of the page. You can also use the keyboard shortcut `command /` or `ctrl /` to access the search.
+[!UICONTROL Unified Search] is available on every page in the Experience Cloud header at the top of the page. You can also use the keyboard shortcut `command /` or `ctrl /` to access the search.
 
 This feature is available only for supported products, which currently are:
 
@@ -36,7 +36,7 @@ Your capability and object permissions
 Matching percentage
 Whether there is an exact match
 
-![Unified Search in Experience Cloud](../assets/unified-search-results.png)
+![[!UICONTROL Unified Search] in Experience Cloud](../assets/unified-search-results.png)
 
 Searchable business objects include:
 
@@ -57,7 +57,7 @@ You also find the help articles from Experience League and Communities. Natural 
 
 For example, _How to create a schema_ produces results from Experience League under _[!UICONTROL Learning]_:
 
-![Unified Search in Experience Cloud Help](../assets/unified-search-learning.png)
+![[!UICONTROL Unified Search] in Experience Cloud Help](../assets/unified-search-learning.png)
 
 Search algorithms display the most relevant records first. The order of results depends on several factors, such as:
 
@@ -71,7 +71,7 @@ To refine your search, click one of the following:
 * **[!UICONTROL All Learning]**: Opens the search in Experience League.
 * **[!UICONTROL Show all...]**: Lets you further refine and filter results.
 
-## Unified Search features
+## [!UICONTROL Unified Search] features
 
 The following features are available in Unified Search.
 

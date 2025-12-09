@@ -4,7 +4,7 @@ solution: Experience Cloud
 title: Experience Cloud Personalized Learning Preferences
 exl-id: ad6c8daf-c8ad-42e9-8ff0-cef59dc0da3f
 ---
-# Personalized learning recommendations and promotions
+# Personalized learning preferences
 
 Adobe provides you with helpful content that is tailored to you based on your work in your Adobe products. Product usage data informs how we tailor this context to you. You can opt in or opt out of sharing your product usage data on the [Experience Cloud preferences](https://experience.adobe.com/preferences) page.  
 

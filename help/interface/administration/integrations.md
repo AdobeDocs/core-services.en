@@ -9,7 +9,7 @@ role: Admin
 level: Experienced
 exl-id: 7f8fa610-32f0-4b18-8054-3ba05436a10e
 ---
-# Experience Cloud integrations overview
+# Experience Cloud integrations
 
 This page describes several ways to begin integrating Experience Cloud applications. For more information, browse our library of [integration video tutorials](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html) on Experience League.
 

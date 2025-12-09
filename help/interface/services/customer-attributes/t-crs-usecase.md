@@ -9,7 +9,7 @@ role: Admin
 level: Experienced
 exl-id: 21ed7c35-aac9-46f1-a50c-84e7c075209c
 ---
-# Create a data source and upload the file
+# Create and upload customer attribute data
 
 Create the customer attribute source (`.csv` and `.fin` files) and upload the data. You can activate the data source when you are ready. After the data source is active, share the attribute data to [!DNL Analytics] and [!DNL Target]. 
 

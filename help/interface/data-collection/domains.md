@@ -7,7 +7,7 @@ role: Admin
 level: Experienced
 exl-id: a15918f0-c03b-4d32-a254-47f46023b127
 ---
-# Domains used by the Adobe Experience Cloud
+# Domains used by Experience Cloud
 
 Experience Cloud uses the following hosts to deliver the application, improve performance, and improve the product experience. Adobe recommends allowing these domains through your organization's network or firewall for an optimal experience.
 

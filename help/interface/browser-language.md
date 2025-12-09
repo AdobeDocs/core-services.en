@@ -8,7 +8,7 @@ role: Admin
 level: Intermediate
 exl-id: cc44008e-8b8a-4afb-b692-0ef9b87d5b21
 ---
-# Browser support in Experience Cloud 
+# Browser and language support in Experience Cloud 
 
 For the best performance, Experience Cloud is optimized for the most popular browsers, including the latest version, plus the two previous versions.
 

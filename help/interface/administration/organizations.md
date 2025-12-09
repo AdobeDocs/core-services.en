@@ -9,7 +9,7 @@ role: Admin
 level: Experienced
 exl-id: 6eb58530-2a7a-48c7-9a5b-48a6e980a034
 ---
-# Organizations in Experience Cloud
+# Organizations and account linking
 
 An *organization* (Org ID) is the entity that enables an administrator to configure groups and users, and to control single sign-on in Experience Cloud. 
 
