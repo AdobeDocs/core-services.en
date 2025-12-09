@@ -7,7 +7,7 @@ topic: Administration
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 ---
-# Experience Cloud interface help
+# Experience Cloud central interface components
 
 Experience Cloud's central interface components include features that enable you to:
 

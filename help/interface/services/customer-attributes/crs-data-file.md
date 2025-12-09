@@ -8,7 +8,7 @@ role: Admin
 level: Experienced
 exl-id: e2dfe10d-7003-4afa-a5e6-57703d74efd4
 ---
-# About data file and data sources for [!DNL Customer Attributes]
+# Customer attribute data files and sources
 
 Data file requirements and multiple data sources for uploading customer attribute data to Experience Cloud.
 

@@ -8,7 +8,7 @@ role: Admin
 level: Experienced
 exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
 ---
-# Documentation updates for Experience Cloud
+# Documentation updates
 
 Learn where documentation updates occur for the central interface and administration of Experience Cloud.
 

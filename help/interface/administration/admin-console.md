@@ -9,7 +9,7 @@ role: Admin
 level: Experienced
 exl-id: c82821c4-aa5d-48ae-8bef-5937fede8db2
 ---
-# User management and product licenses
+# User and product management
 
 You can manage users and product licenses in the Adobe [Admin Console](https://adminconsole.adobe.com/enterprise/). For general identity management help applicable to all Adobe applications, see the [Enterprise and teams admin guide](https://helpx.adobe.com/enterprise/admin-guide.html). 
 

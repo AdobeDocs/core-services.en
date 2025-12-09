@@ -8,7 +8,7 @@ role: Admin
 level: Experienced
 exl-id: cfa2aa5c-337f-401e-80eb-cbe36cb1d41e
 ---
-# Configure subscriptions and activate the data source
+# Configure customer attribute subscriptions
 
 [!DNL Customer Attributes] subscriptions enable the customer attribute data flow between Experience Cloud and applications ([!DNL Analytics] and [!DNL Target]).
 
