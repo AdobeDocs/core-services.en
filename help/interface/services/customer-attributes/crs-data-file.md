@@ -8,7 +8,7 @@ role: Admin
 level: Experienced
 exl-id: e2dfe10d-7003-4afa-a5e6-57703d74efd4
 ---
-# Customer attribute data files and sources
+# Customer Attributes data files and sources
 
 Data file requirements and multiple data sources for uploading customer attribute data to Experience Cloud.
 
@@ -21,7 +21,7 @@ You need access to CRM or similar data from your enterprise. The data you upload
 |File Type|Description|
 |--- |--- |
 |`.csv`|A comma-separated values file (such as one created in Excel). This file contains the customer attribute data.   Naming requirements: Ensure that file name extensions do not contain white spaces.|
-|`.fin`|(Required) The `.fin` file tells the system that you are finished uploading data. The name of the `.fin` file must match the name of the `.csv` file.  Adobe recommends creating an empty text file with a `.fin` extension. An empty file saves space and upload time. **Note:**  Renaming a `.fin` file is not allowed after it is uploaded. The `.fin` file must be uploaded separately and cannot be a renamed, previously uploaded file. After you upload the `.fin` file in the customer attributes FTP, the system retrieves data quickly (within one minute). This differs from other Adobe FTP-based systems, which pick up data less frequently (around once per hour). The `.fin` file is not required when using the drag-and-drop upload method.|
+|`.fin`|(Required) The `.fin` file tells the system that you are finished uploading data. The name of the `.fin` file must match the name of the `.csv` file.  Adobe recommends creating an empty text file with a `.fin` extension. An empty file saves space and upload time. **Note:**  Renaming a `.fin` file is not allowed after it is uploaded. The `.fin` file must be uploaded separately and cannot be a renamed, previously uploaded file. After you upload the `.fin` file in the Customer Attributes FTP, the system retrieves data quickly (within one minute). This differs from other Adobe FTP-based systems, which pick up data less frequently (around once per hour). The `.fin` file is not required when using the drag-and-drop upload method.|
 |`.gz` or `.zip`|`.gz` (gzip) or `.zip`  - for compressed files. A `.zip` file cannot contain more than one file in the archive. Naming requirements: The name of the `.zip` or `.gz`  should match the name of the `.csv` file . For example, if your `.csv` file is `crm_small.csv`, the `.zip` file should be `crm_small.csv.zip` . The `.fin` file must match the `.csv`.|
 
 
@@ -105,11 +105,11 @@ The same file viewed in a text editor:
   </tr> 
    <tr> 
    <td colname="col1"> <p>Historical data </p> </td> 
-   <td colname="col2"> <p> customer attributes are tied to the underlying visitor profile in [!DNL Analytics]. As such, [!DNL Customer Attributes] are associated with the visitor for the entire life of that visitor profile in [!DNL Analytics]. This profile includes behavior that occurred before the customer logged in for the first time. </p> <p> If you use the Data Warehouse backfill method, the data is tied to a post_visid_high/low that is based on the Analytics ID (AID). If you are using the Experience Cloud ID Service, the data is tied to a post_visid_high/low that is based on Experience Cloud ID (MID). </p> <p> Note that the Data Warehouse backfill method will no longer be available beginning in October 2022. </td> 
+   <td colname="col2"> <p> Customer Attributes are tied to the underlying visitor profile in [!DNL Analytics]. As such, [!DNL Customer Attributes] are associated with the visitor for the entire life of that visitor profile in [!DNL Analytics]. This profile includes behavior that occurred before the customer logged in for the first time. </p> <p> If you use the Data Warehouse backfill method, the data is tied to a post_visid_high/low that is based on the Analytics ID (AID). If you are using the Experience Cloud ID Service, the data is tied to a post_visid_high/low that is based on Experience Cloud ID (MID). </p> <p> Note that the Data Warehouse backfill method will no longer be available beginning in October 2022. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data feeds </p> </td> 
-   <td colname="col2"> <p>customer attributes are not available in data feeds. </p> </td> 
+   <td colname="col2"> <p>Customer Attributes are not available in data feeds. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -135,4 +135,4 @@ Visitor.setcustomerIDs({
 
 In **[!DNL Experience Cloud]** > **[!DNL Customer Attributes]**:
 
-Create two customer attributes sources using unique alias IDs corresponding to the customer IDs above. Using this method allows the same reference ID to be sent to multiple customer attribute sources.
+Create two Customer Attributes sources using unique alias IDs corresponding to the customer IDs above. Using this method allows the same reference ID to be sent to multiple customer attribute sources.

@@ -57,16 +57,16 @@ Create and manage Audiences in Experience Cloud [!UICONTROL Audience Library]. A
 * [Segmentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/audience-analytics-workflow/aam-analytics-segments.html) in Audience Manager
 * [Advertising Cloud](https://enterprise.efrontier.com/CMDashboard/?ticket=JrciD7q2bF1y2mDWFHmEyibbOnNwb2JBRF7z6tKAOIWkBimlPxCUaZyJnPLqsfdqsf3fpxWoxGasvatKA8S6-h4tlDvxQcm8Gc10dSF9q_E%3D&ticket=JrciD7q2bF1y2mDWFHmEyibmxtHqnZFSOMml-n993zOBc-ovZGNZkX5vgePWqKNMoMmPSqf9PkzFeYF4UN6GqSXDVNDvwgnvv9KT8PvVxk8%3D) (login required)
 
-## Customer attributes 
+## Customer Attributes 
 
-Help: [Customer attributes](/help/interface/services/customer-attributes/attributes.md) 
+Help: [Customer Attributes](/help/interface/services/customer-attributes/attributes.md) 
 
 If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in Experience Cloud. Once uploaded, use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target]. 
 
 **Applicable solutions or services** 
 
-* Adobe Analytics: Customer attributes Report
-* Adobe Target: Configure Adobe Target's [subscription](/help/interface/services/customer-attributes/subscription.md) to customer attributes
+* Adobe Analytics: Customer Attributes Report
+* Adobe Target: Configure Adobe Target's [subscription](/help/interface/services/customer-attributes/subscription.md) to use Customer Attributes
 
 ## Experience Cloud Assets 
 
@@ -111,7 +111,7 @@ Integrate Adobe Target with Adobe Analytics and other Experience Cloud applicati
 
 **Applicable applications or services** 
 
-* Customer attributes: Configure Adobe Target's [subscription](/help/interface/services/customer-attributes/subscription.md) to customer attributes
+* Customer Attributes: Configure Adobe Target's [subscription](/help/interface/services/customer-attributes/subscription.md) to Customer Attributes
 * Experience Cloud Audiences: [Experience Cloud Audience Library](/help/interface/services/audiences/overview.md)
 * Analytics: [Adobe Analytics as the Reporting Source for Adobe Target](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html)
 * Audience Manager: [Adobe Target Data Integration with Adobe Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-solutions/aam-target-integration.html)

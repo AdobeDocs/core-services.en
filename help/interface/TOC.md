@@ -3,15 +3,15 @@ role: User,Admin
 user-guide-title: Experience Cloud interface and administration
 breadcrumb-title: Experience Cloud interface and administration
 title: Experience Cloud Interface and Administration
-description: Learn about Experience Cloud interface, cookies, and account preferences. Manage products and configure the People service, including Customer attributes and Audience Library. Share Experience Cloud Assets.
+description: Learn about Experience Cloud interface, cookies, and account preferences. Manage products and configure the People service, including Customer Attributes and Audience Library. Share Experience Cloud Assets.
 index: yes
 ---
 
 # Experience Cloud interface and administration {#interface}
 
 + [Experience Cloud interface and administration](experience-cloud.md)
-+ Services {#services}
-  + [Services overview](services/overview.md)
++ Interface services {#services}
+  + [Interface overview](services/overview.md)
   + [Get started](services/getting-started.md)
   + Assets {#assets}
     + [Assets overview](services/assets/experience-cloud-assets.md)
@@ -24,7 +24,7 @@ index: yes
     + [Audiences overview](services/audiences/overview.md)
     + [Create an audience](services/audiences/create.md)
   + [Adobe Exchange](services/exchange.md)
-  + Customer attributes {#customer-attributes}
+  + Customer Attributes {#customer-attributes}
     + [Customer Attributes overview](services/customer-attributes/attributes.md)
     + [FAQ](services/customer-attributes/faq-crs.md)
     + [Data files and sources](services/customer-attributes/crs-data-file.md)

@@ -15,7 +15,7 @@ Create the customer attribute source (`.csv` and `.fin` files) and upload the da
 
 **[!DNL Customer Attributes] workflow**
 
-![customer attributes workflow](assets/crs.png) 
+![Customer Attributes workflow](assets/crs.png) 
 
 ## Locate [!DNL Customer Attributes]
 
@@ -25,11 +25,11 @@ In [!DNL Experience Cloud], click **[!UICONTROL Apps]** ![menu](assets/menu-icon
 
 * **Group membership:** To upload the data, users must be members of the [!DNL Customer Attributes] group. You must also belong to either an Adobe Analytics group or an Adobe Target group.
 
-  To know whether your company has access to customer attributes, your [!DNL Experience Cloud] administrator should log into the [Experience Cloud](https://experience.adobe.com). Navigate to **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *[!DNL Customer Attributes]* displays as one of the [!UICONTROL product profiles], you are ready to begin.
+  To know whether your company has access to Customer Attributes, your [!DNL Experience Cloud] administrator should log into the [Experience Cloud](https://experience.adobe.com). Navigate to **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *[!DNL Customer Attributes]* displays as one of the [!UICONTROL product profiles], you are ready to begin.
 
   Users that are added to [!DNL Customer Attributes] see the [!DNL Customer Attributes] menu item on the left side of the Experience Cloud interface.
 
-* **Adobe Target** `at.js` (any version) or `mbox.js` version 58 or later is required for customer attributes.
+* **Adobe Target** `at.js` (any version) or `mbox.js` version 58 or later is required for Customer Attributes.
 
   See [How to deploy at.js](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/overview.html).
 
