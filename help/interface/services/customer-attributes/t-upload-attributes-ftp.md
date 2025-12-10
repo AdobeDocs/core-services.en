@@ -16,7 +16,7 @@ You can upload the data after you create a customer attribute source and an FTP 
 
 >[!IMPORTANT]
 >
->Review [Data file requirements for uploading customer attributes](crs-data-file.md) before uploading the file. 
+>Review [Customer attribute data files and sources](crs-data-file.md) before uploading the file. 
 
 File uploads to the customer attributes FTP site can be done via FTP or SFTP: 
 
@@ -37,7 +37,7 @@ File uploads to the customer attributes FTP site can be done via FTP or SFTP:
 
    If the upload is successful, both files are moved to a folder called **processed**. 
 
-   See [Data file requirements for uploading customer attributes](crs-data-file.md) for important information about file names and structure.
+   See [Customer attribute data files and sources](crs-data-file.md) for important information about file names and structure.
 
 ## Set up an FTP account
 

@@ -1,5 +1,5 @@
 ---
-description: Learn about central interface components for Experience Cloud. Get help on user and product administration in the Admin Console, enable applications for Experience Cloud services. Get help on Audience Library, Customer attributes, Experience Cloud Assets, and more.
+description: Learn about central interface components for Experience Cloud. Get help on user and product administration in the Admin Console, enable applications for Experience Cloud services. Get help on Audience Library, Customer Attributes, Experience Cloud Assets, and more.
 title: Experience Cloud Interface and Administration
 hide: yes
 hidefromtoc: yes

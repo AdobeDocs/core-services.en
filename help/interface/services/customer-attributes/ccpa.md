@@ -37,7 +37,7 @@ To make requests to access and delete data for [!DNL Customer Attributes], you m
 
     Your organization ID is a 24-character alphanumeric string appended with @AdobeOrg. You need the organization's ID to submit requests to the Privacy API. Contact Adobe Customer Care at `gdprsupport@adobe.com` if you cannot locate the ID.
 
-1. In [!UICONTROL Privacy Service], you can submit Access and Delete requests to customer attributes, and check the status of existing requests.
+1. In [!UICONTROL Privacy Service], you can submit Access and Delete requests to Customer Attributes, and check the status of existing requests.
 
 ## Required field values in [!DNL Customer Attributes] JSON Requests
 

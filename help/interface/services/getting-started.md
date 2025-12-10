@@ -9,15 +9,15 @@ role: Admin
 level: Experienced
 exl-id: 48e79e23-b339-4143-b3b1-969c370efeff
 ---
-# Get started with Experience Cloud services
+# Get started with Experience Cloud
 
-If you recently implemented Experience Cloud using Experience Platform tags, you are already set up for customer attributes and Experience Cloud Audiences. You can also manage users and products in the Admin Console.
+If you recently implemented Experience Cloud using Experience Platform tags, you are already set up for Customer Attributes and Experience Cloud Audiences. You can also manage users and products in the Admin Console.
 
-Existing customers can modernize their application implementations and implement Experience Cloud. Doing so enables you to use customer attributes and audience features across Adobe Analytics, Audience Manager, and Adobe Target.
+Existing customers can modernize their application implementations and implement Experience Cloud. Doing so enables you to use Customer Attributes and Audience features across Adobe Analytics, Audience Manager, and Adobe Target.
 
-## Join the Experience Cloud and become an administrator 
+## Join Experience Cloud and become an administrator 
 
-What you must do to join Experience Cloud: 
+[!DNL Analytics] and [!DNL Adobe Target] requirements for using Experience Cloud: 
 
 1. Ensure that you have the appropriate Adobe Analytics or Adobe Target SKUs. 
 
@@ -45,7 +45,7 @@ To log in to Experience Cloud, your users must:
 * Belong to an application group that is mapped to an enterprise group.
 * If necessary, link their application accounts to their Adobe ID (described below).
 
-### Optional: Link existing user accounts. 
+### Optional: Link existing user accounts
 
 Most likely, you have users who are already members of application groups, such an Analytics group that you previously managed in [!UICONTROL Analytics] > [!UICONTROL Admin Tools].
 
@@ -80,7 +80,7 @@ If you are not using [!UICONTROL Experience Platform tags], manually implement t
 
 As a part of setting up the Experience Cloud ID Service, Adobe recommends for Analytics and [!DNL Target] that you synchronize your [customer IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) with the Experience Cloud. 
 
-In Adobe Target, the `mbox3rdpartyid` must get the customer ID and send it to [!DNL Target]. (See [Working with customer attributes](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/working-with-customer-attributes.html) in [!DNL Target].) 
+In Adobe Target, the `mbox3rdpartyid` must get the customer ID and send it to [!DNL Target]. (See [Working with Customer Attributes](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/working-with-customer-attributes.html) in [!DNL Target].) 
 
 When a visitor authenticates on your website, or otherwise identifies themselves, your implementation must expose that person's CRM customer ID to the page or app. Then you can use the appropriate function call to synchronize your customer ID to Experience Cloud. This synchronization stores the visitor's CRM customer ID in Experience Cloud, and activates that customer's attributes for use in Experience Cloud. 
 
@@ -93,7 +93,7 @@ The Customer ID must be set on each [!DNL Analytics] server call where the Custo
 
 #### Analytics: synching the customer ID with the Data Warehouse backfill method
 
-When customer attributes first became available, some customers had not yet implemented the Experience Cloud ID service and could not easily utilize customer attributes. To help alleviate this problem, Adobe created a means to do a backfill of ID syncs using the Adobe Analytics Data Warehouse. This feature is known as the Data Warehouse backfill. The Data Warehouse backfill is now generally not necessary and as a result will no longer be available starting in October 2022.
+When Customer Attributes first became available, some customers had not yet implemented the Experience Cloud ID service and could not easily utilize Customer Attributes. To help alleviate this problem, Adobe created a means to do a backfill of ID syncs using the Adobe Analytics Data Warehouse. This feature is known as the Data Warehouse backfill. The Data Warehouse backfill is now generally not necessary and as a result will no longer be available starting in October 2022.
 
 
 ### Mobile SDKs
@@ -102,7 +102,7 @@ See the *Experience Cloud ID Service* section for syntax examples about how to s
 
 ### Enabling attributes for Historical Data
 
-Customer attribute data is made available after visitors log in. If you have not yet implemented the ID Service, and if you have historically been tracking customer IDs in a prop or eVar, you can request a process that sends historical logins to Experience Cloud. This process lets you begin using customer attributes immediately.
+Customer attribute data is made available after visitors log in. If you have not yet implemented the ID Service, and if you have historically been tracking customer IDs in a prop or eVar, you can request a process that sends historical logins to Experience Cloud. This process lets you begin using Customer Attributes immediately.
 
 Contact Customer Care to enable historical data.
 
@@ -128,7 +128,7 @@ It is recommended that you modernize your Analytics implementation by updating y
  
   >[!IMPORTANT]
   >
-  >All Analytics customers are already provisioned for core services like customer attributes. If you are not an Analytics customer, contact Customer Care to request to be provisioned.
+  >All Analytics customers are already provisioned for core services like Customer Attributes. If you are not an Analytics customer, contact Customer Care to request to be provisioned.
 
 ## Verify the implementation 
 
@@ -165,7 +165,7 @@ Once you are up and running, navigate to the [Admin Console](https://adminconsol
 
 ![Access Admin Console](../assets/menu-administration-shell.png)
 
-### Customer attributes
+### Customer Attributes
 
 Users that are added to the [!DNL Customer Attributes] group can see the [!DNL Customer Attributes] menu item on the left side of Experience Cloud.
 
@@ -173,11 +173,11 @@ Users that are added to the [!DNL Customer Attributes] group can see the [!DNL C
 
 Take advantage of the following features. 
 
-### [!UICONTROL Customer attributes]
+### [!UICONTROL Customer Attributes]
 
 If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in Experience Cloud. Once uploaded, use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target].
 
-See [customer attributes](https://experienceleague.adobe.com/en/docs/core-services/interface/services/customer-attributes/attributes) for more information.
+See [Customer Attributes](https://experienceleague.adobe.com/en/docs/core-services/interface/services/customer-attributes/attributes) for more information.
 
 ### [!UICONTROL People] > [!UICONTROL Audience Library] 
 
