@@ -11,41 +11,17 @@ exl-id: 48e79e23-b339-4143-b3b1-969c370efeff
 ---
 # Get started with Experience Cloud
 
-If you recently implemented Experience Cloud using Experience Platform tags, you are already set up for Customer Attributes and Experience Cloud Audiences. You can also manage users and products in the Admin Console.
+If you recently implemented Experience Cloud using[ Experience Platform tags](https://experienceleague.adobe.com/en/docs/experience-platform/tags/home), you are already set up for [Customer Attributes](../services/overview.md) and Experience Cloud [Audiences](../services/audiences/overview.md). You can also manage users and products in [Admin Console](../administration/admin-console.md).
 
 Existing customers can modernize their application implementations and implement Experience Cloud. Doing so enables you to use Customer Attributes and Audience features across Adobe Analytics, Audience Manager, and Adobe Target.
 
-## Join Experience Cloud and become an administrator 
-
-[!DNL Analytics] and [!DNL Adobe Target] requirements for using Experience Cloud: 
-
-1. Ensure that you have the appropriate Adobe Analytics or Adobe Target SKUs. 
-
-    * **Adobe Analytics:** Standard or Premium (not the legacy [!DNL SiteCatalyst] SKU).
-    * **Adobe Target:** Standard or Premium.
-
-    >[!NOTE]
-    >
-    >For [!DNL Target], migrate to at.js from `mbox.js`. See [Upgrading from at.js 1. x to at.js 2. x](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/at-js-implementation/upgrading-from-atjs-1x-to-atjs-20.html).
-
-1. Manage users and products in the [!UICONTROL Admin Console]. 
-
-### Administrator login
+## Sign in as an administrator {#admin-sign-in}
 
 After you are an administrator, you can log in at [experience.adobe.com](https://experience.adobe.com).
 
-The **[!UICONTROL Admin Console]** link is available in Experience Cloud menu navigation.
+The **[!UICONTROL Admin Console]** link is available in Experience Cloud menu navigation for managing users and product licenses. 
 
-### User login
-
-To log in to Experience Cloud, your users must:
-
-* Have an Adobe ID (or Enterprise ID for your company).
-* Sign in at [experience.adobe.com](https://experience.adobe.com).
-* Belong to an application group that is mapped to an enterprise group.
-* If necessary, link their application accounts to their Adobe ID (described below).
-
-### Optional: Link existing user accounts
+### Optional: Link existing user accounts {#link-accounts}
 
 Most likely, you have users who are already members of application groups, such an Analytics group that you previously managed in [!UICONTROL Analytics] > [!UICONTROL Admin Tools].
 
@@ -59,13 +35,42 @@ See [Link accounts in Experience Cloud](https://experienceleague.adobe.com/en/do
 
 The following sections describe how to modernize your implementation. Modernizing your implementation enables core services in Experience Cloud. 
 
+## Sign-in as a user {#user-sign-in}
+
+To log in to Experience Cloud, your users must:
+
+* Have an Adobe ID (or Enterprise ID for your company).
+* Sign in at [experience.adobe.com](https://experience.adobe.com).
+* Belong to an application group that is mapped to an enterprise group.
+* If necessary, link their application accounts to their Adobe ID (described below).
+
+## Adobe Analytics and Adobe Target requirements for Experience Cloud {#experience-cloud-requirements}
+
+[!DNL Analytics] and [!DNL Adobe Target] requirements for using Experience Cloud: 
+
+1. Ensure that you have the appropriate Adobe Analytics or Adobe Target SKUs. 
+
+    * **Adobe Analytics:** Standard or Premium (not the legacy [!DNL SiteCatalyst] SKU).
+    * **Adobe Target:** Standard or Premium.
+
+    >[!NOTE]
+    >
+    >For [!DNL Target], migrate to at.js from `mbox.js`. See [Upgrading from at.js 1. x to at.js 2. x](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/at-js-implementation/upgrading-from-atjs-1x-to-atjs-20.html).
+
+1. [Manage users and products](../administration/admin-console.md) in the [!UICONTROL Admin Console]. 
+
+**Related:** [Analytics and Target - Synchronize customer IDs](#sync-ids) (on this page)
+
 ## Implement the [!UICONTROL Experience Cloud ID Service] 
 
 The [!UICONTROL Experience Cloud ID Service] provides a common ID for cross-application integration. It provides cross-domain visitor identification and a path for cross-device/browser targeting and personalization based on CRM data uploaded via [!DNL Customer Attributes].
 
 The simplest method for enabling Experience Cloud core services is to activate it automatically for Analytics and Adobe Target via the [Experience Cloud ID Service extension](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/id-service/overview.html) in [!UICONTROL Experience Platform Launch].  
 
-For complete Experience Cloud ID Service help (formerly, visitor ID), go [here](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html#intro).
+>[!NOTE]
+>
+>For complete Experience Cloud ID Service help (formerly, visitor ID), see [Experience Cloud Identity Service overview](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html#intro).
+
 
 **Not Using [!UICONTROL Experience Platform tags]?**
 
@@ -76,7 +81,7 @@ If you are not using [!UICONTROL Experience Platform tags], manually implement t
 | [Implement the Experience Cloud ID Service for Analytics](https://experienceleague.adobe.com/en/docs/analytics/implementation/id/overview)  | Adobe also recommends setting additional [customer IDs](https://experienceleague.adobe.com/en/docs/id-service/using/reference/authenticated-state). These IDs are associated with each visitor and enable current and future functionality in Experience Cloud. |
 | Update your existing `s_code` to version H.27.3 or later, or your existing `AppMeasurement.js` to version 1.4 or later.  | These files are available for download in the [Code Manager](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html) in Analytics Admin Tools. (The [JavaScript Implementation](https://experienceleague.adobe.com/en/docs/analytics/implementation/js/overview#js) guide is available if you need more information about `AppMeasurement.js`.) |
 
-### Analytics & Adobe Target - synching the customer ID 
+### Analytics & Adobe Target - Synchronize customer IDs {#sync-ids} 
 
 As a part of setting up the Experience Cloud ID Service, Adobe recommends for Analytics and [!DNL Target] that you synchronize your [customer IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) with the Experience Cloud. 
 
@@ -95,16 +100,15 @@ The Customer ID must be set on each [!DNL Analytics] server call where the Custo
 
 When Customer Attributes first became available, some customers had not yet implemented the Experience Cloud ID service and could not easily utilize Customer Attributes. To help alleviate this problem, Adobe created a means to do a backfill of ID syncs using the Adobe Analytics Data Warehouse. This feature is known as the Data Warehouse backfill. The Data Warehouse backfill is now generally not necessary and as a result will no longer be available starting in October 2022.
 
-
 ### Mobile SDKs
 
 See the *Experience Cloud ID Service* section for syntax examples about how to set additional customer IDs in [Android&trade;](https://experienceleague.adobe.com/docs/mobile-services/android/overview.html) and [iOS](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html) Mobile applications.
 
-### Enabling attributes for Historical Data
+### Enable attributes for Historical Data
 
 Customer attribute data is made available after visitors log in. If you have not yet implemented the ID Service, and if you have historically been tracking customer IDs in a prop or eVar, you can request a process that sends historical logins to Experience Cloud. This process lets you begin using Customer Attributes immediately.
 
-Contact Customer Care to enable historical data.
+Contact Support to enable historical data.
 
 ## Map report suites to an Experience Cloud Organization 
 
