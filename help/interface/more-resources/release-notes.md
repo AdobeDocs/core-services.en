@@ -144,7 +144,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 
 | Feature | Date |Description |
 | ------- | ------- | ------- |
-|Single Sign-on Support for Adobe Federated IDs|June 17, 2021|If you use Federated IDs, you can sign in to Experience Cloud without having to enter an email address or password. To use this feature, add `#/sso:@domain` to the Experience Cloud URL. <br>For example, assume that you own the domain `adobecustomer.com` and want to sign into Adobe Analytics. The URL would be: `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.|
+|Single Sign-on Support for Adobe Federated IDs|June 17, 2021|If you use Federated IDs, you can sign in to Experience Cloud without having to enter an email address or password. To use this feature, add `#/sso:@domain` to the Experience Cloud URL. <br>For example, assume that you own the domain `example.com` and want to sign into Adobe Analytics. The URL would be: `https://experience.adobe.com/#/sso:@example.com/analytics`.|
 |Experience League Search |June 1, 2021 |Experience League documentation search has been improved. Navigate to [Experience League](https://experienceleague.adobe.com/docs/) and use the **[!UICONTROL Search]** field to locate tutorials, documentation, courses, and more. |
 
 {style="table-layout:auto"}
