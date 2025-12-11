@@ -24,7 +24,6 @@ You need access to CRM or similar data from your enterprise. The data you upload
 |`.fin`|(Required) The `.fin` file tells the system that you are finished uploading data. The name of the `.fin` file must match the name of the `.csv` file.  Adobe recommends creating an empty text file with a `.fin` extension. An empty file saves space and upload time. **Note:**  Renaming a `.fin` file is not allowed after it is uploaded. The `.fin` file must be uploaded separately and cannot be a renamed, previously uploaded file. After you upload the `.fin` file in the Customer Attributes FTP, the system retrieves data quickly (within one minute). This differs from other Adobe FTP-based systems, which pick up data less frequently (around once per hour). The `.fin` file is not required when using the drag-and-drop upload method.|
 |`.gz` or `.zip`|`.gz` (gzip) or `.zip`  - for compressed files. A `.zip` file cannot contain more than one file in the archive. Naming requirements: The name of the `.zip` or `.gz`  should match the name of the `.csv` file . For example, if your `.csv` file is `crm_small.csv`, the `.zip` file should be `crm_small.csv.zip` . The `.fin` file must match the `.csv`.|
 
-
 ## Requirements for the attribute data files 
 
 **Example CSV** 

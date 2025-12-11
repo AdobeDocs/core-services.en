@@ -16,11 +16,11 @@ exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
 
 ![Customer Attributes overview](assets/custom_reports.png)
 
-## What is enterprise customer data? 
+## About enterprise customer data {#customer-data}
 
-Enterprise data resides in other systems. It can be complex and mean different things to different people. This data can include information such as memberships, loyalty level, age, gender, products owned, interests, and Lifetime Value.
+Enterprise customer data refers to the organization-wide set of information collected about customers, prospects, and partners.It resides on other systems and can include information like memberships, loyalty level, age, gender, products owned, interests, and Lifetime Value. 
 
-The following image is an example of a data file showing subscriber data for products, including member IDs, entitled products, most-launched products, and so on.
+The following image is an example of a _data file_ showing subscriber data for products, including member IDs, entitled products, most-launched products, and so on.
 
 ![What is enterprise customer data?](assets/01_crs_usecase.png)
 
