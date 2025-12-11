@@ -31,13 +31,13 @@ What you must do to join Experience Cloud:
 
 1. Manage users and products in the [!UICONTROL Admin Console]. 
 
-### Administrator login
+### Administrator sign in
 
 After you are an administrator, you can log in at [experience.adobe.com](https://experience.adobe.com).
 
 The **[!UICONTROL Admin Console]** link is available in Experience Cloud menu navigation.
 
-### User login
+### User sign in
 
 To log in to Experience Cloud, your users must:
 

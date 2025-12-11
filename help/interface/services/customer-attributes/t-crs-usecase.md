@@ -17,11 +17,7 @@ Create the customer attribute source (`.csv` and `.fin` files) and upload the da
 
 ![Customer Attributes workflow](assets/crs.png) 
 
-## Locate [!DNL Customer Attributes]
-
-In [!DNL Experience Cloud], click **[!UICONTROL Apps]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**.
-
-## Prerequisites for using [!DNL Customer Attributes] 
+## Prerequisites for using [!DNL Customer Attributes] {#prerequisites}
 
 * **Group membership:** To upload the data, users must be members of the [!DNL Customer Attributes] group. You must also belong to either an Adobe Analytics group or an Adobe Target group.
 
@@ -52,13 +48,13 @@ This data is enterprise customer data from your CRM. The data might include subs
 
 ## Create the attribute source and upload the data file 
 
-Perform these steps on the the [!UICONTROL Create Customer Attribute Source] page in Experience Cloud.
+Perform these steps on the the _[!UICONTROL Create Customer Attribute Source]_ page in Experience Cloud.
 
 >[!IMPORTANT]
 >
 >When creating, modifying, or deleting customer attribute sources, there is a delay of up to one hour before IDs begin synchronizing with the new data source. You must have administrative rights in Audience Manager to create or modify customer attribute sources. Contact Audience Manager customer Care or consulting to obtain administrative rights.
 
-1. In [!DNL Experience Cloud], click **[!UICONTROL Apps]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**.
+1. To open [!UICONTROL Customer Attributes], click **[!UICONTROL Apps]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**.
 
    ![Customer Attributes page](assets/cust-attr.png)
 
@@ -108,7 +104,7 @@ Perform these steps on the the [!UICONTROL Create Customer Attribute Source] pag
 
 1. Click **[!UICONTROL Save]**.
 
-## Upload file 
+## Upload the file {#upload-customer-attributes}
 
 The customer attribute record is created, and you can upload the file by editing the customer attribute.
 
@@ -134,7 +130,7 @@ The customer attribute record is created, and you can upload the file by editing
     
 * **[!UICONTROL customer-Provided IDs with High Alias Counts:]** Displays the count of customer-provided IDs with 500 or more aliased Experience Cloud Visitor IDs. These customer-provided IDs most likely do not represent individuals but rather some sort of shared login. The system distributes the attributes associated with these IDs to the 500 most recent aliased Experience Cloud Visitor IDs, until the alias count reaches 10,000. Then, the system invalidates the customer-provided ID and no longer distributes associated attributes. -->
     
-## Validate the schema 
+## Validate the schema {#validate-schema}
 
 The validation process lets you map display names and descriptions to uploaded attributes (strings, integers, numbers, and so on). You can also delete attributes by updating the schema.
 
