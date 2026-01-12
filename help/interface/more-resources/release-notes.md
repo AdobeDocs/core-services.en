@@ -22,7 +22,7 @@ For release notes covering all applications, see [Experience Cloud Release Notes
 
 | Date | Update  | Description  |
 | -----------| -----------| ---------- |
-| **January 15, 2026** | Customizable left-hand navigation  | The Unified Shell left navigation in Experience Cloud is now customizable. You can reorder navigation items and quickly access the features that matter most. This update improves efficiency by streamlining workflows, reducing cognitive load, and supporting full keyboard accessibility. It preserves a consistent, modern design across applications and enabling future personalization. |
+| **January 15, 2026** | Customizable left-hand navigation  | You can now customize the left navigation in Experience Cloud. Reorder navigation items and quickly access the features that matter most. This update helps you streamline workflows, reduce cognitive load, and it supports full keyboard accessibility. It preserves a consistent, modern design across applications and enabling future personalization. |
 
 ## September 2025
 
