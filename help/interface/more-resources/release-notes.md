@@ -18,6 +18,12 @@ For a list of documentation updates, see [Documentation updates](doc-updates.md)
 
 For release notes covering all applications, see [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html).
 
+## January 2026
+
+| Date | Update  | Description  |
+| -----------| -----------| ---------- |
+| **January 15, 2026** | Customizable left-hand navigation  | The Unified Shell left navigation in Experience Cloud is now customizable. You can reorder navigation items and quickly access the features that matter most. This update improves efficiency by streamlining workflows, reducing cognitive load, and supporting full keyboard accessibility. It preserves a consistent, modern design across applications and enabling future personalization. |
+
 ## September 2025
 
 | Date | Update  | Description  |
