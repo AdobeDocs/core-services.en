@@ -12,7 +12,7 @@ exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
 
 **[!UICONTROL Apps]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**
 
-[!DNL Customer Attributes] in Experience Cloud enables you to upload your captured enterprise data from a customer relationship management (CRM) database. You can [upload the data](t-crs-usecase.md) into a [!DNL Customer Attributes] data source in Experience Cloud, then use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target].  
+[!DNL Customer Attributes] in Adobe Experience Cloud enables you to upload your captured enterprise data from a customer relationship management (CRM) database. You can [upload the data](t-crs-usecase.md) into a [!DNL Customer Attributes] data source in Experience Cloud, then use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target].  
 
 ![Customer Attributes overview](assets/custom_reports.png)
 
