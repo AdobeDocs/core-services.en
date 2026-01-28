@@ -10,19 +10,19 @@ role: Admin, User
 level: Intermediate
 ---
 
-## Agent Jobs and AI Credit Consumption
+# Agent Jobs and AI Credit Consumption
 
-### Agent Jobs
+## Agent Jobs
 
 An **Agent Job** is a series of tasks and actions an Agent executes to achieve a specific outcome, as directed by customer inputs.
 
 Using natural language prompts via AI Assistant, customers can ask Agents to carry out specific Jobs. Based on those inputs, Agent Orchestrator coordinates the appropriate Agents to execute each step within the relevant Experience Cloud applications.
 
-### AI Credits
+## AI Credits
 
 An **AI Credit** is a usage-based metric that quantifies the execution of Agent Jobs. AI Credits do not apply to AI-first applications.
 
-### AI Credit Consumption
+## AI Credit Consumption
 
 AI Credit usage may vary depending on the complexity and value of the Job executed:
 
@@ -30,7 +30,7 @@ AI Credit usage may vary depending on the complexity and value of the Job execut
 * Complex (often multi-step) tasks consume more credits  
 * Tasks involving advanced reasoning, validation, multi-agent coordination, or integration consume more credits  
 
-#### Estimated AI Credit Consumption Rates
+### Estimated AI Credit Consumption Rates
 
 | Agent | Job | Supported Applications | Estimated AI Credits |
 |------|-----|------------------------|----------------------|
