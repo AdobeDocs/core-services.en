@@ -41,7 +41,7 @@ index: yes
   + [Account preferences and notifications](features/account-preferences.md)
   + [Generative AI](features/generative-ai.md)
   + [Agentic AI](features/agentic-ai.md)
-    + [Agent Jobs and AI Credit Consumption](features/ai-credit-consumption.md)
+  + [Agent Jobs and AI Credit Consumption](features/ai-credit-consumption.md)
   + [Unified Search](features/search.md)
   + [Personalized learning preferences](features/personalized-learning.md)
   + [Browser and language support](browser-language.md)
