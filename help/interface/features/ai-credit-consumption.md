@@ -34,23 +34,23 @@ AI Credit usage may vary depending on the complexity and value of the Job execut
 
 | Agent | Job | Supported Applications | Estimated AI Credits |
 |------|-----|------------------------|----------------------|
-| Audience Agent | Audience/account ideation | Real-Time CDP; Adobe Journey Optimizer | 50 |
-| Audience Agent | Knowledge-based audience/account creation | Real-Time CDP; Adobe Journey Optimizer | 150 |
-| Audience Agent | Audience/account management | Real-Time CDP; Adobe Journey Optimizer | 25 |
-| Audience Agent | Audience/account analysis | Real-Time CDP; Adobe Journey Optimizer | 25 |
-| Audience Agent | Buying group ideation | Adobe Journey Optimizer (B2B) | 25 |
-| Data Insights Agent | Data analysis and visualization | Customer Journey Analytics | 25 |
-| Data Insights Agent | Data storytelling and sharing | Customer Journey Analytics | 100 |
-| Journey Agent | Journey ideation | Adobe Journey Optimizer (B2B) | 25 |
-| Journey Agent | Journey creation | Adobe Journey Optimizer (B2B, B2C) | 30 |
-| Journey Agent | Journey analysis | Adobe Journey Optimizer (B2B, B2C) | 50 |
-| Journey Agent | Journey management | Adobe Journey Optimizer (B2B, B2C) | 25 |
-| Product Support Agent | Knowledge-based troubleshooting | Multiple Experience Cloud applications | 0 |
-| Product Support Agent | Support case creation and tracking | Multiple Experience Cloud applications | 10 |
-| Content Advisor Agent | Content discovery | Adobe Experience Manager Cloud Services | 5 |
-| Content Advisor Agent | Content update and optimization | Adobe Experience Manager Cloud Services | 10 |
-| Brand Experience Agent | Deployment support | Adobe Experience Manager Cloud Services | 5 |
-| Brand Experience Agent | Site modernization | Adobe Experience Manager Cloud Services | 100 |
+| Audience Agent | Audience/account ideation | <ul><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li></ul> | 50 |
+| Audience Agent | Knowledge-based audience/account creation | <ul><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li></ul> | 150 |
+| Audience Agent | Audience/account management | <ul><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li></ul> | 25 |
+| Audience Agent | Audience/account analysis | <ul><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li></ul> | 25 |
+| Audience Agent | Buying group ideation | <ul><li>Adobe Journey Optimizer (B2B)</li></ul> | 25 |
+| Data Insights Agent | Data analysis and visualization | <ul><li>Customer Journey Analytics</li></ul> | 25 |
+| Data Insights Agent | Data storytelling and sharing | <ul><li>Customer Journey Analytics</li></ul> | 100 |
+| Journey Agent | Journey ideation | <ul><li>Adobe Journey Optimizer (B2B)</li></ul> | 25 |
+| Journey Agent | Journey creation | <ul><li>Adobe Journey Optimizer (B2B, B2C)</li></ul> | 30 |
+| Journey Agent | Journey analysis | <ul><li>Adobe Journey Optimizer (B2B, B2C)</li></ul> | 50 |
+| Journey Agent | Journey management | <ul><li>Adobe Journey Optimizer (B2B, B2C)</li></ul> | 25 |
+| Product Support Agent | Knowledge-based troubleshooting | <ul><li>Multiple Experience Cloud applications</li></ul> | 0 |
+| Product Support Agent | Support case creation and tracking | <ul><li>Multiple Experience Cloud applications</li></ul> | 10 |
+| Content Advisor Agent | Content discovery | <ul><li>Adobe Experience Manager Cloud Services</li></ul> | 5 |
+| Content Advisor Agent | Content update and optimization | <ul><li>Adobe Experience Manager Cloud Services</li></ul> | 10 |
+| Brand Experience Agent | Deployment support | <ul><li>Adobe Experience Manager Cloud Services</li></ul> | 5 |
+| Brand Experience Agent | Site modernization | <ul><li>Adobe Experience Manager Cloud Services</li></ul> | 100 |
 
 **Note:** Actual AI Credit consumption may vary depending on the number of steps executed and iterations per step.
 
