@@ -2,27 +2,26 @@
 title: Agent Jobs and AI Credit Consumption
 description: Learn about agent jobs and AI credit consumption in Experience Cloud applications.
 solution: Experience Cloud
-landing-page-name: ai
-landing-page-breadcrumb-title: AI Documentation
 topic: Artificial Intelligence
 feature: Agentic AI, AI Tools
 role: Admin, User
 level: Intermediate
 ---
+# Agent jobs and AI credit consumption
 
-# Agent Jobs and AI Credit Consumption
+Learn about agentic AI jobs and AI credit consumption in Experience Cloud applications.
 
-## Agent Jobs
+## Agent jobs
 
-An **Agent Job** is a series of tasks and actions an Agent executes to achieve a specific outcome, as directed by customer inputs.
+An **Agent job** is a series of tasks and actions an Agent executes to achieve a specific outcome, as directed by customer inputs.
 
 Using natural language prompts via AI Assistant, customers can ask Agents to carry out specific Jobs. Based on those inputs, Agent Orchestrator coordinates the appropriate Agents to execute each step within the relevant Experience Cloud applications.
 
-## AI Credits
+## AI credits
 
-An **AI Credit** is a usage-based metric that quantifies the execution of Agent Jobs. AI Credits do not apply to AI-first applications.
+An **AI credit** is a usage-based metric that quantifies the execution of Agent Jobs. AI Credits do not apply to AI-first applications.
 
-## AI Credit Consumption
+## AI credit consumption
 
 AI Credit usage may vary depending on the complexity and value of the Job executed:
 
@@ -30,9 +29,9 @@ AI Credit usage may vary depending on the complexity and value of the Job execut
 * Complex (often multi-step) tasks consume more credits  
 * Tasks involving advanced reasoning, validation, multi-agent coordination, or integration consume more credits  
 
-### Estimated AI Credit Consumption Rates
+### Estimated AI credit consumption rates
 
-| Agent | Job | Supported Applications | Estimated AI Credits |
+| Agent | Job | Supported applications | Estimated AI credits |
 |------|-----|------------------------|----------------------|
 | Audience Agent | Audience/account ideation | <ul><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li></ul> | 50 |
 | Audience Agent | Knowledge-based audience/account creation | <ul><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li></ul> | 150 |
@@ -52,5 +51,6 @@ AI Credit usage may vary depending on the complexity and value of the Job execut
 | Brand Experience Agent | Deployment support | <ul><li>Adobe Experience Manager Cloud Services</li></ul> | 5 |
 | Brand Experience Agent | Site modernization | <ul><li>Adobe Experience Manager Cloud Services</li></ul> | 100 |
 
-**Note:** Actual AI Credit consumption may vary depending on the number of steps executed and iterations per step.
-
+>[!NOTE]
+>
+>Actual AI credit consumption may vary depending on the number of steps executed and iterations per step.
