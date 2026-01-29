@@ -39,7 +39,6 @@ AI Credit usage may vary depending on the complexity and value of the Job execut
 | Audience Agent | Audience/account analysis | <ul><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li></ul> | 25 |
 | Audience Agent | Buying group ideation | <ul><li>Adobe Journey Optimizer (B2B)</li></ul> | 25 |
 | Data Insights Agent | Data analysis and visualization | <ul><li>Customer Journey Analytics</li></ul> | 25 |
-| Data Insights Agent | Data storytelling and sharing | <ul><li>Customer Journey Analytics</li></ul> | 100 |
 | Journey Agent | Journey ideation | <ul><li>Adobe Journey Optimizer (B2B)</li></ul> | 25 |
 | Journey Agent | Journey creation | <ul><li>Adobe Journey Optimizer (B2B, B2C)</li></ul> | 30 |
 | Journey Agent | Journey analysis | <ul><li>Adobe Journey Optimizer (B2B, B2C)</li></ul> | 50 |
