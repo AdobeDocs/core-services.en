@@ -53,3 +53,8 @@ AI credit usage may vary depending on the complexity and value of the job execut
 >[!NOTE]
 >
 >Actual AI credit consumption may vary depending on the number of steps executed and iterations per step.
+
+## More help on this topic
+
+* [Agentic AI in Experience Cloud](/help/interface/features/agentic-ai.md)
+* [Adobe Experience Platform Agents usage-bound trial](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/trial)

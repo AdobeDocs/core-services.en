@@ -70,6 +70,7 @@ The following table lists Experience Platform Agents available as Al-first appli
 
 ## More help on this topic
 
+* [Agent jobs and AI credit consumption](/help/interface/features/ai-credit-consumption.md)
 * [AI in Experience Cloud](https://experienceleague.adobe.com/en/docs/ai) documentation home
 * [Overview of Agents in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/agents/overview)
 
