@@ -10,6 +10,19 @@ index: yes
 # Experience Cloud interface and administration {#interface}
 
 + [Experience Cloud interface and administration](/help/interface/experience-cloud.md)
++ AI in Experience Cloud {#features}
+  + [Generative AI](/help/interface/features/generative-ai.md)
+  + [Agentic AI](/help/interface/features/agentic-ai.md)
+  + [Agent jobs and AI credit consumption](/help/interface/features/ai-credit-consumption.md)
++ Administration {#administration}
+  + [Account preferences and notifications](/help/interface/features/account-preferences.md)
+  + [Browser and language support](/help/interface/browser-language.md)
+  + [User and product management](/help/interface/administration/admin-console.md)
+  + [Admin Tool](/help/interface/administration/admin-tool-experience-cloud.md)
+  + [Organizations and account linking](/help/interface/administration/organizations.md)
+  + [Integrations](/help/interface/administration/integrations.md)
+  + [Unified Search](/help/interface/features/search.md)
+  + [Personalized learning preferences](/help/interface/features/personalized-learning.md)
 + Interface services {#services}
   + [Interface overview](/help/interface/services/overview.md)
   + [Get started](/help/interface/services/getting-started.md)
@@ -23,7 +36,6 @@ index: yes
   + Audience Library {#audiences}
     + [Audiences overview](/help/interface/services/audiences/overview.md)
     + [Create an audience](/help/interface/services/audiences/create.md)
-  + [Adobe Exchange](/help/interface/services/exchange.md)
   + Customer Attributes {#customer-attributes}
     + [Customer Attributes overview](/help/interface/services/customer-attributes/attributes.md)
     + [FAQ](/help/interface/services/customer-attributes/faq-crs.md)
@@ -37,19 +49,7 @@ index: yes
     + [Support for CCPA](/help/interface/services/customer-attributes/ccpa.md)
     + [Privacy considerations](/help/interface/services/customer-attributes/privacy-mac.md)
   + [Triggers](/help/interface/services/triggers.md)
-+ Features {#features}
-  + [Account preferences and notifications](/help/interface/features/account-preferences.md)
-  + [Generative AI](/help/interface/features/generative-ai.md)
-  + [Agentic AI](/help/interface/features/agentic-ai.md)
-  + [Agent jobs and AI credit consumption](/help/interface/features/ai-credit-consumption.md)
-  + [Unified Search](/help/interface/features/search.md)
-  + [Personalized learning preferences](/help/interface/features/personalized-learning.md)
-  + [Browser and language support](/help/interface/browser-language.md)
-+ Administration {#administration}
-  + [User and product management](/help/interface/administration/admin-console.md)
-  + [Admin Tool](/help/interface/administration/admin-tool-experience-cloud.md)
-  + [Organizations and account linking](/help/interface/administration/organizations.md)
-  + [Integrations](/help/interface/administration/integrations.md)
+  + [Adobe Exchange](/help/interface/services/exchange.md)
 + Data collection {#data-collection}
   + [Adobe-managed certificate program](/help/interface/data-collection/adobe-managed-cert.md)
   + [IP addresses](/help/interface/data-collection/ip-addresses.md)
