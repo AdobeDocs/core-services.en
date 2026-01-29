@@ -6,8 +6,6 @@ topic: Artificial Intelligence
 feature: Agentic AI, AI Tools
 role: Admin, User
 level: Intermediate
-hidefromtoc: yes
-index: no
 ---
 # Agent jobs and AI credit consumption
 
