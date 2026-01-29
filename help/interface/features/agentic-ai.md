@@ -8,8 +8,6 @@ topic: Artificial Intelligence
 feature: Agentic AI, AI Tools
 role: Admin, User
 level: Intermediate
-hidefromtoc: yes
-index: no
 exl-id: c1a8f9a7-4752-4040-b5f0-dc775417f536
 ---
 # Agentic AI in Adobe Experience Cloud
