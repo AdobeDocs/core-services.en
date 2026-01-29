@@ -6,6 +6,8 @@ topic: Artificial Intelligence
 feature: Agentic AI, AI Tools
 role: Admin, User
 level: Intermediate
+hidefromtoc: yes
+index: no
 ---
 # Agent jobs and AI credit consumption
 
@@ -13,17 +15,17 @@ Learn about agentic AI jobs and AI credit consumption in Experience Cloud applic
 
 ## Agent jobs
 
-An **Agent job** is a series of tasks and actions an Agent executes to achieve a specific outcome, as directed by customer inputs.
+An _agent job_ is a series of tasks and actions an Agent executes to achieve a specific outcome, as directed by customer inputs.
 
-Using natural language prompts via AI Assistant, customers can ask Agents to carry out specific Jobs. Based on those inputs, Agent Orchestrator coordinates the appropriate Agents to execute each step within the relevant Experience Cloud applications.
+Using natural language prompts via AI Assistant, you can ask agents to carry out specific jobs. Based on those inputs, Agent Orchestrator coordinates the appropriate agents to execute each step within the relevant Experience Cloud applications.
 
 ## AI credits
 
-An **AI credit** is a usage-based metric that quantifies the execution of Agent Jobs. AI Credits do not apply to AI-first applications.
+An _AI credit_ is a usage-based metric that quantifies the execution of agent jobs. AI credits do not apply to [AI-first applications](/help/interface/features/agentic-ai.md).
 
 ## AI credit consumption
 
-AI Credit usage may vary depending on the complexity and value of the Job executed:
+AI credit usage may vary depending on the complexity and value of the job executed:
 
 * Simple (often single-step) tasks consume fewer credits  
 * Complex (often multi-step) tasks consume more credits  
@@ -39,7 +41,6 @@ AI Credit usage may vary depending on the complexity and value of the Job execut
 | Audience Agent | Audience/account analysis | <ul><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li></ul> | 25 |
 | Audience Agent | Buying group ideation | <ul><li>Adobe Journey Optimizer (B2B)</li></ul> | 25 |
 | Data Insights Agent | Data analysis and visualization | <ul><li>Customer Journey Analytics</li></ul> | 25 |
-| Data Insights Agent | Data storytelling and sharing | <ul><li>Customer Journey Analytics</li></ul> | 100 |
 | Journey Agent | Journey ideation | <ul><li>Adobe Journey Optimizer (B2B)</li></ul> | 25 |
 | Journey Agent | Journey creation | <ul><li>Adobe Journey Optimizer (B2B, B2C)</li></ul> | 30 |
 | Journey Agent | Journey analysis | <ul><li>Adobe Journey Optimizer (B2B, B2C)</li></ul> | 50 |
