@@ -25,7 +25,7 @@ Access to AI agents in Experience Cloud is available in either:
 * [Existing Experience Cloud applications](#existing-apps)
 * [AI-first Experience Cloud applications](#ai-first-apps)
 
-The following sections describe how you can enable agentic AI in Experience Cloud.
+The following sections describe these two ways to enable agentic AI in Experience Cloud.
 
 ## Existing Experience Cloud applications {#existing-apps}
 
@@ -33,11 +33,11 @@ In existing applications, you can use natural language to instruct Adobe Experie
 
 Agents can be enabled in existing Experience Cloud apps for customers in one of the following categories:
 
-* Purchased an Adobe Experience Platform Agents AI Credits license
-* Are included in a usage-bound trial (limited AI Credits provided)
-* Transacted the Agent Orchestrator Promo SKU (time-bound trial license)
+* You purchased an Adobe Experience Platform Agents AI Credits license
+* You are included in a usage-bound trial (limited AI Credits provided)
+* You transacted the Agent Orchestrator Promo SKU (time-bound trial license)
 
-As you use AI agents to perform _agent jobs_, you consume AI credits. Learn about it in [Agent jobs and AI credit consumption](/help/interface/features/ai-credit-consumption.md).
+Using AI agents to perform _agent jobs_ consumes AI credits. Learn more about agent jobs and AI credits in _[Agent jobs and AI credit consumption](/help/interface/features/ai-credit-consumption.md)_.
 
 AI agents follow _your_ input, oversight, and they respect product-level access controls. You can only perform jobs or access data that you are authorized to use in the underlying Experience Cloud product.
 
