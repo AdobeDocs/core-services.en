@@ -23,21 +23,23 @@ Access to AI agents in Experience Cloud is available in either:
 * [Existing Experience Cloud applications](#existing-apps)
 * [AI-first Experience Cloud applications](#ai-first-apps)
 
+The following sections describe each way to access agentic AI in Experience Cloud.
+
 ## Existing Experience Cloud applications {#existing-apps}
 
 In existing applications, you can use natural language to instruct Adobe Experience Platform Agents through the [AI Assistant](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/home) conversational interface. The AI Assistant is available in both full-screen and right-rail views.
 
-Agents can be leveraged by existing Experience Cloud apps customers in one of the following categories:
+Agents can be enabled in existing Experience Cloud apps for customers in one of the following categories:
 
 * Purchased an Adobe Experience Platform Agents AI Credits license
 * Are included in a usage-bound trial (limited AI Credits provided)
 * Transacted the Agent Orchestrator Promo SKU (time-bound trial license)
 
-As you use AI agents to perform agent jobs, you consume AI credits. Learn more in [Agent jobs and AI credit consumption](/help/interface/features/ai-credit-consumption.md).
+As you use AI agents to perform _agent jobs_, you consume AI credits. Learn about it in [Agent jobs and AI credit consumption](/help/interface/features/ai-credit-consumption.md).
 
-Agents follow your input and oversight and respect product-level access controls. You can only perform jobs or access data that you are authorized to use in the underlying Experience Cloud product.
+AI agents follow _your_ input, oversight, and they respect product-level access controls. You can only perform jobs or access data that you are authorized to use in the underlying Experience Cloud product.
 
-### Agents available in existing Experience Cloud apps {#existing-apps-table}
+### AI agents in existing Experience Cloud apps {#existing-apps-table}
 
 The following table lists Experience Platform Agents available in existing Experience Cloud applications. 
 
@@ -55,9 +57,9 @@ Asterisk (*): This Agent is accessible to customers in the Explorer Program. The
 
 ## AI-first Experience Cloud applications {#ai-first-apps}
 
-AI-first applications are built with generative or agentic Al at the core. They use generative or agentic Al for key tasks, and the agentic features are already included in the Al-first application license. As such, they do not require the Agent Orchestrator license.
+AI-first applications are built with generative or agentic Al at the core. They use generative or agentic Al for key tasks, and the agentic features are already included in the Al-first application license. As such, they do not require the Experience Platform Agent Orchestrator license.
 
-Here is the list of Experience Platform Agents available in Al-first applications. They are enabled by licensing these Al-first applications:  
+The following table lists Experience Platform Agents available as Al-first applications. They are enabled by licensing these Al-first applications:  
 
 | Agent name  | Capabilities | Supported applications   |
 |---|----------|----------|
