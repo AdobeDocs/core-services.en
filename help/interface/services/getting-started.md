@@ -50,12 +50,12 @@ To log in to Experience Cloud, your users must:
 
 1. Ensure that you have the appropriate Adobe Analytics or Adobe Target SKUs. 
 
-    * **Adobe Analytics:** Standard or Premium (not the legacy [!DNL SiteCatalyst] SKU).
-    * **Adobe Target:** Standard or Premium.
+   * **Adobe Analytics:** Standard or Premium (not the legacy [!DNL SiteCatalyst] SKU).
+   * **Adobe Target:** Standard or Premium.
 
-    >[!NOTE]
-    >
-    >For [!DNL Target], migrate to at.js from `mbox.js`. See [Upgrading from at.js 1. x to at.js 2. x](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/at-js-implementation/upgrading-from-atjs-1x-to-atjs-20.html).
+     >[!NOTE]
+     >
+     >For [!DNL Target], migrate to at.js from `mbox.js`. See [Upgrading from at.js 1. x to at.js 2. x](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/at-js-implementation/upgrading-from-atjs-1x-to-atjs-20.html).
 
 1. [Manage users and products](../administration/admin-console.md) in the [!UICONTROL Admin Console]. 
 

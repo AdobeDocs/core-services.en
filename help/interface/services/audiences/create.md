@@ -49,9 +49,9 @@ The following example shows how to create the rules for a composite audience. Th
 
    * **[!UICONTROL Real-Time Analytics Data:]** (or Raw data) This is attribute data derived from Real-Time Analytics image requests. It includes eVars and events. You must select a report suite when using this attribute source, and define the dimension or event to include. This report suite selection provides the variable structure used by the report suite.
    
-   >[!NOTE]
-   >
-   >Due to caching, deleted report suites in Analytics require 12 hours before the deletion is shown in Experience Cloud.
+      >[!NOTE]
+      >
+      >Due to caching, deleted report suites in Analytics require 12 hours before the deletion is shown in Experience Cloud.
 
    * **[!UICONTROL Experience Cloud:]** attribute data derived from [!DNL Experience Cloud] sources. For example, this can be data from audience segments you create in [!DNL Analytics], or data from [!DNL Audience Manager].
 
