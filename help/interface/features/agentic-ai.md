@@ -25,7 +25,7 @@ Access to AI agents in Experience Cloud is available in either:
 * [Existing Experience Cloud applications](#existing-apps)
 * [AI-first Experience Cloud applications](#ai-first-apps)
 
-The following sections describe how you can enable agentic AI in Experience Cloud.
+The following sections describe these two ways to enable agentic AI in Experience Cloud.
 
 ## Existing Experience Cloud applications {#existing-apps}
 
