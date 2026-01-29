@@ -10,7 +10,7 @@ role: Admin, User
 level: Intermediate
 exl-id: c1a8f9a7-4752-4040-b5f0-dc775417f536
 ---
-# Agentic AI in Experience Cloud
+# Agentic AI in Adobe Experience Cloud
 
 Updated: **January 29, 2026**
 
@@ -23,7 +23,7 @@ Access to AI agents in Experience Cloud is available in either:
 * [Existing Experience Cloud applications](#existing-apps)
 * [AI-first Experience Cloud applications](#ai-first-apps)
 
-The following sections describe each way to access agentic AI in Experience Cloud.
+The following sections describe how you can enable agentic AI in Experience Cloud.
 
 ## Existing Experience Cloud applications {#existing-apps}
 
@@ -47,13 +47,13 @@ The following table lists Experience Platform Agents available in existing Exper
 |---|----------|----------|
 | [Audience Agent](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/audience)  | Empower your teams to create, manage, and optimize audiences using natural language prompts for greater ease, efficiency, and speed to market. |<ul><li>Real-Time CDP (B2B, B2C, and B2P editions)</li><li>Adobe Journey Optimizer (B2B and B2C editions)</li></ul> |
 | **Content Advisor Agent** |<ul><li>[Content Discovery](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/business-agents/discovery/using): Speed authoring and boost discovery with simplified natural-language prompts to instantly find and surface Experience Manager content across images, videos, text-based documents, content fragments, and forms.</li><li>[Content Optimization](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/agents/content-optimization/overview): Simplify creating visual content variants from source assets using natural language prompts.</li><li>[Experience Production](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/agents/production/overview): Automates high-effort and high-volume tasks in the CMS. This agent turns manual, lengthy processes into fast, AI-assisted workflows that keep every experience current and consistent, helping your business achieve your goals.</li></ul> |<ul><li>Adobe Experience Manager (Content Discovery)</li></ul><ul><li>Adobe Experience Manager with Dynamic Media with OpenAPI (Content Optimization)</li></ul><ul><li>Adobe Experience Manager Cloud Services and Edge Delivery Services (Experience Production) </li></ul>  |
-| [Data Insights Agent](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai)  |  Quickly answers data questions about your data. It builds relevant visualizations in Analysis Workspace using components from your data view and using your actual data. | <ul><li>Customer Journey Analytics (B2B and B2C Editions)</li></ul>  |
+| [Data Insights Agent](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai)  |  Quickly answers questions about your data. It builds relevant visualizations in Analysis Workspace using components from your data view and using your actual data. | <ul><li>Customer Journey Analytics (B2B and B2C Editions)</li></ul>  |
 | **Brand Experience Agent**  |  [Deployment Support](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/business-agents/development/overview): Helps AEM CS developers and technical administrators troubleshoot build-step failures in the Cloud Manager pipeline by analyzing the root cause and suggesting fixes.|  <ul><li>AI Assistant in AEM Cloud Service and Adobe Managed Services</li></ul>  |
 | **Brand Governance Agent***  |[Brand Governance](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/agents/governance/overview): Safeguard brand integrity and compliance by enforcing security, regulatory, and brand policies across Experience Manager. This agent applies brand governance to maintain visual and messaging standards. It uses granular permissions to manage access and content changes, and incorporates DRM to uphold licensing and usage constraints.|  <ul><li>Adobe Experience Manager Sites</li><li>Adobe Experience Manager Assets</li><li>Adobe Experience Manager Forms</li></ul>  |
 | [Journey Agent](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ajo-agent-analyze) | Enable your teams to quickly create, analyze, and optimize multi-touch customer journeys at scale. | <ul><li>Adobe Journey Optimizer (B2B and B2C editions)</li></ul> |
 | [Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) |  Troubleshoot support issues without leaving your workflows, create customer support tickets, and track case progress using AI Assistant. | <ul><li>Real-Time CDP (B2B, B2C, and B2P Editions)</li><li>Adobe Journey Optimizer (B2B and B2C Editions)</li><li>Adobe Journey Optimizer B2B Edition</li><li>Customer Journey Analytics</li><li>Adobe Experience Manager</li></ul>  |
 
-Asterisk (*): This Agent is accessible to customers in the Explorer Program. The Explorer Program is an invite-only program providing early access to our latest innovative agentic capabilities to select customers. Please reach out to your account representative for more information. 
+Asterisk (*): This Agent is accessible to customers in the Explorer Program. The Explorer Program is an invite-only program that provides early access to Adobe's latest agentic capabilities. Please reach out to your account representative for more information. 
 
 ## AI-first Experience Cloud applications {#ai-first-apps}
 
