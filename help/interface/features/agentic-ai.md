@@ -14,7 +14,7 @@ exl-id: c1a8f9a7-4752-4040-b5f0-dc775417f536
 
 Updated: **January 29, 2026**
 
-Adobe Experience Platform agents use the Experience Platform [Agent Orchestrator](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/home) to add agent-based capabilities to Experience Cloud applications.
+Adobe Experience Platform Agents is powered by [Experience Platform Agent Orchestrator](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/home) to enable agentic AI capabilities within Experience Cloud applications.
 
 These agents help automate tasks, deliver insights faster, and streamline workflows. As a result, teams can work more efficiently and get more value from Experience Cloud.
 
@@ -27,7 +27,7 @@ The following sections describe these two ways to enable agentic AI in Experienc
 
 ## Existing Experience Cloud applications {#existing-apps}
 
-In existing applications, you can use natural language to instruct Adobe Experience Platform Agents through the [AI Assistant](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/home) conversational interface. The AI Assistant is available in both full-screen and right-rail views.
+In existing applications, you can use natural language to instruct Adobe Experience Platform Agents through [AI Assistant](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/home) conversational interface. AI Assistant is available in both full-screen and right-rail views.
 
 Agents can be enabled in existing Experience Cloud apps for customers in one of the following categories:
 
@@ -37,7 +37,7 @@ Agents can be enabled in existing Experience Cloud apps for customers in one of 
 
 Using AI agents to perform _agent jobs_ consumes AI credits. Learn more about agent jobs and AI credits in _[Agent jobs and AI credit consumption](/help/interface/features/ai-credit-consumption.md)_.
 
-AI agents follow _your_ input, oversight, and they respect product-level access controls. You can only perform jobs or access data that you are authorized to use in the underlying Experience Cloud product.
+AI agents follow _your_ input, oversight, and they respect product-level access controls. You can only perform jobs or access data that you are authorized to use in the underlying Experience Cloud application.
 
 ### AI agents in existing Experience Cloud apps {#existing-apps-table}
 
@@ -51,7 +51,7 @@ The following table lists Experience Platform Agents available in existing Exper
 | **Brand Experience Agent**  |  [Deployment Support](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/agents/development/overview): Helps AEM CS developers and technical administrators troubleshoot build-step failures in the Cloud Manager pipeline by analyzing the root cause and suggesting fixes.|  <ul><li>AI Assistant in AEM Cloud Service and Adobe Managed Services</li></ul>  |
 | **Brand Governance Agent***  |[Brand Governance](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/agents/governance/overview): Safeguard brand integrity and compliance by enforcing security, regulatory, and brand policies across Experience Manager. This agent applies brand governance to maintain visual and messaging standards. It uses granular permissions to manage access and content changes, and incorporates DRM to uphold licensing and usage constraints.|  <ul><li>Adobe Experience Manager Sites</li><li>Adobe Experience Manager Assets</li><li>Adobe Experience Manager Forms</li></ul>  |
 | [Journey Agent](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ajo-agent-analyze) | Enable your teams to quickly create, analyze, and optimize multi-touch customer journeys at scale. | <ul><li>Adobe Journey Optimizer (B2B and B2C editions)</li></ul> |
-| [Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) |  Troubleshoot support issues without leaving your workflows, create customer support tickets, and track case progress using AI Assistant. | <ul><li>Real-Time CDP (B2B, B2C, and B2P Editions)</li><li>Adobe Journey Optimizer (B2B and B2C Editions)</li><li>Adobe Journey Optimizer B2B Edition</li><li>Customer Journey Analytics</li><li>Adobe Experience Manager</li></ul>  |
+| [Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) |  Troubleshoot support issues without leaving your workflows, create customer support tickets, and track case progress using AI Assistant. | <ul><li>Real-Time CDP (B2B, B2C, and B2P Editions)</li><li>Adobe Journey Optimizer (B2B and B2C Editions)</li><li>Customer Journey Analytics (B2B and B2C Editions)</li><li>Adobe Experience Manager</li></ul>  |
 
 Asterisk (*): This Agent is accessible to customers in the Explorer Program. The Explorer Program is an invite-only program that provides early access to Adobe's latest agentic capabilities. Please reach out to your account representative for more information. 
 
