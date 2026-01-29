@@ -1,6 +1,6 @@
 ---
 title: Agent Jobs and AI Credit Consumption
-description: Learn about agent jobs and AI credit consumption in Experience Cloud applications.
+description: Learn about agent jobs and AI credit consumption rates in Experience Cloud applications.
 solution: Experience Cloud
 topic: Artificial Intelligence
 feature: Agentic AI, AI Tools
@@ -9,7 +9,7 @@ level: Intermediate
 ---
 # Agent jobs and AI credit consumption
 
-Learn about agentic AI jobs and AI credit consumption in Experience Cloud applications.
+Learn about agentic AI jobs and AI credit consumption in Experience Cloud applications. For information about enabling agentic AI capabilities in existing Experience Cloud applications, see [Agentic AI in Experience Cloud](agentic-ai.md#existing-apps).
 
 ## Agent jobs
 
