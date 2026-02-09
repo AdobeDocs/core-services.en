@@ -6,6 +6,18 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 320defc7-2cd5-4481-955d-77cf6fbfef6d
+TQID: https://experienceleague.adobe.com/YPl1rlZRciwN6GM7mtkqMKjPsW-H1ueMG4zqbH8auho
+product_v2:
+  - id: e1971122-7081-4556-9222-8a31bd71800c
+    internal-label: Experience Cloud Services
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
 ---
 # [!DNL Customer Attributes] support for California Consumer Privacy Act
 

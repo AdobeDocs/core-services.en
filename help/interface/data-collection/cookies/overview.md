@@ -3,6 +3,26 @@ description: Learn how solutions and services in Adobe Experience Cloud use cook
 title: How Cookies Are Used in Experience Cloud
 uuid: 4255a13a-917b-4b5f-a7d4-4b2e7521d189
 exl-id: 60f1a89e-d989-461b-a6a3-c1df022cd30b
+TQID: https://experienceleague.adobe.com/GH5WHcI9440NKYpUzizHlhOMlBSf-Y0WQ5GDBaSvqNI
+product_v2:
+  - id: e1971122-7081-4556-9222-8a31bd71800c
+    internal-label: Experience Cloud Services
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
 ---
 # How cookies are used in Experience Cloud
 
