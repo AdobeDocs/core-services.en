@@ -24,8 +24,6 @@ topic_v2:
     internal-label: Data collection
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-  - id: e3ed4cd0-303a-4a01-84a2-26db657042d9
-    internal-label: ""
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
