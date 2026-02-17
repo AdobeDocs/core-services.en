@@ -46,8 +46,6 @@ topic_v2:
     internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-  - id: e3ed4cd0-303a-4a01-84a2-26db657042d9
-    internal-label: ""
   - id: e4bd5f48-22a4-465d-a046-5ffb52e27856
     internal-label: Content production
   - id: e9001ce2-5245-4a8e-8601-dd958009072f
