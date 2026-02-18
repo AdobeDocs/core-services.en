@@ -9,6 +9,8 @@ level: Intermediate
 ---
 # Adobe Experience Platform agent jobs and AI credits consumption  
 
+Updated: **February 18, 2026**
+
 Learn about agentic AI jobs and AI credit consumption in Experience Cloud applications. For information about enabling agentic AI capabilities in existing Experience Cloud applications, see [Agentic AI in Experience Cloud](agentic-ai.md#existing-apps).
 
 ## Agent jobs
