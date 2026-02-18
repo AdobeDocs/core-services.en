@@ -7,13 +7,13 @@ feature: Agentic AI, AI Tools
 role: Admin, User
 level: Intermediate
 ---
-# Agent jobs and AI credit consumption
+# Adobe Experience Platform agent jobs and AI credits consumption  
 
 Learn about agentic AI jobs and AI credit consumption in Experience Cloud applications. For information about enabling agentic AI capabilities in existing Experience Cloud applications, see [Agentic AI in Experience Cloud](agentic-ai.md#existing-apps).
 
 ## Agent jobs
 
-An _agent job_ is a series of tasks and actions an Agent executes to achieve a specific outcome, as directed by customer inputs.
+An _agent job_ is a series of tasks and actions an agent executes to achieve a specific outcome, as directed by customer inputs.
 
 Using natural language prompts via AI Assistant, you can ask agents to carry out specific jobs. Based on those inputs, Agent Orchestrator coordinates the appropriate agents to execute each step within the relevant Experience Cloud applications.
 
@@ -38,15 +38,15 @@ AI credit usage may vary depending on the complexity and value of the job execut
 | Audience Agent | Audience/account management | <ul><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li></ul> | 25 |
 | Audience Agent | Audience/account analysis | <ul><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li></ul> | 25 |
 | Audience Agent | Buying group ideation | <ul><li>Adobe Journey Optimizer (B2B)</li></ul> | 25 |
-| Data Insights Agent | Data analysis and visualization | <ul><li>Customer Journey Analytics</li></ul> | 25 |
-| Journey Agent | Journey ideation | <ul><li>Adobe Journey Optimizer (B2B)</li></ul> | 25 |
-| Journey Agent | Journey creation | <ul><li>Adobe Journey Optimizer (B2B, B2C)</li></ul> | 30 |
-| Journey Agent | Journey analysis | <ul><li>Adobe Journey Optimizer (B2B, B2C)</li></ul> | 50 |
-| Journey Agent | Journey management | <ul><li>Adobe Journey Optimizer (B2B, B2C)</li></ul> | 25 |
-| Product Support Agent | Knowledge-based troubleshooting | <ul><li>Multiple Experience Cloud applications</li></ul> | 0 |
-| Product Support Agent | Support case creation and tracking | <ul><li>Multiple Experience Cloud applications</li></ul> | 10 |
+| Data Insights Agent | Data analysis and visualization | <ul><li>Customer Journey Analytics (B2C and B2B Editions)</li></ul> | 25 |
+| Journey Agent | Journey ideation | <ul><li>Adobe Journey Optimizer (B2B Edition)</li></ul> | 25 |
+| Journey Agent | Journey creation | <ul><li>Adobe Journey Optimizer (B2B and B2C Editions)</li></ul> | 30 |
+| Journey Agent | Journey analysis | <ul><li>Adobe Journey Optimizer (B2B and B2C Editions)</li></ul> | 50 |
+| Journey Agent | Journey management | <ul><li>Adobe Journey Optimizer (B2B and B2C Editions)</li></ul> | 25 |
+| Product Support Agent | Knowledge-based troubleshooting | <ul><li>Real-Time CDP (B2B, B2C, and B2P Editions)</li><li>Adobe Journey Optimizer (B2C and B2B Editions)</li><li>Customer Journey Analytics (B2C and B2B Editions)</li></ul> | 0 |
+| Product Support Agent | Support case creation and tracking | <ul><li>Real-Time CDP (B2B, B2C, and B2P Editions)</li>Adobe Journey Optimizer (B2C and B2B Editions)<li>Customer Journey Analytics (B2C and B2B Editions)</li><li>Adobe Experience Manager</li></ul> | 10 |
 | Content Advisor Agent | Content discovery | <ul><li>Adobe Experience Manager Cloud Services</li></ul> | 5 |
-| Content Advisor Agent | Content update and optimization | <ul><li>Adobe Experience Manager Cloud Services</li></ul> | 10 |
+| Content Advisor Agent |  <ul><li>Content update</li><li>Content optimization</li><li>Forms creation</li> | <ul><li>Adobe Experience Manager Cloud Services</li></ul> | 10 |
 | Brand Experience Agent | Deployment support | <ul><li>Adobe Experience Manager Cloud Services</li></ul> | 5 |
 | Brand Experience Agent | Site modernization | <ul><li>Adobe Experience Manager Cloud Services</li></ul> | 100 |
 
