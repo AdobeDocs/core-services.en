@@ -49,7 +49,7 @@ topic_v2:
 ---
 # Agentic AI in Adobe Experience Cloud
 
-Updated: **February 17, 2026**
+Updated: **March 3, 2026**
 
 Adobe Experience Platform Agents is powered by [Experience Platform Agent Orchestrator](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/home) to enable agentic AI capabilities within Experience Cloud applications.
 
