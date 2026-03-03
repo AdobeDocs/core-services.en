@@ -123,7 +123,7 @@ With this update, administrators may see changes or additions to the Admin Conso
 ## April 2022
 
 | Feature | Description |
-| ------- |-------|
+| ------- | -------|
 |Natural language search|Get instant answers to all your help questions, through one single interface via Unified Search. This feature is always available to you on every page of [!DNL Experience Platform] and [!DNL Journey Optimizer].|
 
 {style="table-layout:auto"}
@@ -131,7 +131,7 @@ With this update, administrators may see changes or additions to the Admin Conso
 ## March 2022
 
 | Feature | Description |
-| ------- |-------|
+| ------- | -------|
 |Access [!UICONTROL Recents] across Experience Platform and Journey Optimizer through the search bar|Users can now access recently accessed objects from every page of AEP and AJO through the unified search bar.|
 
 {style="table-layout:auto"}
@@ -139,7 +139,7 @@ With this update, administrators may see changes or additions to the Admin Conso
 ## February 2022
 
 | Feature | Description |
-| ------- |-------|
+| ------- | -------|
 |Shortcuts (**[!UICONTROL Recents]**) added to [Experience Cloud](https://experience.adobe.com/home) home |You can access shortcuts to your most recent Journey Optimizer and Experience Platform work under the new _Recents_ heading on the landing page. This update also includes general layout and responsiveness improvements.|
 |**[!UICONTROL Sandboxes]** moved to the header bar |The Sandboxes indicator is now integrated within the header for all Experience Platform interface applications. See [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/ui/user-guide.html) in Experience Platform for more information.|
 
@@ -270,7 +270,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 ## May 2018
 
 | Feature | Description |
-|--- |--- |
+| --- | --- |
 |New administration landing page|When you sign in to Experience Cloud and navigate to the Administration page, a new intuitive interface is available to help you quickly access your Experience Cloud applications and Core Services.|
 
 {style="table-layout:auto"}
@@ -287,7 +287,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 ## August 2017
 
 | Feature | Description |
-|--- |--- |
+| --- | --- |
 |Notifications - Granular settings|You can enable notifications for product and application events and activities, including notifications about [Customer Attributes](../services/customer-attributes/attributes.md) upload activity.|
 |Notifications - Maintenance notifications|In Notification settings, you can enable maintenance notifications for products and applications.|
 |Admin Console for Experience Cloud Solutions|New Experience Cloud customers can begin using the Admin Console, a central location for managing your Adobe entitlements across your entire organization.<br>The migration to the Admin Console for user management will proceed in waves. Adobe contacts you (system administrators) when it is time to migrate.<br>Analytics administrators, see  [Analytics Migration](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html).|
@@ -297,7 +297,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 ## May 2017
 
 | Feature | Description |
-|--- |--- |
+| --- | --- |
 |Bulk Report Suite Mapping|In Administration > Report Suite Mapping, you can now select multiple report suites, then map them to an organization. (Previously, you had to map them individually.)  <br>Mapping report suites to a single organization helps enable cross-application features and services in Experience Cloud.|
 |Updates to Experience Cloud Audiences|**Applying Report Suites**<br>You can now apply a report suite to all your [audience rules](../services/audiences/create.md). (Previously, you had to specify a report suite in each rule definition.) <br>**Props and Variables**<br>You can now include Analytics props and default variables (in addition to eVars and events) in real-time audiences.|
 
@@ -306,7 +306,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 ## November 2016
 
 | Feature | Description |
-|--- |--- |
+| --- | --- |
 |Update to Profile & Passwords|Users can no longer edit IMS user profile information under  Personal Details In  Edit Profile >  Profile & Passwords. Instead users are redirected to `accounts.adobe.com`. This update applies to all identity types (Adobe ID, Enterprise, and Federated).|
 
 {style="table-layout:auto"}

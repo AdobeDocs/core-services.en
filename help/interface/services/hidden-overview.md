@@ -23,7 +23,7 @@ To access these services in Experience Cloud, select the **[!UICONTROL Applicati
 This help describes the following products and services:
 
 | Core Service | Description |
-|--- |--- |
+| --- | --- |
 |[Central interface components](../experience-cloud.md)|Access account preferences, search for product help, and access applications and services.|
 |[Audience Library](audiences/overview.md)| Audiences are collections of visitors (a list of visitor IDs). Adobe's [!DNL Audience Library] lets you manage the translation of visitor data into audience segmentation. |
 |[Customer Attributes](customer-attributes/attributes.md)| Build real-time orchestration use cases using contextual data stored in events or data sources. [!UICONTROL Journey Orchestration] is an application service integrated with the Experience Platform.|

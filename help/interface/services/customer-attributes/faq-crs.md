@@ -43,7 +43,7 @@ Frequently asked questions and best practices for [!DNL Customer Attributes] in 
 Guidance and limitations when using [!DNL Customer Attributes].
 
 | Issue | Description |
-|--- |--- |
+| --- | --- |
 |[!DNL Customer Attributes] [subscription](subscription.md) limitations|When you upgrade to Analytics Premium, there is a 24-hour delay before more attributes are available. You might see an [!UICONTROL attribute Subscription Max] error issued during this delay.|
 |Multiple logins on the same device|When using [!DNL Customer Attributes] to upload customer profiles into a data source, Adobe recommends against users sharing devices (meaning, the same Experience Cloud ID). The Experience Cloud ID (ECID) persists on the device. Sharing devices can cause the ECID to link multiple users to the same ECID, causing unexpected results in [!DNL Target]. **Note:** For Mobile, the ECID is permanent after the Mobile app is installed. Reinstall the app to generate a new ECID. For Web, a new ECID is generated after the browser cookie is cleared.|
 |Daily frequency upload limitation| Adobe recommends that you update [!DNL Customer Attributes] only once per day. You must wait at least 24 hours to upload another customer profile data file for the same set of profiles.|
@@ -55,7 +55,7 @@ Guidance and limitations when using [!DNL Customer Attributes].
 ## FAQ about [!DNL Customer Attributes] 
 
 | Question | Answer |
-|--- |--- |
+| --- | --- |
 |Can I receive notifications about upload status for [!DNL Customer Attributes]?|Yes.|
 |What should I do to get started with [!DNL Customer Attributes]?|<ol><li>Get provisioned. If you are an Adobe Analytics customer, Adobe is provisioning you for [!DNL Customer Attributes]. If you use only Adobe Target and do not have Analytics, request provisioning for core services by contacting customer Care.</li> <li>Have a conversation with your CRM team. Find out what kind of customer data is available that you want to use in Analytics and throughout Experience Cloud.</li><li>Implement core services.</li></ol> See [prerequisites](t-crs-usecase.md#prerequisites-for-using-customer-attributes) before uploading data to learn about enabling users to use this feature.|
 |How many customer attributes am I allowed to use?|You can upload hundreds of `.csv` columns to the customer attribute service. However, when configuring subscriptions and selecting attributes, the following limits apply (per report suite), depending on the applications you own:  <ul><li>Foundation: 0</li><li>Select: 3</li><li>Prime: 15</li><li>Ultimate: 200</li><li>Standard: 3 total</li><li>Premium: 200</li><li>Adobe Target Standard: 5</li><li>Adobe Target Premium: 200</li></ul>|

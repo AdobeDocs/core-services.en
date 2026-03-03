@@ -73,7 +73,7 @@ Here are resources you might need when getting started as an administrator in Ad
 ### Reports and logs
 
 | Help link | Description |
-| ------- |------- |
+| ------- | ------- |
 | [Audit log](https://helpx.adobe.com/enterprise/using/audit-logs.html) |**[!UICONTROL Insights]** > **[!UICONTROL Logs]** > **[!UICONTROL Audit Log]** <br> Track all changes made in the Admin Console. |
 
 

@@ -33,7 +33,7 @@ topic_v2:
 The Adobe Experience Platform Web SDK uses cookies to store values specific to your implementation.
 
 | Name | Max age | Size | Description |
-|---|---|---|---|
+| ---| ---| ---| ---|
 | **`AMCV_###@AdobeOrg`** | 34128000 (395 days) | 100-120 bytes (variable) | Present when [`idMigrationEnabled`](https://experienceleague.adobe.com/en/docs/experience-platform/collection/js/commands/configure/idmigrationenabled) is enabled. It helps when transitioning to the Web SDK while some parts of the site still use `visitor.js`. The Web SDK both reads and writes to this cookie during migration. |
 | **`demdex`** | 15552000 (180 days) | varies | Present if Audience Manager ID synchronization is enabled. Audience Manager sets this cookie to assign a unique ID and support ID sync, segmentation, modeling, and reporting. See `demdex` in [Audience Manager cookies](audience-manager.md). |
 | **`kndctr_<orgId>_identity`** | 34128000 (395 days) | 100-120 bytes (variable) | Stores the ECID and other related information for that device. |

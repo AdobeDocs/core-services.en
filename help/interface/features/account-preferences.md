@@ -50,7 +50,7 @@ To find Experience Cloud preferences, click **[!UICONTROL Profile]** ![preferenc
 On the [!UICONTROL Experience Cloud preferences] page, you can manage the following account features:
 
 | Feature | Description |
-|--- |--- |
+| --- | --- |
 |[!UICONTROL Profile]|Update your [Adobe Account Profile](https://account.adobe.com/profile). <p>Your profile photo and name appear when you log in to Adobe.com, Adobe products and services, and on public-facing sites like [!DNL Behance].|
 |[!UICONTROL General]|Select an [organization](../administration/organizations.md).<p>This organization is the default one used when you sign-in to Experience Cloud. |
 |[!UICONTROL Product usage data]| You can control what product usage data is shared with Adobe when using Experience Cloud applications. This is data about how you use our products, not your organization's content or data itself. Adobe uses this information to help improve our products, provide you with enhanced in-product support, and to personalize your experience and communications from us. <p>To learn more, see [Product usage data](#product-usage-data) (on this page).|

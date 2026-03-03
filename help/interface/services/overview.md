@@ -50,7 +50,7 @@ To access shared services and applications in Experience Cloud, click the **[!UI
 The Services pages in this guide describe the following products and services:
 
 | Core Service | Description |
-|--- |--- |
+| --- | --- |
 |[Central interface components](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud)|Access account preferences, search for product help, and access applications and services.|
 |[Audience Library](https://experienceleague.adobe.com/en/docs/core-services/interface/services/audiences/overview)| Audiences are collections of visitors (a list of visitor IDs). Adobe's [!DNL Audience Library] lets you manage the translation of visitor data into audience segmentation. |
 |[Customer Attributes](https://experienceleague.adobe.com/en/docs/core-services/interface/services/customer-attributes/attributes)| Build real-time orchestration use cases using contextual data stored in events or data sources. [!UICONTROL Journey Orchestration] is an application service integrated with the Experience Platform.|

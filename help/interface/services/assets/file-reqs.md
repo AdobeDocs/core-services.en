@@ -40,7 +40,7 @@ File types you can upload include most images, documents, and multimedia. See [S
 File size limitations come from the browser and can vary from browser to browser: 
 
 | Browser | Upload (Total Size) | Download (Per File) |
-|--- |--- |--- |
+| --- | --- | --- |
 |Internet Explorer 6|2 GB|2 GB  4 GB for chunked or connection-close transfers.|
 |Internet Explorer 7|2 GB|4 GB|
 |Internet Explorer 8|2 GB|17,592 GB|
