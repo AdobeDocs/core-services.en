@@ -76,7 +76,7 @@ Create a trigger and configure the conditions for the trigger. For example, you 
 1. Configure the trigger by completing the following fields and dragging metrics and dimension items to the rule's containers:
 
     | Element | Description |
-    |--- |--- |
+    | --- | --- |
     |[!UICONTROL Name]|The friendly name for this trigger.|
     |[!UICONTROL Description]|The description of this trigger, how you use it, and so on.|
     |[!UICONTROL Report Suite]|The Analytics [report suite](https://experienceleague.adobe.com/docs/analytics/admin/manage-report-suites/report-suites-admin.html) used for this trigger. This setting identifies the reporting data to use.|

@@ -105,7 +105,7 @@ Experience Cloud preferences include notifications, subscriptions, and alerts.
 On [!UICONTROL Experience Cloud preferences], you can configure the following features:
 
 | Feature | Description |
-|--- |--- |
+| --- | --- |
 |Default organization |Select the organization that you want to see when you launch Experience Cloud. |
 |[!UICONTROL Subscriptions]|Select the products and categories to which you would like to subscribe. Notifications in the [!UICONTROL Notifications] pop-over and in your email.|
 |[!UICONTROL Priority]|Select the categories that you want to be considered high priority. These categories are marked with a High tag and can be configured for delivery like alerts.|

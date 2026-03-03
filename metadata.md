@@ -20,7 +20,7 @@ git-repo: https://github.com/AdobeDocs/core-services.en
 The metadata.md file includes repo-level metadata that passes through to user guide TOC.md files in the repo. If you want to change metadata.md content for any user guide, do so in any TOC.md file.
 
 | metadata | what it does |
-|--- |--- |
+| --- | --- |
 | solution-title | Used in article header as link |
 | solution-hub-url | Opens helpx hub page |
 | solution-icon | Displays solution icon next to solution title. Not yet implemented |
@@ -34,6 +34,6 @@ The metadata.md file includes repo-level metadata that passes through to user gu
 In TOC.md file
 
 | metadata | what it does |
-|--- |--- |
+| --- | --- |
 | user-guide-title | Used in article header as link |
 | user-guide-url | Opens helpx hub page |
