@@ -58,5 +58,6 @@ AI credit usage may vary depending on the complexity and value of the job execut
 
 ## More help on this topic
 
+* [GenAI in Experience Cloud](/help/interface/features/generative-ai.md)
 * [Agentic AI in Experience Cloud](/help/interface/features/agentic-ai.md)
 * [Adobe Experience Platform Agents usage-bound trial](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/trial)
