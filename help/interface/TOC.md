@@ -12,7 +12,7 @@ index: yes
 + [Experience Cloud interface and administration](/help/interface/experience-cloud.md)
 + AI in Experience Cloud {#features}
   + [Generative AI](/help/interface/features/generative-ai.md)
-  + [Agentic AI](/help/interface/features/agentic-ai.md)
+  + [Agentic AI](features/agentic-ai.md)
   + [Agent jobs and AI credit consumption](/help/interface/features/ai-credit-consumption.md)
 + Administration {#administration}
   + [Account preferences and notifications](/help/interface/features/account-preferences.md)
