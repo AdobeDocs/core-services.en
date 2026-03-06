@@ -72,7 +72,7 @@ Agents can be enabled in existing Experience Cloud apps for customers in one of 
 * You are included in a usage-bound trial (limited AI Credits provided)
 * You transacted the Agent Orchestrator Promo SKU (time-bound trial license)
 
-Using AI agents to perform _agent jobs_ consumes AI credits. Learn more about agent jobs and AI credits in _[Agent jobs and AI credit consumption](/help/interface/features/ai-credit-consumption.md)_.
+Using AI agents to perform _agent jobs_ consumes AI credits. Learn more about agent jobs and AI credits in [Agent jobs and AI credit consumption](/help/interface/features/ai-credit-consumption.md).
 
 AI agents follow _your_ input, oversight, and they respect product-level access controls. You can only perform jobs or access data that you are authorized to use in the underlying Experience Cloud application.
 
