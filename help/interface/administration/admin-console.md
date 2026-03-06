@@ -2,7 +2,7 @@
 title: User and Product License Management
 description: Manage users and product licenses in Admin Console for Experience Cloud applications.
 application: Experience Cloud
-index: yes
+index: true
 feature: Admin Console
 topic: Administration
 role: Admin
