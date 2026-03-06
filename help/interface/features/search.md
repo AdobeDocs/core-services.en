@@ -2,7 +2,7 @@
 description: Learn about Unified Search feature for certain applications in Experience Cloud.
 solution: Experience Cloud
 title: Experience Cloud Unified Search
-index: yes
+index: true
 feature: Central Interface Components
 topic: Administration
 role: Admin

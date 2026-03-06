@@ -2,7 +2,7 @@
 description: Learn about browser support and get common questions answered for administrators in the Adobe Experience Cloud.
 solution: Experience Cloud
 title: Frequently Asked Questions about Experience Cloud
-index: yes
+index: true
 feature: Admin Console
 topic: Administration
 role: Admin
