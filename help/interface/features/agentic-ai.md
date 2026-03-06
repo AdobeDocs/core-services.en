@@ -49,7 +49,7 @@ topic_v2:
 ---
 # Agentic AI in Adobe Experience Cloud
 
-Updated: **March 4, 2026**
+Updated: **March 5, 2026**
 
 Adobe Experience Platform Agents is powered by [Experience Platform Agent Orchestrator](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/home) to enable agentic AI capabilities within Experience Cloud applications.
 
@@ -72,7 +72,7 @@ Agents can be enabled in existing Experience Cloud apps for customers in one of 
 * You are included in a usage-bound trial (limited AI Credits provided)
 * You transacted the Agent Orchestrator Promo SKU (time-bound trial license)
 
-Using AI agents to perform _agent jobs_ consumes AI credits. Learn more about agent jobs and AI credits in [Agent jobs and AI credit consumption](/help/interface/features/ai-credit-consumption.md).
+Using AI agents to perform _agent jobs_ consumes AI credits. Learn more about agent jobs and AI credits in [Agent jobs and AI credit consumption](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption).
 
 AI agents follow _your_ input, oversight, and they respect product-level access controls. You can only perform jobs or access data that you are authorized to use in the underlying Experience Cloud application.
 
