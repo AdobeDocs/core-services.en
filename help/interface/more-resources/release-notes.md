@@ -227,7 +227,8 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 
 * The Feed page was deprecated in December  2019. Look for an in-product deprecation notice. (MCUI-10039)
 
-<!-- ## August 2019
+<!--
+## August 2019
 
 * Fixed a critical issue in Experience Cloud login that led to session logout for some users. (MCUI-6908)
 * Updated Experience Cloud login to improve performance and reduce latency. (MCUI-6854, MCUI-6869, MCUI-6883)
