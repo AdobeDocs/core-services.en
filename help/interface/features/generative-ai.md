@@ -95,7 +95,8 @@ Here's a roundup of [!DNL Experience Cloud] applications that use generative AI 
 
 ### Generative AI
 
-<!-- | Product | Key AI features | Firefly Compatibility |
+<!--
+| Product | Key AI features | Firefly Compatibility |
 | ----------------| -----------------| ---------|
 | GenStudio for Performance Marketing | Create personalized, on-brand content | Yes |
 | Adobe Experience Manager (AEM CS) | Generate Variations, Sites Optimizer GenAI, Content Hub, Smart Tags | Yes |
@@ -108,7 +109,8 @@ Here's a roundup of [!DNL Experience Cloud] applications that use generative AI 
 | Customer Journey Analytics | AI Assistant, Intelligent Captions, Content Analytics | No |
 | Real-Time CDP | AI Assistant for product knowledge and operational insights | No |
 | Marketo | Email Designer, Dynamic Chat, Interactive Webinars | Yes |
-| Workfront | AI Assistant for work management and recommendations | Yes | -->
+| Workfront | AI Assistant for work management and recommendations | Yes |
+-->
 
 | **Product Name** | **Key GenAI Features** | **Firefly Compatibility** |
 | ------------------| -------------------------| -------------------|
@@ -418,8 +420,10 @@ Marketo integrates with GenStudio for Performance Marketing
 
 +++
 
-<!-- ## More help on this topic
+<!--
+## More help on this topic
 
-* [AI in Experience Cloud](https://experienceleague.adobe.com/en/docs/ai) documentation home -->
+* [AI in Experience Cloud](https://experienceleague.adobe.com/en/docs/ai) documentation home
+-->
 
 **Disclaimer:** The information on this page is for general informational purposes only. While effort is made to ensure the information remains accurate and current, software and generative AI features may change frequently. Accordingly, Adobe does not warrant the completeness, accuracy, or reliability of the information at all times. Please verify any important details before making decisions based on this content.
