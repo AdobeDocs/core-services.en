@@ -227,6 +227,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 
 * The Feed page was deprecated in December  2019. Look for an in-product deprecation notice. (MCUI-10039)
 
+
 <!--
 ## August 2019
 
