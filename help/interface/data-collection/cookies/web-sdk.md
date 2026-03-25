@@ -33,8 +33,9 @@ topic_v2:
 The Adobe Experience Platform Web SDK uses cookies to store values specific to your implementation.
 
 | Name | Max age | Size | Description |
-| ---| ---| ---| ---|
+| --- | --- | --- | --- |
 | **`AMCV_###@AdobeOrg`** | 34128000 (395 days) | 100-120 bytes (variable) | Present when [`idMigrationEnabled`](https://experienceleague.adobe.com/en/docs/experience-platform/collection/js/commands/configure/idmigrationenabled) is enabled. It helps when transitioning to the Web SDK while some parts of the site still use `visitor.js`. The Web SDK both reads and writes to this cookie during migration. |
+| **`com.adobe.alloy.getTld`** | None (immediately deleted) | N/A | Temporary helper cookie used internally by the Web SDK to determine the top-level domain of the current site. Once the top-level domain is established, the cookie is deleted. It does not store behavioral or profile data. |
 | **`demdex`** | 15552000 (180 days) | varies | Present if Audience Manager ID synchronization is enabled. Audience Manager sets this cookie to assign a unique ID and support ID sync, segmentation, modeling, and reporting. See `demdex` in [Audience Manager cookies](audience-manager.md). |
 | **`kndctr_<orgId>_identity`** | 34128000 (395 days) | 100-120 bytes (variable) | Stores the ECID and other related information for that device. |
 | **`kndctr_<orgId>_cluster`** | 1800 (30 minutes) | 3-5 bytes | Stores the Edge Network region (location hint) that serves the current user's requests. The region is used in the URL path so that the Edge Network can route the request to the correct region. If a user connects with a different IP address within the cookie lifetime, the request is again routed to the closest region. |
