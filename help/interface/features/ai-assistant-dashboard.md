@@ -7,7 +7,7 @@ feature: Agentic AI, AI Tools
 role: Admin, User
 level: Intermediate
 ---
-# AI Assistant dashboard
+# AI Assistant dashboards
 
 After you deploy an AI assistant, you need visibility into how it is used and how it performs. Organizations typically want to know who uses the assistant, which tasks it supports, where it succeeds or struggles, and how that ties to adoption, cost, and business impact. That need is observability for enterprise AI.
 
