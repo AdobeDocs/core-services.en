@@ -9,7 +9,7 @@ level: Intermediate
 ---
 # AI Monitoring
 
-After you deploy AI Assistant, you can use AI Monitoring to get visibility into how it is used and performs. It lets you understand who uses AI Assistant, which tasks it supports, where it succeeds or struggles, and how that ties to adoption, cost, and business impact.
+After you deploy [!UICONTROL AI Assistant], you can use [!UICONTROL AI Monitoring] to get visibility into how it is used and performs. It lets you understand who uses [!UICONTROL AI Assistant], which tasks it supports, where it succeeds or struggles, and how that ties to adoption, cost, and business impact.
 
 AI Monitoring is organized around three areas: 
 
@@ -17,7 +17,7 @@ AI Monitoring is organized around three areas:
 * **Quality and performance** in Conversation Replay and feedback
 * **Cost and consumption** in the Credits Dashboard
 
-Together they help you operate AI Assistant with clear data instead of guesswork.
+Together they help you operate [!UICONTROL AI Assistant] with clear data instead of guesswork.
 
 ## Usage dashboard
 
@@ -36,7 +36,7 @@ Conversation Replay shows actual AI interactions, not only aggregates. You reach
 
 **What you can review**
 
-* **Prompt and response history**: The user's question and AI Assistant replies, as delivered.
+* **Prompt and response history**: The user's question and [!UICONTROL AI Assistant] replies, as delivered.
 * **Feedback signals**: Which interactions users marked positively or negatively, to prioritize improvements.
 * **Patterns over time**: Recurring themes in strong and weak experiences across many conversations.
 
