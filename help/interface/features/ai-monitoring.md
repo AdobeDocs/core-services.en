@@ -1,6 +1,6 @@
 ---
 title: AI Monitoring
-description: Get insights into how AI Assistant in AEP is used by customers. See where AI Assistant succeeds or struggles, and understand the business impact.
+description: Learn how AI Monitoring in Experience Platform helps you track AI Assistant adoption, review conversations and feedback, and manage AI credits for usage, quality, and cost visibility.
 solution: Experience Cloud, Experience Platform
 topic: Artificial Intelligence
 feature: Agentic AI, AI Tools
