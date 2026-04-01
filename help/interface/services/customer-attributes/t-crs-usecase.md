@@ -70,7 +70,7 @@ This data is enterprise customer data from your CRM. The data might include subs
 
 ## Create the attribute source and upload the data file 
 
-Perform these steps on the the _[!UICONTROL Create Customer Attribute Source]_ page in Experience Cloud.
+Perform these steps on the _[!UICONTROL Create Customer Attribute Source]_ page in Experience Cloud.
 
 >[!IMPORTANT]
 >
