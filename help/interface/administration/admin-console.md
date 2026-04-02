@@ -1,8 +1,8 @@
 ---
-title: User and Product License Management 
+title: User and Product License Management
 description: Manage users and product licenses in Admin Console for Experience Cloud applications.
 application: Experience Cloud
-index: yes
+index: true
 feature: Admin Console
 topic: Administration
 role: Admin
@@ -64,7 +64,7 @@ Here are resources you might need when getting started as an administrator in Ad
 
 | Help link | Description |
 | ------- | ------- |
-| [Reset your Adobe ID](https://helpx.adobe.com/manage-account/kb/account-password-sign-help.html) | Sign out, then click **[!UICONTROL Get help signing in]** > **[!UICONTROL Reset your password]**.|
+| [Reset your Adobe ID](https://helpx.adobe.com/account/individual/sign-in-and-security/security-and-recovery/cant-sign-in-to-adobe-account.html) | Sign out, then click **[!UICONTROL Get help signing in]** > **[!UICONTROL Reset your password]**.|
 |[Manage multiple users](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html) |**[!UICONTROL Admin Console]** > **[!UICONTROL Users]** <br>Learn how to manage multiple users via CSV bulk upload to the Admin Console.  |
 | [Identity Types](https://helpx.adobe.com/enterprise/using/identity.html) | Identity types allow the organization different levels of control over the users' accounts and data. Your choice of identity model impacts how your organization stores and shares assets. While Federated ID and Enterprise ID models are created and managed by the organization, Adobe IDs are created and managed by the individual.  |
 |[User Sync Tool](https://helpx.adobe.com/enterprise/using/user-sync.html) (UST)  |The Adobe User Sync Tool is a desktop application used to automate syncing user data between an organization's identity management system (like Active Directory) and Adobe Admin Console. The tool allows administrators to streamline user provisioning, updates, and deactivation across Adobe products.  |
@@ -73,7 +73,7 @@ Here are resources you might need when getting started as an administrator in Ad
 ### Reports and logs
 
 | Help link | Description |
-| ------- |------- |
+| ------- | ------- |
 | [Audit log](https://helpx.adobe.com/enterprise/using/audit-logs.html) |**[!UICONTROL Insights]** > **[!UICONTROL Logs]** > **[!UICONTROL Audit Log]** <br> Track all changes made in the Admin Console. |
 
 
@@ -81,7 +81,8 @@ Here are resources you might need when getting started as an administrator in Ad
 
 These links help you find administration information for specific Experience Cloud applications.
 
-<!-- | Application | Link to resource|
+<!--
+| Application | Link to resource|
 | ------- | ------- |
 |  [!DNL Analytics] <p>Customer Journey Analytics| [Analytics in the Adobe Admin Console overview](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/home) <p>[Administration requirements](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/frequently-asked-questions-analysis-workspace) |
 | [!DNL Audience Manager] | [Audience Manager user migration to Admin Console](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/features/administration/admin-console-migration) |
@@ -102,13 +103,13 @@ These links help you find administration information for specific Experience Clo
 | [!DNL Target] | [Administrator first steps](https://experienceleague.adobe.com/en/docs/target/using/administer/start-target) <p> [User management](https://experienceleague.adobe.com/en/docs/target/using/administer/manage-users/user-management) |
 | [!DNL Workfront] | [Manage users in the Adobe Admin Console](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/create-manage-users/admin-console) |
 
- -->
+-->
 
-* [Advertising Search, Social, & Commerce](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/new-ui/user-administration)
+* [Advertising Search, Social, & Commerce](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/target/user-administration)
 * [Analytics](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/home) 
 * [Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/frequently-asked-questions-analysis-workspace) 
 * [Audience Manager](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/features/administration/admin-console-migration) 
-* [Campaign v8](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/admin/permissions/gs-permissions) 
+* [Campaign v8](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/gs-permissions) 
 * [Campaign Standard](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/user-management-acs) 
 * [Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/ims/adobe-ims-config) 
 * [Dynamic Media Classic](https://experienceleague.adobe.com/en/docs/dynamic-media-classic/using/setup/administration-setup#user_administration) 
@@ -121,7 +122,6 @@ These links help you find administration information for specific Experience Clo
 * [Marketo Engage](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console) 
 * [Marketo Measure](https://experienceleague.adobe.com/en/docs/marketo-measure/using/configuration-and-setup/getting-started-with-marketo-measure/adobe-admin-console-setup) 
 * [Mix Modeler](https://experienceleague.adobe.com/en/docs/mix-modeler/using/data-governance/access-controls)
-* [Adobe Pass](https://experienceleague.adobe.com/en/docs/pass/aiq-help/get-started)
 * [Target](https://experienceleague.adobe.com/en/docs/target/using/administer/start-target)
 * [Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/create-manage-users/admin-console)
 

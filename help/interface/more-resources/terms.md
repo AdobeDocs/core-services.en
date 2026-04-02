@@ -1,20 +1,44 @@
 ---
 description: Learn about terms in Adobe Experience Cloud and how they're different in Creative Cloud.
 solution: Experience Cloud
-title: Terminology 
+title: Terminology
 feature-set: Experience Cloud Services
 feature: Central Interface Components
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 3799f806-2794-43ab-9e70-06ee693871e7
+TQID: https://experienceleague.adobe.com/6wm7HcuAbaV1iV3AgN55dY5WR---BnMM7lJgN0HZDsk
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: Experience Cloud
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+subfeature_v2:
+  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+    internal-label: Support
+  - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
+    internal-label: Organizations (AEC)
+  - id: fef08361-6ac5-460c-93fe-d063e40b6a49
+    internal-label: Getting started
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
 ---
 # Terminology
 
 A terminology reference for Experience Cloud users, and how those terms are used in Creative Cloud (where applicable).
 
 | Term | Creative Cloud | Experience Cloud |
-|--- |----- |---- |
+| --- | ----- | ---- |
 |**Asset**|In Creative Cloud, an asset is typically an image file.<br>Assets can be layers in a Photoshop file, slides in a PowerPoint file, pages in a PDF, and files in a ZIP.|In Experience Cloud, an asset is a digital document, image, video, or audio that can have multiple renditions and can have subassets. Examples include:<ul><li>File</li><li>Document</li><li>Image</li><li>Video</li><li>Audio Clip</li><li>Presentation</li><li>Image Template</li><li>Video Template</li></ul>|
 |**Attribute** | |What people have in common if they qualify for a [segment](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html). (Similar to a [trait](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-glossary.html) in Audience Manager.) |
 |**Audiences**|In Creative Cloud, an audience can be the person viewing a video.|In Experience Cloud, Audiences are collections of people that you can target in campaign activities.<br>The membership in an audience can be determined based on a set of rules, operating on the visitor's Context, or based on a fixed list. For example, a list of email subscribers or members in a Facebook group.<br>In [Experience Cloud Audiences](../services/audiences/overview.md), creating and managing Audiences is similar to creating and using segments, with the addition of the ability to share them to Experience Cloud.<br>**Adobe Target**<br>In Adobe Target, Audiences were formerly called segments.<br>**Adobe Analytics**<br>In Analytics, Audiences can be thought of as visitors to a web site. You can create audience segments and publish the audience to Experience Cloud.|

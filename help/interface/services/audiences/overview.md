@@ -9,6 +9,26 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 1c6e54ac-4886-46ed-9df7-201d2df31847
+TQID: https://experienceleague.adobe.com/QEAfCWPNI-JhDw-HjZwBGv0TlqyctIqSwz8eVQqS6Gg
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: Experience Cloud
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+subfeature_v2:
+  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+    internal-label: Support
+  - id: fef08361-6ac5-460c-93fe-d063e40b6a49
+    internal-label: Getting started
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
+  - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
+    internal-label: Audience segmentation
 ---
 # Experience Cloud audiences 
 
@@ -34,7 +54,7 @@ All audiences, regardless of where they are sourced, are accessible for real-tim
 The following table describes how audiences are used in Experience Cloud applications: 
 
 | Solution | Description |
-|--- |--- |
+| --- | --- |
 |Experience Cloud Audiences|Create, manage, and share audiences natively using Audience Library. You can:<ul><li>Use real-time audiences using raw analytics attributes.</li><li>Combine audiences to create composite ones, joining real-time and historical data.</li><li>See graphical views of estimated audiences size.</li></ul><br>For suggestions about what type of audience you want to create see [Audience creation options](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html).|
 |Analytics|In segmentation, you can build a segment, combine it with a report suite, and then publish the segment to Experience Cloud. Publishing the segment displays it on the [!DNL Audience Library] page in Experience Cloud. (See [Publish segments to Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html) in [!DNL Analytics] help for details.) The audience is also available as a targeted audience for a campaign experience delivered by [!DNL Adobe Target], and in [!DNL Audience Manager]. After you share an audience from [!DNL Adobe Analytics], and select it for use in an active campaign, the visitor profiles who meet the segment definition criteria for the past 90 days are sent to [!UICONTROL Audience Services]. The limit for shared audiences has been increased to 75. Audiences shared to Experience Cloud from [!DNL Analytics] cannot exceed 20 million unique members. Also, due to caching, deleted report suites in Analytics require 12 hours before the deletion is shown in Experience Cloud.|
 |Mobile Services|Analyze mobile traffic using the sunburst visualization in the [!UICONTROL Device Types] report.|
@@ -59,7 +79,7 @@ The following table describes how audiences are used in Experience Cloud applica
 
 
 | Element | Description |
-|--- |--- |
+| --- | --- |
 |New|[Create an audience](https://experienceleague.adobe.com/en/docs/core-services/interface/services/audiences/create).|
 |Title & Description|A column heading that identifies and describes the audience.|
 |Author|The person who created the audience segment.|

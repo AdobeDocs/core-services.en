@@ -4,7 +4,7 @@ user-guide-title: Experience Cloud interface and administration
 breadcrumb-title: Experience Cloud interface and administration
 title: Experience Cloud Interface and Administration
 description: Learn about Experience Cloud interface, cookies, and account preferences. Manage products and configure the People service, including Customer Attributes and Audience Library. Share Experience Cloud Assets.
-index: yes
+index: true
 ---
 
 # Experience Cloud interface and administration {#interface}
@@ -12,7 +12,8 @@ index: yes
 + [Experience Cloud interface and administration](/help/interface/experience-cloud.md)
 + AI in Experience Cloud {#features}
   + [Generative AI](/help/interface/features/generative-ai.md)
-  + [Agentic AI](/help/interface/features/agentic-ai.md)
+  + [Agentic AI](features/agentic-ai.md)
+  + {hide-from-toc} [AI Monitoring](/help/interface/features/ai-monitoring.md)
   + [Agent jobs and AI credit consumption](/help/interface/features/ai-credit-consumption.md)
 + Administration {#administration}
   + [Account preferences and notifications](/help/interface/features/account-preferences.md)

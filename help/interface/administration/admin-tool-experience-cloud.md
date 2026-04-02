@@ -1,13 +1,23 @@
 ---
-title: View Users and User Details 
+title: View Users and User Details
 description: Learn about the Admin Tool in Experience Cloud. View a sortable and filterable list of all Experience Cloud users and policies.
 application: Experience Cloud
-index: yes
+index: true
 feature: Admin Console
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 127eecdd-3862-48ba-8cf6-a8082d2b7bae
+TQID: https://experienceleague.adobe.com/zq5NfbuRlyx2Y0e-u-B8CErQPhfn4Re8-6z3sN9QGE0
+product_v2:
+  - id: e1971122-7081-4556-9222-8a31bd71800c
+    internal-label: Experience Cloud Services
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Experience Cloud [!UICONTROL Admin Tool]
 
@@ -30,12 +40,12 @@ This page displays complete list of users with access to Experience Cloud in you
 ![Admin Console Users page](../assets/admin-tool-users.png)
 
 |Element | Description|
-|---|---|
-|[!UICONTROL Name] |The first and Last name of the user. You can sort this column from A to Z and Z to A. Click a user's name to see more details about the user.|
-|[!UICONTROL Email] |The email address associated with the user. Column can be sorted A->Z, Z->A.|
-|[!UICONTROL ID Type] |The identity type for the user's account. Filter can be applied to view specific ID types. See [Manage identity types](https://helpx.adobe.com/enterprise/using/identity.html) for more information.|
-|[!UICONTROL Solutions] |Summary of Experience Cloud applications that the user can access. You can apply filters to narrow down list of users with specific application access.|
-|[!UICONTROL Last Login] |Time and Date of the most recent user sign in to Experience Cloud. This column can be sorted by ascending or descending dates. <br> **Important:** As of January 13, 2020 a user's last sign in data will be kept for 365 days. This information is intended to show current sign in activity in Experience Cloud and not a recommendation to take action on inactive accounts prior to January 13, 2020. |
+| --- | ---|
+|[!UICONTROL Name] | The first and Last name of the user. You can sort this column from A to Z and Z to A. Click a user's name to see more details about the user.|
+|[!UICONTROL Email] | The email address associated with the user. Column can be sorted A->Z, Z->A.|
+|[!UICONTROL ID Type] | The identity type for the user's account. Filter can be applied to view specific ID types. See [Manage identity types](https://helpx.adobe.com/enterprise/using/identity.html) for more information.|
+|[!UICONTROL Solutions] | Summary of Experience Cloud applications that the user can access. You can apply filters to narrow down list of users with specific application access.|
+|[!UICONTROL Last Login] | Time and Date of the most recent user sign in to Experience Cloud. This column can be sorted by ascending or descending dates. <br> **Important:** As of January 13, 2020 a user's last sign in data will be kept for 365 days. This information is intended to show current sign in activity in Experience Cloud and not a recommendation to take action on inactive accounts prior to January 13, 2020.|
 
 ## Customize the user list view
 
@@ -46,7 +56,7 @@ You can search, sort, or filter the columns to customize the user list.
 * To apply multiple filters to list users with specific criteria, click **[!UICONTROL Filter By]**. When multiple filter categories are applied, searches contain Email Domain `AND` ID TYPE `AND` Solution.
 
 |Element | Description|
-|---------|----------|
+| ---------| ----------|
 |[!UICONTROL Email Domain] filter | Search for character strings in the Email column to narrow results to one or multiple domains. Add multiple filters by pressing enter after each search term|
 |[!UICONTROL ID Type] filter | Choose from available ID Types. Multiple ID types can be used as a filter.|
 |[!UICONTROL Solution] filter | Choose from available applications. Multiple application filters search for results containing Solution 1 `OR` Solution 2.|
@@ -80,7 +90,7 @@ This section displays a summary of Experience Cloud applications that the user c
 This section displays a complete list of all product profiles membership for the user.
 
 |Element | Description|
-|---------|----------|
+| ---------| ----------|
 |[!UICONTROL Product] | Name of the product associated with the product profile.|
 |[!UICONTROL Instance] | Name of the instance (such as login company or tenant) associated with the product and product profile.|
 |[!UICONTROL Product profile] | Unique name of the product profile.|
@@ -94,7 +104,7 @@ This page displays complete list of Experience Cloud policies in your organizati
 ![Policies page in Admin Console](../assets/admin-tool-policies.png)
 
 |Element | Description|
-|---|---|
+| ---| ---|
 |[!UICONTROL Product rofile] |The name of the product profile. Column can be sorted A->Z, Z->A. To see more details about the policy, select a product profile's name.|
 |[!UICONTROL Product] |The product associated with the product profile. Column can be sorted A->Z, Z->A.|
 |[!UICONTROL Instance] |The instance (for example, tenant or login company) associated with product profile. Products that do not have unique instances or tenants display a " - " for the value. Column can be sorted A->Z, Z->A.|
@@ -110,7 +120,7 @@ You can search, sort, or filter the columns to customize the policies list.
 * Click the **[!UICONTROL Filter By]** icon to apply multiple filters to list product profiles with specific criteria. When multiple filter categories are applied, searches contain Groups associated `AND` Instance `AND` Solution.
 
 |Element | Description|
-|---------|----------|
+| ---------| ----------|
 |[!UICONTROL Instance] filter | Search for character strings in the instance column to narrow results to one or multiple instances. Add multiple filters by pressing enter after each search term.|
 |[!UICONTROL Solution] filter | Choose from available applications. Multiple application filters search for results containing Solution 1 `OR` Solution 2.|
 
@@ -143,7 +153,7 @@ This section displays a summary of the product profile including:
 This section displays a complete list of all users, user groups, developers, integrations, and administrators assigned to the product profile.
 
 |Tab | Description|
-|---------|----------|
+| ---------| ----------|
 |[!UICONTROL Users] | List of Users included in the product profile. User group association appears in [!UICONTROL Assigned by group] column.|
 |[!UICONTROL User Groups] | List of user groups associated with the product profile.|
 |[!UICONTROL Developers] | List of developers associated with the product profile.|

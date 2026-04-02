@@ -1,12 +1,38 @@
 ---
 description: Get answers to frequently asked questions about [!DNL Customer Attributes] in Adobe Experience Cloud, for Adobe Analytics and Adobe Target.
 solution: Experience Cloud
-title: Frequently Asked Questions about [!DNL Customer Attributes] 
+title: Frequently Asked Questions about [!DNL Customer Attributes]
 feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 6031e544-822b-4843-b3d8-98a36a3c40e8
+TQID: https://experienceleague.adobe.com/ZAKogDXCbaZHOiyzlgg6Od0pxGwWi2w9yXtPnKWZKUw
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: Experience Cloud
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+    internal-label: Integrations
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+subfeature_v2:
+  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+    internal-label: Support
+  - id: fef08361-6ac5-460c-93fe-d063e40b6a49
+    internal-label: Getting started
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: c4147b6e-073b-4d3c-9ab1-d60f2f4434ef
+    internal-label: Behavioral data
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
+  - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
+    internal-label: Customer profiles
 ---
 # Frequently asked questions about [!DNL Customer Attributes]
 
@@ -17,7 +43,7 @@ Frequently asked questions and best practices for [!DNL Customer Attributes] in 
 Guidance and limitations when using [!DNL Customer Attributes].
 
 | Issue | Description |
-|--- |--- |
+| --- | --- |
 |[!DNL Customer Attributes] [subscription](subscription.md) limitations|When you upgrade to Analytics Premium, there is a 24-hour delay before more attributes are available. You might see an [!UICONTROL attribute Subscription Max] error issued during this delay.|
 |Multiple logins on the same device|When using [!DNL Customer Attributes] to upload customer profiles into a data source, Adobe recommends against users sharing devices (meaning, the same Experience Cloud ID). The Experience Cloud ID (ECID) persists on the device. Sharing devices can cause the ECID to link multiple users to the same ECID, causing unexpected results in [!DNL Target]. **Note:** For Mobile, the ECID is permanent after the Mobile app is installed. Reinstall the app to generate a new ECID. For Web, a new ECID is generated after the browser cookie is cleared.|
 |Daily frequency upload limitation| Adobe recommends that you update [!DNL Customer Attributes] only once per day. You must wait at least 24 hours to upload another customer profile data file for the same set of profiles.|
@@ -29,7 +55,7 @@ Guidance and limitations when using [!DNL Customer Attributes].
 ## FAQ about [!DNL Customer Attributes] 
 
 | Question | Answer |
-|--- |--- |
+| --- | --- |
 |Can I receive notifications about upload status for [!DNL Customer Attributes]?|Yes.|
 |What should I do to get started with [!DNL Customer Attributes]?|<ol><li>Get provisioned. If you are an Adobe Analytics customer, Adobe is provisioning you for [!DNL Customer Attributes]. If you use only Adobe Target and do not have Analytics, request provisioning for core services by contacting customer Care.</li> <li>Have a conversation with your CRM team. Find out what kind of customer data is available that you want to use in Analytics and throughout Experience Cloud.</li><li>Implement core services.</li></ol> See [prerequisites](t-crs-usecase.md#prerequisites-for-using-customer-attributes) before uploading data to learn about enabling users to use this feature.|
 |How many customer attributes am I allowed to use?|You can upload hundreds of `.csv` columns to the customer attribute service. However, when configuring subscriptions and selecting attributes, the following limits apply (per report suite), depending on the applications you own:  <ul><li>Foundation: 0</li><li>Select: 3</li><li>Prime: 15</li><li>Ultimate: 200</li><li>Standard: 3 total</li><li>Premium: 200</li><li>Adobe Target Standard: 5</li><li>Adobe Target Premium: 200</li></ul>|

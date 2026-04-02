@@ -9,6 +9,36 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
+TQID: https://experienceleague.adobe.com/LHiM5ewnknE-NdZ5oEJ4ZhBDL4x-jChzSQBIZOK15Hw
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: Experience Cloud
+feature_v2:
+  - id: dab36b01-8bfa-48f3-8392-626455a058e6
+    internal-label: Experience Cloud services
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+subfeature_v2:
+  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+    internal-label: Support
+  - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
+    internal-label: Organizations (AEC)
+  - id: d27b1945-f442-4607-91bd-537a0b16e687
+    internal-label: Assets
+  - id: e53834d3-a86e-47ae-8257-15f5f3639855
+    internal-label: Release notes
+  - id: ecb4a972-6786-444c-a014-abc528b9407a
+    internal-label: Customer attributes (AEC)
+  - id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
+    internal-label: User management
+  - id: fef08361-6ac5-460c-93fe-d063e40b6a49
+    internal-label: Getting started
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Cumulative release notes
 
@@ -60,7 +90,8 @@ For release notes covering all applications, see [Experience Cloud Release Notes
 | -----------| ---------- |
 |Slack notifications |You can configure your account preferences to send Experience Cloud notifications to Slack. See _Slack notifications_ in [Preferences](../features/account-preferences.md) help for details.|
 
-<!-- ## July - August 2023
+<!--
+## July - August 2023
 
 NA - released July 2022
 
@@ -76,7 +107,8 @@ With this update, administrators may see changes or additions to the Admin Conso
 
   * For organizations currently using [!DNL Experience Platform], [!UICONTROL Places] will be consolidated into the [!DNL Experience Platform] card.
 
-* Adobe [!DNL Experience Platform] [Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html) (formerly [!DNL Launch]) and [Privacy](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html) will continue to appear as their own product cards, separate from the other [!DNL Experience Platform] capabilities -->
+* Adobe [!DNL Experience Platform] [Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html) (formerly [!DNL Launch]) and [Privacy](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html) will continue to appear as their own product cards, separate from the other [!DNL Experience Platform] capabilities
+-->
 
 ## May 2023
 
@@ -93,7 +125,7 @@ With this update, administrators may see changes or additions to the Admin Conso
 ## April 2022
 
 | Feature | Description |
-| ------- |-------|
+| ------- | -------|
 |Natural language search|Get instant answers to all your help questions, through one single interface via Unified Search. This feature is always available to you on every page of [!DNL Experience Platform] and [!DNL Journey Optimizer].|
 
 {style="table-layout:auto"}
@@ -101,7 +133,7 @@ With this update, administrators may see changes or additions to the Admin Conso
 ## March 2022
 
 | Feature | Description |
-| ------- |-------|
+| ------- | -------|
 |Access [!UICONTROL Recents] across Experience Platform and Journey Optimizer through the search bar|Users can now access recently accessed objects from every page of AEP and AJO through the unified search bar.|
 
 {style="table-layout:auto"}
@@ -109,7 +141,7 @@ With this update, administrators may see changes or additions to the Admin Conso
 ## February 2022
 
 | Feature | Description |
-| ------- |-------|
+| ------- | -------|
 |Shortcuts (**[!UICONTROL Recents]**) added to [Experience Cloud](https://experience.adobe.com/home) home |You can access shortcuts to your most recent Journey Optimizer and Experience Platform work under the new _Recents_ heading on the landing page. This update also includes general layout and responsiveness improvements.|
 |**[!UICONTROL Sandboxes]** moved to the header bar |The Sandboxes indicator is now integrated within the header for all Experience Platform interface applications. See [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/ui/user-guide.html) in Experience Platform for more information.|
 
@@ -195,7 +227,9 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 
 * The Feed page was deprecated in December  2019. Look for an in-product deprecation notice. (MCUI-10039)
 
-<!-- ## August 2019
+
+<!--
+## August 2019
 
 * Fixed a critical issue in Experience Cloud login that led to session logout for some users. (MCUI-6908)
 * Updated Experience Cloud login to improve performance and reduce latency. (MCUI-6854, MCUI-6869, MCUI-6883)
@@ -240,7 +274,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 ## May 2018
 
 | Feature | Description |
-|--- |--- |
+| --- | --- |
 |New administration landing page|When you sign in to Experience Cloud and navigate to the Administration page, a new intuitive interface is available to help you quickly access your Experience Cloud applications and Core Services.|
 
 {style="table-layout:auto"}
@@ -257,7 +291,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 ## August 2017
 
 | Feature | Description |
-|--- |--- |
+| --- | --- |
 |Notifications - Granular settings|You can enable notifications for product and application events and activities, including notifications about [Customer Attributes](../services/customer-attributes/attributes.md) upload activity.|
 |Notifications - Maintenance notifications|In Notification settings, you can enable maintenance notifications for products and applications.|
 |Admin Console for Experience Cloud Solutions|New Experience Cloud customers can begin using the Admin Console, a central location for managing your Adobe entitlements across your entire organization.<br>The migration to the Admin Console for user management will proceed in waves. Adobe contacts you (system administrators) when it is time to migrate.<br>Analytics administrators, see  [Analytics Migration](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html).|
@@ -267,7 +301,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 ## May 2017
 
 | Feature | Description |
-|--- |--- |
+| --- | --- |
 |Bulk Report Suite Mapping|In Administration > Report Suite Mapping, you can now select multiple report suites, then map them to an organization. (Previously, you had to map them individually.)  <br>Mapping report suites to a single organization helps enable cross-application features and services in Experience Cloud.|
 |Updates to Experience Cloud Audiences|**Applying Report Suites**<br>You can now apply a report suite to all your [audience rules](../services/audiences/create.md). (Previously, you had to specify a report suite in each rule definition.) <br>**Props and Variables**<br>You can now include Analytics props and default variables (in addition to eVars and events) in real-time audiences.|
 
@@ -276,7 +310,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 ## November 2016
 
 | Feature | Description |
-|--- |--- |
+| --- | --- |
 |Update to Profile & Passwords|Users can no longer edit IMS user profile information under  Personal Details In  Edit Profile >  Profile & Passwords. Instead users are redirected to `accounts.adobe.com`. This update applies to all identity types (Adobe ID, Enterprise, and Federated).|
 
 {style="table-layout:auto"}

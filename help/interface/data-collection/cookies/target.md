@@ -1,13 +1,33 @@
 ---
 description: Learn how Adobe Target uses cookies to give website operators the ability to test which online content and offers are more relevant to visitors.
 solution: Target
-title: Adobe Target Cookies 
+title: Adobe Target Cookies
 uuid: 44f7e32e-8d99-4682-8b54-8364d001b403
 feature: Cookies
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: c4399cc0-8333-47b8-b830-2ba7359f464a
+TQID: https://experienceleague.adobe.com/nLAm--3HmxWHqWupFrmLTo9TbdAHajPR44VwWAVM9pE
+product_v2:
+  - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+    internal-label: Target
+feature_v2:
+  - id: c93393a4-e558-47e1-992e-c91ed4d480ce
+    internal-label: Implementation
+subfeature_v2:
+  - id: fd0ff162-b6d3-4a11-8aeb-e165a01c0f0a
+    internal-label: at.js
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Adobe Target cookies
 

@@ -8,6 +8,28 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 21ed7c35-aac9-46f1-a50c-84e7c075209c
+TQID: https://experienceleague.adobe.com/tnqjX4iY7OQx4XW9MjHNg8LaXB1Of6MrtLX-7efyz-E
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: Experience Cloud
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+subfeature_v2:
+  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+    internal-label: Support
+  - id: fef08361-6ac5-460c-93fe-d063e40b6a49
+    internal-label: Getting started
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Create and upload customer attribute data
 
@@ -27,7 +49,7 @@ Create the customer attribute source (`.csv` and `.fin` files) and upload the da
 
 * **Adobe Target** `at.js` (any version) or `mbox.js` version 58 or later is required for Customer Attributes.
 
-  See [How to deploy at.js](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/overview.html).
+  See [How to deploy at.js](https://experienceleague.adobe.com/en/docs/target-dev/developer/client-side/overview).
 
 ## Create a data file 
 
@@ -48,7 +70,7 @@ This data is enterprise customer data from your CRM. The data might include subs
 
 ## Create the attribute source and upload the data file 
 
-Perform these steps on the the _[!UICONTROL Create Customer Attribute Source]_ page in Experience Cloud.
+Perform these steps on the _[!UICONTROL Create Customer Attribute Source]_ page in Experience Cloud.
 
 >[!IMPORTANT]
 >
@@ -126,9 +148,9 @@ The customer attribute record is created, and you can upload the file by editing
     
 * **[!UICONTROL Unique customer ID:]** Displays how many unique IDs you have uploaded to this attribute source. 
     
-* **[!UICONTROL customer-Provided IDs Aliased to Experience Cloud Visitor IDs:]** Displays how many IDs have been aliased to Experience Cloud Visitor IDs. 
+* **[!UICONTROL Customer-Provided IDs Aliased to Experience Cloud Visitor IDs:]** Displays how many IDs have been aliased to Experience Cloud Visitor IDs. 
     
-* **[!UICONTROL customer-Provided IDs with High Alias Counts:]** Displays the count of customer-provided IDs with 500 or more aliased Experience Cloud Visitor IDs. These customer-provided IDs most likely do not represent individuals but rather some sort of shared login. The system distributes the attributes associated with these IDs to the 500 most recent aliased Experience Cloud Visitor IDs, until the alias count reaches 10,000. Then, the system invalidates the customer-provided ID and no longer distributes associated attributes. -->
+* **[!UICONTROL Customer-Provided IDs with High Alias Counts:]** Displays the count of customer-provided IDs with 500 or more aliased Experience Cloud Visitor IDs. These customer-provided IDs most likely do not represent individuals but rather some sort of shared login. The system distributes the attributes associated with these IDs to the 500 most recent aliased Experience Cloud Visitor IDs, until the alias count reaches 10,000. Then, the system invalidates the customer-provided ID and no longer distributes associated attributes.
     
 ## Validate the schema {#validate-schema}
 
