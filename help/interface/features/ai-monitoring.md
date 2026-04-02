@@ -13,9 +13,9 @@ After you deploy [!UICONTROL AI Assistant], you can use [!UICONTROL AI Monitorin
 
 AI Monitoring is organized around three areas: 
 
-* **Adoption and engagement** in the Usage dashboard
-* **Quality and performance** in Conversation Replay and feedback
-* **Cost and consumption** in the Credits Dashboard
+* **Adoption and engagement** in the [!UICONTROL Usage] dashboard
+* **Quality and performance** in [!UICONTROL Conversation Replay] and feedback
+* **Cost and consumption** in the Credits dashboard
 
 Together they help you operate [!UICONTROL AI Assistant] with clear data instead of guesswork.
 
@@ -32,7 +32,7 @@ The Usage dashboard is the central place for adoption and engagement across your
 
 ## Conversation Replay and feedback
 
-Conversation Replay shows actual AI interactions, not only aggregates. You reach it from the Usage dashboard when you need to move from trends to specific exchanges.
+[!UICONTROL Conversation Replay] shows actual AI interactions, not only aggregates. You reach it from the Usage dashboard when you need to move from trends to specific exchanges.
 
 **What you can review**
 
@@ -42,7 +42,7 @@ Conversation Replay shows actual AI interactions, not only aggregates. You reach
 
 This view helps you go beyond roll-ups to see what works, where users hit friction, and how to improve response quality over time. Usage trends answer _what_ is happening. Conversation replay helps explain _why_.
 
-## Credits dashboard
+## [!UICONTROL Credits] dashboard
 
 Once you understand usage and quality, the Credits dashboard answers how that activity translates into consumption and cost.
 
