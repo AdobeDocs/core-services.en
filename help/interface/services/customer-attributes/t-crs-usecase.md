@@ -49,7 +49,7 @@ Create the customer attribute source (`.csv` and `.fin` files) and upload the da
 
 * **Adobe Target** `at.js` (any version) or `mbox.js` version 58 or later is required for Customer Attributes.
 
-  See [How to deploy at.js](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/overview.html).
+  See [How to deploy at.js](https://experienceleague.adobe.com/en/docs/target-dev/developer/client-side/overview).
 
 ## Create a data file 
 
@@ -148,9 +148,9 @@ The customer attribute record is created, and you can upload the file by editing
     
 * **[!UICONTROL Unique customer ID:]** Displays how many unique IDs you have uploaded to this attribute source. 
     
-* **[!UICONTROL customer-Provided IDs Aliased to Experience Cloud Visitor IDs:]** Displays how many IDs have been aliased to Experience Cloud Visitor IDs. 
+* **[!UICONTROL Customer-Provided IDs Aliased to Experience Cloud Visitor IDs:]** Displays how many IDs have been aliased to Experience Cloud Visitor IDs. 
     
-* **[!UICONTROL customer-Provided IDs with High Alias Counts:]** Displays the count of customer-provided IDs with 500 or more aliased Experience Cloud Visitor IDs. These customer-provided IDs most likely do not represent individuals but rather some sort of shared login. The system distributes the attributes associated with these IDs to the 500 most recent aliased Experience Cloud Visitor IDs, until the alias count reaches 10,000. Then, the system invalidates the customer-provided ID and no longer distributes associated attributes. -->
+* **[!UICONTROL Customer-Provided IDs with High Alias Counts:]** Displays the count of customer-provided IDs with 500 or more aliased Experience Cloud Visitor IDs. These customer-provided IDs most likely do not represent individuals but rather some sort of shared login. The system distributes the attributes associated with these IDs to the 500 most recent aliased Experience Cloud Visitor IDs, until the alias count reaches 10,000. Then, the system invalidates the customer-provided ID and no longer distributes associated attributes.
     
 ## Validate the schema {#validate-schema}
 
