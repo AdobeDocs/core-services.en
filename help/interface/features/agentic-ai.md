@@ -49,7 +49,7 @@ topic_v2:
 ---
 # Agentic AI in Adobe Experience Cloud
 
-Updated: **March 13, 2026**
+Updated: **April 2, 2026**
 
 Adobe Experience Platform Agents is powered by [Experience Platform Agent Orchestrator](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/home) to enable agentic AI capabilities within Experience Cloud applications.
 
@@ -80,7 +80,7 @@ AI agents follow _your_ input, oversight, and they respect product-level access 
 
 The following table lists Experience Platform Agents available in existing Experience Cloud applications. 
 
-| Agent name | Capabilities | Supported applications |
+| Name | Capabilities | Supported applications |
 | --- | ---------- | ---------- |
 | [Audience Agent](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/audience)  | Empower your teams to create, manage, and optimize audiences using natural language prompts for greater ease, efficiency, and speed to market. |<ul><li>Real-Time CDP (B2B, B2C, and B2P editions)</li><li>Adobe Journey Optimizer (B2B and B2C editions)</li></ul> |
 | [Content Advisor Agent](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/agents/content-advisor/overview) | <ul><li>Helps teams quickly find the most relevant content across the enterprise using natural language, reducing time spent searching and enabling faster decisions and execution.</li><li>Simplify creating visual content variants from source assets using natural language prompts.</li></ul> | <ul><li>Adobe Experience Manager Assets</li></ul><ul><li>Dynamic Media (Cloud Services)</li></ul> |
@@ -89,6 +89,7 @@ The following table lists Experience Platform Agents available in existing Exper
 | [Brand Governance Agent](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/agents/governance/overview) | Safeguard brand integrity and compliance with automated brand policies checks, permissions, intelligence to support DRM with real-time governance. | <ul><li>Adobe Experience Manager Assets</li><li>Adobe Experience Manager Sites (Brand Policy)</li></ul> |
 | [Journey Agent](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ajo-agent) | Enable your teams to quickly create, analyze, and optimize multi-touch customer journeys at scale. | <ul><li>Adobe Journey Optimizer (B2B and B2C editions)</li></ul> |
 | [Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/product-support) | Troubleshoot support issues without leaving your workflows, create customer support tickets, and track case progress using AI Assistant. | <ul><li>Real-Time CDP (B2B, B2C, and B2P Editions)</li><li>Adobe Journey Optimizer (B2B and B2C Editions)</li><li>Customer Journey Analytics (B2B and B2C Editions)</li><li>Adobe Experience Manager</li></ul> |
+| [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms) | Connects Experience Platform directly to Microsoft 365 Copilot. You can ask natural-language questions within Microsoft 365 applications, such as Teams, Word, Powerpoint, and Excel to instantly retrieve marketing insights from Experience Platform without interrupting your workflow. | <ul><li> Experience Platform Operational Insights</li><li>Customer Journey Analytics Data Insights</li><li> Audience Agent</li><li>Journey Agent</li></ul> |
 
 ## AI-first Experience Cloud applications {#ai-first-apps}
 
