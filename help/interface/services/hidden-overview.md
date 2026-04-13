@@ -6,7 +6,7 @@ feature: Central Interface Components
 topic: Administration
 role: Admin
 level: Experienced
-hide: yes
+hide: true
 hidefromtoc: yes
 ---
 # Experience Cloud services {#topic_C1087DCC538F4F9A99D983C1BB29EBE0}
