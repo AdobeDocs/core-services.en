@@ -38,6 +38,10 @@ topic_v2:
 
 Learn where documentation updates occur for the central interface and administration of Experience Cloud.
 
+**March 2026**
+
+Added [AI jobs and credits consumption](../features/ai-credit-consumption.md)
+
 **November 2025**
 
 Updates to [Agentic AI in Experience Cloud](../features/agentic-ai.md)
