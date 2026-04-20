@@ -1,5 +1,5 @@
 ---
-description: Learn how the ID service is stored and used across Experience Cloud applications.
+description: Learn how the ID service is stored and used across CX Enterprise applications.
 solution: Experience Cloud,Analytics,Target
 title: Experience Cloud Cookies
 uuid: a4788c1c-0402-4fc8-b894-cd24fa794f4f
@@ -31,9 +31,9 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Experience Cloud cookies
+# CX Enterprise cookies
 
-Adobe Experience Cloud uses cookies to store a visitor ID that is used across Experience Cloud applications. These cookies specifically apply to accessing Adobe Experience Cloud applications on [experience.adobe.com](https://experience.adobe.com).
+Adobe CX Enterprise uses cookies to store a visitor ID that is used across CX Enterprise applications. These cookies specifically apply to accessing Adobe CX Enterprise applications on [experience.adobe.com](https://experience.adobe.com).
 
 **Cookie Name: s_ecid**
 
@@ -47,7 +47,7 @@ Adobe Experience Cloud uses cookies to store a visitor ID that is used across Ex
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Information Stored </p> </td> 
-   <td colname="col2"> <p> Contains a copy of the Experience Cloud ID (ECID) or MID. The MID is stored in a key-value pair that follows this syntax, s_ecid=MCMID|&lt;ECID&gt; </p> </td> 
+   <td colname="col2"> <p> Contains a copy of the CX Enterprise ID (ECID) or MID. The MID is stored in a key-value pair that follows this syntax, s_ecid=MCMID|&lt;ECID&gt; </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Expiration </p> </td> 
@@ -88,7 +88,7 @@ See also, [Cookies and the ID Service](https://experienceleague.adobe.com/docs/i
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Information Stored </p> </td> 
-   <td colname="col2"> <p> Unique visitor IDs used by Experience Cloud Solutions. </p> </td> 
+   <td colname="col2"> <p> Unique visitor IDs used by CX Enterprise Solutions. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Expiration </p> </td> 

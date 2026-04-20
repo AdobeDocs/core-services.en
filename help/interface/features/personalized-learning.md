@@ -1,5 +1,5 @@
 ---
-description: Receive personalized help and promotions via email, in your Experience Cloud products, and within the Experience League Communities based on your Usage Data.
+description: Receive personalized help and promotions via email, in your CX Enterprise products, and within the Experience League Communities based on your Usage Data.
 solution: Experience Cloud
 title: Experience Cloud Personalized Learning Preferences
 exl-id: ad6c8daf-c8ad-42e9-8ff0-cef59dc0da3f
@@ -26,7 +26,7 @@ topic_v2:
 ---
 # Personalized learning preferences
 
-Adobe provides you with helpful content that is tailored to you based on your work in your Adobe products. Product usage data informs how we tailor this context to you. You can opt in or opt out of sharing your product usage data on the [Experience Cloud preferences](https://experience.adobe.com/preferences) page.  
+Adobe provides you with helpful content that is tailored to you based on your work in your Adobe products. Product usage data informs how we tailor this context to you. You can opt in or opt out of sharing your product usage data on the [CX Enterprise preferences](https://experience.adobe.com/preferences) page.  
 
 <!--
 ## Personalized training and support recommendations for your Adobe products and services

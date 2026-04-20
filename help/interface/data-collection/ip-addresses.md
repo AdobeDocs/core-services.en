@@ -17,7 +17,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# IP addresses used by Experience Cloud
+# IP addresses used by CX Enterprise
 
 Some firewall configurations block IP addresses originating from Adobe's data collection servers or servers responsible for accessing data. You can use this list of ranges to alter your organization's firewall settings to allow access and to send data from within your organization. This page includes both inbound systems (such as data collection) and outbound systems (such as data feeds in Adobe Analytics) that Adobe uses.
 
@@ -25,7 +25,7 @@ Some firewall configurations block IP addresses originating from Adobe's data co
 >
 >While Adobe does its best to keep this document current, it cannot guarantee that the list of IP ranges remains the same. Possible changes include growth and expansion of the business, an Internet registry requires changes to Adobe's IP address space, or an Internet service provider stops functioning.
 
-In addition to the IP address blocks listed below, individual Adobe Experience Cloud products have their own IP addresses that they use:
+In addition to the IP address blocks listed below, individual Adobe CX Enterprise products have their own IP addresses that they use:
 
 * [Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/technotes/ip-addresses)
 * [Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/ip-addresses)
@@ -48,12 +48,12 @@ The following table covers all Adobe-owned IP addresses. This table includes all
 
 {style="table-layout:auto"}
 
-## Adobe Experience Cloud data collection and FTP IP address blocks
+## Adobe CX Enterprise data collection and FTP IP address blocks
 
 If your organization prefers to allow specific IP address ranges, you can reference the following table. It includes:
 
-* Data collection servers for all Experience Cloud products
-* FTP servers for all Experience Cloud products
+* Data collection servers for all CX Enterprise products
+* FTP servers for all CX Enterprise products
 
 All IP ranges in this section are included in the above table.
 
@@ -91,7 +91,7 @@ All IP ranges in this section are included in the above table.
 
 {style="table-layout:auto"}
 
-The Adobe Experience Cloud also supports IPv6 in limited capacity. These IP blocks serve similar data collection purposes as their IPv4 counterparts above, but do not include FTP.
+The Adobe CX Enterprise also supports IPv6 in limited capacity. These IP blocks serve similar data collection purposes as their IPv4 counterparts above, but do not include FTP.
 
 | Location | Host |
 | --- | --- |

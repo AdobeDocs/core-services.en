@@ -1,5 +1,5 @@
 ---
-description: Learn about Unified Search feature for certain applications in Experience Cloud.
+description: Learn about Unified Search feature for certain applications in CX Enterprise.
 solution: Experience Cloud
 title: Experience Cloud Unified Search
 index: true
@@ -30,7 +30,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# [!UICONTROL Unified Search] in Experience Cloud 
+# [!UICONTROL Unified Search] in CX Enterprise 
 
 The [!UICONTROL Unified Search] search enables you to find searchable business objects or entities in a seamless, consistent, one-click experience. This search surfaces your recently accessed objects, too.
 
@@ -38,7 +38,7 @@ The [!UICONTROL Unified Search] search enables you to find searchable business o
 
 ## Accessing [!UICONTROL Unified Search]
 
-[!UICONTROL Unified Search] is available on every page in the Experience Cloud header at the top of the page. You can also use the keyboard shortcut `command /` or `ctrl /` to access the search.
+[!UICONTROL Unified Search] is available on every page in the CX Enterprise header at the top of the page. You can also use the keyboard shortcut `command /` or `ctrl /` to access the search.
 
 This feature is available only for supported products, which currently are:
 
@@ -57,7 +57,7 @@ Your capability and object permissions
 Matching percentage
 Whether there is an exact match
 
-![[!UICONTROL Unified Search] in Experience Cloud](../assets/unified-search-results.png)
+![[!UICONTROL Unified Search] in CX Enterprise](../assets/unified-search-results.png)
 
 Searchable business objects include:
 
@@ -78,7 +78,7 @@ You also find the help articles from Experience League and Communities. Natural 
 
 For example, _How to create a schema_ produces results from Experience League under _[!UICONTROL Learning]_:
 
-![[!UICONTROL Unified Search] in Experience Cloud Help](../assets/unified-search-learning.png)
+![[!UICONTROL Unified Search] in CX Enterprise Help](../assets/unified-search-learning.png)
 
 Search algorithms display the most relevant records first. The order of results depends on several factors, such as:
 

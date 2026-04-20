@@ -1,5 +1,5 @@
 ---
-description: Learn how to configure Experience Cloud Triggers.
+description: Learn how to configure CX Enterprise Triggers.
 solution: Experience Cloud
 title: Overview of Triggers
 uuid: dab536e3-1969-4661-919e-5b15f423fecd
@@ -35,9 +35,9 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Experience Cloud Triggers
+# CX Enterprise Triggers
 
-[!UICONTROL Triggers] in Experience Cloud enables you to identify, define, and monitor key consumer behaviors, then generate cross-application communication to re-engage visitors. You can use triggers in real-time decisions and personalization. 
+[!UICONTROL Triggers] in CX Enterprise enables you to identify, define, and monitor key consumer behaviors, then generate cross-application communication to re-engage visitors. You can use triggers in real-time decisions and personalization. 
 
 For example:
 
@@ -59,7 +59,7 @@ Generally, a trigger can take 15-90 minutes to launch a marketing campaign. This
 * **Action:** You can create triggers, for example, to fire after newsletter sign-ups, email subscriptions, or applications for credit cards (confirmations). If you are a retailer, you can create a trigger for a visitor who signs up for a loyalty program. In media and entertainment, create triggers for visitors who watch a certain show, and perhaps you want to respond with a survey.
 * **Session Start and Session End:** Create a trigger for session start and session end events.
 
-## Create an Experience Cloud trigger 
+## Create a CX Enterprise trigger 
 
 Create a trigger and configure the conditions for the trigger. For example, you can specify the criteria for a trigger's rules during a visit, such as metrics like Cart Abandon, or dimensions like the product name. When the rules are met, the trigger runs.
 
@@ -67,7 +67,7 @@ Create a trigger and configure the conditions for the trigger. For example, you 
 >
 >A technical limit of 100 triggers currently exists.
 
-1. In Experience Cloud, click ![menu](../assets/menu-icon.png), then click **[!UICONTROL Data Collection/Launch]**.
+1. In CX Enterprise, click ![menu](../assets/menu-icon.png), then click **[!UICONTROL Data Collection/Launch]**.
 1. On the [!UICONTROL Triggers] card, click **[!UICONTROL Manage Triggers]**.
 1. Click **[!UICONTROL New Trigger]**, then specify the type of trigger:
 
@@ -91,7 +91,7 @@ Create a trigger and configure the conditions for the trigger. For example, you 
 
 ## Example triggers
 
-Examples of Experience Cloud Triggers:
+Examples of CX Enterprise Triggers:
 
 ### Cart Abandonment trigger
 

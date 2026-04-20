@@ -29,9 +29,9 @@ This page describes [!DNL Customer Attributes] support for the California Consum
 
 The CCPA is California's new privacy law, which is effective January 1, 2020. CCPA provides California residents new rights regarding their personal information and imposes data protection responsibilities on certain entities who conduct business in California. CCPA provides consumers with the right to access and delete their personal information and the right to opt out of certain activities that qualify as "selling" personal information to a third party.
 
-As a business, you determine the personal data that Adobe Experience Cloud processes and stores on your behalf.
+As a business, you determine the personal data that Adobe CX Enterprise processes and stores on your behalf.
 
-As your service provider, Adobe Experience Cloud provides support for your business to fulfill its obligations under CCPA that are applicable to the use of Experience Cloud products and services. This support includes managing requests to access and delete personal information.
+As your service provider, Adobe CX Enterprise provides support for your business to fulfill its obligations under CCPA that are applicable to the use of CX Enterprise products and services. This support includes managing requests to access and delete personal information.
 
 This document describes how [!DNL Customer Attributes] supports your data subjects' CCPA data access and deletion rights using the Adobe Experience Platform Privacy Service API and Privacy Service UI.
 

@@ -1,5 +1,5 @@
 ---
-description: Learn about rules for how shared folders behave when moved, deleted, and restored in Experience Cloud.
+description: Learn about rules for how shared folders behave when moved, deleted, and restored in CX Enterprise.
 keywords: asset sharing;Creative Cloud;core services
 solution: Experience Cloud
 title: Behavior of Shared Folders
@@ -34,7 +34,7 @@ Rules for how shared folders behave when moved, deleted, and restored.
 
 >[!NOTE]
 >
->Shared Experience Cloud folders and assets are mirrored to the Creative Cloud desktop in a 1:1 relationship. If an Experience Cloud user changes a folder (deletes, adds, or removes sharing), the action is mirrored in the Creative Cloud desktop and web. As such, if a folder is unshared, the folder and assets are deleted from your local machine. After sharing is removed, the folder and its contents are moved to the trash can on your local computer, where you can manually restore them to your machine.
+>Shared CX Enterprise folders and assets are mirrored to the Creative Cloud desktop in a 1:1 relationship. If a CX Enterprise user changes a folder (deletes, adds, or removes sharing), the action is mirrored in the Creative Cloud desktop and web. As such, if a folder is unshared, the folder and assets are deleted from your local machine. After sharing is removed, the folder and its contents are moved to the trash can on your local computer, where you can manually restore them to your machine.
 
 ## Unshared folder into shared folder 
 

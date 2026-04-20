@@ -1,5 +1,5 @@
 ---
-description: Learn how to set up secure certificates for use with Adobe Experience Cloud first-party cookies.
+description: Learn how to set up secure certificates for use with Adobe CX Enterprise first-party cookies.
 solution: Experience Cloud,Analytics
 title: Adobe-Managed Certificate Program
 index: true
@@ -168,7 +168,7 @@ Adobe works with DigiCert to issue an SHA-2 certificate.
 
 +++Does this program incur any additional cost?
 
-No. Adobe offers this service to all Adobe Experience Cloud customers at no additional cost.
+No. Adobe offers this service to all Adobe CX Enterprise customers at no additional cost.
 
 +++
 

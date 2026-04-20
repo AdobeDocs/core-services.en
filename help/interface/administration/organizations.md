@@ -1,5 +1,5 @@
 ---
-description: Learn about organizations (IMS organization ID) and linking solution accounts to Experience Cloud.
+description: Learn about organizations (IMS organization ID) and linking solution accounts to CX Enterprise.
 solution: Experience Cloud
 title: Organizations and Account Linking
 uuid: ae47ad18-ac33-4efa-8b68-2bfaf77397aa
@@ -31,11 +31,11 @@ topic_v2:
 ---
 # Organizations and account linking
 
-An *organization* (Org ID) is the entity that enables an administrator to configure groups and users, and to control single sign-on in Experience Cloud. 
+An *organization* (Org ID) is the entity that enables an administrator to configure groups and users, and to control single sign-on in CX Enterprise. 
 
-The organization functions like a log-in company that spans all Experience Cloud products and applications. Most often, an organization is your company name. However, a company can have many organizations. 
+The organization functions like a log-in company that spans all CX Enterprise products and applications. Most often, an organization is your company name. However, a company can have many organizations. 
 
-![Experience Cloud Organizations](../assets/organizations-menu.png)
+![CX Enterprise Organizations](../assets/organizations-menu.png)
 
 To verify that you have logged in to your correct organization, click **[!UICONTROL Profile]** to see the default organization name. If you have access to more than one organization, you can also view and switch to another organization in the header bar.
 
@@ -45,7 +45,7 @@ To verify that you have logged in to your correct organization, click **[!UICONT
 
 ## Federated IDs
 
-If your organization uses Federated IDs, Experience Cloud allows you to sign in with your organization's single sign-on without being required to enter your email address and password. Add `#/sso:@domain` to the Experience Cloud URL (`https://experience.adobe.com`) to accomplish this task.
+If your organization uses Federated IDs, CX Enterprise allows you to sign in with your organization's single sign-on without being required to enter your email address and password. Add `#/sso:@domain` to the CX Enterprise URL (`https://experience.adobe.com`) to accomplish this task.
     
 For example, for an organization with Federated IDs and the domain `example.com`, set your URL link to `https://experience.adobe.com/#/sso:@example.com`. You can also go directly to a specific application by bookmarking this URL, appended with the application path. (For example, for Adobe Analytics, `https://experience.adobe.com/#/sso:@example.com/analytics`.)
 
@@ -53,13 +53,13 @@ For example, for an organization with Federated IDs and the domain `example.com`
 
 You can locate your assigned organization ID for support purposes. You can verify that you are in the correct organization, or switch between organizations, using the **[!UICONTROL Organization]** selector in the header.
 
-The organization ID is the ID associated with your provisioned Experience Cloud company. This ID is a 24-character alphanumeric string, followed by (and must include) `@AdobeOrg`.
+The organization ID is the ID associated with your provisioned CX Enterprise company. This ID is a 24-character alphanumeric string, followed by (and must include) `@AdobeOrg`.
 
 You can view your organization ID, along with other account information, using the keyboard shortcut **Ctrl+i** from any page at `https://experience.adobe.com`.
 
 **To view your organization ID**
 
-1. In [Experience Cloud](https://experience.adobe.com), press **Ctrl+i** on your keyboard.
+1. In [CX Enterprise](https://experience.adobe.com), press **Ctrl+i** on your keyboard.
 
    ![Assigned Organization ID](../assets/assigned-organization.png) 
 
@@ -77,9 +77,9 @@ You can view your organization ID, along with other account information, using t
 
 ## Link an application account to an Adobe ID 
 
-Typically, Experience Cloud administrators grant access to applications and services. In rare circumstances, you can link application credentials to an Adobe ID.
+Typically, CX Enterprise administrators grant access to applications and services. In rare circumstances, you can link application credentials to an Adobe ID.
 
-1. Follow the steps in your email invitation to Experience Cloud.
+1. Follow the steps in your email invitation to CX Enterprise.
 
 1. Log in using your Adobe ID or Enterprise ID.
 

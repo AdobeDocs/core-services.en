@@ -1,5 +1,5 @@
 ---
-description: Learn how to validate the [!DNL Customer Attributes] schema in Adobe Experience Cloud.
+description: Learn how to validate the [!DNL Customer Attributes] schema in Adobe CX Enterprise.
 solution: Experience Cloud
 title: How to Validate the [!DNL Customer Attributes] Schema
 feature: Customer Attributes
@@ -52,7 +52,7 @@ A schema is created based on these settings. The schema is used to validate all 
 
    On the [!UICONTROL Edit Schema] page, each row of the schema represents a column of the uploaded CSV file.
 
-   ![Edit schema page in Experience Cloud](assets/schema-edit.png)
+   ![Edit schema page in CX Enterprise](assets/schema-edit.png)
 
 **Actions**
 
@@ -62,10 +62,10 @@ A schema is created based on these settings. The schema is used to validate all 
 
 * **[!UICONTROL FTP Setup:]** Create your FTP account to [upload your data via FTP](t-upload-attributes-ftp.md) (optional).
 
-* **[!UICONTROL ID Lookup:]** Enter a customer ID (CID) from your `.csv` to look up Experience Cloud information for the ID. This feature is useful for troubleshooting why attribute data is not displaying for a visitor:
+* **[!UICONTROL ID Lookup:]** Enter a customer ID (CID) from your `.csv` to look up CX Enterprise information for the ID. This feature is useful for troubleshooting why attribute data is not displaying for a visitor:
 
-  * **[!UICONTROL ECID (Experience Cloud ID):]** Displays if you are using the latest Experience Cloud ID Service. If you are on the MCID service but no IDs are listed here, Experience Cloud has not received an alias for that CID. Meaning, the visitor has not logged in, or your implementation is not passing that ID through.
+  * **[!UICONTROL ECID (CX Enterprise ID):]** Displays if you are using the latest CX Enterprise ID Service. If you are on the MCID service but no IDs are listed here, CX Enterprise has not received an alias for that CID. Meaning, the visitor has not logged in, or your implementation is not passing that ID through.
       
   * **[!UICONTROL CID (customer ID):]** The attributes associated with this CID. If you are using a prop or eVar to upload CIDs (AVID), and you see attributes displayed but no AVID, this indicates that the visitor has not logged in to your site.
       
-  * **[!UICONTROL AVID (Analytics visitor ID):]** Displays if you use a prop or eVar to upload CIDs. If those IDs are being passed to Experience Cloud, any visitor IDs associated with the CID you entered are displayed here.
+  * **[!UICONTROL AVID (Analytics visitor ID):]** Displays if you use a prop or eVar to upload CIDs. If those IDs are being passed to CX Enterprise, any visitor IDs associated with the CID you entered are displayed here.

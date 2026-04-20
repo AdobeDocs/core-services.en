@@ -1,6 +1,6 @@
 ---
 title: View Users and User Details
-description: Learn about the Admin Tool in Experience Cloud. View a sortable and filterable list of all Experience Cloud users and policies.
+description: Learn about the Admin Tool in CX Enterprise. View a sortable and filterable list of all CX Enterprise users and policies.
 application: Experience Cloud
 index: true
 feature: Admin Console
@@ -19,9 +19,9 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Experience Cloud [!UICONTROL Admin Tool]
+# CX Enterprise [!UICONTROL Admin Tool]
 
-Administrators can view a sortable and filterable list of all Experience Cloud users and policies with details in the [!UICONTROL Admin Tool]. User details include a user's product access, roles, and last accessed information. Policy details include a policy's (product profile) user, group, developer, integration and admin list, as well as detailed permission and resource information for the policy. 
+Administrators can view a sortable and filterable list of all CX Enterprise users and policies with details in the [!UICONTROL Admin Tool]. User details include a user's product access, roles, and last accessed information. Policy details include a policy's (product profile) user, group, developer, integration and admin list, as well as detailed permission and resource information for the policy. 
 
 1. Log in to `https://experience.adobe.com/.`
 
@@ -35,7 +35,7 @@ Administrators can view a sortable and filterable list of all Experience Cloud u
 
 ## Users page
 
-This page displays complete list of users with access to Experience Cloud in your organization. It provides information about application entitlement and last sign in. You can search, sort, and filter for custom views of the user list.
+This page displays complete list of users with access to CX Enterprise in your organization. It provides information about application entitlement and last sign in. You can search, sort, and filter for custom views of the user list.
 
 ![Admin Console Users page](../assets/admin-tool-users.png)
 
@@ -44,8 +44,8 @@ This page displays complete list of users with access to Experience Cloud in you
 |[!UICONTROL Name] | The first and Last name of the user. You can sort this column from A to Z and Z to A. Click a user's name to see more details about the user.|
 |[!UICONTROL Email] | The email address associated with the user. Column can be sorted A->Z, Z->A.|
 |[!UICONTROL ID Type] | The identity type for the user's account. Filter can be applied to view specific ID types. See [Manage identity types](https://helpx.adobe.com/enterprise/using/identity.html) for more information.|
-|[!UICONTROL Solutions] | Summary of Experience Cloud applications that the user can access. You can apply filters to narrow down list of users with specific application access.|
-|[!UICONTROL Last Login] | Time and Date of the most recent user sign in to Experience Cloud. This column can be sorted by ascending or descending dates. <br> **Important:** As of January 13, 2020 a user's last sign in data will be kept for 365 days. This information is intended to show current sign in activity in Experience Cloud and not a recommendation to take action on inactive accounts prior to January 13, 2020.|
+|[!UICONTROL Solutions] | Summary of CX Enterprise applications that the user can access. You can apply filters to narrow down list of users with specific application access.|
+|[!UICONTROL Last Login] | Time and Date of the most recent user sign in to CX Enterprise. This column can be sorted by ascending or descending dates. <br> **Important:** As of January 13, 2020 a user's last sign in data will be kept for 365 days. This information is intended to show current sign in activity in CX Enterprise and not a recommendation to take action on inactive accounts prior to January 13, 2020.|
 
 ## Customize the user list view
 
@@ -83,7 +83,7 @@ This section displays a summary of the user account including:
 
 ## Solutions summary
 
-This section displays a summary of Experience Cloud applications that the user can access. Includes the product administrative role when applicable.
+This section displays a summary of CX Enterprise applications that the user can access. Includes the product administrative role when applicable.
 
 ## Detailed product access list
 
@@ -99,7 +99,7 @@ This section displays a complete list of all product profiles membership for the
 
 ## Policies page
 
-This page displays complete list of Experience Cloud policies in your organization. It provides information about products, instances, users, and developers. You can search, sort, and filter for custom views of the policy list.
+This page displays complete list of CX Enterprise policies in your organization. It provides information about products, instances, users, and developers. You can search, sort, and filter for custom views of the policy list.
 
 ![Policies page in Admin Console](../assets/admin-tool-policies.png)
 

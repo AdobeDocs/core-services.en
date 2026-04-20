@@ -3,14 +3,13 @@ role: User,Admin
 user-guide-title: Experience Cloud interface and administration
 breadcrumb-title: Experience Cloud interface and administration
 title: Experience Cloud Interface and Administration
-description: Learn about Experience Cloud interface, cookies, and account preferences. Manage products and configure the People service, including Customer Attributes and Audience Library. Share Experience Cloud Assets.
+description: Learn about CX Enterprise interface, cookies, and account preferences. Manage products and configure the People service, including Customer Attributes and Audience Library. Share CX Enterprise Assets.
 index: true
 ---
+# CX Enterprise interface and administration {#interface}
 
-# Experience Cloud interface and administration {#interface}
-
-+ [Experience Cloud interface and administration](/help/interface/experience-cloud.md)
-+ AI in Experience Cloud {#features}
++ [CX Enterprise interface and administration](/help/interface/experience-cloud.md)
++ AI in CX Enterprise {#features}
   + [Generative AI](/help/interface/features/generative-ai.md)
   + [Agentic AI](features/agentic-ai.md)
   + {hide-from-toc} [AI Monitoring](/help/interface/features/ai-monitoring.md)
@@ -60,7 +59,7 @@ index: true
     + [Advertising cookies](/help/interface/data-collection/cookies/advertising.md)
     + [Analytics cookies](/help/interface/data-collection/cookies/analytics.md)
     + [Audience Manager cookies](/help/interface/data-collection/cookies/audience-manager.md)
-    + [Experience Cloud cookies](/help/interface/data-collection/cookies/experience-cloud.md)
+    + [CX Enterprise cookies](/help/interface/data-collection/cookies/experience-cloud.md)
     + [Target cookies](/help/interface/data-collection/cookies/target.md)
     + [Web SDK cookies](/help/interface/data-collection/cookies/web-sdk.md)
   + [Regional data collection](/help/interface/data-collection/rdc.md)

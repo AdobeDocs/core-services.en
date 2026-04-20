@@ -1,6 +1,6 @@
 ---
-description: Learn about central interface components for Experience Cloud. Get help on user and product administration in the Admin Console, enable applications for Experience Cloud services. Get help on Audience Library, Customer Attributes, Experience Cloud Assets, and more.
-title: Experience Cloud Interface and Administration
+description: Learn about central interface components for CX Enterprise (formerly, Experience Cloud). Get help on user and product administration, enable applications for shared interface services. Get help on Audience Library, Customer Attributes, Assets, and more.
+title: CX Enterprise Interface and Administration Guide
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 feature: Central Interface Components
 topic: Administration
@@ -18,24 +18,24 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Experience Cloud interface and administration
+# CX Enterprise interface and administration
 
-[Experience Cloud](https://experience.adobe.com) is Adobe's integrated family of digital marketing applications, products, and services. From its intuitive interface, you can quickly access your cloud applications, product features, and services.
+[CX Enterprise](https://experience.adobe.com) (formerly, _Experience Cloud_) is Adobe's integrated family of digital marketing applications, products, and services. From its intuitive interface, you can quickly access your cloud applications, product features, and services.
 
-![Experience Cloud](assets/landing.png)
+<!-- ![CX Enterprise](assets/landing.png) -->
 
-From Experience Cloud's header, you can:
+From CX Enterprise's header, you can:
 
-* Access all your Experience Cloud applications and services
+* Access all your CX Enterprise applications and services
 * From the Help menu, search for product documentation, tutorials, and community posts. View results in Experience League.
 * Globally search business objects using a global search (Experience Platform users only) in the Search field.
 * Manage your account [preferences](features/account-preferences.md) (alerts, notifications, and subscriptions)
 
-## Sign in to Experience Cloud 
+## Sign in to CX Enterprise 
 
 Sign in and verify that you are in the right [organization](administration/organizations.md).
 
-1. Navigate to [Adobe Experience Cloud](https://experience.adobe.com).
+1. Navigate to [Adobe CX Enterprise](https://experience.adobe.com).
 1. Type your Adobe email address, then click **[!UICONTROL Continue]**.
 1. Click an account. 
 1. Type your password.
@@ -47,20 +47,20 @@ Sign in and verify that you are in the right [organization](administration/organ
 
    The [organization](administration/organizations.md) is displayed in the interface header.
 
-   If your organization uses Federated IDs, Experience Cloud allows you to sign in with your organization's single sign-on without being required to enter your email address and password. Add `#/sso:@domain` to the Experience Cloud URL (`https://experience.adobe.com`) to accomplish this task.
+   If your organization uses Federated IDs, CX Enterprise allows you to sign in with your organization's single sign-on without being required to enter your email address and password. Add `#/sso:@domain` to the CX Enterprise URL (`https://experience.adobe.com`) to accomplish this task.
     
    For example, for an organization with Federated IDs and the domain `example.com`, set your URL link to `https://experience.adobe.com/#/sso:@example.com`. You can also go directly to a specific application by bookmarking this URL, appended with the application path. (For example, for Adobe Analytics, `https://experience.adobe.com/#/sso:@example.com/analytics`.)
    
-   **Note:** The administrator of your organization may restrict access to Adobe products by IP addresses. If so, you may receive an error after logging into Experience Cloud or switching to an organization with this enabled. More information is available in [Limit product access by IP addresses](https://helpx.adobe.com/enterprise/using/ip-based-access.html).
+   **Note:** The administrator of your organization may restrict access to Adobe products by IP addresses. If so, you may receive an error after logging into CX Enterprise or switching to an organization with this enabled. More information is available in [Limit product access by IP addresses](https://helpx.adobe.com/enterprise/using/ip-based-access.html).
 
 
-## Access Experience Cloud applications 
+## Access CX Enterprise applications 
 
-After signing in to Experience Cloud, you can quickly access all your applications, services, and organizations from the unified header.
+After signing in to CX Enterprise, you can quickly access all your applications, services, and organizations from the unified header.
 
-To access Experience Cloud applications and services provisioned for you within your organization, go the application selector ![menu](assets/apps-icon.png).
+To access CX Enterprise applications and services provisioned for you within your organization, go the application selector ![menu](assets/apps-icon.png).
 
-![Access Experience Cloud applications](assets/platform-core-services.png)
+![Access CX Enterprise applications](assets/platform-core-services.png)
 
 ## Get help and support 
 
@@ -71,7 +71,7 @@ Access learning and help using the **[!UICONTROL Help center]** (![asset](assets
 The [!UICONTROL Help] menu also gives you access to:
 
 * **[!UICONTROL Support]:** Create a support ticket or contact [!UICONTROL Support] using Twitter.
-* **[!UICONTROL Feedback]:** Share feedback about your Experience Cloud experience. Your feedback is used to improve Adobe's products and services.
+* **[!UICONTROL Feedback]:** Share feedback about your CX Enterprise experience. Your feedback is used to improve Adobe's products and services.
 * **[!UICONTROL Status]:** Navigate to `https://status.adobe.com/experience_cloud` and check product operational status and [!UICONTROL Manage Subscriptions].
 * **[!UICONTROL Developer Connection]:** Navigation to `adobe.io` and find developer documentation.
 
@@ -80,7 +80,7 @@ The [!UICONTROL Help] menu also gives you access to:
 In the [!UICONTROL Profile] menu, you can:
 
 * Specify a dark theme (not all applications support this theme)
-* Manage Experience Cloud [Preferences](features/account-preferences.md)
+* Manage CX Enterprise [Preferences](features/account-preferences.md)
 * Select or search for an [Organization](administration/organizations.md)
 * View [!UICONTROL Legal Notices]
 * Sign out

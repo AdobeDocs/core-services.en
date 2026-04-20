@@ -1,6 +1,6 @@
 ---
 title: Generative AI in Experience Cloud Applications
-description: Get a high-level look at where you can take advantage of AI-powered features in Experience Cloud applications.
+description: Get a high-level look at where you can take advantage of AI-powered features in CX Enterprise applications.
 solution: Experience Cloud
 landing-page-name: ai
 landing-page-breadcrumb-title: AI Documentation
@@ -55,13 +55,13 @@ topic_v2:
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
 ---
-# Generative AI in Experience Cloud
+# Generative AI in CX Enterprise
 
-Generative AI (genAI) in Experience Cloud helps you automate creative and cognitive tasks and enhance productivity. This page helps you understand where Experience Cloud applications support genAI and AI Assistant, and provides links to learn more about these features.
+Generative AI (genAI) in CX Enterprise helps you automate creative and cognitive tasks and enhance productivity. This page helps you understand where CX Enterprise applications support genAI and AI Assistant, and provides links to learn more about these features.
 
 >[!IMPORTANT]
 >
->Before using Experience Cloud generative AI features, you must understand and follow the [Adobe Experience Cloud Generative AI User Guidelines](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html).
+>Before using CX Enterprise generative AI features, you must understand and follow the [Adobe CX Enterprise Generative AI User Guidelines](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html).
 
 **What is genAI?**
 
@@ -75,15 +75,15 @@ Generative AI is a type of AI that can create original content. For example, it 
 
 **What is [!UICONTROL AI Assistant]?**
 
-[!UICONTROL AI Assistant] is a conversational genAI tool supported in many Experience Cloud applications. Use it to quickly gain _product knowledge_ and _operational insights_, depending on the application you are using.
+[!UICONTROL AI Assistant] is a conversational genAI tool supported in many CX Enterprise applications. Use it to quickly gain _product knowledge_ and _operational insights_, depending on the application you are using.
 
-* **Product knowledge:** Product knowledge refers to concepts and topics grounded in Experience Cloud product documentation on Experience League. For example, use [objective-based prompts](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) to quickly learn about Experience Platform. All responses from Experience League are verifiable and cited with links.
+* **Product knowledge:** Product knowledge refers to concepts and topics grounded in CX Enterprise product documentation on Experience League. For example, use [objective-based prompts](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) to quickly learn about Experience Platform. All responses from Experience League are verifiable and cited with links.
 
 * **Operational insights:** For example, [operational insights](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/questions#objects-questions) in Experience Platform refer to generated responses about your metadata objects (attributes, audiences, dataflows, datasets, and so on). With [!UICONTROL AI Assistant], you can accomplish in seconds what otherwise might take hours or days.
 
 >[!NOTE]
 >
->Many Experience Cloud applications use _AI Assistant_ as a feature name (as described below). However, this feature pulls information only for the specific application you are using. For example, AI Assistant in AEM provides relevant, helpful information related to AEM.
+>Many CX Enterprise applications use _AI Assistant_ as a feature name (as described below). However, this feature pulls information only for the specific application you are using. For example, AI Assistant in AEM provides relevant, helpful information related to AEM.
 
 [!BADGE Learn more]{type=Informative url="https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing" tooltip="Go to AI Assistant"}
 
@@ -91,7 +91,7 @@ Generative AI is a type of AI that can create original content. For example, it 
 
 ## What genAI features are supported? 
 
-Here's a roundup of [!DNL Experience Cloud] applications that use generative AI features and AI Assistant. Compatibility with [Adobe Firefly](https://business.adobe.com/products/firefly-business/firefly-ai-approach.html) is indicated for generative AI features.
+Here's a roundup of [!DNL CX Enterprise] applications that use generative AI features and AI Assistant. Compatibility with [Adobe Firefly](https://business.adobe.com/products/firefly-business/firefly-ai-approach.html) is indicated for generative AI features.
 
 ### Generative AI
 
@@ -130,9 +130,9 @@ Here's a roundup of [!DNL Experience Cloud] applications that use generative AI 
 | [Adobe Target](https://experienceleague.adobe.com/en/docs/target/using/introduction/assistant-ai/ai-assistant) |  AI Assistant for product knowledge. | No |
 | [Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant-overview) |  AI Assistant for in-app information and suggestions.  | Yes |
 
-**Note:** [!DNL Experience Platform Agents] are described in [AI agents in Experience Cloud](agentic-ai.md).
+**Note:** [!DNL Experience Platform Agents] are described in [AI agents in CX Enterprise](agentic-ai.md).
 
-## How can I use generative AI in Experience Cloud? 
+## How can I use generative AI in CX Enterprise? 
 
 The following sections go into more detail about how you can use genAI or AI Assistant in specific applications. Links to learn more are provided.
 
@@ -423,7 +423,7 @@ Marketo integrates with GenStudio for Performance Marketing
 <!--
 ## More help on this topic
 
-* [AI in Experience Cloud](https://experienceleague.adobe.com/en/docs/ai) documentation home
+* [AI in CX Enterprise](https://experienceleague.adobe.com/en/docs/ai) documentation home
 -->
 
 **Disclaimer:** The information on this page is for general informational purposes only. While effort is made to ensure the information remains accurate and current, software and generative AI features may change frequently. Accordingly, Adobe does not warrant the completeness, accuracy, or reliability of the information at all times. Please verify any important details before making decisions based on this content.

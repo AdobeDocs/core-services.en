@@ -1,5 +1,5 @@
 ---
-description: Learn about browser support and get common questions answered for administrators in the Adobe Experience Cloud.
+description: Learn about browser support and get common questions answered for administrators in the Adobe CX Enterprise.
 solution: Experience Cloud
 title: Frequently Asked Questions about Experience Cloud
 index: true
@@ -31,11 +31,11 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Frequently asked questions about Experience Cloud
+# Frequently asked questions about CX Enterprise
 
-Learn about browser support and common questions and answers for administrators in Experience Cloud.
+Learn about browser support and common questions and answers for administrators in CX Enterprise.
 
-+++What browsers are supported in Experience Cloud?
++++What browsers are supported in CX Enterprise?
 
 Adobe supports the current and previous two versions of the following browsers:
 
@@ -49,13 +49,13 @@ Use of another browser is possible, but support is not guaranteed.
 
 >[!NOTE]
 >
->Not all applications running on Experience Cloud domain support all browsers. If you're unsure, check the documentation of a specific application.
+>Not all applications running on CX Enterprise domain support all browsers. If you're unsure, check the documentation of a specific application.
 
 +++
 
 +++What languages are supported?
 
-Experience Cloud supports preferred languages for each user, as set in your Adobe user account preferences. Supported languages currently are: 
+CX Enterprise supports preferred languages for each user, as set in your Adobe user account preferences. Supported languages currently are: 
 
 * Chinese
 * English
@@ -68,19 +68,19 @@ Experience Cloud supports preferred languages for each user, as set in your Adob
 * Spanish
 * Taiwanese
 
-While application teams are committed to global language support, not all applications are offered in all languages noted above. If your primary language is not supported in an Experience Cloud application, you can also set a secondary language to default to when applicable. This can be done in [Experience Cloud user preferences](https://experience.adobe.com/preferences).
+While application teams are committed to global language support, not all applications are offered in all languages noted above. If your primary language is not supported in a CX Enterprise application, you can also set a secondary language to default to when applicable. This can be done in [CX Enterprise user preferences](https://experience.adobe.com/preferences).
 
 +++
 
-+++Does Adobe charge my company for Adobe Experience Cloud access?
++++Does Adobe charge my company for Adobe CX Enterprise access?
 
-No. The Adobe Experience Cloud is included at no additional charge. However, certain core services might have additional costs.
+No. Adobe CX Enterprise is included at no additional charge. However, certain core services might have additional costs.
 
 +++
 
-+++Why must my company sign in through the Experience Cloud interface?
++++Why must my company sign in through the CX Enterprise interface?
 
-The functionality provided by the Experience Cloud interface adds new value to your business. It also is the standard path for accessing applications going forward, eventually replacing other individual application login flows. Logging in through Experience Cloud facilitates a smoother transition later.
+The functionality provided by the CX Enterprise interface adds new value to your business. It also is the standard path for accessing applications going forward, eventually replacing other individual application login flows. Logging in through CX Enterprise facilitates a smoother transition later.
 
 +++
 
@@ -94,10 +94,10 @@ Adobe Customer Care can submit an impersonation request for which you receive an
 
 +++What is "provisioning"?
 
-Provisioning in Experience Cloud means:
+Provisioning in CX Enterprise means:
 
-* Your users can begin logging in to the Experience Cloud and linking applications.
-* They can begin to use the features available through Experience Cloud.
+* Your users can begin logging in to the CX Enterprise and linking applications.
+* They can begin to use the features available through CX Enterprise.
 * You can become prepared to retire your application-specific login process.
 * You can retain access control to applications.
 
@@ -119,7 +119,7 @@ Provisioning in Experience Cloud means:
 
 +++
 
-+++What can I do if someone cannot log in to Experience Cloud?
++++What can I do if someone cannot log in to CX Enterprise?
 
 Admin Console administrators can grant access to users. Users are sent emails with sign-in instructions. 
 
@@ -143,7 +143,7 @@ See [Manage user accounts](../administration/organizations.md).
 
 +++What is an organization?
 
-An [organization](../administration/organizations.md) is the entity that enables an administrator to configure groups and users, and to control single sign-on in Experience Cloud. The organization functions like a log-in company that spans all Experience Cloud products and applications. Most often, an organization is your company name. However, a company can have many organizations. 
+An [organization](../administration/organizations.md) is the entity that enables an administrator to configure groups and users, and to control single sign-on in CX Enterprise. The organization functions like a log-in company that spans all CX Enterprise products and applications. Most often, an organization is your company name. However, a company can have many organizations. 
 
 +++
 
@@ -155,7 +155,7 @@ See [View your organization ID](../administration/organizations.md) for details.
 
 +++What should I do when one of my users leaves my company?
 
-Their access should be removed from the application itself. They will not be able to access the product from Experience Cloud or through the direct login. You should also remove them at the Experience Cloud level.
+Their access should be removed from the application itself. They will not be able to access the product from CX Enterprise or through the direct login. You should also remove them at the CX Enterprise level.
 
 +++
 
