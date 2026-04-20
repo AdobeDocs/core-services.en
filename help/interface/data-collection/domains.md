@@ -1,5 +1,5 @@
 ---
-description: Learn about the domains used by Experience Cloud.
+description: Learn about the domains used by CX Enterprise.
 title: Domains Used by Experience Cloud
 feature: Central Interface Components
 topic: Administration

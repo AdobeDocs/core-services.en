@@ -1,5 +1,5 @@
 ---
-description: Learn about Experience Cloud Assets that you can share across applications.
+description: Learn about CX Enterprise Assets that you can share across applications.
 solution: Experience Cloud
 title: Overview of Assets
 uuid: 97a849ec-1555-4630-9416-2ab484373f5c

@@ -1,5 +1,5 @@
 ---
-description: Learn where documentation updates occur for the common interface components of Experience Cloud.
+description: Learn where documentation updates occur for the common interface components of CX Enterprise.
 solution: Experience Cloud
 title: Documentation Updates
 uuid: f41c4e9f-e784-4706-8c4b-f430c953670d

@@ -1,5 +1,5 @@
 ---
-description: Learn about terms in Adobe Experience Cloud and how they're different in Creative Cloud.
+description: Learn about terms in Adobe CX Enterprise and how they're different in Creative Cloud.
 solution: Experience Cloud
 title: Terminology
 feature-set: Experience Cloud Services

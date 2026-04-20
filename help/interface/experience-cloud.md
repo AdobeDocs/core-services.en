@@ -1,6 +1,6 @@
 ---
-description: Learn about central interface components for Experience Cloud. Get help on user and product administration in the Admin Console, enable applications for Experience Cloud services. Get help on Audience Library, Customer Attributes, Experience Cloud Assets, and more.
-title: Experience Cloud Interface and Administration
+description: Learn about central interface components for CX Enterprise (formerly, Experience Cloud). Get help on user and product administration, enable applications for shared interface services. Get help on Audience Library, Customer Attributes, Assets, and more.
+title: CX Enterprise Interface and Administration Guide
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 feature: Central Interface Components
 topic: Administration
@@ -22,7 +22,7 @@ topic_v2:
 
 [CX Enterprise](https://experience.adobe.com) (formerly, _Experience Cloud_) is Adobe's integrated family of digital marketing applications, products, and services. From its intuitive interface, you can quickly access your cloud applications, product features, and services.
 
-![CX Enterprise](assets/landing.png)
+<!-- ![CX Enterprise](assets/landing.png) -->
 
 From CX Enterprise's header, you can:
 

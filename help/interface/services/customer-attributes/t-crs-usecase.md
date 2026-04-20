@@ -1,5 +1,5 @@
 ---
-description: Learn to create a [!DNL Customer Attributes] data source and upload it to Experience Cloud.
+description: Learn to create a [!DNL Customer Attributes] data source and upload it to CX Enterprise.
 solution: Experience Cloud
 title: Create and Upload a [!DNL Customer Attributes] Data Source File
 uuid: 53dca789-9a91-4385-839d-c9d1aa36b9be

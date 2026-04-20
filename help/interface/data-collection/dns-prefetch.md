@@ -1,5 +1,5 @@
 ---
-description: Learn how to implement DNS prefetch to help reduce page load times with different applications and services in Experience Cloud.
+description: Learn how to implement DNS prefetch to help reduce page load times with different applications and services in CX Enterprise.
 solution: Experience Cloud
 title: Use DNS Prefetch
 uuid: 4220e223-e00e-46b1-8bde-52248913bea1

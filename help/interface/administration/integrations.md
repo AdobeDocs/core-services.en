@@ -1,5 +1,5 @@
 ---
-description: Find available application integrations in Adobe Experience Cloud.
+description: Find available application integrations in Adobe CX Enterprise.
 solution: Experience Cloud
 title: Experience Cloud Integrations
 uuid: a9893c6b-bccc-4fb5-b724-724644c7def5

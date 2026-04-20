@@ -1,5 +1,5 @@
 ---
-description: Learn about rules for how shared folders behave when moved, deleted, and restored in Experience Cloud.
+description: Learn about rules for how shared folders behave when moved, deleted, and restored in CX Enterprise.
 keywords: asset sharing;Creative Cloud;core services
 solution: Experience Cloud
 title: Behavior of Shared Folders

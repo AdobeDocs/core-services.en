@@ -1,6 +1,6 @@
 ---
 title: File Requirements for Sharing Assets
-description: Learn about allowed file types and size limitations for sharing assets between Adobe Experience Cloud and Creative Cloud.
+description: Learn about allowed file types and size limitations for sharing assets between Adobe CX Enterprise and Creative Cloud.
 solution: Experience Cloud
 uuid: 1621accf-c407-437b-ae12-61f13cc338d0
 feature: Assets

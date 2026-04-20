@@ -1,5 +1,5 @@
 ---
-description: Learn about organizations (IMS organization ID) and linking solution accounts to Experience Cloud.
+description: Learn about organizations (IMS organization ID) and linking solution accounts to CX Enterprise.
 solution: Experience Cloud
 title: Organizations and Account Linking
 uuid: ae47ad18-ac33-4efa-8b68-2bfaf77397aa

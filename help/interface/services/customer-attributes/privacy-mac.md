@@ -1,5 +1,5 @@
 ---
-description: Learn the considerations and best practices regarding personally identifiable information (PII) uploaded and used in Experience Cloud.
+description: Learn the considerations and best practices regarding personally identifiable information (PII) uploaded and used in CX Enterprise.
 solution: Experience Cloud
 title: Privacy Considerations for [!DNL Customer Attributes]
 feature: Customer Attributes

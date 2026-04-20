@@ -1,5 +1,5 @@
 ---
-description: Learn how to configure Experience Cloud Triggers.
+description: Learn how to configure CX Enterprise Triggers.
 solution: Experience Cloud
 title: Overview of Triggers
 uuid: dab536e3-1969-4661-919e-5b15f423fecd

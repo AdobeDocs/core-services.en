@@ -1,5 +1,5 @@
 ---
-description: Learn about the latest features, release notes, and known issues for Experience Cloud services like Customer Attributes, Audiences, and user management.
+description: Learn about the latest features, release notes, and known issues for CX Enterprise services like Customer Attributes, Audiences, and user management.
 solution: Experience Cloud
 title: Cumulative Release Notes for Experience Cloud Interface
 uuid: fcff8cc6-e587-4bf2-9a75-261d4eabc7d4

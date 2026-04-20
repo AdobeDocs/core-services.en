@@ -1,5 +1,5 @@
 ---
-description: Learn how to delete and replace attributes in the schema in Adobe Experience Cloud.
+description: Learn how to delete and replace attributes in the schema in Adobe CX Enterprise.
 title: Update the Schema (Delete an Attribute)
 feature: Customer Attributes
 topic: Administration

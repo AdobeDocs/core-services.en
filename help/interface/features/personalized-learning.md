@@ -1,5 +1,5 @@
 ---
-description: Receive personalized help and promotions via email, in your Experience Cloud products, and within the Experience League Communities based on your Usage Data.
+description: Receive personalized help and promotions via email, in your CX Enterprise products, and within the Experience League Communities based on your Usage Data.
 solution: Experience Cloud
 title: Experience Cloud Personalized Learning Preferences
 exl-id: ad6c8daf-c8ad-42e9-8ff0-cef59dc0da3f

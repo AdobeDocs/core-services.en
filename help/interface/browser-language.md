@@ -1,6 +1,6 @@
 ---
 title: Browser and Language Support
-description: Learn about browser and language support for Experience Cloud applications. Select a primary and secondary language in your account profile.
+description: Learn about browser and language support for CX Enterprise applications. Select a primary and secondary language in your account profile.
 solution: Experience Cloud
 feature: Account Preferences
 topic: Administration

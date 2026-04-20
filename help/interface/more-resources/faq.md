@@ -1,5 +1,5 @@
 ---
-description: Learn about browser support and get common questions answered for administrators in the Adobe Experience Cloud.
+description: Learn about browser support and get common questions answered for administrators in the Adobe CX Enterprise.
 solution: Experience Cloud
 title: Frequently Asked Questions about Experience Cloud
 index: true

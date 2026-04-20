@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Audience Library]"
-description: Learn how to manage the translation of visitor data into audience segmentation in Experience Cloud [!DNL Audience Library].
+description: Learn how to manage the translation of visitor data into audience segmentation in CX Enterprise [!DNL Audience Library].
 solution: Experience Cloud
 type: Documentation
 uuid: 92faf3a8-1375-4e32-905b-74cad48144d3

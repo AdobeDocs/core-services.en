@@ -1,6 +1,6 @@
 ---
 title: Account Preferences and Notifications
-description: Learn about user profiles, account preferences, and product usage data in Experience Cloud. Subscribe to product notifications for email and [!DNL Slack], and set up product alerts.
+description: Learn about user profiles, account preferences, and product usage data in CX Enterprise. Subscribe to product notifications for email and [!DNL Slack], and set up product alerts.
 solution: Experience Cloud
 feature: Account Preferences, Notifications, Alerts
 topic: Administration

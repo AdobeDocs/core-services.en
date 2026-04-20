@@ -1,5 +1,5 @@
 ---
-description: Learn about Unified Search feature for certain applications in Experience Cloud.
+description: Learn about Unified Search feature for certain applications in CX Enterprise.
 solution: Experience Cloud
 title: Experience Cloud Unified Search
 index: true

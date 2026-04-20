@@ -1,6 +1,6 @@
 ---
 title: About [!DNL Customer Attributes]
-description: Learn about [!DNL Customer Attributes] in Adobe Experience Cloud. Discover how to upload customer attribute data for use in Adobe Analytics and Adobe Target.
+description: Learn about [!DNL Customer Attributes] in Adobe CX Enterprise. Discover how to upload customer attribute data for use in Adobe Analytics and Adobe Target.
 solution: Analytics
 feature: Customer Attributes
 role: Admin

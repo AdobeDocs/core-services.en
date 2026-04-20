@@ -1,6 +1,6 @@
 ---
 title: Regional Data Collection
-description: Learn about regional data collection in Experience Cloud.
+description: Learn about regional data collection in CX Enterprise.
 exl-id: 295e9736-2a58-48a8-9968-5dfa33b70d95
 TQID: https://experienceleague.adobe.com/hjHQDRoNOP2e6pKhKHB9DZaII2o8eJVzL5wjRzaMFwM
 product_v2:

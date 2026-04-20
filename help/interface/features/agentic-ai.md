@@ -1,6 +1,6 @@
 ---
 title: Agentic AI in Experience Cloud Applications
-description: Learn where agentic AI is available in Experience Cloud applications.
+description: Learn where agentic AI is available in CX Enterprise applications.
 solution: Experience Cloud
 landing-page-name: ai
 landing-page-breadcrumb-title: AI Documentation

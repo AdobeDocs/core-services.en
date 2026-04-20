@@ -1,5 +1,5 @@
 ---
-description: Learn about Experience Cloud user and product management, Audiences, Customer Attributes, Journey Orchestration, Offers, Places, Experience Platform, and Mobile Services.
+description: Learn about CX Enterprise user and product management, Audiences, Customer Attributes, Journey Orchestration, Offers, Places, Experience Platform, and Mobile Services.
 solution: Experience Cloud
 title: Overview of Experience Cloud Services 
 feature: Central Interface Components
