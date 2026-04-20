@@ -31,7 +31,7 @@ topic_v2:
 
 The Exchange Marketplace is a single destination where you can search, browse, select, pay, and download Digital Marketing extensions via apps. Apps include data connectors, custom configurations to Adobe's core product, third-party applications, and reports.
 
-**[!UICONTROL Experience Cloud]** > **[!UICONTROL Help]** > **[!UICONTROL Exchange]** 
+**[!UICONTROL CX Enterprise]** > **[!UICONTROL Help]** > **[!UICONTROL Exchange]** 
 
 * Download SDKs, read documentation, and submit applications to Digital Marketing for review. 
 
@@ -43,8 +43,8 @@ The Exchange Marketplace is a single destination where you can search, browse, s
 
 * Decline or approve applications. 
 
-* Publish in Experience Cloud. 
+* Publish in CX Enterprise. 
 
 * Search and filter by category, company, type, user, and more. 
 
-See [Experience Cloud Exchange](https://exchange.adobe.com/experiencecloud.html) for more information.
+See [CX Enterprise Exchange](https://exchange.adobe.com/experiencecloud.html) for more information.

@@ -29,11 +29,11 @@ topic_v2:
 ---
 # File requirements for sharing assets
 
-Allowed file types and size limitations for sharing assets between Experience Cloud and Creative Cloud.
+Allowed file types and size limitations for sharing assets between CX Enterprise and Creative Cloud.
 
 ## File types allowed for upload 
 
-File types you can upload include most images, documents, and multimedia. See [Supported Formats](https://helpx.adobe.com/experience-manager/brand-portal/using/brand-portal-supported-formats.html) for information about file formats in [!DNL Experience Cloud] Assets. 
+File types you can upload include most images, documents, and multimedia. See [Supported Formats](https://helpx.adobe.com/experience-manager/brand-portal/using/brand-portal-supported-formats.html) for information about file formats in [!DNL CX Enterprise] Assets. 
 
 ## File size limitations 
 

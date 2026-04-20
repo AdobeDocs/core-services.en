@@ -29,14 +29,14 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Overview of Experience Cloud Assets
+# Overview of CX Enterprise Assets
 
-Experience Cloud Assets provide a single, centralized repository of marketing-ready assets that you can share across applications. An asset is a digital document, image, video, or audio (or part thereof) that can have multiple renditions and can have sub-assets (for example, layers in a [!DNL Photoshop] file, slides in a [!DNL PowerPoint] file, pages in a PDF, files in a ZIP).
+CX Enterprise Assets provide a single, centralized repository of marketing-ready assets that you can share across applications. An asset is a digital document, image, video, or audio (or part thereof) that can have multiple renditions and can have sub-assets (for example, layers in a [!DNL Photoshop] file, slides in a [!DNL PowerPoint] file, pages in a PDF, files in a ZIP).
 
 Asset services include: 
 
 * Asset storage, management interface, embedded selection interface (accessed through applications).
-* Integrations with Creative Cloud, Experience Cloud collaboration, and Experience Cloud applications.
+* Integrations with Creative Cloud, CX Enterprise collaboration, and CX Enterprise applications.
 
 Using assets improves consistency and brand compliance, and speeds time to market. You can streamline workflows in applications: 
 
@@ -45,9 +45,9 @@ Using assets improves consistency and brand compliance, and speeds time to marke
 * **[!DNL Adobe Campaign]**: Place assets into email newsletters and campaigns.
 
 
-## Navigate to Experience Cloud Assets 
+## Navigate to CX Enterprise Assets 
 
-![Navigate to Experience Cloud Assets](../../assets/asset-nav.png) 
+![Navigate to CX Enterprise Assets](../../assets/asset-nav.png) 
 
 ## Access the toolbar 
 

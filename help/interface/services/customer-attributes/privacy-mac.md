@@ -34,7 +34,7 @@ topic_v2:
 ---
 # Privacy considerations for [!DNL Customer Attributes]
 
-Considerations and best practices regarding personally identifiable information (PII) uploaded and used in the Adobe Experience Cloud.
+Considerations and best practices regarding personally identifiable information (PII) uploaded and used in Adobe CX Enterprise.
 
 * First and last name
 * Home or other physical address

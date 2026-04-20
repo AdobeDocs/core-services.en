@@ -29,9 +29,9 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Share an Experience Cloud asset folder
+# Share a CX Enterprise asset folder
 
-Share folders and assets between Experience Cloud and Creative Cloud. Collaborate, annotate shared assets, and use them in Experience Cloud applications like Adobe Target. The shared folder must originate from Experience Cloud. 
+Share folders and assets between CX Enterprise and Creative Cloud. Collaborate, annotate shared assets, and use them in CX Enterprise applications like Adobe Target. The shared folder must originate from CX Enterprise. 
 
 **Benefits of sharing**
 
@@ -41,9 +41,9 @@ Share folders and assets between Experience Cloud and Creative Cloud. Collaborat
 * Enjoy increase enterprise security
 * Easily share, save, and send files between creatives and marketers
 
-Before Creative Cloud users have access to assets, they must be allow-listed in Experience Cloud. See [Manage Creative Cloud users](manage-cc-users.md). 
+Before Creative Cloud users have access to assets, they must be allow-listed in CX Enterprise. See [Manage Creative Cloud users](manage-cc-users.md). 
 
-**To share an Experience Cloud asset folder**
+**To share a CX Enterprise asset folder**
 
 1. On an Asset folder, click **[!UICONTROL Share to Creative Cloud]**.
 
@@ -64,11 +64,11 @@ Before Creative Cloud users have access to assets, they must be allow-listed in 
    ![View on Web](../../assets/creative_cloud_open_folder.png) 
 1. Continue by adding comments on the shared asset:
 
-   In Creative Cloud, you can select into an image, then click **[!UICONTROL Activity]** to add a comment on the image. Comments are synced on the assets in the [!DNL Creative Cloud] and [!DNL Experience Cloud]. 
+   In Creative Cloud, you can select into an image, then click **[!UICONTROL Activity]** to add a comment on the image. Comments are synced on the assets in the [!DNL Creative Cloud] and [!DNL CX Enterprise]. 
 
    ![Add a comment on the image](../../assets/asset_comment_cc.png) 
 
-   In Experience Cloud, select into an image, then select the time-line icon to add a comment on the image. Comments are synced on the assets in the Creative Cloud and Experience Cloud. 
+   In CX Enterprise, select into an image, then select the time-line icon to add a comment on the image. Comments are synced on the assets in the Creative Cloud and CX Enterprise. 
 
    ![Add a comment on the image](../../assets/asset_comment_mac.png) 
 

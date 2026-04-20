@@ -28,9 +28,9 @@ topic_v2:
 ---
 # Upload the data file via FTP (optional)
 
-If you do not upload using drag-and-drop, you can upload customer attribute data via FTP to Experience Cloud.
+If you do not upload using drag-and-drop, you can upload customer attribute data via FTP to CX Enterprise.
 
-You can upload the data after you create a customer attribute source and an FTP account in Experience Cloud. You create one FTP account per attribute source. The uploaded files are stored in the root folder of that account. The data must be in `.csv` format, with a second `.fin` file to indicate that the upload is complete. 
+You can upload the data after you create a customer attribute source and an FTP account in CX Enterprise. You create one FTP account per attribute source. The uploaded files are stored in the root folder of that account. The data must be in `.csv` format, with a second `.fin` file to indicate that the upload is complete. 
 
 >[!IMPORTANT]
 >

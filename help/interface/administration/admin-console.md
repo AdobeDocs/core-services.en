@@ -33,7 +33,7 @@ topic_v2:
 
 You can manage users and product licenses in the Adobe [Admin Console](https://adminconsole.adobe.com/enterprise/). For general identity management help applicable to all Adobe applications, see the [Enterprise and teams admin guide](https://helpx.adobe.com/enterprise/admin-guide.html). 
 
-This page provides information specifically useful for Experience Cloud administrators, defines roles, and provides links to common user and product management topics in the enterprise guide.
+This page provides information specifically useful for CX Enterprise administrators, defines roles, and provides links to common user and product management topics in the enterprise guide.
 
 ## Administrative roles in Admin Console
 
@@ -45,9 +45,9 @@ The Admin Console provides three primary administrative roles, each with specifi
 |Product administrator |Product-specific management - Controls access and permissions for specific Adobe products.<br>Key responsibilities:<ul><li>Assign and manage licenses for a specific product.</li><li>Create and manage product profiles.</li><li>Add or remove users within assigned products.</li></ul>   **Best for:** Teams/users managing specific software like Marketo Engage or Adobe Creative Cloud.|
 |Product profile administrator |Granular role management - Focuses on managing user groups and permissions within a product.<br>Key Responsibilities:<ul><li>Create and manage product profiles.</li><li>Assign permissions and feature access within profiles.</li><li>Add or remove users within profiles.</li></ul> **Best for:** Department leads or team managers overseeing smaller groups with specialized needs. <br> Administrators can combine roles for greater flexibility, depending on organizational requirements.|
 
-## Admin Console for Experience Cloud 
+## Admin Console for CX Enterprise 
 
-To manage identity and product licenses for Experience Cloud applications, navigate to the [Admin Console](https://adminconsole.adobe.com/enterprise/).
+To manage identity and product licenses for CX Enterprise applications, navigate to the [Admin Console](https://adminconsole.adobe.com/enterprise/).
 
 Here are resources you might need when getting started as an administrator in Admin Console:
 
@@ -56,7 +56,7 @@ Here are resources you might need when getting started as an administrator in Ad
 | Help link |  Description |
 | ------- | ------ |
 |[Set up identity and single sign-on](https://helpx.adobe.com/enterprise/using/set-up-identity.html) | **[!UICONTROL Admin Console]** > **[!UICONTROL Settings]** <br> Learn how to set up your users' accounts with different ID types with or without single sign-on (SSO). Set up SSO for Adobe software, configure SAML settings, and go through the most common questions and errors. |
-|[Set up organization via directory trust](https://helpx.adobe.com/enterprise/using/directory-trust.html)  | Authenticate your users against a domain already claimed by another organization. For information about finding and switching organizations, see [Organizations in Experience Cloud](organizations.md).  |
+|[Set up organization via directory trust](https://helpx.adobe.com/enterprise/using/directory-trust.html)  | Authenticate your users against a domain already claimed by another organization. For information about finding and switching organizations, see [Organizations in CX Enterprise](organizations.md).  |
 |[Authentication settings (enterprise)](https://helpx.adobe.com/enterprise/using/authentication-settings.html)  |Admin Console supports several password protection levels and policies to ensure safety and security. You can specify to use a password protection level to apply to all users across your organization.  |
 | [Privacy and security contacts](https://helpx.adobe.com/enterprise/using/security-contacts.html)  | Protect your organization's and users' data. If a security incident involving our software solutions occurs, notifications are sent to the appropriate compliance officers. Enterprises have personnel whose role is specific to data protection, integrity, and other compliance matters. Therefore, contact information for such personnel is critical to help ensure prompt notification in the event of a security incident.|
 
@@ -68,7 +68,7 @@ Here are resources you might need when getting started as an administrator in Ad
 |[Manage multiple users](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html) |**[!UICONTROL Admin Console]** > **[!UICONTROL Users]** <br>Learn how to manage multiple users via CSV bulk upload to the Admin Console.  |
 | [Identity Types](https://helpx.adobe.com/enterprise/using/identity.html) | Identity types allow the organization different levels of control over the users' accounts and data. Your choice of identity model impacts how your organization stores and shares assets. While Federated ID and Enterprise ID models are created and managed by the organization, Adobe IDs are created and managed by the individual.  |
 |[User Sync Tool](https://helpx.adobe.com/enterprise/using/user-sync.html) (UST)  |The Adobe User Sync Tool is a desktop application used to automate syncing user data between an organization's identity management system (like Active Directory) and Adobe Admin Console. The tool allows administrators to streamline user provisioning, updates, and deactivation across Adobe products.  |
-|[View user details (Admin Tool)](admin-tool-experience-cloud.md)  | View a sortable and filterable list of all Experience Cloud users and policies with details in the [!UICONTROL Admin Tool]. |
+|[View user details (Admin Tool)](admin-tool-experience-cloud.md)  | View a sortable and filterable list of all CX Enterprise users and policies with details in the [!UICONTROL Admin Tool]. |
 
 ### Reports and logs
 
@@ -79,7 +79,7 @@ Here are resources you might need when getting started as an administrator in Ad
 
 ## Application-specific resources
 
-These links help you find administration information for specific Experience Cloud applications.
+These links help you find administration information for specific CX Enterprise applications.
 
 <!--
 | Application | Link to resource|

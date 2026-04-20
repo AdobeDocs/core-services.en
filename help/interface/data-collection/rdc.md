@@ -23,7 +23,7 @@ topic_v2:
 ---
 # Regional Data Collection
 
-The Adobe Experience Cloud uses regional data collection (RDC) so that interactions between your visitors and Adobe happen as close to your visitors as possible. Data collected locally at an edge site is securely forwarded to a core site for processing. Once processed, the data is available to Adobe Experience Cloud products and services.
+The Adobe CX Enterprise uses regional data collection (RDC) so that interactions between your visitors and Adobe happen as close to your visitors as possible. Data collected locally at an edge site is securely forwarded to a core site for processing. Once processed, the data is available to Adobe CX Enterprise products and services.
 
 The regional data collection workflow provides several benefits:
 
@@ -45,7 +45,7 @@ RDC currently includes the following locations (subject to change):
 
 {style="table-layout:auto"}
 
-_*China RDC requires the China Performance Optimization add-on package, and only applies to Adobe Analytics using AppMeasurement data collection. Other Experience Cloud services and Web SDK data collection are not supported. Contact your Adobe Account Team to learn more about the China Performance Optimization add-on package._
+_*China RDC requires the China Performance Optimization add-on package, and only applies to Adobe Analytics using AppMeasurement data collection. Other CX Enterprise services and Web SDK data collection are not supported. Contact your Adobe Account Team to learn more about the China Performance Optimization add-on package._
 
 ## Third-party data collection
 

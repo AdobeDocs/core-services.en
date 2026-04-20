@@ -11,13 +11,13 @@ level: Intermediate
 
 Updated: **March 5, 2026**
 
-Learn about agentic AI jobs and AI credit consumption in Experience Cloud applications. For information about enabling agentic AI capabilities in existing Experience Cloud applications, see [Agentic AI in Experience Cloud](agentic-ai.md#existing-apps).
+Learn about agentic AI jobs and AI credit consumption in CX Enterprise applications. For information about enabling agentic AI capabilities in existing CX Enterprise applications, see [Agentic AI in CX Enterprise](agentic-ai.md#existing-apps).
 
 ## Agent jobs
 
 An _agent job_ is a series of tasks and actions an agent executes to achieve a specific outcome, as directed by customer inputs.
 
-Using natural language prompts via AI Assistant, you can ask agents to carry out specific jobs. Based on those inputs, Agent Orchestrator coordinates the appropriate agents to execute each step within the relevant Experience Cloud applications.
+Using natural language prompts via AI Assistant, you can ask agents to carry out specific jobs. Based on those inputs, Agent Orchestrator coordinates the appropriate agents to execute each step within the relevant CX Enterprise applications.
 
 ## AI credits
 
@@ -59,6 +59,6 @@ AI credit usage may vary depending on the complexity and value of the job execut
 
 ## More help on this topic
 
-* [GenAI in Experience Cloud](/help/interface/features/generative-ai.md)
-* [Agentic AI in Experience Cloud](/help/interface/features/agentic-ai.md)
+* [GenAI in CX Enterprise](/help/interface/features/generative-ai.md)
+* [Agentic AI in CX Enterprise](/help/interface/features/agentic-ai.md)
 * [Adobe Experience Platform Agents usage-bound trial](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/trial)

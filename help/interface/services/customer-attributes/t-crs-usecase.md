@@ -43,9 +43,9 @@ Create the customer attribute source (`.csv` and `.fin` files) and upload the da
 
 * **Group membership:** To upload the data, users must be members of the [!DNL Customer Attributes] group. You must also belong to either an Adobe Analytics group or an Adobe Target group.
 
-  To know whether your company has access to Customer Attributes, your [!DNL Experience Cloud] administrator should log into the [Experience Cloud](https://experience.adobe.com). Navigate to **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *[!DNL Customer Attributes]* displays as one of the [!UICONTROL product profiles], you are ready to begin.
+  To know whether your company has access to Customer Attributes, your [!DNL CX Enterprise] administrator should log into the [CX Enterprise](https://experience.adobe.com). Navigate to **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *[!DNL Customer Attributes]* displays as one of the [!UICONTROL product profiles], you are ready to begin.
 
-  Users that are added to [!DNL Customer Attributes] see the [!DNL Customer Attributes] menu item on the left side of the Experience Cloud interface.
+  Users that are added to [!DNL Customer Attributes] see the [!DNL Customer Attributes] menu item on the left side of the CX Enterprise interface.
 
 * **Adobe Target** `at.js` (any version) or `mbox.js` version 58 or later is required for Customer Attributes.
 
@@ -70,7 +70,7 @@ This data is enterprise customer data from your CRM. The data might include subs
 
 ## Create the attribute source and upload the data file 
 
-Perform these steps on the _[!UICONTROL Create Customer Attribute Source]_ page in Experience Cloud.
+Perform these steps on the _[!UICONTROL Create Customer Attribute Source]_ page in CX Enterprise.
 
 >[!IMPORTANT]
 >
@@ -90,7 +90,7 @@ Perform these steps on the _[!UICONTROL Create Customer Attribute Source]_ page 
     
     * **[!UICONTROL Description:]** (Optional) A description of the data attribute source. 
     
-    * **[!UICONTROL Alias ID:]** Represents a source of customer attribute data, such as a specific CRM system. [!UICONTROL Alias ID] is a unique ID that is used in your [!UICONTROL customer attribute Source] code. The ID should be unique, lowercase, with no spaces. The value that is entered in the [!UICONTROL Alias ID] field for a customer attribute source in Experience Cloud should match the values that are being passed in from the implementation (whether via Platform Data Collection or JavaScript of the Mobile SDK.) 
+    * **[!UICONTROL Alias ID:]** Represents a source of customer attribute data, such as a specific CRM system. [!UICONTROL Alias ID] is a unique ID that is used in your [!UICONTROL customer attribute Source] code. The ID should be unique, lowercase, with no spaces. The value that is entered in the [!UICONTROL Alias ID] field for a customer attribute source in CX Enterprise should match the values that are being passed in from the implementation (whether via Platform Data Collection or JavaScript of the Mobile SDK.) 
 
       >[!IMPORTANT]
       >
@@ -98,7 +98,7 @@ Perform these steps on the _[!UICONTROL Create Customer Attribute Source]_ page 
             
       The Alias ID corresponds to certain areas where you set additional customer ID values. For example: 
     
-        * **Tags:** The Alias ID corresponds to the *Integration Code* value under [!UICONTROL customer Settings], in the [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html) tool. 
+        * **Tags:** The Alias ID corresponds to the *Integration Code* value under [!UICONTROL customer Settings], in the [CX Enterprise ID Service](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html) tool. 
 
         * **Visitor API:** The Alias ID corresponds to the additional [customer IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) that you can associate with each visitor. 
         
@@ -148,9 +148,9 @@ The customer attribute record is created, and you can upload the file by editing
     
 * **[!UICONTROL Unique customer ID:]** Displays how many unique IDs you have uploaded to this attribute source. 
     
-* **[!UICONTROL Customer-Provided IDs Aliased to Experience Cloud Visitor IDs:]** Displays how many IDs have been aliased to Experience Cloud Visitor IDs. 
+* **[!UICONTROL Customer-Provided IDs Aliased to CX Enterprise Visitor IDs:]** Displays how many IDs have been aliased to CX Enterprise Visitor IDs. 
     
-* **[!UICONTROL Customer-Provided IDs with High Alias Counts:]** Displays the count of customer-provided IDs with 500 or more aliased Experience Cloud Visitor IDs. These customer-provided IDs most likely do not represent individuals but rather some sort of shared login. The system distributes the attributes associated with these IDs to the 500 most recent aliased Experience Cloud Visitor IDs, until the alias count reaches 10,000. Then, the system invalidates the customer-provided ID and no longer distributes associated attributes.
+* **[!UICONTROL Customer-Provided IDs with High Alias Counts:]** Displays the count of customer-provided IDs with 500 or more aliased CX Enterprise Visitor IDs. These customer-provided IDs most likely do not represent individuals but rather some sort of shared login. The system distributes the attributes associated with these IDs to the 500 most recent aliased CX Enterprise Visitor IDs, until the alias count reaches 10,000. Then, the system invalidates the customer-provided ID and no longer distributes associated attributes.
     
 ## Validate the schema {#validate-schema}
 
@@ -170,7 +170,7 @@ How to delete attributes and replace attributes in the schema.
 
 ## Configure subscriptions and activate the attribute source 
 
-Configuring a subscription sets up the data flow between Experience Cloud and applications. Activating the attribute source allows the data to flow to subscribed applications. The customer records you have uploaded are matched up with incoming ID signals from your web site or application.
+Configuring a subscription sets up the data flow between CX Enterprise and applications. Activating the attribute source allows the data to flow to subscribed applications. The customer records you have uploaded are matched up with incoming ID signals from your web site or application.
 
 See [Configure subscriptions and activate the data source](subscription.md). 
 
@@ -182,7 +182,7 @@ The following example shows an [!DNL Analytics] segment based on the uploaded at
 
 ![Analytics segment based on the uploaded attributes](assets/08_crs_usecase.png) 
 
-When you publish a segment to Experience Cloud, it becomes available in Experience Cloud Audiences and Audience Manager. 
+When you publish a segment to CX Enterprise, it becomes available in CX Enterprise Audiences and Audience Manager. 
 
 ## Use [!DNL Customer Attributes] data in Adobe Target 
 

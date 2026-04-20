@@ -34,11 +34,11 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# [!DNL Customer Attributes] in Experience Cloud
+# [!DNL Customer Attributes] in CX Enterprise
 
 **[!UICONTROL Apps]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**
 
-[!DNL Customer Attributes] in Adobe Experience Cloud enables you to upload your captured enterprise data from a customer relationship management (CRM) database. You can [upload the data](t-crs-usecase.md) into a [!DNL Customer Attributes] data source in Experience Cloud, then use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target].  
+[!DNL Customer Attributes] in Adobe CX Enterprise enables you to upload your captured enterprise data from a customer relationship management (CRM) database. You can [upload the data](t-crs-usecase.md) into a [!DNL Customer Attributes] data source in CX Enterprise, then use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target].  
 
 ![Customer Attributes overview](assets/custom_reports.png)
 
@@ -50,13 +50,13 @@ The following image is an example of a _data file_ showing subscriber data for p
 
 ![What is enterprise customer data?](assets/01_crs_usecase.png)
 
-After you create the data file, you can upload it to the customer attribute source that you create in **[!UICONTROL Experience Cloud]** > **[!UICONTROL Customer Attributes]**.
+After you create the data file, you can upload it to the customer attribute source that you create in **[!UICONTROL CX Enterprise]** > **[!UICONTROL Customer Attributes]**.
 
 See [Upload customer attribute data](t-crs-usecase.md) to learn this workflow.
 
 ## Examples of Customer Attributes in Analytics and Target 
 
-After the data resides in Experience Cloud, you can customize it and share it to solutions for reporting, segmentation, activities, and campaigns.
+After the data resides in CX Enterprise, you can customize it and share it to solutions for reporting, segmentation, activities, and campaigns.
 
 For example:
 

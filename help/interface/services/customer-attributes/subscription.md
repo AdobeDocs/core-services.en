@@ -28,7 +28,7 @@ topic_v2:
 ---
 # Configure customer attribute subscriptions
 
-[!DNL Customer Attributes] subscriptions enable the customer attribute data flow between Experience Cloud and applications ([!DNL Analytics] and [!DNL Target]).
+[!DNL Customer Attributes] subscriptions enable the customer attribute data flow between CX Enterprise and applications ([!DNL Analytics] and [!DNL Target]).
 
 For example, an Adobe Analytics subscription enables attribute data in reports. If you use [!DNL Adobe Target], you can upload customer attributes for targeting and segmentation. 
 
@@ -36,13 +36,13 @@ For example, an Adobe Analytics subscription enables attribute data in reports. 
 
 1. Locate your data source in [!DNL Customer Attributes] for edit:
 
-    In [!DNL Experience Cloud], click **[!UICONTROL Apps]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**.
+    In [!DNL CX Enterprise], click **[!UICONTROL Apps]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**.
 
 1. On [!UICONTROL Edit Customer Attribute Source], click **[!UICONTROL File Upload]**. 
 
 1. Click **[!UICONTROL Configure Subscriptions]**. 
 
-    ![Configure subscriptions in Experience Cloud](assets/configure-subscriptions.png) 
+    ![Configure subscriptions in CX Enterprise](assets/configure-subscriptions.png) 
 
 1. To activate the customer attribute source, click **[!UICONTROL Active]**, then click **[!UICONTROL Save]**.
 

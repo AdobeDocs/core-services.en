@@ -168,7 +168,7 @@ Adobe works with DigiCert to issue an SHA-2 certificate.
 
 +++Does this program incur any additional cost?
 
-No. Adobe offers this service to all Adobe Experience Cloud customers at no additional cost.
+No. Adobe offers this service to all Adobe CX Enterprise customers at no additional cost.
 
 +++
 

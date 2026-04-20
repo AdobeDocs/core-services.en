@@ -36,7 +36,7 @@ topic_v2:
 ---
 # Documentation updates
 
-Learn where documentation updates occur for the central interface and administration of Experience Cloud.
+Learn where documentation updates occur for the central interface and administration of CX Enterprise.
 
 **March 2026**
 
@@ -44,7 +44,7 @@ Added [AI jobs and credits consumption](../features/ai-credit-consumption.md)
 
 **November 2025**
 
-Updates to [Agentic AI in Experience Cloud](../features/agentic-ai.md)
+Updates to [Agentic AI in CX Enterprise](../features/agentic-ai.md)
 
 **October 2025**
 
@@ -56,7 +56,7 @@ Added information about [resetting your Adobe ID](../features/account-preference
 
 **February 2025**
 
-Added [Manage users and products in Experience Cloud](../administration/admin-console.md). This page helps administrators locate user and product management (Admin Console) help for all applications.
+Added [Manage users and products in CX Enterprise](../administration/admin-console.md). This page helps administrators locate user and product management (Admin Console) help for all applications.
 
 **November 2024**
 
@@ -70,7 +70,7 @@ Updated [user preferences](../features/account-preferences.md).
 
 **26 April 2024**
 
-Full revamp of the documentation architecture. Also added [Adobe Experience Cloud IP addresses](../data-collection/ip-addresses.md) and [Regional data collection](../data-collection/rdc.md).
+Full revamp of the documentation architecture. Also added [Adobe CX Enterprise IP addresses](../data-collection/ip-addresses.md) and [Regional data collection](../data-collection/rdc.md).
 
 **9 April 2024**
 
@@ -92,7 +92,7 @@ Updated the [administration FAQ](faq.md) with information about how Adobe Suppor
 
 | Feature | Description |
 | ------- | ------- |
-|Home Page |Experience Cloud home footer information has been moved to the user profile card, including Legal Notices and language selection in Preferences. |
+|Home Page |CX Enterprise home footer information has been moved to the user profile card, including Legal Notices and language selection in Preferences. |
 |AEP Dashboards |[!DNL Helios Lite] provides chart recommendations within the Experience Platform widget creation workflow. Given a data selection (currently single variable data selection), helios recommends an appropriate visualization to accompany that data selection.|
 |AEP Dashboards |[!DNL Instory] provides ML-based written narration and captions for charts. It decorates charts in the AEP Dashboards page with relevant bullet points calling out major changes and incidents in the graphed data. |
 
@@ -101,7 +101,7 @@ Updated the [administration FAQ](faq.md) with information about how Adobe Suppor
 | Feature | Description |
 | ------- | ------- |
 |Unified Search |Unified Search continues to add objects types to the search index. In this update, global search now searches across Experience League content and the following Journey Optimizer object types: <ul><li>Datasets</li><li>Destinations</li><li>Queries</li><li>Schemas</li><li>Segments</li><li>Sources</li><li>Offers</li><li>Components</li><li>Messages</li><li>Journeys</li></ul> |
-|Product usage data consent  |Upon an initial login, you are asked to submit preferences for how Adobe can provide you with helpful, personalized content, such as tutorials, guides, quick tips, recommendations, learning videos and more, based on your Experience Cloud product usage data. This request also includes an update to your preferences for collection and usage of these data at <https://experience.adobe.com/preferences>.|
+|Product usage data consent  |Upon an initial login, you are asked to submit preferences for how Adobe can provide you with helpful, personalized content, such as tutorials, guides, quick tips, recommendations, learning videos and more, based on your CX Enterprise product usage data. This request also includes an update to your preferences for collection and usage of these data at <https://experience.adobe.com/preferences>.|
 
 **24 August 2021**
 
@@ -117,11 +117,11 @@ Reorganized guide's structure, table of contents.
 
 **1 June 2021**
 
-Updated [landing page](../experience-cloud.md) with new help on accessing Experience Cloud, global search, preferences, and notifications.
+Updated [landing page](../experience-cloud.md) with new help on accessing CX Enterprise, global search, preferences, and notifications.
 
 **19 August 2020**
 
-Updated [View Experience Cloud user details (Admin Tool)](../administration/admin-tool-experience-cloud.md) with Policies information.
+Updated [View CX Enterprise user details (Admin Tool)](../administration/admin-tool-experience-cloud.md) with Policies information.
 
 **19 May 2020**
 
@@ -140,7 +140,7 @@ Updated [Validate hostname forwarding](../data-collection/adobe-managed-cert.md)
 
 **20 February 2020**
 
-Added [View Experience Cloud user details (Admin Tool)](../administration/admin-tool-experience-cloud.md).
+Added [View CX Enterprise user details (Admin Tool)](../administration/admin-tool-experience-cloud.md).
 
 **Updated: 9/5/2018**
 
@@ -168,19 +168,19 @@ Updated the definition of Raw Analytics Data in [Create an audience](../services
 
 **9 May 2016**
 
-Added [Experience Cloud Integrations](../administration/integrations.md), a round-up of integration documentation.
+Added [CX Enterprise Integrations](../administration/integrations.md), a round-up of integration documentation.
 
 **11 February 2016**
 
-Added [Experience Cloud Assets](../services/assets/experience-cloud-assets.md).
+Added [CX Enterprise Assets](../services/assets/experience-cloud-assets.md).
 
 **15 January 2015**
 
-Added Experience Cloud Users can now share folders to the Creative Cloud and sync assets and comments across the two Clouds. See [Asset Sharing](../services/assets/share.md).
+Added CX Enterprise Users can now share folders to the Creative Cloud and sync assets and comments across the two Clouds. See [Asset Sharing](../services/assets/share.md).
 
 **17 July 2014**
 
-Added [Experience Cloud FAQ](faq.md) for administrators.
+Added [CX Enterprise FAQ](faq.md) for administrators.
 
 **22 May 2014**
 

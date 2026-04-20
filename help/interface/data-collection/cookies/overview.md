@@ -24,19 +24,19 @@ topic_v2:
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
 ---
-# How cookies are used in Experience Cloud
+# How cookies are used in CX Enterprise
 
-Adobe Experience Cloud uses cookies. A cookie is a small piece of data a website sends to your browser, which stores it for later use. Cookies help the website remember things when you visit again or move between pages. Cookies help track visits and tell one device apart from another.
+Adobe CX Enterprise uses cookies. A cookie is a small piece of data a website sends to your browser, which stores it for later use. Cookies help the website remember things when you visit again or move between pages. Cookies help track visits and tell one device apart from another.
 
 Laws often require you to get permission before storing or using cookies on someone's device. Adobe recommends checking with your legal team to understand the rules that apply.
 
 ## About first-party cookies
 
-Adobe Experience Cloud uses cookies to track information that doesn't last between page views or browser sessions. When possible, Adobe uses first-party cookies (tied to your own website). To track activity across multiple sites or domains you own, third-party cookies are needed.
+Adobe CX Enterprise uses cookies to track information that doesn't last between page views or browser sessions. When possible, Adobe uses first-party cookies (tied to your own website). To track activity across multiple sites or domains you own, third-party cookies are needed.
 
 Some browsers and anti-spyware tools block third-party cookies. Adobe has ways to make sure cookies still work even if cookies are blocked. How this works depends on whether you use the Experience Platform Identity Service (ECID) or older Analytics cookies (like the `s_vi` cookie):
 
-* [Experience Cloud Identity Service](https://experienceleague.adobe.com/en/docs/id-service/using/intro/overview): The ECID Service always sets first-party cookies, whether your collection domain matches your site domain. It uses JavaScript to place the cookie on your site's domain.
+* [CX Enterprise Identity Service](https://experienceleague.adobe.com/en/docs/id-service/using/intro/overview): The ECID Service always sets first-party cookies, whether your collection domain matches your site domain. It uses JavaScript to place the cookie on your site's domain.
 
 * [Analytics legacy identifiers](analytics.md) (such as the `s_vi` cookie): Whether cookies are first- or third-party depends on your setup:
 
@@ -55,7 +55,7 @@ Here's a simplified version of the text:
 
 Adobe takes privacy and data security seriously. It works with privacy organizations, regulators, and programs like AdChoices to give people control over how their data is used.
 
-Most cookies from Adobe Experience Cloud don't store personal information. They're secure and only used by your company--for reporting, content, and advertising. Adobe doesn't share this data with other customers or third parties, except in anonymous, industry-wide reports (like Digital Marketing Insight Reports).
+Most cookies from Adobe CX Enterprise don't store personal information. They're secure and only used by your company--for reporting, content, and advertising. Adobe doesn't share this data with other customers or third parties, except in anonymous, industry-wide reports (like Digital Marketing Insight Reports).
 
 Adobe doesn't combine browser data across different companies. To protect privacy, some Adobe tools let each website use its own set of cookies. Some also allow using your own domain for cookies, making them first-party and more secure.
 

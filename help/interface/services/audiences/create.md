@@ -33,7 +33,7 @@ topic_v2:
 ---
 # Create an audience
 
-In [!UICONTROL Audience Library], you can use attribute rules to create an audience and define a composite audience for sharing in Experience Cloud applications.
+In [!UICONTROL Audience Library], you can use attribute rules to create an audience and define a composite audience for sharing in CX Enterprise applications.
 
 This article helps you understand how to:
 
@@ -54,13 +54,13 @@ Each circle represents a rule that defines audience membership. Visitors that qu
 The following example shows how to create the rules for a composite audience. This audience is composed of:
 
 * Home & Garden section derived from page data, or raw analytics data.
-* Chrome and Safari users derived from an [!DNL Adobe Analytics] segment [published](overview.md) to [!DNL Experience Cloud].
+* Chrome and Safari users derived from an [!DNL Adobe Analytics] segment [published](overview.md) to [!DNL CX Enterprise].
 
   ![Create the rules for a composite audience](assets/audience_create.png) 
 
 **To create an audience**
 
-1. Click [!DNL Experience Cloud] apps (![Apps icon](assets/apps-icon.png)), then click **[!UICONTROL People]** > **[!UICONTROL Audience Library].**
+1. Click [!DNL CX Enterprise] apps (![Apps icon](assets/apps-icon.png)), then click **[!UICONTROL People]** > **[!UICONTROL Audience Library].**
 
 1. On the [!UICONTROL Audiences] page, click **[!UICONTROL New]**. ![New audience](assets/add_icon_small.png)
 
@@ -73,9 +73,9 @@ The following example shows how to create the rules for a composite audience. Th
    
       >[!NOTE]
       >
-      >Due to caching, deleted report suites in Analytics require 12 hours before the deletion is shown in Experience Cloud.
+      >Due to caching, deleted report suites in Analytics require 12 hours before the deletion is shown in CX Enterprise.
 
-   * **[!UICONTROL Experience Cloud:]** attribute data derived from [!DNL Experience Cloud] sources. For example, this can be data from audience segments you create in [!DNL Analytics], or data from [!DNL Audience Manager].
+   * **[!UICONTROL CX Enterprise:]** attribute data derived from [!DNL CX Enterprise] sources. For example, this can be data from audience segments you create in [!DNL Analytics], or data from [!DNL Audience Manager].
 
 1. Define audience rules, then click **[!UICONTROL Save].**
 
@@ -95,7 +95,7 @@ Under [!UICONTROL Rules], define the *`Home & Garden`* attribute selections:
 
 The *Chrome & Safari Visitors* is an audience segment shared from Analytics:
 
-* **[!UICONTROL Attribute Source:]** Experience Cloud
+* **[!UICONTROL Attribute Source:]** CX Enterprise
 * **[!UICONTROL Dimension:]** Chrome & Safari Visitors
 
 ![Chrome & Safari Visitors](assets/chrome_safari.png)
@@ -106,11 +106,11 @@ For comparison, you might add an *OR* rule to see all visitors to a site section
 
 The resulting rule is a defined audience comprising Chrome & Safari users who visited Home & Garden. The Patio & Furniture segment provides additional insight into all visitors visiting that site section.
 
-![Defined audience in Experience Cloud](assets/defined_audience.png)
+![Defined audience in CX Enterprise](assets/defined_audience.png)
 
 * **Historical Estimate:** (Dotted circle) Represents rules created based on [!DNL Analytics] data.
 * **Actual Audience:** (Solid circle) Any rule created that has 30 days of data from Audience Manager. When the Audience Manager data reaches 30 days, the line becomes solid and represents actual numbers.
 
 After the data collection completes for the specified period, the circles combine to show a defined audience.
 
-After the audience is saved, it is available for other Experience Cloud applications. For example, you can include a shared audience in an Adobe Target [activity](https://experienceleague.adobe.com/en/docs/target/using/activities/activities).
+After the audience is saved, it is available for other CX Enterprise applications. For example, you can include a shared audience in an Adobe Target [activity](https://experienceleague.adobe.com/en/docs/target/using/activities/activities).

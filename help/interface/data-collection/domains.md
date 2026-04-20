@@ -19,11 +19,11 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Domains used by Experience Cloud
+# Domains used by CX Enterprise
 
-Experience Cloud uses the following hosts to deliver the application, improve performance, and improve the product experience. Adobe recommends allowing these domains through your organization's network or firewall for an optimal experience.
+CX Enterprise uses the following hosts to deliver the application, improve performance, and improve the product experience. Adobe recommends allowing these domains through your organization's network or firewall for an optimal experience.
 
-In addition to the domains listed below, individual Adobe Experience Cloud products have their own domains that they use:
+In addition to the domains listed below, individual Adobe CX Enterprise products have their own domains that they use:
 
 * [Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/technotes/domains)
 * [Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/domains)

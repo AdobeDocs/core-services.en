@@ -26,7 +26,7 @@ topic_v2:
 ---
 # Personalized learning preferences
 
-Adobe provides you with helpful content that is tailored to you based on your work in your Adobe products. Product usage data informs how we tailor this context to you. You can opt in or opt out of sharing your product usage data on the [Experience Cloud preferences](https://experience.adobe.com/preferences) page.  
+Adobe provides you with helpful content that is tailored to you based on your work in your Adobe products. Product usage data informs how we tailor this context to you. You can opt in or opt out of sharing your product usage data on the [CX Enterprise preferences](https://experience.adobe.com/preferences) page.  
 
 <!--
 ## Personalized training and support recommendations for your Adobe products and services
