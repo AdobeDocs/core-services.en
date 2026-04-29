@@ -1,9 +1,9 @@
 ---
 role: User,Admin
-user-guide-title: Experience Cloud interface and administration
-breadcrumb-title: Experience Cloud interface and administration
-title: Experience Cloud Interface and Administration
-description: Learn about CX Enterprise interface, cookies, and account preferences. Manage products and configure the People service, including Customer Attributes and Audience Library. Share CX Enterprise Assets.
+user-guide-title: CX Enterprise central interface and administration guide
+breadcrumb-title: CX Enterprise interface and administration
+title: CX Enterprise Interface and Administration Guide
+description: Learn about CX Enterprise interface and administration. Browse topics on AI, administration, shared services, data collection, cookies, release notes, and FAQs.
 index: true
 ---
 # CX Enterprise interface and administration {#interface}
