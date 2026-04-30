@@ -52,7 +52,7 @@ For release notes covering all applications, see [CX Enterprise Release Notes](h
 
 | Date | Update | Description |
 | ------- | ------- | ------- |
-| April 20, 2026 | Refreshed home page | A refreshed look and feel of the home page at `https://experience.adobe.com/home`. With this release, all functionality remains the same, with refreshed UI, support for full _dark mode_ and improved accessibility. |
+| April 20, 2026 | Adobe CX Enterprise interface refresh | A refreshed look and feel of the home page at `https://experience.adobe.com/home`. With this rebranded release, all functionality remains the same, with refreshed UI, support for full _dark mode_ and improved accessibility. |
 
 ## January 2026
 
