@@ -1,5 +1,5 @@
 ---
-title: Experience Cloud UI Components and Services
+title: CX Enterprise Central UI and Administration
 description: Learn about UI components, user and product administration in the Adobe Admin Console, Audience Library, Customer Attributes, CX Enterprise Assets, and more.
 cloud: Experience Cloud
 product: experience cloud
