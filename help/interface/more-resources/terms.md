@@ -8,7 +8,6 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 3799f806-2794-43ab-9e70-06ee693871e7
-TQID: https://experienceleague.adobe.com/6wm7HcuAbaV1iV3AgN55dY5WR---BnMM7lJgN0HZDsk
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: Experience Cloud
@@ -34,6 +33,10 @@ topic_v2:
     internal-label: Privacy
 ---
 # Terminology
+
+<!--
+TQID: https://experienceleague.adobe.com/6wm7HcuAbaV1iV3AgN55dY5WR---BnMM7lJgN0HZDsk
+-->
 
 A terminology reference for CX Enterprise users, and how those terms are used in Creative Cloud (where applicable).
 
