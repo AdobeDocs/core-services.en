@@ -61,11 +61,11 @@ If you currently manage your own certificates, you are responsible for purchasin
 Follow these steps to implement a new certificate for first-party data collection:
 
 1. Download and fill out the [First-party domain request form](cookies/assets/First_Party_Domain_Request_Form.xlsx)
-1. Open a ticket with Adobe Customer Care requesting to set up first-party data collection on the Adobe-managed certificate program. 
-1. Upon receiving the ticket, the Adobe representative provides you with a CNAME record. These records must be configured on your company's DNS server before Adobe can purchase the certificate on your behalf. For example, the hostname `data.example.com` points to `hiodsibxvip01.data.adobedc.net`.
+1. Open a ticket with Adobe Customer Care requesting to set up first-party data collection on the Adobe-managed certificate program. If your organization has data residency or compliance requirements, specify your desired [RDC type](rdc.md) in your request.
+1. Upon receiving the ticket, the Adobe representative provides you with a CNAME record. This record must be configured on your company's DNS server before Adobe can purchase the certificate on your behalf. For example, the hostname `data.example.com` points to `hiodsibxvip01.data.adobedc.net`.
 1. When the CNAME record is in place on your organization's servers, Adobe works with DigiCert to purchase and install a certificate on Adobe data collection servers.
 
-## Validate hostname forwarding 
+## Validate hostname forwarding
 
 Once Adobe has installed the certificate, you can use one of the following methods to validate that it is working.
 
@@ -116,19 +116,19 @@ Addresses: 63.140.37.126
     63.140.37.206
     63.140.36.51
     63.140.36.145
-Aliases: smetrics.example.com
+Aliases: data.example.com
 ```
 
 +++
 
-## Update implementation code 
+## Update implementation code
 
-Once you have validated that your certificate works correctly, you can update your Adobe implementation to use these values.
+Once you have validated that your certificate works correctly, you can update your Adobe implementation to use your new CNAME hostname.
 
-* **Web SDK tag extension**: Update the [[!UICONTROL Edge domain]](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/web-sdk-extension-configuration) field when configuring the extension.
-* **Web SDK (alloy)**: Update the [`edgeDomain`](https://experienceleague.adobe.com/en/docs/experience-platform/web-sdk/commands/configure/edgedomain) property within the [`configure`](https://experienceleague.adobe.com/en/docs/experience-platform/web-sdk/commands/configure/overview) command.
+* **Web SDK tag extension**: Update the [[!UICONTROL Edge domain]](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/configure/general) field when configuring the extension.
+* **Web SDK (alloy)**: Update the [`edgeDomain`](https://experienceleague.adobe.com/en/docs/experience-platform/collection/js/commands/configure/edgedomain) property within the `configure` command.
 * **Adobe Analytics extension**: Update the [[!UICONTROL SSL Tracking Server]](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/analytics/overview) field when configuring the extension. Make sure that you also have the [Visitor ID Service tag extension](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/id-service/overview) installed. See [Visitor identification using the Analytics tag extension](https://experienceleague.adobe.com/en/docs/analytics/implementation/id/analytics-extension) for more information.
-* **AppMeasurement**: Update the [`trackingServerSecure`](https://experienceleague.adobe.com/en/docs/analytics/implementation/vars/config-vars/trackingserversecure) configuration variable. Make sure that you also have the [Visitor ID Service](https://experienceleague.adobe.com/en/docs/id-service/using/home) implemented using `VisitorAPI.js`. See [Visitor identification using AppMeasurement](https://experienceleague.adobe.com/en/docs/analytics/implementation/id/analytics-extension) for more information.
+* **AppMeasurement**: Update the [`trackingServerSecure`](https://experienceleague.adobe.com/en/docs/analytics/implementation/vars/config-vars/trackingserversecure) configuration variable. Make sure that you also have the [Visitor ID Service](https://experienceleague.adobe.com/en/docs/id-service/using/home) implemented using `VisitorAPI.js`. See [Visitor identification using AppMeasurement](https://experienceleague.adobe.com/en/docs/analytics/implementation/id/appmeasurement) for more information.
 
 If your site uses multiple implementation methods and you cannot update all of them simultaneously, consider configuring a grace period. See [Visitor ID Service migration considerations](https://experienceleague.adobe.com/en/docs/analytics/implementation/id/migration) for additional steps on how to prevent visitors from being counted as new visitors across your site.
 
@@ -175,9 +175,9 @@ No. Adobe offers this service to all Adobe CX Enterprise customers at no additio
 +++What cipher security levels does Adobe offer?
 
 Adobe offers two cipher security levels to meet varying customer needs for security on first-party data collection. These levels determine which encryption algorithms are supported for HTTPS connections with Adobe servers. Adobe regularly reviews and updates the set of supported algorithms based on current security practices. If you would like to change your cipher security settings, contact Customer Care.
- 
+
 * **Standard** requires TLS 1.2 or newer and at least 128-bit encryption. It is designed to provide the widest device compatibility while maintaining secure encryption.
-* **High** cipher security level requires TLS 1.2 or newer and removes support for weaker ciphers. It is designed for customers who desire the strongest encryption and are not concerned about support for older devices.
+* **High** requires TLS 1.2 or newer and removes support for weaker ciphers. It is designed for customers who desire the strongest encryption and are not concerned about support for older devices.
 
 The following clients are known to be unable to connect with cipher security set to **High**:
 
@@ -202,6 +202,6 @@ Adobe supports both RSA and ECC certificate types to meet varying customer needs
 
 +++Can I manage my own certificates instead?
 
-Yes. However, if you manage your own certificates, you are responsible for renewing your certificates and providing them to Adobe each time you renew them. This process is less secure and can cause data loss if your organization forgets to renew a certificate in time. Adobe recommends using the managed certificate program instead of managing certificates yourself, especially due to reductions in TLS certificate maximum lifetime. See [6.3.1 Public key archival](https://cabforum.org/working-groups/server/baseline-requirements/requirements/#632-certificate-operational-periods-and-key-pair-usage-periods) in the CA/Browser Forum Server Certificate Baseline Requirements for more information.
+Yes. However, if you manage your own certificates, you are responsible for renewing your certificates and providing them to Adobe each time you renew them. This process is less secure and can cause gaps in data collection if your organization forgets to renew a certificate in time. Adobe recommends using the managed certificate program instead of managing certificates yourself, especially due to reductions in TLS certificate maximum lifetime. See [6.3.2 Certificate operational periods and key pair usage periods](https://cabforum.org/working-groups/server/baseline-requirements/requirements/#632-certificate-operational-periods-and-key-pair-usage-periods) in the CA/Browser Forum Server Certificate Baseline Requirements for more information.
 +++
 
