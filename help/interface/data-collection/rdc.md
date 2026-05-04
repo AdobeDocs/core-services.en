@@ -32,7 +32,7 @@ The regional data collection workflow provides several benefits:
 
 ## First-party data collection
 
-First-party data collection uses a CNAME implementation to route data to Adobe through your own domain. Your RDC type is selected as part of the [Adobe-Managed Certificate Program](adobe-managed-cert.md) setup process. The following RDC types and associated data centers are available:
+First-party data collection uses a CNAME implementation to route data to Adobe through your own domain. Your RDC type is selected as part of the [Adobe-Managed Certificate Program](adobe-managed-cert.md) setup process. To check or update your RDC type, contact your Adobe Account Team. The following RDC types and associated data centers are available:
 
 | RDC Type | Data Collection Centers |
 | --- | --- |
@@ -54,4 +54,4 @@ Third-party data collection uses cookie domains that don't match your website do
 | Default | Oregon, Virginia, Ireland, Paris, Mumbai, Singapore, Tokyo, Sydney |
 | Default + China* | Beijing*, Oregon, Virginia, Ireland, Paris, Mumbai, Singapore, Tokyo, Sydney |
 
-_*China RDC requires the China Performance Optimization add-on package, and only applies to Adobe Analytics using AppMeasurement data collection. Other CX Enterprise services and Web SDK data collection are not supported. Contact your Adobe Account Team to learn more about the China Performance Optimization add-on package._
+_*Requires the China Performance Optimization add-on package. See the first-party data collection section above for details._
