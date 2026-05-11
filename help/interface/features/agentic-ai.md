@@ -9,10 +9,19 @@ feature: Agentic AI, AI Tools
 role: Admin, User
 level: Intermediate
 exl-id: c1a8f9a7-4752-4040-b5f0-dc775417f536
+autotag-review: '2026-05-11T19:53:10.691Z'
 TQID: 'https://experienceleague.adobe.com/ixprWE5CesSO0Mf0qeMLOPIovTdWaVn-wX84PrOlv8M'
 product_v2:
   - id: e1971122-7081-4556-9222-8a31bd71800c
     internal-label: Experience Cloud Services
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
+feature_v2:
+  - id: f84b2906-3ce9-4ef0-86f6-cda249273937
+    internal-label: AI Tools
+subfeature_v2:
+  - id: cda95149-19e1-4cfa-a57e-751283a32378
+    internal-label: Agentic AI
 topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
     internal-label: Artificial intelligence
