@@ -2,24 +2,16 @@
 title: IP Addresses Used by Experience Cloud
 description: If your organization's firewall blocks IP addresses that originate from Adobe, use this list to update your firewall settings.
 exl-id: 1fca8d3b-ae8b-4095-96ef-d165f912b4c6
-TQID: 'https://experienceleague.adobe.com/mLKbBo-fy-T6uGfx9kmGdosB0Syk-5poT87s3ps-B00'
+TQID: https://experienceleague.adobe.com/EPoerIJdL9FVBFB32WRB9zBMdXJarSu90hJIsn7Vpps
 product_v2:
   - id: e1971122-7081-4556-9222-8a31bd71800c
     internal-label: Experience Cloud Services
 role_v2:
-  - id:
-      id: b69b2659-1057-424e-8fc5-ed9e016dc554
-      internal-label: User
-    internal-label: ''
-  - id:
-      id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-      internal-label: Admin
-    internal-label: ''
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-    internal-label: Customer experience
-  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
-    internal-label: Customer journeys
   - id: d3cdead0-685a-4489-9250-4bb709942f66
     internal-label: Data collection
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7

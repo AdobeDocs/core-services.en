@@ -1,15 +1,6 @@
 ---
 title: Instructions
 description: Instructions readme file
-TQID: 'https://experienceleague.adobe.com/z4MJRrCMhJAxqPEaXTxwdamuNb1WPgbJyhHV-A5SHx4'
-product_v2:
-  - id: e1971122-7081-4556-9222-8a31bd71800c
-    internal-label: Experience Cloud Services
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-    internal-label: Implementation
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-    internal-label: Troubleshooting
 ---
 
 # Instructions

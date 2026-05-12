@@ -8,7 +8,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: c4399cc0-8333-47b8-b830-2ba7359f464a
-TQID: 'https://experienceleague.adobe.com/UgyFDDtrYEMsXUim90ygjkiR51e87hRLMDsP8F4O2-I'
+TQID: https://experienceleague.adobe.com/nLAm--3HmxWHqWupFrmLTo9TbdAHajPR44VwWAVM9pE
 product_v2:
   - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
     internal-label: Target
@@ -16,15 +16,11 @@ feature_v2:
   - id: c93393a4-e558-47e1-992e-c91ed4d480ce
     internal-label: Implementation
 subfeature_v2:
-  - id:
-      id: fd0ff162-b6d3-4a11-8aeb-e165a01c0f0a
-      internal-label: at.js
-    internal-label: ''
+  - id: fd0ff162-b6d3-4a11-8aeb-e165a01c0f0a
+    internal-label: at.js
 role_v2:
-  - id:
-      id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-      internal-label: Admin
-    internal-label: ''
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
