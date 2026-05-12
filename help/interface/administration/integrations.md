@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 7f8fa610-32f0-4b18-8054-3ba05436a10e
-TQID: 'https://experienceleague.adobe.com/4qWF7PRCko1oQ7EjrXiLu77hxdVZN0yl6p5xchV-0p0'
+TQID: https://experienceleague.adobe.com/6Sh6sOZ--ct2sz5sMR-qRwZmvoC51zQkV9LqVRXmi-o
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-    internal-label: CX Enterprise
+    internal-label: Experience Cloud
 feature_v2:
   - id: dab36b01-8bfa-48f3-8392-626455a058e6
     internal-label: Experience Cloud services
@@ -20,34 +20,22 @@ feature_v2:
   - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
     internal-label: Administration
 subfeature_v2:
-  - id:
-      id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
-      internal-label: Support
-    internal-label: ''
-  - id:
-      id: d27b1945-f442-4607-91bd-537a0b16e687
-      internal-label: Assets
-    internal-label: ''
-  - id:
-      id: ecb4a972-6786-444c-a014-abc528b9407a
-      internal-label: Customer attributes (AEC)
-    internal-label: ''
-  - id:
-      id: fef08361-6ac5-460c-93fe-d063e40b6a49
-      internal-label: Getting started
-    internal-label: ''
+  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+    internal-label: Support
+  - id: d27b1945-f442-4607-91bd-537a0b16e687
+    internal-label: Assets
+  - id: ecb4a972-6786-444c-a014-abc528b9407a
+    internal-label: Customer attributes (AEC)
+  - id: fef08361-6ac5-460c-93fe-d063e40b6a49
+    internal-label: Getting started
 role_v2:
-  - id:
-      id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-      internal-label: Admin
-    internal-label: ''
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-    internal-label: Customer experience
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
   - id: d3cdead0-685a-4489-9250-4bb709942f66

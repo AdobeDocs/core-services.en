@@ -9,72 +9,36 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-TQID: 'https://experienceleague.adobe.com/hD3veVTVeomVlSIYdB1qjfKu589UbJVhfKAQudL5iUI'
+TQID: https://experienceleague.adobe.com/LHiM5ewnknE-NdZ5oEJ4ZhBDL4x-jChzSQBIZOK15Hw
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-    internal-label: CX Enterprise
+    internal-label: Experience Cloud
 feature_v2:
   - id: dab36b01-8bfa-48f3-8392-626455a058e6
     internal-label: Experience Cloud services
   - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
     internal-label: Administration
 subfeature_v2:
-  - id:
-      id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
-      internal-label: Support
-    internal-label: ''
-  - id:
-      id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
-      internal-label: Organizations (AEC)
-    internal-label: ''
-  - id:
-      id: d27b1945-f442-4607-91bd-537a0b16e687
-      internal-label: Assets
-    internal-label: ''
-  - id:
-      id: e53834d3-a86e-47ae-8257-15f5f3639855
-      internal-label: Release notes
-    internal-label: ''
-  - id:
-      id: ecb4a972-6786-444c-a014-abc528b9407a
-      internal-label: Customer attributes (AEC)
-    internal-label: ''
-  - id:
-      id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
-      internal-label: User management
-    internal-label: ''
-  - id:
-      id: fef08361-6ac5-460c-93fe-d063e40b6a49
-      internal-label: Getting started
-    internal-label: ''
+  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+    internal-label: Support
+  - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
+    internal-label: Organizations (AEC)
+  - id: d27b1945-f442-4607-91bd-537a0b16e687
+    internal-label: Assets
+  - id: e53834d3-a86e-47ae-8257-15f5f3639855
+    internal-label: Release notes
+  - id: ecb4a972-6786-444c-a014-abc528b9407a
+    internal-label: Customer attributes (AEC)
+  - id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
+    internal-label: User management
+  - id: fef08361-6ac5-460c-93fe-d063e40b6a49
+    internal-label: Getting started
 role_v2:
-  - id:
-      id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-      internal-label: Admin
-    internal-label: ''
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-    internal-label: Metadata
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-    internal-label: Reporting
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-    internal-label: Implementation
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-    internal-label: Customer experience
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-    internal-label: Accessibility
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-    internal-label: Optimization
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-    internal-label: Security
-  - id: d3cdead0-685a-4489-9250-4bb709942f66
-    internal-label: Data collection
-  - id: da3860b0-d637-47df-bef0-273751180266
-    internal-label: Digital asset management
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-    internal-label: Privacy
 ---
 # Cumulative release notes
 

@@ -6,13 +6,6 @@ topic: Artificial Intelligence
 feature: Agentic AI, AI Tools
 role: Admin, User
 level: Intermediate
-TQID: 'https://experienceleague.adobe.com/wwRRNAHwrvv0PKnho1dsPjFE9OuuzQONpsSiEPRaM4A'
-product_v2:
-  - id: e1971122-7081-4556-9222-8a31bd71800c
-    internal-label: Experience Cloud Services
-topic_v2:
-  - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
-    internal-label: Artificial intelligence
 ---
 # AI Monitoring
 
