@@ -8,16 +8,31 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: c82821c4-aa5d-48ae-8bef-5937fede8db2
-TQID: https://experienceleague.adobe.com/ojHy0Am9T1T7Zu5EpR3jLynQ-dotvhcn6usRynb5TXo
+autotag-review: '2026-05-12T21:16:07.250Z'
+TQID: 'https://experienceleague.adobe.com/tONTr5mo5qLUxNS-q-uHGMCc5jKkURApIR-2RW0aV3w'
 product_v2:
   - id: e1971122-7081-4556-9222-8a31bd71800c
     internal-label: Experience Cloud Services
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+subfeature_v2:
+  - id: eb7e29b9-c5e9-4ed0-8e4b-6465dabb3cb1
+    internal-label: Admin tools
+  - id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
+    internal-label: User management
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
 topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+    internal-label: Customer journeys
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
   - id: d3cdead0-685a-4489-9250-4bb709942f66

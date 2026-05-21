@@ -94,7 +94,4 @@ Click the bell icon to view notifications and announcements. Announcements can b
 
 To manage notifications and alerts, see [Account preferences and notifications](features/account-preferences.md)
 
-## Terms
-
-Adobe uses similar names across marketing apps, Creative Cloud, Experience League, and support sites. For a short comparison of how those terms apply in CX Enterprise versus elsewhere, see [Terminology](more-resources/terms.md).
 

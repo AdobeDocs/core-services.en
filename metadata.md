@@ -4,9 +4,6 @@ description: Learn about UI components, user and product administration in the A
 cloud: Experience Cloud
 product: experience cloud
 solution: Experience Cloud Services
-product_v2:
-  - id: e1971122-7081-4556-9222-8a31bd71800c
-    label: "Experience Cloud Services"
 feature-set: Experience Cloud Services,Experience Cloud
 solution-title: Experience Platform
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
@@ -16,6 +13,11 @@ getting-started-url: https://helpx.adobe.com/experience-cloud-core-services/get-
 tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/content/help/en/core-services-learn/tutorials/overview.html
 git-repo: https://github.com/AdobeDocs/core-services.en
+product_v2:
+  - id: e1971122-7081-4556-9222-8a31bd71800c
+    internal-label: Experience Cloud Services
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 ---
 
 # Metadata for internal use
