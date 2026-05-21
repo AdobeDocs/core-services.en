@@ -45,7 +45,7 @@ April and May updates for the CX Enterprise central interface guide:
 * Rebranded documentation from Experience Cloud to **CX Enterprise** across the guide, including descriptions, link text, and autotag metadata.
 * Added [April 2026 release notes](release-notes.md) for the refreshed home page at `https://experience.adobe.com/home` (UI refresh, dark mode, and accessibility improvements).
 * Updated [Agentic AI in CX Enterprise](../features/agentic-ai.md): Adobe Marketing Agent for Microsoft 365 Copilot, revised agent capabilities, and a **Health Data / HIPAA-ready** column in the existing-apps agent table.
-* Published [Monitoring](../features/monitoring.md) with expanded coverage of Usage, Conversation Replay, Credits, User Feedback, and Active Users dashboards.
+<!-- * Published [Monitoring](../features/monitoring.md) with expanded coverage of Usage, Conversation Replay, Credits, User Feedback, and Active Users dashboards. -->
 * Minor updates to [Regional data collection](../data-collection/rdc.md), [Validate hostname forwarding](../data-collection/adobe-managed-cert.md), and [Terminology](terms.md).
 
 ## March 2026
