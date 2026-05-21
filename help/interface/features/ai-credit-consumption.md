@@ -6,10 +6,9 @@ topic: Artificial Intelligence
 feature: Agentic AI, AI Tools
 role: Admin, User
 level: Intermediate
+last-update: '2026-05-21T00:00:00.000Z'
 ---
 # Adobe Experience Platform agent jobs and AI credits consumption  
-
-Updated: **March 5, 2026**
 
 Learn about agentic AI jobs and AI credit consumption in CX Enterprise applications. For information about enabling agentic AI capabilities in existing CX Enterprise applications, see [Agentic AI in CX Enterprise](agentic-ai.md#existing-apps).
 
@@ -36,13 +35,11 @@ AI credit usage may vary depending on the complexity and value of the job execut
 | Agent | Job | Supported applications | Estimated AI credits | Sample prompts |
 | ------ | ----- | ------------------------ | ----------------------- | ----------------- |
 | Audience Agent | Audience / account ideation | <ul><li>Real-Time CDP (B2B, B2C, and B2P Editions)</li><li>Adobe Journey Optimizer (B2C Edition)</li></ul> | 50 | <ul><li><em>Show me fields for affluent buyers</em></li><li><em>Find all fields related to customer preferences</em></li></ul> |
-| Audience Agent | Knowledge-based audience / account creation | <ul><li>Real-Time CDP (B2B, B2C, and B2P Editions)</li><li>Adobe Journey Optimizer (B2C Edition)</li></ul> | 150 | <ul><li><em>Create an audience made up of people who live in California</em></li><li><em>Generate an audience of VIP members who spent over $1000 this quarter</em></li><li><em>Build an audience of users who bought clothing items but haven't made a purchase in the last 60 days</em></li></ul> |
 | Audience Agent | Audience / account management | <ul><li>Real-Time CDP (B2B, B2C, and B2P Editions)</li><li>Adobe Journey Optimizer (B2C Edition)</li></ul> | 25 | <ul><li><em>Do I have any duplicate audiences?</em></li><li><em>Show me my 5 largest audiences.</em></li><li><em>Show me audiences that are not activated to any destination</em></li><li><em>List all audiences used in live journeys</em></li></ul> |
 | Audience Agent | Audience / account analysis | <ul><li>Real-Time CDP (B2B, B2C, and B2P Editions)</li><li>Adobe Journey Optimizer (B2C Edition)</li></ul> | 25 | <ul><li><em>Which audiences have increased in size by more than 20% in the last week?</em></li><li><em>How much has audience "Loyal Platinum" changed compared to the value 30 days ago?</em></li><li><em>What is my fastest growing audience?</em></li></ul> |
 | Audience Agent | Buying group ideation | <ul><li>Adobe Journey Optimizer (B2B Edition)</li></ul> | 25 | <ul><li><em>Which accounts are showing intent for these products?</em></li><li><em>Show me the top persons by product intent for XYZ.</em></li><li><em>Which buying groups have more than 5 members?</em></li></ul> |
 | Data Insights Agent | Data analysis and visualization | <ul><li>Customer Journey Analytics (B2C and B2B Editions)</li></ul> | 25 | <ul><li><em>Trend orders in July</em></li><li><em>Show revenue by region.</em></li><li><em>Show orders by gender, from March to June.</em></li><li><em>What were my top 10 SKUs by profit in June</em></li><li><em>Proportion of purchases by month of year</em></li><li><em>Share of revenue by product category</em></li></ul> |
 | Journey Agent | Journey ideation | <ul><li>Adobe Journey Optimizer (B2B Edition)</li></ul> | 25 | <ul><li><em>Create a journey for whitespace accounts with intent for my solution, focusing on people engaged with content on the website</em></li></ul> |
-| Journey Agent | Journey creation | <ul><li>Adobe Journey Optimizer (B2B and B2C Editions)</li></ul> | 30 | <ul><li><em>Generate a journey to send a reminder to users who have not completed their first purchase in the last 7 days</em></li><li><em>When users complete their first purchase, send an SMS confirmation and follow-up benefits explanation via email after 3 days</em></li></ul> |
 | Journey Agent | Journey analysis | <ul><li>Adobe Journey Optimizer (B2B and B2C Editions)</li></ul> | 50 | <ul><li><em>I want to analyze the fallout by node for journey Fourth of July Campaign.</em></li><li><em>Are there any scheduling conflicts for journey X</em></li><li><em>Show me audience overlap conflicts for journey X</em></li></ul> |
 | Journey Agent | Journey management | <ul><li>Adobe Journey Optimizer (B2B and B2C Editions)</li></ul> | 25 | <ul><li><em>How many live journeys do I have?</em></li><li><em>List all journeys using the audience X.</em></li><li><em>List all journeys currently in test mode</em></li></ul> |
 | Product Support Agent | Knowledge-based troubleshooting | <ul><li>Real-Time CDP (B2B, B2C, and B2P Editions)</li><li>Adobe Journey Optimizer (B2C and B2B Editions)</li><li>Customer Journey Analytics (B2C and B2B Editions)</li></ul> | 0 | <ul><li><em>Why does my profile count differ on the License Usage Dashboard and the Experience Platform home page?</em></li><li><em>What are the reasons for a journey not triggering?</em></li><li><em>How does Adobe Experience Platform create real-time experiences?</em></li><li><em>How do you configure and use alerts in Adobe Experience Platform?</em></li><li><em>What is the average profile richness limit in Adobe Experience Platform Activation?</em></li></ul> |
