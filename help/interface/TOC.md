@@ -12,7 +12,7 @@ index: true
 + AI in CX Enterprise {#features}
   + [Generative AI](/help/interface/features/generative-ai.md)
   + [Agentic AI](features/agentic-ai.md)
-  + {hide-from-toc} [AI Monitoring](/help/interface/features/ai-monitoring.md)
+  + {hide-from-toc} [Monitoring](/help/interface/features/monitoring.md)
   + [Agent jobs and AI credit consumption](/help/interface/features/ai-credit-consumption.md)
 + Administration {#administration}
   + [Account preferences and notifications](/help/interface/features/account-preferences.md)
