@@ -48,6 +48,12 @@ For a list of documentation updates, see [Documentation updates](doc-updates.md)
 
 For release notes covering all applications, see [CX Enterprise Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html).
 
+## June 2026
+
+| Date | Update | Description |
+| ------- | ------- | ------- |
+| June 1, 2026 | Agentic AI usage monitoring | CX Enterprise now provides dashboards to monitor agentic AI usage in existing applications. Track adoption, review conversations and feedback, and manage AI credit consumption for Experience Platform Agents accessed through AI Assistant and other conversational surfaces. Overview, Users, Feedback, and AI Credits views help governance stakeholders guide adoption with data. See [Agentic AI usage monitoring](../features/monitoring.md) for dashboard access and permissions. |
+
 ## April 2026
 
 | Date | Update | Description |
