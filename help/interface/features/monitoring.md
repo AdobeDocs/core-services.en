@@ -1,6 +1,6 @@
 ---
 title: Agentic AI Usage Monitoring
-description: Learn about AI usage monitoring in CX Enterprise. Track adoption, review conversations and feedback, and manage AI credits for usage, quality, and cost visibility.
+description: Learn about dashboards for AI usage monitoring in CX Enterprise. Track adoption, review conversations and feedback, and manage AI credits for usage, quality, and cost visibility.
 solution: Experience Cloud, Experience Platform
 topic: Artificial Intelligence
 feature: Agentic AI, AI Tools
