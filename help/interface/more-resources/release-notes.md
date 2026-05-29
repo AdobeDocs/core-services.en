@@ -42,7 +42,7 @@ topic_v2:
 ---
 # Cumulative release notes
 
-Features, release notes, and known issues for the CX Enterprise Central Interface Components.
+Features, release notes, and known issues for the CX Enterprise Central Interface Components. 
 
 For a list of documentation updates, see [Documentation updates](doc-updates.md). 
 
