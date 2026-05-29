@@ -23,7 +23,7 @@ topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
     internal-label: Artificial intelligence
 ---
-# Agentic AI usage monitoring dashboard
+# Agentic AI monitoring
 
 CX Enterprise provides two dashboards to monitor agentic AI usage in existing CX Enterprise applications. These dashboards help you understand adoption, engagement, feedback quality, and AI credit consumption for [!DNL Experience Platform Agents] that users access through [!DNL AI Assistant] and other conversational surfaces. 
 
