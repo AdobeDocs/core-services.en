@@ -40,7 +40,7 @@ Learn where documentation updates occur for the central interface and administra
 
 ## June 2026
 
-* Published [Agentic AI usage monitoring](../features/monitoring.md) with coverage of the License Usage and Agentic AI monitoring dashboards, including Overview, Users, Feedback, and AI Credits views, conversation replay, and permissions for governance users.
+* Published [Agentic AI monitoring](../features/monitoring.md) with coverage of the License Usage and Agentic AI monitoring dashboards, including Overview, Users, Feedback, and AI Credits views, conversation replay, and permissions for governance users.
 * Added [June 2026 release notes](release-notes.md) for agentic AI usage monitoring.
 
 ## May 2026
