@@ -23,21 +23,9 @@ topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
     internal-label: Artificial intelligence
 ---
-# Agentic AI monitoring
+# Agentic AI Monitoring dashboards
 
-CX Enterprise provides two dashboards to monitor agentic AI usage in existing CX Enterprise applications. These dashboards help you understand adoption, engagement, feedback quality, and AI credit consumption for [!DNL Experience Platform Agents] that users access through [!DNL AI Assistant] and other conversational surfaces.
-
-The agents in scope for usage monitoring are listed in [AI agents in existing CX Enterprise apps](agentic-ai.md#existing-apps-table) in the [Agentic AI in Adobe CX Enterprise](agentic-ai.md) documentation.
-
-## License usage dashboard
-
-The [!DNL Adobe Experience Platform] License Usage dashboard shows your organization's licensed AI Credits entitlement and the total AI credits consumed when users run [!DNL Experience Platform Agents].
-
-Administrators use this dashboard to track license consumption against entitlement. To access the dashboard, see [License usage dashboard](https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage) in [!DNL Experience Platform] documentation.
-
-## Agentic AI monitoring dashboard
-
-The Agentic AI monitoring dashboard gives Center of Excellence (COE) members and other governance stakeholders visibility into agentic AI usage and adoption. You can view trends over 7-day or 30-day periods to see who uses [!DNL AI Assistant] or other conversational surfaces (such as [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms)) to interact with [!DNL Experience Platform Agents], what they do in those interactions, and the value they receive.
+The Agentic AI monitoring dashboard gives Center of Excellence (COE) members and other governance stakeholders visibility into agentic AI usage and adoption. You can view trends over 7-day or 30-day periods to see who uses [!DNL AI Assistant] or other conversational surfaces (such as [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms)) to interact with [!DNL Experience Platform Agents], what they do in those interactions, and the value they receive. Together, these views help you guide agent adoption with data instead of assumptions.
 
 The Agentic AI monitoring dashboard includes the following views:
 
@@ -48,72 +36,13 @@ The Agentic AI monitoring dashboard includes the following views:
 | **Feedback** | Signals on response quality and user satisfaction |
 | **AI Credits** | Credit consumption trends and remaining balance |
 
-Together, these views help you guide agent adoption with data instead of assumptions.
+The agents in scope for usage monitoring are listed in [AI agents in existing CX Enterprise apps](agentic-ai.md#existing-apps-table) in the [Agentic AI in Adobe CX Enterprise](agentic-ai.md) documentation.
 
-## Overview dashboard
+[View introductory video](https://video.tv.adobe.com/v/3491864?learn=on)
 
-The Overview dashboard is the central place for adoption and engagement metrics across your organization. It connects high-level trends to deeper analysis. From any metric, you can drill into individual conversations to see what drives the numbers.
+## Enable dashboard permissions (admins) {#permissions}
 
-### Metrics on the Overview dashboard
-
-* **Prompts over time:** Overall usage growth and adoption trends.
-* **Active users and conversations:** Count of users interacting with [!DNL Experience Platform Agents].
-* **Average prompts per conversation:** Depth of engagement per conversation.
-* **Feedback:** Distribution of thumbs up and thumbs down feedback from users (for [!DNL AI Assistant] interactions only).
-
-### Conversation replay
-
-Conversation replay shows individual interactions, not only aggregates. You can analyze patterns across many conversations and move from high-level trends to a specific conversation.
-
-* **Prompt and response history:** The user's prompt and the responses delivered.
-* **Feedback signals:** Interactions users marked with thumbs up or thumbs down, to identify friction, blockers, or enablement needs. This information helps your organization improve prompt relevance and helps Adobe improve response quality over time.
-
-## Users dashboard
-
-The Users dashboard shows how agent adoption and engagement vary across users over time. You can see who actively uses [!DNL Experience Platform Agents], which surface they use, and how often they engage. Administrators and COE members can drill into individual user activity and conversations to understand engagement patterns and usage behavior.
-
-### Metrics on the Users dashboard
-
-* **Adoption and engagement trends over time:** Track how user segments change during the selected period. Users are classified as:
-  * **New:** First activity in the selected period, with no activity in the previous 12 months.
-  * **Repeat:** Activity in both the selected period and the previous period.
-  * **Return:** Activity in the selected period, but not in the previous period.
-  * **Inactive:** No activity in the selected period, but activity in the previous period.
-* **User engagement patterns:** How frequently users interact with agents and how engagement changes over time.
-* **Conversation activity:** Number of conversations and prompts per user.
-* **Top active users:** Highly engaged users and teams driving agent adoption.
-
-## Feedback dashboard
-
-The Feedback dashboard shows user feedback submitted for agent interactions. You can see which conversations users marked positively or negatively and investigate the interactions behind the feedback. From feedback summaries, drill into individual conversations to review prompts, responses, reasoning details, and feedback notes.
-
-### Metrics on the Feedback dashboard
-
-* **Feedback trends over time:** How user feedback changes over time.
-* **Thumbs up and thumbs down feedback:** Positive and negative interaction signals.
-* **Feedback categories:** Rationale behind each thumbs up and thumbs down.
-* **Prompt and response history:** User prompts and the responses associated with submitted feedback.
-* **Feedback details and notes:** Additional context and comments from users during feedback submission.
-
-## AI Credits dashboard
-
-The AI Credits dashboard shows how your organization's use of [!DNL Experience Platform Agents] translates into AI Credits consumption.
-
-### Metrics on the AI Credits dashboard
-
-* **Total AI Credits consumed:** Overall agent usage in AI Credits.
-* **Daily and monthly trends:** Spikes, dips, and changes in consumption patterns.
-* **AI Credits remaining:** Remaining balance so you can plan proactively and avoid overages.
-
-## Access and governance
-
-Agentic AI usage monitoring dashboards expose AI Assistant activity, including usage patterns, conversation-level insights, feedback signals, and operational metrics. Some of this information can include sensitive business context, prompt activity, or user interaction data.
-
-Access is permission-based and intended for authorized COE administrators and approved governance users only. The following section describes how to grant dashboard permissions.
-
-## Enable dashboard permissions
-
-Grant dashboard access in [!DNL Adobe Experience Platform] by updating the product profile or role for each authorized user.
+Grant dashboard access in [!DNL Adobe Experience Platform] by updating the product profile or role for each authorized user. The [!UICONTROL Monitoring] feature displays to users on the CX Enterprise home page after permissions are enabled. 
 
 1. Go to [!DNL Experience Platform] **Administration** > **Permissions**. 
 
@@ -141,8 +70,78 @@ Grant dashboard access in [!DNL Adobe Experience Platform] by updating the produ
    * **[!UICONTROL View Custom Dashboards]**
    * **[!UICONTROL Manage Standard Dashboards]**
 
+1. To view dashboards, return to the CX Enterprise home, then click **[!UICONTROL Monitoring]**.
+
+  ![Agentic AI monitoring dashboard](../features/assets/monitoring.png)
+
+## Overview dashboard
+
+The Overview dashboard is the central place for adoption and engagement metrics across your organization. It connects high-level trends to deeper analysis. From any metric, you can drill into individual conversations to see what drives the numbers.
+
+### Metrics on the Overview dashboard
+
+* **Prompts over time:** Overall usage growth and adoption trends.
+* **Active users and conversations:** Count of users interacting with [!DNL Experience Platform Agents].
+* **Average prompts per conversation:** Depth of engagement per conversation.
+* **Feedback:** Distribution of thumbs up and thumbs down feedback from users (for [!DNL AI Assistant] interactions only).
+
+[View video](https://video.tv.adobe.com/v/3491865?learn=on)
+
+### Conversation replay
+
+Conversation replay shows individual interactions, not only aggregates. You can analyze patterns across many conversations and move from high-level trends to a specific conversation.
+
+* **Prompt and response history:** The user's prompt and the responses delivered.
+* **Feedback signals:** Interactions users marked with thumbs up or thumbs down, to identify friction, blockers, or enablement needs. This information helps your organization improve prompt relevance and helps Adobe improve response quality over time.
+
+[View video](https://video.tv.adobe.com/v/3491866?learn=on)
+
+## Users dashboard
+
+The Users dashboard shows how agent adoption and engagement vary across users over time. You can see who actively uses [!DNL Experience Platform Agents], which surface they use, and how often they engage. Administrators and COE members can drill into individual user activity and conversations to understand engagement patterns and usage behavior.
+
+### Metrics on the Users dashboard
+
+* **Adoption and engagement trends over time:** Track how user segments change during the selected period. Users are classified as:
+  * **New:** First activity in the selected period, with no activity in the previous 12 months.
+  * **Repeat:** Activity in both the selected period and the previous period.
+  * **Return:** Activity in the selected period, but not in the previous period.
+  * **Inactive:** No activity in the selected period, but activity in the previous period.
+* **User engagement patterns:** How frequently users interact with agents and how engagement changes over time.
+* **Conversation activity:** Number of conversations and prompts per user.
+* **Top active users:** Highly engaged users and teams driving agent adoption.
+
+[View video](https://video.tv.adobe.com/v/3491868?learn=on)
+
+## Feedback dashboard
+
+The Feedback dashboard shows user feedback submitted for agent interactions. You can see which conversations users marked positively or negatively and investigate the interactions behind the feedback. From feedback summaries, drill into individual conversations to review prompts, responses, reasoning details, and feedback notes.
+
+### Metrics on the Feedback dashboard
+
+* **Feedback trends over time:** How user feedback changes over time.
+* **Thumbs up and thumbs down feedback:** Positive and negative interaction signals.
+* **Feedback categories:** Rationale behind each thumbs up and thumbs down.
+* **Prompt and response history:** User prompts and the responses associated with submitted feedback.
+* **Feedback details and notes:** Additional context and comments from users during feedback submission.
+
+[View video](https://video.tv.adobe.com/v/3491878?learn=on)
+
+## AI Credits dashboard
+
+The AI Credits dashboard shows how your organization's use of [!DNL Experience Platform Agents] translates into AI Credits consumption.
+
+### Metrics on the AI Credits dashboard
+
+* **Total AI Credits consumed:** Overall agent usage in AI Credits.
+* **Daily and monthly trends:** Spikes, dips, and changes in consumption patterns.
+* **AI Credits remaining:** Remaining balance so you can plan proactively and avoid overages.
+
+[View video](https://video.tv.adobe.com/v/3491867?learn=on)
+
 ## More help on this topic
 
+* [License usage dashboard](https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage) in [!DNL Experience Platform]
 * [Agentic AI in Adobe CX Enterprise](agentic-ai.md)
 * [Agent jobs and AI credit consumption](ai-credit-consumption.md)
 * [License usage dashboard](https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage) (Experience Platform)
