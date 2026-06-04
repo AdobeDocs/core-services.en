@@ -72,7 +72,7 @@ Grant dashboard access in [!DNL Adobe Experience Platform] by updating the produ
 
 1. To view dashboards, return to the CX Enterprise home, then click **[!UICONTROL Monitoring]**.
 
-  ![Agentic AI monitoring dashboard](../features/assets/monitoring.png)
+   ![Agentic AI monitoring dashboard](../features/assets/monitoring.png)
 
 ## Overview dashboard
 
