@@ -40,7 +40,7 @@ The agents in scope for usage monitoring are listed in [AI agents in existing CX
 
 [View introductory video](https://video.tv.adobe.com/v/3491864?learn=on)
 
-## Enable dashboard permissions (admins) {#permissions}
+## Enable dashboard permissions {#permissions}
 
 Grant dashboard access in [!DNL Adobe Experience Platform] by updating the product profile or role for each authorized user. The [!UICONTROL Monitoring] feature displays to users on the CX Enterprise home page after permissions are enabled. 
 
@@ -72,7 +72,7 @@ Grant dashboard access in [!DNL Adobe Experience Platform] by updating the produ
 
 1. To view dashboards, return to the CX Enterprise home, then click **[!UICONTROL Monitoring]**.
 
-  ![Agentic AI monitoring dashboard](../features/assets/monitoring.png)
+   ![Agentic AI monitoring dashboard](../features/assets/monitoring.png)
 
 ## Overview dashboard
 
