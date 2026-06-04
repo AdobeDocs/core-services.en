@@ -38,7 +38,7 @@ The Agentic AI monitoring dashboard includes the following views:
 
 The agents in scope for usage monitoring are listed in [AI agents in existing CX Enterprise apps](agentic-ai.md#existing-apps-table) in the [Agentic AI in Adobe CX Enterprise](agentic-ai.md) documentation.
 
-[View introductory video](https://video.tv.adobe.com/v/3491864?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491864?learn=on)
 
 ## Enable dashboard permissions {#permissions}
 
@@ -85,7 +85,7 @@ The Overview dashboard is the central place for adoption and engagement metrics 
 * **Average prompts per conversation:** Depth of engagement per conversation.
 * **Feedback:** Distribution of thumbs up and thumbs down feedback from users (for [!DNL AI Assistant] interactions only).
 
-[View video](https://video.tv.adobe.com/v/3491865?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491865?learn=on)
 
 ### Conversation replay
 
@@ -94,7 +94,7 @@ Conversation replay shows individual interactions, not only aggregates. You can 
 * **Prompt and response history:** The user's prompt and the responses delivered.
 * **Feedback signals:** Interactions users marked with thumbs up or thumbs down, to identify friction, blockers, or enablement needs. This information helps your organization improve prompt relevance and helps Adobe improve response quality over time.
 
-[View video](https://video.tv.adobe.com/v/3491866?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491866?learn=on)
 
 ## Users dashboard
 
@@ -111,7 +111,7 @@ The Users dashboard shows how agent adoption and engagement vary across users ov
 * **Conversation activity:** Number of conversations and prompts per user.
 * **Top active users:** Highly engaged users and teams driving agent adoption.
 
-[View video](https://video.tv.adobe.com/v/3491868?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491868?learn=on)
 
 ## Feedback dashboard
 
@@ -125,7 +125,7 @@ The Feedback dashboard shows user feedback submitted for agent interactions. You
 * **Prompt and response history:** User prompts and the responses associated with submitted feedback.
 * **Feedback details and notes:** Additional context and comments from users during feedback submission.
 
-[View video](https://video.tv.adobe.com/v/3491878?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491878?learn=on)
 
 ## AI Credits dashboard
 
@@ -137,7 +137,7 @@ The AI Credits dashboard shows how your organization's use of [!DNL Experience P
 * **Daily and monthly trends:** Spikes, dips, and changes in consumption patterns.
 * **AI Credits remaining:** Remaining balance so you can plan proactively and avoid overages.
 
-[View video](https://video.tv.adobe.com/v/3491867?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491867?learn=on)
 
 ## More help on this topic
 
