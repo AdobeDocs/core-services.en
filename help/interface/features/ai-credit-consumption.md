@@ -12,6 +12,12 @@ last-update: '2026-05-21T00:00:00.000Z'
 
 Learn about agentic AI jobs and AI credit consumption in CX Enterprise applications. For information about enabling agentic AI capabilities in existing CX Enterprise applications, see [Agentic AI in CX Enterprise](agentic-ai.md#existing-apps).
 
+## What's new
+
+| Feature | Description |
+| --- | --- |
+| [CX Enterprise Agentic AI Capability Catalog](https://agentic-capability-explorer.entapp.adproto.com/) | Discover which agentic AI jobs are available in your licensed CX Enterprise apps. |
+
 ## Agent jobs
 
 An _agent job_ is a series of tasks and actions an agent executes to achieve a specific outcome, as directed by customer inputs.
@@ -29,6 +35,8 @@ AI credit usage may vary depending on the complexity and value of the job execut
 * Simple (often single-step) tasks consume fewer credits  
 * Complex (often multi-step) tasks consume more credits  
 * Tasks involving advanced reasoning, validation, multi-agent coordination, or integration consume more credits  
+
+**Note:** The [CX Enterprise Agentic AI Capability Catalog](https://agentic-capability-explorer.entapp.adproto.com/) is also available to help you discover which agentic AI jobs are available in your licensed CX Enterprise apps.
 
 ### Estimated AI credit consumption rates
 
