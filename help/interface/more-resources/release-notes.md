@@ -52,8 +52,8 @@ For release notes covering all applications, see [CX Enterprise Release Notes](h
 
 | Date | Update | Description |
 | ------- | ------- | ------- |
-| June 11, 2026 | CX Enterprise Coworker (General Availability) | CX Enterprise Coworker is an agentic AI application that automates end-to-end customer experience workflows. It detects signals, builds audiences, and launches campaigns with built-in governance in hours. Documentation coming soon. |
-| June 1, 2026 | Agentic AI usage monitoring | CX Enterprise now provides dashboards to monitor agentic AI usage in existing applications. Track adoption, review conversations and feedback, and manage AI credit consumption for Experience Platform Agents accessed through AI Assistant and other conversational surfaces. Overview, Users, Feedback, and AI Credits views help governance stakeholders guide adoption with data. See [Agentic AI monitoring](../features/monitoring.md) for dashboard access and permissions. |
+| June 11, 2026 | [!DNL CX Enterprise Coworker] (General Availability) | CX Enterprise Coworker is an agentic AI application that automates end-to-end customer experience workflows. Coworker detects signals, builds audiences, and launches campaigns with built-in governance in hours. Documentation coming soon. |
+| June 1, 2026 | [!UICONTROL Monitoring] | CX Enterprise now provides dashboards to monitor agentic AI usage in existing applications. Track adoption, review conversations and feedback, and manage AI credit consumption for Experience Platform Agents accessed through AI Assistant and other conversational surfaces. Overview, Users, Feedback, and AI Credits views help governance stakeholders guide adoption with data. See [Agentic AI monitoring](../features/monitoring.md) for dashboard access and permissions. |
 
 ## April 2026
 
