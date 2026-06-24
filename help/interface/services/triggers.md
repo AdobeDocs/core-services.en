@@ -37,7 +37,7 @@ topic_v2:
 ---
 # CX Enterprise Triggers
 
-[!UICONTROL Triggers] in CX Enterprise enables you to identify, define, and monitor key consumer behaviors, then generate cross-application communication to re-engage visitors. You can use triggers in real-time decisions and personalization. 
+[!UICONTROL Triggers] in CX Enterprise enables you to identify, define, and monitor key consumer behaviors, then generate cross-application communication to re-engage visitors. You can use triggers in real-time decisions and personalization. For more information about using [!UICONTROL Triggers] with Adobe Campaign, see [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/using-triggers-in-campaign.html).
 
 For example:
 
@@ -49,7 +49,7 @@ For example:
 
 >[!NOTE]
 >
->More information about using [!UICONTROL Triggers] is available in [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/using-triggers-in-campaign.html).
+>Triggers are not deterministic in nature. When multiple users share a browser or device, such as a shared or public device, it might not be possible to map a trigger to the correct visitor ID.
 
 ## Types of triggers
 
@@ -105,3 +105,6 @@ The following trigger fires when a hit comes in with the product of Men's Boots 
 
 ![Referrer trigger](../assets/fb-boots-promo.png)
 
+## Verifying trigger activity
+
+To verify that a trigger has fired, use the [!UICONTROL Triggers] interface to review recent activity for the trigger. The interface displays a limited number of recent trigger events, so for implementations with high data volumes it might not show all trigger activity. Programmatic verification through an API is not currently supported.
