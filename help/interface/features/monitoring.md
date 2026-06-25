@@ -25,7 +25,7 @@ topic_v2:
 ---
 # Agentic AI Monitoring dashboards
 
-The Agentic AI monitoring dashboard gives Center of Excellence (COE) members and other governance stakeholders visibility into agentic AI usage and adoption. You can view trends over 7-day or 30-day periods to see who uses [!DNL AI Assistant] or other conversational surfaces (such as [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms)) to interact with [!DNL Experience Platform Agents], what they do in those interactions, and the value they receive. Together, these views help you guide agent adoption with data instead of assumptions.
+The Agentic AI monitoring dashboard gives Center of Excellence (COE) members and other governance stakeholders visibility into agentic AI usage and adoption. You can view trends over 7-day or 30-day periods to see who uses [!DNL AI Assistant] or other conversational surfaces (such as [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms)) to interact with [!DNL Experience Platform Agents], what they do in those interactions, and the value they receive. Together, these views help you guide agent adoption with data instead of assumptions. 
 
 **Availability**
 
