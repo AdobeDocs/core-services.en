@@ -49,6 +49,14 @@ The agents in scope for usage monitoring are listed in [AI agents in existing CX
 
 Grant dashboard access in [!DNL Adobe Experience Platform] by updating the product profile or role for each authorized user. The [!UICONTROL Monitoring] feature displays to users on the CX Enterprise home page after permissions are enabled. 
 
+>[!IMPORTANT]
+>
+>Monitoring data is available only in the default production sandbox. Development sandboxes are not supported for viewing monitoring data. Users must have the required Monitoring permissions for the default production sandbox and switch to that sandbox to view monitoring data. 
+>
+>To help prevent confusion, Adobe recommends granting Monitoring permissions across all sandboxes, including the default production sandbox. This helps ensure that users can access the Monitoring dashboard regardless of the currently selected sandbox and reduces the likelihood of mistaking an unsupported sandbox for an empty or nonfunctional dashboard.
+
+**To enable dashboard permissions**
+
 1. Go to [!DNL Experience Platform] **Administration** > **Permissions**. 
 
 1. Open the product profile or role you want to update.
