@@ -25,12 +25,12 @@ topic_v2:
 ---
 # Agentic AI Monitoring dashboards
 
-The Agentic AI monitoring dashboard gives Center of Excellence (COE) members and other governance stakeholders visibility into agentic AI usage and adoption. You can view trends over 7-day or 30-day periods to see who uses [!DNL AI Assistant] or other conversational surfaces (such as [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms)) to interact with [!DNL Experience Platform Agents], what they do in those interactions, and the value they receive. Together, these views help you guide agent adoption with data instead of assumptions. 
+The Agentic AI monitoring dashboard gives Center of Excellence (COE) members and other governance stakeholders visibility into agentic AI usage and adoption. View 7-day or 30-day trends to see who uses [!DNL AI Assistant] or other surfaces (such as [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms)) to interact with [!DNL Experience Platform Agents] and the value they receive. Together, these views help you guide agent adoption with data instead of assumptions. 
 
 **Availability**
 
 * Currently, any account with a license to at least one Experience Platform native application (Customer Journey Analytics, Journey Optimizer, or Real-Time CDP) can access this dashboard
-* Usage and adoption metrics for [AI-first applications](agentic-ai.md#ai-first-cx-enterprise-applications) like Experimentation Accelerator, LLM Optimizer, Sites Optimizer, etc. are not in scope for this dashboard
+* Usage and adoption metrics for [AI-first applications](agentic-ai.md#ai-first-cx-enterprise-applications) like Experimentation Accelerator, LLM Optimizer, and Sites Optimizer are not in scope for this dashboard.
 
 The [!UICONTROL Monitoring] dashboard includes the following views:
 
@@ -41,7 +41,7 @@ The [!UICONTROL Monitoring] dashboard includes the following views:
 | **Feedback** | Signals on response quality and user satisfaction |
 | **AI Credits** | Credit consumption trends and remaining balance |
 
-The agents in scope for usage monitoring are listed in [AI agents in existing CX Enterprise apps](agentic-ai.md#existing-apps-table) in the [Agentic AI in Adobe CX Enterprise](agentic-ai.md) documentation.
+The [Agentic AI in Adobe CX Enterprise](agentic-ai.md) documentation lists the agents in scope for usage monitoring in [AI agents in existing CX Enterprise apps](agentic-ai.md#existing-apps-table).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491864?learn=on)
 
@@ -89,7 +89,7 @@ Grant dashboard access in [!DNL Adobe Experience Platform] by updating the produ
 
 ## Overview dashboard
 
-The Overview dashboard is the central place for adoption and engagement metrics across your organization. It connects high-level trends to deeper analysis. From any metric, you can drill into individual conversations to see what drives the numbers.
+The Overview dashboard is the central place for adoption and engagement metrics across your organization. It connects high-level trends to deeper analysis. To see what drives the numbers, drill into individual conversations from any metric.
 
 ### Metrics on the Overview dashboard
 
@@ -116,7 +116,7 @@ The Users dashboard shows how agent adoption and engagement vary across users ov
 ### Metrics on the Users dashboard
 
 * **Adoption and engagement trends over time:** Track how user segments change during the selected period. Users are classified as:
-  * **New:** First activity in the selected period, with no activity in the previous 12 months.
+  * **New:** First activity in the selected period, with no activity during the previous 12 months.
   * **Repeat:** Activity in both the selected period and the previous period.
   * **Return:** Activity in the selected period, but not in the previous period.
   * **Inactive:** No activity in the selected period, but activity in the previous period.
@@ -128,7 +128,7 @@ The Users dashboard shows how agent adoption and engagement vary across users ov
 
 ## Feedback dashboard
 
-The Feedback dashboard shows user feedback submitted for agent interactions. You can see which conversations users marked positively or negatively and investigate the interactions behind the feedback. From feedback summaries, drill into individual conversations to review prompts, responses, reasoning details, and feedback notes.
+The Feedback dashboard shows user feedback submitted for agent interactions. You can see which conversations users marked positively or negatively and investigate the interactions behind the feedback. To review prompts, responses, reasoning details, and feedback notes, drill into individual conversations from feedback summaries.
 
 ### Metrics on the Feedback dashboard
 
