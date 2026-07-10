@@ -38,6 +38,10 @@ topic_v2:
 
 Learn where documentation updates occur for the central interface and administration of CX Enterprise.
 
+## July 2026
+
+* Added [July 2026 release notes](release-notes.md) for CX Enterprise support of [Federated Guest Access](https://helpx.adobe.com/business/enterprise/using/federated-guest-access.html), including account switching for guest users from the Organization switcher.
+
 ## June 2026
 
 * Published [Agentic AI monitoring](../features/monitoring.md) with coverage of the License Usage and Agentic AI monitoring dashboards, including Overview, Users, Feedback, and AI Credits views, conversation replay, and permissions for governance users.
