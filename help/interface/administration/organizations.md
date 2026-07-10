@@ -1,7 +1,7 @@
 ---
-description: Learn about organizations (IMS organization ID) and linking solution accounts to CX Enterprise.
+description: Learn about organizations (IMS organization ID), switching accounts, and linking solution accounts.
 solution: Experience Cloud
-title: Organizations and Account Linking
+title: Organizations and Accounts
 uuid: ae47ad18-ac33-4efa-8b68-2bfaf77397aa
 feature: Organizations
 topic: Administration
@@ -29,7 +29,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Organizations and account linking
+# Organizations and accounts
 
 An *organization* (Org ID) is the entity that enables an administrator to configure groups and users, and to control single sign-on in CX Enterprise. 
 
@@ -48,6 +48,14 @@ To verify that you have logged in to your correct organization, click **[!UICONT
 If your organization uses Federated IDs, CX Enterprise allows you to sign in with your organization's single sign-on without being required to enter your email address and password. Add `#/sso:@domain` to the CX Enterprise URL (`https://experience.adobe.com`) to accomplish this task.
     
 For example, for an organization with Federated IDs and the domain `example.com`, set your URL link to `https://experience.adobe.com/#/sso:@example.com`. You can also go directly to a specific application by bookmarking this URL, appended with the application path. (For example, for Adobe Analytics, `https://experience.adobe.com/#/sso:@example.com/analytics`.)
+
+### Federated guest accounts
+
+You can enable [federated guest access](https://helpx.adobe.com/business/enterprise/using/federated-guest-access.html) to securely authenticate guest users on your own domain. Those users can switch between accounts within the existing organization on any CX Enterprise page.
+
+To switch to a federated guest account, locate **[!UICONTROL Other Accounts]** in the **[!UICONTROL Organization]** menu on any [CX Enterprise](https://experience.adobe.com) page.
+
+![Federated account switcher](../assets/federated-account-switcher.png)
 
 ## View your organization ID 
 
