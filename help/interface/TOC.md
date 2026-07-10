@@ -14,6 +14,7 @@ index: true
   + [Agentic AI](features/agentic-ai.md)
   + [Agentic AI monitoring](/help/interface/features/monitoring.md)
   + [Agent jobs and AI credit consumption](/help/interface/features/ai-credit-consumption.md)
+  + [Agentic tools](https://experienceleague.adobe.com/en/docs/cx-enterprise-agentic-tools/using/overview)
 + Administration {#administration}
   + [Account preferences and notifications](/help/interface/features/account-preferences.md)
   + [Browser and language support](/help/interface/browser-language.md)
