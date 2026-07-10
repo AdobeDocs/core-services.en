@@ -64,7 +64,7 @@ A schema is created based on these settings. The schema is used to validate all 
 
 * **[!UICONTROL ID Lookup:]** Enter a customer ID (CID) from your `.csv` to look up CX Enterprise information for the ID. This feature is useful for troubleshooting why attribute data is not displaying for a visitor:
 
-  * **[!UICONTROL ECID (CX Enterprise ID):]** Displays if you are using the latest CX Enterprise ID Service. If you are on the MCID service but no IDs are listed here, CX Enterprise has not received an alias for that CID. Meaning, the visitor has not logged in, or your implementation is not passing that ID through.
+  * **[!UICONTROL ECID:]** Displays if you are using the Visitor ID Service. If you are on the Visitor ID Service but no IDs are listed here, CX Enterprise has not received an alias for that CID. Meaning, the visitor has not logged in, or your implementation is not passing that ID through.
       
   * **[!UICONTROL CID (customer ID):]** The attributes associated with this CID. If you are using a prop or eVar to upload CIDs (AVID), and you see attributes displayed but no AVID, this indicates that the visitor has not logged in to your site.
       

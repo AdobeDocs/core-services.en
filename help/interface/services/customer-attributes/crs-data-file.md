@@ -70,7 +70,7 @@ The same file viewed in a text editor:
   </tr> 
   <tr> 
    <td colname="col1"> <p>customer ID column </p> </td> 
-   <td colname="col2"> <p> The first column must be a unique customer ID. The ID used should correspond to the ID that is being passed to the CX Enterprise ID Service. </p> <p>For Analytics, the ID being stored in a prop or eVar. </p> <p>For Target, the setcustomerID value. </p> <p> This customer ID is the unique identifier your CRM uses for each person in your database. The remaining columns are attributes that come from your CRM. You choose how many attributes to upload. </p> <p>Friendly, readable names are recommended for the column headings, but not required. When you validate the schema after upload, you can map friendly names to the uploaded rows and columns. </p> <p> <b>About customer IDs</b> </p> <p>Typically, an enterprise uses a customer ID from a CRM system. This ID is set using the <span class="codeph"> setcustomerIDs </span> call when a person logs in. This ID is also used as the key in the CRM file that is uploaded to CX Enterprise. An <a href="t-crs-usecase.md" format="dita" scope="local"> Alias ID </a> is a friendly name for a data store in Audience Manager, where the alias data is stored. The system sends aliases to this data store (via setcustomerIDs). The CRM file is applied to the data in that data store. </p> <p>For <span class="codeph"> setcustomerIDs </span> information, see <a href="https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html" format="https" scope="external"> customer IDs and Authentication States </a>. </p> </td> 
+   <td colname="col2"> <p> The first column must be a unique customer ID. The ID used should correspond to the ID that is being passed to the Visitor ID Service. </p> <p>For Analytics, the ID being stored in a prop or eVar. </p> <p>For Target, the setcustomerID value. </p> <p> This customer ID is the unique identifier your CRM uses for each person in your database. The remaining columns are attributes that come from your CRM. You choose how many attributes to upload. </p> <p>Friendly, readable names are recommended for the column headings, but not required. When you validate the schema after upload, you can map friendly names to the uploaded rows and columns. </p> <p> <b>About customer IDs</b> </p> <p>Typically, an enterprise uses a customer ID from a CRM system. This ID is set using the <span class="codeph"> setcustomerIDs </span> call when a person logs in. This ID is also used as the key in the CRM file that is uploaded to CX Enterprise. An <a href="t-crs-usecase.md" format="dita" scope="local"> Alias ID </a> is a friendly name for a data store in Audience Manager, where the alias data is stored. The system sends aliases to this data store (via setcustomerIDs). The CRM file is applied to the data in that data store. </p> <p>For <span class="codeph"> setcustomerIDs </span> information, see <a href="https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html" format="https" scope="external"> customer IDs and Authentication States </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Subsequent headers and columns </p> </td> 
@@ -122,7 +122,7 @@ The same file viewed in a text editor:
   </tr> 
    <tr> 
    <td colname="col1"> <p>Historical data </p> </td> 
-   <td colname="col2"> <p> Customer Attributes are tied to the underlying visitor profile in [!DNL Analytics]. As such, [!DNL Customer Attributes] are associated with the visitor for the entire life of that visitor profile in [!DNL Analytics]. This profile includes behavior that occurred before the customer logged in for the first time. </p> <p> If you use the Data Warehouse backfill method, the data is tied to a post_visid_high/low that is based on the Analytics ID (AID). If you are using the CX Enterprise ID Service, the data is tied to a post_visid_high/low that is based on CX Enterprise ID (MID). </p> <p> Note that the Data Warehouse backfill method will no longer be available beginning in October 2022. </td> 
+   <td colname="col2"> <p> Customer Attributes are tied to the underlying visitor profile in [!DNL Analytics]. As such, [!DNL Customer Attributes] are associated with the visitor for the entire life of that visitor profile in [!DNL Analytics]. This profile includes behavior that occurred before the customer logged in for the first time. </p> <p> If you use the Data Warehouse backfill method, the data is tied to a post_visid_high/low that is based on the Analytics ID (AID). If you are using the Visitor ID Service, the data is tied to a post_visid_high/low that is based on the ECID (MID). </p> <p> Note that the Data Warehouse backfill method will no longer be available beginning in October 2022. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data feeds </p> </td> 
@@ -137,7 +137,7 @@ When creating, modifying, or deleting customer attribute sources, there is a del
 
 The Alias ID for each customer attribute source must be unique. If you have multiple data sources that use the same ID, they can be set up as follows:
 
-**In VisitorAPI.js or the CX Enterprise ID tool in dynamic tag management:**
+**In `VisitorAPI.js` or the [!UICONTROL Experience Cloud ID Service] tag extension:**
 
 Set two customer IDs that correspond to the appropriate data sources:
 

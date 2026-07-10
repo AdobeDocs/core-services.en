@@ -1,5 +1,5 @@
 ---
-description: Learn how the ID service is stored and used across CX Enterprise applications.
+description: Learn how the Visitor ID Service is stored and used across CX Enterprise applications.
 solution: Experience Cloud,Analytics,Target
 title: Experience Cloud Cookies
 uuid: a4788c1c-0402-4fc8-b894-cd24fa794f4f
@@ -74,9 +74,9 @@ Adobe CX Enterprise uses cookies to store a visitor ID that is used across CX En
 
 **Cookie Name: AMCV_###@AdobeOrg**
 
-The [Experience Platform ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html) uses JavaScript to store a unique visitor ID in an `AMCV_###@AdobeOrg` cookie on the domain of the current website, where `###` represents a random string of characters, such as `AMCV_1FD6776A524453CC0A490D44%40AdobeOrg.` 
+The [Visitor ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html) uses JavaScript to store a unique visitor ID in an `AMCV_###@AdobeOrg` cookie on the domain of the current website, where `###` represents a random string of characters, such as `AMCV_1FD6776A524453CC0A490D44%40AdobeOrg.` 
 
-See also, [Cookies and the ID Service](https://experienceleague.adobe.com/docs/id-service/using/intro/cookies.html).
+See also, [Cookies and the Visitor ID Service](https://experienceleague.adobe.com/docs/id-service/using/intro/cookies.html).
 
 <table id="table_1883C0836C1E4AF5A262FBF5000C1B11"> 
  <thead> 
