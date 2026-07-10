@@ -98,9 +98,9 @@ Perform these steps on the _[!UICONTROL Create Customer Attribute Source]_ page 
             
       The Alias ID corresponds to certain areas where you set additional customer ID values. For example: 
     
-        * **Tags:** The Alias ID corresponds to the *Integration Code* value under [!UICONTROL customer Settings], in the [CX Enterprise ID Service](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html) tool. 
+        * **Tags:** The Alias ID corresponds to the *Integration Code* value under [!UICONTROL customer Settings], in the [[!UICONTROL Experience Cloud ID Service]](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html) tag extension. 
 
-        * **Visitor API:** The Alias ID corresponds to the additional [customer IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) that you can associate with each visitor. 
+        * **Visitor ID Service:** The Alias ID corresponds to the additional [customer IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) that you can associate with each visitor. 
         
           For example, *"crm_id"* in: 
         
@@ -148,9 +148,9 @@ The customer attribute record is created, and you can upload the file by editing
     
 * **[!UICONTROL Unique customer ID:]** Displays how many unique IDs you have uploaded to this attribute source. 
     
-* **[!UICONTROL Customer-Provided IDs Aliased to CX Enterprise Visitor IDs:]** Displays how many IDs have been aliased to CX Enterprise Visitor IDs. 
+* **[!UICONTROL Customer-Provided IDs Aliased to Experience Cloud Visitor IDs:]** Displays how many IDs have been aliased to ECIDs. 
     
-* **[!UICONTROL Customer-Provided IDs with High Alias Counts:]** Displays the count of customer-provided IDs with 500 or more aliased CX Enterprise Visitor IDs. These customer-provided IDs most likely do not represent individuals but rather some sort of shared login. The system distributes the attributes associated with these IDs to the 500 most recent aliased CX Enterprise Visitor IDs, until the alias count reaches 10,000. Then, the system invalidates the customer-provided ID and no longer distributes associated attributes.
+* **[!UICONTROL Customer-Provided IDs with High Alias Counts:]** Displays the count of customer-provided IDs with 500 or more aliased ECIDs. These customer-provided IDs most likely do not represent individuals but rather some sort of shared login. The system distributes the attributes associated with these IDs to the 500 most recent aliased ECIDs, until the alias count reaches 10,000. Then, the system invalidates the customer-provided ID and no longer distributes associated attributes.
     
 ## Validate the schema {#validate-schema}
 

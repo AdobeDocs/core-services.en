@@ -34,9 +34,9 @@ Laws often require you to get permission before storing or using cookies on some
 
 Adobe CX Enterprise uses cookies to track information that doesn't last between page views or browser sessions. When possible, Adobe uses first-party cookies (tied to your own website). To track activity across multiple sites or domains you own, third-party cookies are needed.
 
-Some browsers and anti-spyware tools block third-party cookies. Adobe has ways to make sure cookies still work even if cookies are blocked. How this works depends on whether you use the Experience Platform Identity Service (ECID) or older Analytics cookies (like the `s_vi` cookie):
+Some browsers and anti-spyware tools block third-party cookies. Adobe has ways to make sure cookies still work even if cookies are blocked. How this works depends on whether you use the Visitor ID Service (`VisitorAPI.js`) or older Analytics cookies (like the `s_vi` cookie):
 
-* [CX Enterprise Identity Service](https://experienceleague.adobe.com/en/docs/id-service/using/intro/overview): The ECID Service always sets first-party cookies, whether your collection domain matches your site domain. It uses JavaScript to place the cookie on your site's domain.
+* [Visitor ID Service](https://experienceleague.adobe.com/en/docs/id-service/using/intro/overview): The Visitor ID Service always sets first-party cookies, whether your collection domain matches your site domain. It uses JavaScript to place the cookie on your site's domain.
 
 * [Analytics legacy identifiers](analytics.md) (such as the `s_vi` cookie): Whether cookies are first- or third-party depends on your setup:
 

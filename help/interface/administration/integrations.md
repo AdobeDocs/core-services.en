@@ -57,7 +57,7 @@ Describes how to:
 
 * Provision your company in CX Enterprise.
 * Enable you to become an administrator.
-* [Implement the CX Enterprise ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html).
+* [Implement the Visitor ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html).
 * Modernize your [!DNL Analytics] and [!DNL Target] implementations via [!UICONTROL Platform Data Collection].
 * Start using CX Enterprise services like [Customer Attributes](../services/customer-attributes/attributes.md) and [Audience Library](../services/audiences/overview.md).
 
@@ -66,13 +66,13 @@ Solutions or services:
 * [[!DNL Experience Platform Data Collection]](https://experienceleague.adobe.com/docs/experience-platform.html) 
 * [[!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics.html)
 * [[!DNL Target]](https://experienceleague.adobe.com/docs/target.html)
-* [CX Enterprise ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html)
+* [Visitor ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html)
 
-## CX Enterprise ID Service 
+## Visitor ID Service 
 
-The ID service provides a universal, persistent ID that identifies your visitors across all the applications in CX Enterprise. It can replace ID generation code for services such as Analytics, Audience Manager, Adobe Target, video heartbeat, and other CX Enterprise applications and products.
+The Visitor ID Service provides a universal, persistent ID that identifies your visitors across all the applications in CX Enterprise. It can replace ID generation code for services such as Analytics, Audience Manager, Adobe Target, video heartbeat, and other CX Enterprise applications and products.
 
-See [CX Enterprise ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html) 
+See [Visitor ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html) 
 
 **Applicable applications or services** 
 

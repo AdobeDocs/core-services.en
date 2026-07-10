@@ -53,7 +53,7 @@ The following examples show you how to make DNS prefetch calls to different [!DN
 
 * **Audience Manager:** `<link rel="dns-prefetch" href="//dpm.demdex.net">` 
 
-* **CX Enterprise ID Service:** `<link rel="dns-prefetch" href="//fast.examplepartnerid.demdex.net">` 
+* **Visitor ID Service:** `<link rel="dns-prefetch" href="//fast.examplepartnerid.demdex.net">` 
 
 * **Advertising Cloud:** 
 
