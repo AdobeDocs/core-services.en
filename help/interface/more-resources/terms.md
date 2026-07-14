@@ -35,7 +35,7 @@ topic_v2:
 # Terminology
 
 <!--
-TQID: https://experienceleague.adobe.com/6wm7HcuAbaV1iV3AgN55dY5WR---BnMM7lJgN0HZDsk
+TQID: https://experienceleague.adobe.com/6wm7HcuAbaV1iV3AgN55dY5WR%2D%2D%2DBnMM7lJgN0HZDsk
 -->
 
 Use this table when the same word shows up in different Adobe experiences (CX Enterprise, marketing apps, design apps, or support sites). It is not a full glossary; see product-specific help on [Experience League](https://experienceleague.adobe.com) for deep definitions.
