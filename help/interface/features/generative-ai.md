@@ -106,25 +106,9 @@ Here's a roundup of [!DNL CX Enterprise] applications that use generative AI fea
 
 ### Generative AI
 
-<!--
-| Product | Key AI features | Firefly Compatibility |
-| ----------------| -----------------| ---------|
-| GenStudio for Performance Marketing | Create personalized, on-brand content | Yes |
-| Adobe Experience Manager (AEM CS) | Generate Variations, Sites Optimizer GenAI, Content Hub, Smart Tags | Yes |
-| Adobe Experience Manager 6.5 | AI Assistant support | Yes |
-| Adobe Experience Manager 6.5 LTS | AI Assistant support | Yes |
-| Adobe Experience Platform | AI Assistant for product knowledge and operational insights | No |
-| Adobe Journey Optimizer | AI Assistant, content generation (Prime/Ultimate) | Yes |
-| Adobe Journey Optimizer B2B Edition | AI Assistant for product knowledge | No |
-| Campaign Managed Cloud Services | Content Accelerator for cross-channel personalization | Yes |
-| Customer Journey Analytics | AI Assistant, Intelligent Captions, Content Analytics | No |
-| Real-Time CDP | AI Assistant for product knowledge and operational insights | No |
-| Marketo | Email Designer, Dynamic Chat, Interactive Webinars | Yes |
-| Workfront | AI Assistant for work management and recommendations | Yes |
--->
-
 | **Product Name** | **Key GenAI Features** | **Firefly Compatibility** |
 | ------------------| -------------------------| -------------------|
+| [CX Enterprise Coworker](https://experienceleague.adobe.com/en/docs/cx-enterprise-coworker/content/home) | GenAI is available in: <ul><li>**[Chat](https://experienceleague.adobe.com/en/docs/cx-enterprise-coworker/content/chat/overview)**: A conversational interface where you describe a goal in natural language, and genAI plans the work, executes it across your Adobe and connected systems, validates the results, and returns the finished work for your approval.</li><li>**[Campaigns](https://experienceleague.adobe.com/en/docs/cx-enterprise-coworker/content/campaigns/overview)**: An AI-native application that consolidates campaign briefing, audience building, content generation, journey design, and proofing into a single conversational experience. GenAI generates a campaign plan, builds a journey, and drafts personalized content that you can iteratively refine.</li></ul> | No |
 | [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) | Create personalized, on-brand content with genAI. | Yes |
 | [Adobe Experience Manager as a Cloud Service (AEM CS)](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/overview) | GenAI is available in: <ul><li>Generate Variations in **AEM Sites** ([Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations-integrated-editor))</li><li>GenAI in **Sites Optimizer** ([Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/opportunity-types/overview))</li><li>[Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview?lang=en) and [Smart Tags](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/smart-tags?lang=en#ai-smart-tags) in **AEM Assets**</li></ul> AI Assistant for: <ul><li>Experience Hub overview page</li><li>Edge Delivery Services</li><li>Sites</li><li>Assets</li><li>Forms</li><li>Dynamic Media</li><li>Cloud Manager</li></ul> | Yes |
 |[Adobe Experience Manager 6.5](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/ai-assistant/ai-assistant-in-aem) | AI Assistant for: <ul><li>Experience Hub overview page</li><li>Edge Delivery Services</li><li>Sites</li><li>Assets</li><li>Forms</li><li>Dynamic Media</li><li>Cloud Manager</li></ul> | Yes|
