@@ -35,6 +35,8 @@ An *organization* (Org ID) is the entity that enables an administrator to config
 
 The organization functions like a log-in company that spans all CX Enterprise products and applications. Most often, an organization is your company name. However, a company can have many organizations. 
 
+**Organization menu**
+
 ![CX Enterprise Organizations](../assets/organizations-menu.png)
 
 To verify that you have logged in to your correct organization, click **[!UICONTROL Profile]** to see the default organization name. If you have access to more than one organization, you can also view and switch to another organization in the header bar.
@@ -49,11 +51,13 @@ If your organization uses Federated IDs, CX Enterprise allows you to sign in wit
     
 For example, for an organization with Federated IDs and the domain `example.com`, set your URL link to `https://experience.adobe.com/#/sso:@example.com`. You can also go directly to a specific application by bookmarking this URL, appended with the application path. (For example, for Adobe Analytics, `https://experience.adobe.com/#/sso:@example.com/analytics`.)
 
-### Federated guest accounts
+## Federated guest accounts
 
-You can enable [federated guest access](https://helpx.adobe.com/business/enterprise/using/federated-guest-access.html) to securely authenticate guest users on your own domain. Those users can switch between accounts within the existing organization on any CX Enterprise page.
+You can enable [federated guest access](https://helpx.adobe.com/business/enterprise/using/federated-guest-access.html) to securely authenticate guest users on your own domain. If enabled, the Organization menu changes to enable those users to switch between accounts within the existing organization on any CX Enterprise page.
 
 To switch to a federated guest account, locate **[!UICONTROL Other Accounts]** in the **[!UICONTROL Organization]** menu on any [CX Enterprise](https://experience.adobe.com) page.
+
+**Organization menu for a federated guest account**
 
 ![Federated account switcher](../assets/federated-account-switcher.png)
 

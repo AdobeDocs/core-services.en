@@ -52,7 +52,7 @@ For release notes covering all applications, see [CX Enterprise Release Notes](h
 
 | Date | Update | Description |
 | ------- | ------- | ------- |
-| July 10, 2026 | CX Enterprise support for Federate Guest accounts | If you've enabled [Federated Guest Access](https://helpx.adobe.com/business/enterprise/using/federated-guest-access.html) to securely authenticate guest users on your own domain, CX Enterprise lets those users switch between accounts. Account switching is available from the Organization switcher on any [CX Enterprise](https://experience.adobe.com) page. |
+| July 10, 2026 | CX Enterprise support for Federated Guest Access | If you've enabled [Federated Guest Access](https://helpx.adobe.com/business/enterprise/using/federated-guest-access.html) to securely authenticate guest users on your own domain, CX Enterprise lets those users switch between accounts. Account switching is available from the Organization switcher on any [CX Enterprise](https://experience.adobe.com) page. |
 
 ## June 2026
 
