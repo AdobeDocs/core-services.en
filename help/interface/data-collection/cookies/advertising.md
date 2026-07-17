@@ -9,8 +9,6 @@ level: Experienced
 exl-id: 6818edea-31b1-49fc-bca2-32828c7ca78d
 TQID: 'https://experienceleague.adobe.com/jr9RwaF63elDUN-XewIdrPNsGb6T5wo98vktP5U6jIM'
 product_v2:
-  - id: e1971122-7081-4556-9222-8a31bd71800c
-    internal-label: Experience Cloud Services
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
 feature_v2:

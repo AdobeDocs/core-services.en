@@ -11,8 +11,6 @@ exl-id: c82821c4-aa5d-48ae-8bef-5937fede8db2
 autotag-review: '2026-05-12T21:16:07.250Z'
 TQID: 'https://experienceleague.adobe.com/tONTr5mo5qLUxNS-q-uHGMCc5jKkURApIR-2RW0aV3w'
 product_v2:
-  - id: e1971122-7081-4556-9222-8a31bd71800c
-    internal-label: Experience Cloud Services
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
 feature_v2:
