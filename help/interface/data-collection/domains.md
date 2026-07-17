@@ -6,10 +6,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: a15918f0-c03b-4d32-a254-47f46023b127
-TQID: https://experienceleague.adobe.com/ULsmTOkKlh0XCTxITC7OdSC6cDT4aCty4bilg04EV4w
-product_v2:
-  - id: e1971122-7081-4556-9222-8a31bd71800c
-    internal-label: Experience Cloud Services
+TQID: 'https://experienceleague.adobe.com/ULsmTOkKlh0XCTxITC7OdSC6cDT4aCty4bilg04EV4w'
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

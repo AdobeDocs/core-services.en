@@ -87,28 +87,6 @@ You can view your organization ID, along with other account information, using t
 
    `C538193582390300A495CC9@AdobeOrg`
 
-## Link an application account to an Adobe ID 
-
-Typically, CX Enterprise administrators grant access to applications and services. In rare circumstances, you can link application credentials to an Adobe ID.
-
-1. Follow the steps in your email invitation to CX Enterprise.
-
-1. Log in using your Adobe ID or Enterprise ID.
-
-1. Click the **[!UICONTROL Application selector]**. ( ![menu](../assets/apps-icon.png)).
-
-   ![Link an application account to an Adobe ID](../assets/solutions-active.png)
-
-   The applications to which you have access are colored.
-   
-1. Click the desired application.
-
-   ![Click your application](../assets/analytics-link-accounts.png)
-
-   This type of message displays if you are part of the appropriate group (and have permission to the application) but have not yet linked your account credentials to your Adobe ID.
-
-1. Click **[!UICONTROL Link Account]**, then provide your credentials.
-
 ## Specify a default organization 
 
 You can specify a default organization to use when you log in.
@@ -119,13 +97,3 @@ You can specify a default organization to use when you log in.
 
 
 ![Edit Profile](../assets/edit-profile.png) 
-
-## Troubleshoot account linking issues 
-
-Help on problems that arise from account linking.
-
-Typically, account linking fails because the Adobe ID is linked to a previous user. When account linking fails, you can:
-
-* [Contact Adobe Support](https://experienceleague.adobe.com/?support-solution=General#support).
-* Access your application using the standard sign in while the issue is being solved.
-

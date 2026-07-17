@@ -1,15 +1,12 @@
 ---
-title: "[!DNL Customer Attributes] Support for California Consumer Privacy Act"
+title: '[!DNL Customer Attributes] Support for California Consumer Privacy Act'
 description: Learn about [!DNL Customer Attributes] support for California Consumer Privacy Act
 feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 320defc7-2cd5-4481-955d-77cf6fbfef6d
-TQID: https://experienceleague.adobe.com/YPl1rlZRciwN6GM7mtkqMKjPsW-H1ueMG4zqbH8auho
-product_v2:
-  - id: e1971122-7081-4556-9222-8a31bd71800c
-    internal-label: Experience Cloud Services
+TQID: 'https://experienceleague.adobe.com/YPl1rlZRciwN6GM7mtkqMKjPsW-H1ueMG4zqbH8auho'
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
