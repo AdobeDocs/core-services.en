@@ -44,7 +44,7 @@ Learn where documentation updates occur for the central interface and administra
 
 ## June 2026
 
-* Published [Agentic AI monitoring](../features/monitoring.md) with coverage of the License Usage and Agentic AI monitoring dashboards, including Overview, Users, Feedback, and AI Credits views, conversation replay, and permissions for governance users.
+* Published [Agentic AI monitoring](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/overview/monitoring) with coverage of the License Usage and Agentic AI monitoring dashboards, including Overview, Users, Feedback, and AI Credits views, conversation replay, and permissions for governance users.
 * Added [June 2026 release notes](release-notes.md) for agentic AI usage monitoring.
 
 ## May 2026
@@ -53,16 +53,16 @@ April and May updates for the CX Enterprise central interface guide:
 
 * Rebranded documentation from Experience Cloud to **CX Enterprise** across the guide, including descriptions, link text, and autotag metadata.
 * Added [April 2026 release notes](release-notes.md) for the refreshed home page at `https://experience.adobe.com/home` (UI refresh, dark mode, and accessibility improvements).
-* Updated [Agentic AI in CX Enterprise](../features/agentic-ai.md): Adobe Marketing Agent for Microsoft 365 Copilot, revised agent capabilities, and a **Health Data / HIPAA-ready** column in the existing-apps agent table.
+* Updated [Agentic AI in CX Enterprise](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/overview/agentic-ai): Adobe Marketing Agent for Microsoft 365 Copilot, revised agent capabilities, and a **Health Data / HIPAA-ready** column in the existing-apps agent table.
 * Minor updates to [Regional data collection](../data-collection/rdc.md), [Validate hostname forwarding](../data-collection/adobe-managed-cert.md), and [Terminology](terms.md).
 
 ## March 2026
 
-Added [AI jobs and credits consumption](../features/ai-credit-consumption.md)
+Added [AI jobs and credits consumption](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/overview/ai-credit-consumption)
 
 ## November 2025
 
-Updates to [Agentic AI in CX Enterprise](../features/agentic-ai.md)
+Updates to [Agentic AI in CX Enterprise](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/overview/agentic-ai)
 
 ## October 2025
 

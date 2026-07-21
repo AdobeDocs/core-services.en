@@ -10,10 +10,10 @@ index: true
 
 + [CX Enterprise interface and administration](/help/interface/experience-cloud.md)
 + AI in CX Enterprise {#features}
-  + [Generative AI](/help/interface/features/generative-ai.md)
-  + [Agentic AI](features/agentic-ai.md)
-  + [Agentic AI monitoring](/help/interface/features/monitoring.md)
-  + [Agent jobs and AI credit consumption](/help/interface/features/ai-credit-consumption.md)
+  + [Generative AI](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/overview/generative-ai)
+  + [Agentic AI](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/overview/agentic-ai)
+  + [Agentic AI monitoring](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/overview/monitoring)
+  + [Agent jobs and AI credit consumption](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/overview/ai-credit-consumption)
   + [Agentic tools](https://experienceleague.adobe.com/en/docs/cx-enterprise-agentic-tools/using/overview)
 + Administration {#administration}
   + [Account preferences and notifications](/help/interface/features/account-preferences.md)
