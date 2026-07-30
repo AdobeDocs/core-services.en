@@ -64,6 +64,7 @@ Follow these steps to implement a new certificate for first-party data collectio
 1. Open a ticket with Adobe Customer Care requesting to set up first-party data collection on the Adobe-managed certificate program. If your organization has data residency or compliance requirements, specify your desired [RDC type](rdc.md) in your request.
 1. Upon receiving the ticket, the Adobe representative provides you with a CNAME record. This record must be configured on your company's DNS server before Adobe can purchase the certificate on your behalf. For example, the hostname `data.example.com` points to `hiodsibxvip01.data.adobedc.net`.
 1. When the CNAME record is in place on your organization's servers, Adobe works with DigiCert to purchase and install a certificate on Adobe data collection servers.
+1. If you need an update to your `robots.txt` file when hosted by Adobe CNAME for first-party purposes, reach out to Customer Care with a request. Such a request is relevant when you want to update the `robots.txt` file to prevent Google from crawling your subdomains.
 
 ## Validate hostname forwarding
 
