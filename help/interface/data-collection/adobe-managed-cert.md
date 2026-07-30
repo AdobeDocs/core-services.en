@@ -54,11 +54,11 @@ topic_v2:
 
 The Adobe-managed certificate program is the recommended process for setting up first-party certificates needed for a CNAME implementation. The program is fully automated once configured. It renews certificates in a timely manner so that there is no impact to data collection due to expired certificates. The program is free for your first 100 CNAMEs.
 
-If you currently manage your own certificates, you are responsible for purchasing, maintaining, and providing a certificate to Adobe for first-party cookie use. You can contact Adobe Customer Care to discuss migrating to the Adobe-managed certificate program.
+If you currently manage your own certificates, you are responsible for purchasing, maintaining, and providing a certificate to Adobe for first-party cookie use. To discuss migrating to the Adobe-managed certificate program, contact Adobe Customer Care.
 
 ## Implementation
 
-Follow these steps to implement a new certificate for first-party data collection:
+To implement a new certificate for first-party data collection, follow these steps:
 
 1. Download and fill out the [First-party domain request form](cookies/assets/First_Party_Domain_Request_Form.xlsx)
 1. Open a ticket with Adobe Customer Care requesting to set up first-party data collection on the Adobe-managed certificate program. If your organization has data residency or compliance requirements, specify your desired [RDC type](rdc.md) in your request.
@@ -124,7 +124,7 @@ Aliases: data.example.com
 
 ## Update implementation code
 
-Once you have validated that your certificate works correctly, you can update your Adobe implementation to use your new CNAME hostname.
+To use your new CNAME hostname, update your Adobe implementation once you have validated that your certificate works correctly.
 
 * **Web SDK tag extension**: Update the [[!UICONTROL Edge domain]](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/configure/general) field when configuring the extension.
 * **Web SDK (alloy)**: Update the [`edgeDomain`](https://experienceleague.adobe.com/en/docs/experience-platform/collection/js/commands/configure/edgedomain) property within the `configure` command.
@@ -145,13 +145,13 @@ Thirty days before your first-party certificate expires, Adobe validates whether
 
 +++Is this process secure?
 
-Yes. The Adobe-managed certificate program is more secure than your organization providing Adobe with a certificate. No certificate or private key changes hands outside of Adobe and the issuing certificate authority.
+Yes. The Adobe-managed certificate program is more secure than your organization providing Adobe with a certificate. No certificate or private key is transferred outside of Adobe and the issuing certificate authority.
 
 +++
 
 +++How can Adobe purchase a certificate for our domain?
 
-The certificate can only be purchased when you have pointed the specified hostname to an Adobe-owned hostname. You essentially delegate this hostname to Adobe and allow Adobe to purchase the certificate on your behalf.
+The certificate can only be purchased when you have pointed the specified hostname to an Adobe-owned hostname. You delegate this hostname to Adobe and allow Adobe to purchase the certificate on your behalf.
 
 +++
 
@@ -175,7 +175,7 @@ No. Adobe offers this service to all Adobe CX Enterprise customers at no additio
 
 +++What cipher security levels does Adobe offer?
 
-Adobe offers two cipher security levels to meet varying customer needs for security on first-party data collection. These levels determine which encryption algorithms are supported for HTTPS connections with Adobe servers. Adobe regularly reviews and updates the set of supported algorithms based on current security practices. If you would like to change your cipher security settings, contact Customer Care.
+Adobe offers two cipher security levels to meet varying customer needs for security on first-party data collection. These levels determine which encryption algorithms are supported for HTTPS connections with Adobe servers. Adobe regularly reviews and updates the set of supported algorithms based on current security practices. To change your cipher security settings, contact Customer Care.
 
 * **Standard** requires TLS 1.2 or newer and at least 128-bit encryption. It is designed to provide the widest device compatibility while maintaining secure encryption.
 * **High** requires TLS 1.2 or newer and removes support for weaker ciphers. It is designed for customers who desire the strongest encryption and are not concerned about support for older devices.
@@ -191,7 +191,7 @@ The following clients are known to be unable to connect with cipher security set
 
 +++What HTTPS certificate types are supported?
 
-Adobe supports both RSA and ECC certificate types to meet varying customer needs. RSA certificates are more widely supported for clients, but ECC certificates use less processing on both the server and client side. For Adobe-managed certificates, both RSA and ECC are provided. For customer-managed certificates, RSA is required and ECC is recommended. Modern clients support both RSA and ECC. The following clients typically only support RSA certificates:
+Adobe supports both RSA and ECC certificate types to meet varying customer needs. RSA certificates are more widely supported for clients, but ECC certificates use less processing on both the server and client side. For Adobe-managed certificates, both RSA and ECC are provided. For customer-managed certificates, RSA is required and ECC is recommended. Modern clients support both RSA and ECC. The following clients support only RSA certificates:
 
 * Windows Vista and earlier (last updated in 2012)
 * Windows Phone 8.0 and earlier (last updated in 2014)
