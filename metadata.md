@@ -3,7 +3,7 @@ title: CX Enterprise Central UI and Administration
 description: Learn about UI components, user and product administration in the Adobe Admin Console, Audience Library, Customer Attributes, CX Enterprise Assets, and more.
 cloud: Experience Cloud
 product: experience cloud
-solution: CX Enterprise
+solution: Experience Cloud Services
 feature-set: Experience Cloud Services,Experience Cloud
 solution-title: Experience Platform
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
