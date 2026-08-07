@@ -1,10 +1,10 @@
 ---
 title: User and Product License Management
 description: Manage users and product licenses in Admin Console for CX Enterprise applications.
-application: Experience Cloud
 index: true
 feature: Admin Console
 topic: Administration
+solution: CX Enterprise
 role: Admin
 level: Experienced
 exl-id: c82821c4-aa5d-48ae-8bef-5937fede8db2
