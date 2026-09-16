@@ -2,11 +2,17 @@
 description: Learn about central interface components for CX Enterprise. Get help on user and product administration in the Admin Console, enable applications for CX Enterprise services. Get help on Audience Library, Customer Attributes, CX Enterprise Assets, and more.
 title: Experience Cloud Interface and Administration
 hide: true
-hidefromtoc: yes
+hidefromtoc: 'yes'
 feature: Central Interface Components
 topic: Administration
 role: Admin
 level: Experienced
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # CX Enterprise interface and administration
 
