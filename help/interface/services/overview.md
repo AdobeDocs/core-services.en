@@ -7,10 +7,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 020a6478-13ef-42c0-80de-7867cfe0c937
-TQID: https://experienceleague.adobe.com/Nau7SMLz4i1HEbhaxGzwnQfOfI8KNMtvGLTMenhpovA
+TQID: 'https://experienceleague.adobe.com/Nau7SMLz4i1HEbhaxGzwnQfOfI8KNMtvGLTMenhpovA'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-    internal-label: Experience Cloud
+    internal-label: CX Enterprise
 feature_v2:
   - id: dab36b01-8bfa-48f3-8392-626455a058e6
     internal-label: Experience Cloud services
@@ -22,12 +22,15 @@ subfeature_v2:
   - id: d27b1945-f442-4607-91bd-537a0b16e687
     internal-label: Assets
   - id: ecb4a972-6786-444c-a014-abc528b9407a
-    internal-label: Customer attributes (AEC)
+    internal-label: Customer attributes
   - id: fef08361-6ac5-460c-93fe-d063e40b6a49
     internal-label: Getting started
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

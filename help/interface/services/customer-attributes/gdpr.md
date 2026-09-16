@@ -1,18 +1,21 @@
 ---
-title: "[!DNL Customer Attributes] Support for General Data Protection Regulation"
+title: '[!DNL Customer Attributes] Support for General Data Protection Regulation'
 description: Learn about Customer Attributes support for General Data Protection Regulation
 feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 02417c0c-6780-4699-9470-f1685c3cd25d
-TQID: https://experienceleague.adobe.com/wU6Y5XK5Fs9-w7Jl7THXjturzTVrsB7eh7GdExsS2TQ
+TQID: 'https://experienceleague.adobe.com/wU6Y5XK5Fs9-w7Jl7THXjturzTVrsB7eh7GdExsS2TQ'
 product_v2:
   - id: e1971122-7081-4556-9222-8a31bd71800c
     internal-label: Experience Cloud Services
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

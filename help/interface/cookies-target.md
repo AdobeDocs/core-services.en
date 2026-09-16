@@ -1,13 +1,24 @@
 ---
 description: Learn how [!DNL Adobe Target] uses cookies to give website operators the ability to test which online content and offers are more relevant to visitors.
 solution: Experience Cloud,Analytics,Target
-title: Adobe Target cookies 
+title: Adobe Target cookies
 uuid: 44f7e32e-8d99-4682-8b54-8364d001b403
 feature: Cookies
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: c4399cc0-8333-47b8-b830-2ba7359f464a
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+  - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+    internal-label: Target
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # [!DNL Adobe Target] cookies
 

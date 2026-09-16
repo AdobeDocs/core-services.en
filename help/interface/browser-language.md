@@ -7,13 +7,15 @@ topic: Administration
 role: Admin
 level: Intermediate
 exl-id: cc44008e-8b8a-4afb-b692-0ef9b87d5b21
-TQID: https://experienceleague.adobe.com/-1yWj0RNl4BeOPW8Z1c-vHOWS-ez38qqMBxwPma4H-Y
+TQID: 'https://experienceleague.adobe.com/-1yWj0RNl4BeOPW8Z1c-vHOWS-ez38qqMBxwPma4H-Y'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-    internal-label: Experience Cloud
+    internal-label: CX Enterprise
 feature_v2:
   - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
     internal-label: Administration
+  - id: f41eca2a-7270-51d6-bfa7-4a123d0d38ab
+    internal-label: Account Preferences
 subfeature_v2:
   - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
     internal-label: Support

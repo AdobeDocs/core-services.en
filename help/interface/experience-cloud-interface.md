@@ -1,11 +1,23 @@
 ---
-description: Learn how to sign in and about the central interface components in CX Enterprise. Learn about global search, your account preferences, and how to navigate the interface and getting help. 
+description: Learn how to sign in and about the central interface components in CX Enterprise. Learn about global search, your account preferences, and how to navigate the interface and getting help.
 solution: Experience Cloud
-title: Experience Cloud Central UI Components 
+title: Experience Cloud Central UI Components
 feature: Central Interface Components
 topic: Administration
 role: Admin, User
 level: Beginner, Intermediate, Experienced
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # CX Enterprise central interface components
 
