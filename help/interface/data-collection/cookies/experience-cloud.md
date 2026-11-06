@@ -1,7 +1,7 @@
 ---
 description: Learn how the Visitor ID Service is stored and used across CX Enterprise applications.
 solution: Experience Cloud,Analytics,Target
-title: Experience Cloud Cookies
+title: CX Enterprise Cookies
 uuid: a4788c1c-0402-4fc8-b894-cd24fa794f4f
 feature: Cookies
 topic: Administration
@@ -50,7 +50,7 @@ Adobe CX Enterprise uses cookies to store a visitor ID that is used across CX En
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Information Stored </p> </td> 
-   <td colname="col2"> <p> Contains a copy of the CX Enterprise ID (ECID) or MID. The MID is stored in a key-value pair that follows this syntax, s_ecid=MCMID|&lt;ECID&gt; </p> </td> 
+   <td colname="col2"> <p> Contains a copy of the ECID or MID. The MID is stored in a key-value pair that follows this syntax, s_ecid=MCMID|&lt;ECID&gt; </p> </td>
   </tr> 
   <tr> 
    <td colname="col1"> <p> Expiration </p> </td> 
@@ -77,7 +77,7 @@ Adobe CX Enterprise uses cookies to store a visitor ID that is used across CX En
 
 **Cookie Name: AMCV_###@AdobeOrg**
 
-The [Visitor ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html) uses JavaScript to store a unique visitor ID in an `AMCV_###@AdobeOrg` cookie on the domain of the current website, where `###` represents a random string of characters, such as `AMCV_1FD6776A524453CC0A490D44%40AdobeOrg.` 
+The [Visitor ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html) uses JavaScript to store an ECID in an `AMCV_###@AdobeOrg` cookie on the domain of the current website, where `###` represents a random string of characters, such as `AMCV_1FD6776A524453CC0A490D44%40AdobeOrg.` 
 
 See also, [Cookies and the Visitor ID Service](https://experienceleague.adobe.com/docs/id-service/using/intro/cookies.html).
 

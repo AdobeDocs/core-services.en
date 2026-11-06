@@ -1,6 +1,6 @@
 ---
 description: Learn how solutions and services in Adobe CX Enterprise use cookies.
-title: How Cookies Are Used in Experience Cloud
+title: How Cookies Are Used in CX Enterprise
 uuid: 4255a13a-917b-4b5f-a7d4-4b2e7521d189
 exl-id: 60f1a89e-d989-461b-a6a3-c1df022cd30b
 TQID: https://experienceleague.adobe.com/GH5WHcI9440NKYpUzizHlhOMlBSf-Y0WQ5GDBaSvqNI

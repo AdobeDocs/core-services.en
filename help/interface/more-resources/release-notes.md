@@ -1,7 +1,7 @@
 ---
 description: Learn about the latest features, release notes, and known issues for CX Enterprise services like Customer Attributes, Audiences, and user management.
 solution: Experience Cloud
-title: Cumulative Release Notes for Experience Cloud Interface
+title: Cumulative Release Notes for CX Enterprise Interface
 uuid: fcff8cc6-e587-4bf2-9a75-261d4eabc7d4
 feature-set: Experience Cloud
 feature: Release Notes
@@ -490,7 +490,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 
 **Known Issues** 
 
-* Linking and unlinking your dynamic tag management organization with CX Enterprise is not working for newly created CX Enterprise organizations. Adobe is working to fix this and restore normal functionality with the May release. If you experience problems when trying to single-sign on into dynamic tag management via CX Enterprise, use the legacy login at `dtm.adobe.com`.
+* Linking and unlinking your dynamic tag management organization with CX Enterprise is not working for newly created Adobe organizations. Adobe is working to fix this and restore normal functionality with the May release. If you experience problems when trying to single-sign on into dynamic tag management via CX Enterprise, use the legacy login at `dtm.adobe.com`.
 * A known issue is preventing audience sharing from report suites which are not owned by the linked Analytics account. Remedial efforts are underway
 
 ## March 2015
