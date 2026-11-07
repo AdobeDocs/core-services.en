@@ -1,5 +1,5 @@
 ---
-title: IP Addresses Used by Experience Cloud
+title: IP Addresses Used by CX Enterprise
 description: If your organization's firewall blocks IP addresses that originate from Adobe, use this list to update your firewall settings.
 exl-id: 1fca8d3b-ae8b-4095-96ef-d165f912b4c6
 TQID: https://experienceleague.adobe.com/EPoerIJdL9FVBFB32WRB9zBMdXJarSu90hJIsn7Vpps

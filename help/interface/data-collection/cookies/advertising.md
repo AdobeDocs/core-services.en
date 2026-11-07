@@ -37,7 +37,7 @@ Adobe Advertising (formerly Adobe Advertising Cloud) uses cookies to map ad enga
 
 >[!NOTE]
 >
->The beta Adobe Advertising Javascript tag that uses the [Adobe CX Enterprise ID (ECID) Service](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html) creates first-party [CX Enterprise](experience-cloud.md) `s_ecid` cookies, not Adobe Advertising cookies.
+>The beta Adobe Advertising Javascript tag that uses the [Visitor ID Service](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html) creates first-party [CX Enterprise](experience-cloud.md) `s_ecid` cookies, not Adobe Advertising cookies.
 
 | Cookie name | Expiration | Size | Location | Description |
 | --- | --- | --- | --- | --- |
