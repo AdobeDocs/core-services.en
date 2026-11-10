@@ -1,6 +1,6 @@
 ---
 description: Learn how to validate the [!DNL Customer Attributes] schema in Adobe CX Enterprise.
-solution: Experience Cloud
+solution: CX Enterprise
 title: How to Validate the [!DNL Customer Attributes] Schema
 feature: Customer Attributes
 topic: Administration

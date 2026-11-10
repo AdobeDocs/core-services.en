@@ -1,6 +1,6 @@
 ---
 description: Learn how to upload customer attribute data via FTP to CX Enterprise.
-solution: Experience Cloud
+solution: CX Enterprise
 title: Upload Customer Attribute Data File via FTP
 feature: Customer Attributes
 topic: Administration

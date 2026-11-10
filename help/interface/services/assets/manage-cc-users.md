@@ -1,6 +1,6 @@
 ---
 description: Learn about administrative tools for managing approved Creative Cloud users in CX Enterprise.
-solution: Experience Cloud
+solution: CX Enterprise
 title: Manage Creative Cloud Users in CX Enterprise
 feature: Assets
 topic: Administration

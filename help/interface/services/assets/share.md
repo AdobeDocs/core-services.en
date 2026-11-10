@@ -1,6 +1,6 @@
 ---
 description: Learn how to share a CX Enterprise asset folder with Creative Cloud users.
-solution: Experience Cloud
+solution: CX Enterprise
 title: Share a CX Enterprise Asset Folder
 uuid: 105cf627-0148-4bf8-ab6a-7afa612e198c
 feature: Assets

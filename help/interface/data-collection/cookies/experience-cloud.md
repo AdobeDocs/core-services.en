@@ -1,6 +1,6 @@
 ---
 description: Learn how the Visitor ID Service is stored and used across CX Enterprise applications.
-solution: Experience Cloud,Analytics,Target
+solution: CX Enterprise,Analytics,Target
 title: CX Enterprise Cookies
 uuid: a4788c1c-0402-4fc8-b894-cd24fa794f4f
 feature: Cookies

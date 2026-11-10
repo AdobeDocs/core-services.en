@@ -1,7 +1,7 @@
 ---
 title: How to Create an Audience in Audience Library
 description: Find out how to use attribute rules to create a sharable  audience in Audience Library. Learn to configure a rule and define a composite audience.
-solution: Experience Cloud
+solution: CX Enterprise
 uuid: 7e622539-296e-4ff3-93b0-ec1c08b35429
 feature: Audience Library
 topic: Administration

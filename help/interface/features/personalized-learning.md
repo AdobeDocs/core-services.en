@@ -1,6 +1,6 @@
 ---
 description: Receive personalized help and promotions via email, in your CX Enterprise products, and within the Experience League Communities based on your Usage Data.
-solution: Experience Cloud
+solution: CX Enterprise
 title: CX Enterprise Personalized Learning Preferences
 exl-id: ad6c8daf-c8ad-42e9-8ff0-cef59dc0da3f
 TQID: https://experienceleague.adobe.com/XL454ZwYb9liDNLbDcA7ZYRG-8OHpwuQEmvHCo0q-j4

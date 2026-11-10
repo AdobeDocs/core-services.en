@@ -1,6 +1,6 @@
 ---
 description: Learn about Unified Search feature for certain applications in CX Enterprise.
-solution: Experience Cloud
+solution: CX Enterprise
 title: CX Enterprise Unified Search
 index: true
 feature: Central Interface Components
