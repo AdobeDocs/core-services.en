@@ -1,6 +1,6 @@
 ---
 description: Learn about browser support and get common questions answered for administrators in the Adobe CX Enterprise.
-solution: Experience Cloud
+solution: CX Enterprise
 title: Frequently Asked Questions about CX Enterprise
 index: true
 feature: Admin Console

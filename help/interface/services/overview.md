@@ -1,6 +1,6 @@
 ---
 description: Learn about CX Enterprise user and product management, Audiences, Customer Attributes, Journey Orchestration, Offers, Places, Experience Platform, and Mobile Services.
-solution: Experience Cloud
+solution: CX Enterprise
 title: Overview of CX Enterprise Services
 feature: Central Interface Components
 topic: Administration

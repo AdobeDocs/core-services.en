@@ -1,6 +1,6 @@
 ---
 description: Learn how to configure subscriptions in [!DNL Customer Attributes] for Analytics and Target, and to activate a data source.
-solution: Experience Cloud
+solution: CX Enterprise
 title: How to Configure Subscriptions in [!DNL Customer Attributes]
 feature: Customer Attributes
 topic: Administration

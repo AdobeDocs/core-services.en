@@ -1,6 +1,6 @@
 ---
 description: Learn about organizations (IMS organization ID), switching accounts, and linking solution accounts.
-solution: Experience Cloud
+solution: CX Enterprise
 title: Organizations and Accounts
 uuid: ae47ad18-ac33-4efa-8b68-2bfaf77397aa
 feature: Organizations

@@ -1,6 +1,6 @@
 ---
 description: Learn how to configure CX Enterprise Triggers.
-solution: Experience Cloud
+solution: CX Enterprise
 title: Overview of Triggers
 uuid: dab536e3-1969-4661-919e-5b15f423fecd
 feature: Admin Console

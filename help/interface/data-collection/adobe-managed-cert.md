@@ -1,6 +1,6 @@
 ---
 description: Learn how to set up secure certificates for use with Adobe CX Enterprise first-party cookies.
-solution: Experience Cloud,Analytics
+solution: CX Enterprise,Analytics
 title: Adobe-Managed Certificate Program
 index: true
 snippet: 'y'

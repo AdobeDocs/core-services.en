@@ -1,6 +1,6 @@
 ---
 description: Get answers to frequently asked questions about [!DNL Customer Attributes] in Adobe CX Enterprise, for Adobe Analytics and Adobe Target.
-solution: Experience Cloud
+solution: CX Enterprise
 title: Frequently Asked Questions about [!DNL Customer Attributes]
 feature: Customer Attributes
 topic: Administration

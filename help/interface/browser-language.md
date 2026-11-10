@@ -1,7 +1,7 @@
 ---
 title: Browser and Language Support
 description: Learn about browser and language support for CX Enterprise applications. Select a primary and secondary language in your account profile.
-solution: Experience Cloud
+solution: CX Enterprise
 feature: Account Preferences
 topic: Administration
 role: Admin

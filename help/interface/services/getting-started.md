@@ -1,6 +1,6 @@
 ---
 description: Modernize your Adobe Analytics and Adobe Target applications for cross-application services. Learn how to start using CX Enterprise services.
-solution: Experience Cloud
+solution: CX Enterprise
 title: Get Started with CX Enterprise
 index: true
 feature: Central Interface Components

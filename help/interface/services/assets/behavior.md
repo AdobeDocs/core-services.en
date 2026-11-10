@@ -1,7 +1,7 @@
 ---
 description: Learn about rules for how shared folders behave when moved, deleted, and restored in CX Enterprise.
 keywords: asset sharing;Creative Cloud;core services
-solution: Experience Cloud
+solution: CX Enterprise
 title: Behavior of Shared Folders
 uuid: 86348401-f4b1-4efe-acd1-7e73a7030edf
 feature: Assets

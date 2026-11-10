@@ -1,6 +1,6 @@
 ---
 description: Learn about the Exchange Marketplace, a single destination where you can search, browse, select, pay, and download Digital Marketing extensions via apps.
-solution: Experience Cloud
+solution: CX Enterprise
 title: Adobe Exchange
 uuid: 73db5cc5-5fb2-43a2-a164-5cbca9e9a206
 feature: Customer Attributes
