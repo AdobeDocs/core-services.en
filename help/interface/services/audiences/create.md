@@ -34,15 +34,11 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Create an audience
+# Create an audience {#create-audience}
 
-In [!UICONTROL Audience Library], you can use attribute rules to create an audience and define a composite audience for sharing in CX Enterprise applications.
+In [!UICONTROL Audience Library], you can use attribute rules to create an audience, build individual rules, and combine rules into a composite audience for sharing across CX Enterprise applications.
 
-This article helps you understand how to:
-
-* Create an audience
-* Create a rule
-* Use rules to define a composite audience
+## Composite audiences {#composite-audiences}
 
 The following graphic represents two rules in a composite audience.
 
@@ -54,14 +50,9 @@ Each circle represents a rule that defines audience membership. Visitors that qu
 >
 >The audience is fully defined after data collection for the specified period completes.
 
-The following example shows how to create the rules for a composite audience. This audience is composed of:
+## Build the audience rules {#build-audience-rules}
 
-* Home & Garden section derived from page data, or raw analytics data.
-* Chrome and Safari users derived from an [!DNL Adobe Analytics] segment [published](overview.md) to [!DNL CX Enterprise].
-
-  ![Create the rules for a composite audience](assets/audience_create.png) 
-
-**To create an audience**
+Use the following steps to create an audience and define its rules in [!UICONTROL Audience Library].
 
 1. Click [!DNL CX Enterprise] apps (![Apps icon](assets/apps-icon.png)), then click **[!UICONTROL People]** > **[!UICONTROL Audience Library].**
 
@@ -82,7 +73,14 @@ The following example shows how to create the rules for a composite audience. Th
 
 1. Define audience rules, then click **[!UICONTROL Save].**
 
-**Example: Define rules for composite audience**
+## Composite audience example {#example-composite-audience}
+
+The following example shows how to create the rules for a composite audience. This audience is composed of:
+
+* Home & Garden section derived from page data, or raw analytics data.
+* Chrome and Safari users derived from an [!DNL Adobe Analytics] segment [published](overview.md) to [!DNL CX Enterprise].
+
+  ![Create the rules for a composite audience](assets/audience_create.png) 
 
 >[!NOTE]
 >
