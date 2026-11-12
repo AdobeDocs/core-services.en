@@ -34,15 +34,13 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Create and upload customer attribute data
+# Create and upload customer attribute data {#create-upload-customer-attribute-data}
 
-Create the customer attribute source (`.csv` and `.fin` files) and upload the data. You can activate the data source when you are ready. After the data source is active, share the attribute data to [!DNL Analytics] and [!DNL Target]. 
+Create a [!DNL Customer Attributes] data source, upload your enterprise customer data, and activate the source when you're ready. After the source is active, share the attribute data with [!DNL Analytics] and [!DNL Target].
 
-**[!DNL Customer Attributes] workflow**
+## Before you begin {#before-you-begin}
 
-![Customer Attributes workflow](assets/crs.png) 
-
-## Prerequisites for using [!DNL Customer Attributes] {#prerequisites}
+Before you upload customer attribute data, make sure you meet the following requirements.
 
 * **Group membership:** To upload the data, users must be members of the [!DNL Customer Attributes] group. You must also belong to either an Adobe Analytics group or an Adobe Target group.
 
@@ -54,7 +52,13 @@ Create the customer attribute source (`.csv` and `.fin` files) and upload the da
 
   See [How to deploy at.js](https://experienceleague.adobe.com/en/docs/target-dev/developer/client-side/overview).
 
-## Create a data file 
+## Customer Attributes workflow {#workflow}
+
+The following diagram shows the end-to-end workflow for creating, uploading, and using customer attribute data.
+
+![Customer Attributes workflow](assets/crs.png)
+
+## Create a data file {#create-data-file}
 
 This data is enterprise customer data from your CRM. The data might include subscriber data for products, including member IDs, entitled products, most-launched products, and so on.
 
@@ -68,10 +72,10 @@ This data is enterprise customer data from your CRM. The data might include subs
 
    ![Sample enterprise customer data file](assets/01_crs_usecase.png) 
 
-1. Before continuing, review the important information in [Data File Requirements](crs-data-file.md), before you upload the file.
-1. [Create a customer attribute source and upload the data](t-crs-usecase.md#create-source), described below.
+1. Review the important information in [Data File Requirements](crs-data-file.md) before you upload the file.
+1. Continue to [create the attribute source and upload the data](t-crs-usecase.md#create-source).
 
-## Create the attribute source and upload the data file 
+## Create the attribute source and upload the data file {#create-source}
 
 Perform these steps on the _[!UICONTROL Create Customer Attribute Source]_ page in CX Enterprise.
 
@@ -79,14 +83,14 @@ Perform these steps on the _[!UICONTROL Create Customer Attribute Source]_ page 
 >
 >When creating, modifying, or deleting customer attribute sources, there is a delay of up to one hour before IDs begin synchronizing with the new data source. You must have administrative rights in Audience Manager to create or modify customer attribute sources. Contact Audience Manager customer Care or consulting to obtain administrative rights.
 
-1. To open [!UICONTROL Customer Attributes], click **[!UICONTROL Apps]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**.
+1. Click **[!UICONTROL Apps]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]** to open [!UICONTROL Customer Attributes].
 
    ![Customer Attributes page](assets/cust-attr.png)
 
 1. Click **[!UICONTROL New]**.
 
    ![Step Result](assets/new-customer-attribute-source.png)
- 
+
 1. On the [!UICONTROL Create Customer Attribute Source] page, configure the following fields:
 
     * **[!UICONTROL Name:]** A friendly name for the data attribute source. For [!DNL Adobe Target], attribute names cannot include spaces. If an attribute with a space is passed, [!DNL Target] ignores it. Other characters not supported include: `< , >, ', "`. 
@@ -134,7 +138,6 @@ Perform these steps on the _[!UICONTROL Create Customer Attribute Source]_ page 
 The customer attribute record is created, and you can upload the file by editing the customer attribute.
 
 1. On the [!DNL Customer Attributes] page, click the attribute source.
-
 1. On the [!UICONTROL Edit Customer Data Source] page, click **[!UICONTROL File Upload]**.
 
    ![File Upload and Schema Validation](assets/file-upload-schema-validation.png) 
@@ -148,36 +151,37 @@ The customer attribute record is created, and you can upload the file by editing
    After uploading the file, table data is displayed under the [!UICONTROL File Upload] heading on this page. You can validate the schema, configure subscriptions, or set up the FTP. 
     
    ![attributes](assets/file_upload_attributes.png) 
-  
+
+### Review the upload results {#review-upload-results}
+
+After the upload finishes, review the following counts to confirm the data loaded as expected.
+
 * **[!UICONTROL Unique customer ID:]** Displays how many unique IDs you have uploaded to this attribute source. 
     
 * **[!UICONTROL Customer-Provided IDs Aliased to Experience Cloud Visitor IDs:]** Displays how many IDs have been aliased to ECIDs. 
     
 * **[!UICONTROL Customer-Provided IDs with High Alias Counts:]** Displays the count of customer-provided IDs with 500 or more aliased ECIDs. These customer-provided IDs most likely do not represent individuals but rather some sort of shared login. The system distributes the attributes associated with these IDs to the 500 most recent aliased ECIDs, until the alias count reaches 10,000. Then, the system invalidates the customer-provided ID and no longer distributes associated attributes.
-    
+
 ## Validate the schema {#validate-schema}
 
 The validation process lets you map display names and descriptions to uploaded attributes (strings, integers, numbers, and so on). You can also delete attributes by updating the schema.
 
-See [Validate the schema](validate-schema.md). 
+See [Validate the schema](validate-schema.md). To delete attributes, see [Delete attributes from the schema](#delete-attributes).
 
-To delete attributes, see [(Optional) Update the schema (deletes attributes)](t-crs-usecase.md). 
+## Delete attributes from the schema {#delete-attributes}
 
-## (Optional) Update the schema (delete attributes) 
-
-How to delete attributes and replace attributes in the schema.
+Remove a subscription to delete the attributes it provides, then upload a replacement file if you need to add attributes back.
 
 1. On the [!UICONTROL Edit Customer Attribute Source] page, remove the **[!UICONTROL Target]** or **[!UICONTROL Analytics]** subscription (under **[!UICONTROL Configure Subscriptions]**).
+1. Upload a new data file with the updated fields.
 
-1. [Upload a new data file with updated fields](t-crs-usecase.md).
-
-## Configure subscriptions and activate the attribute source 
+## Configure and activate subscriptions {#configure-subscriptions}
 
 Configuring a subscription sets up the data flow between CX Enterprise and applications. Activating the attribute source allows the data to flow to subscribed applications. The customer records you have uploaded are matched up with incoming ID signals from your web site or application.
 
 See [Configure subscriptions and activate the data source](subscription.md). 
 
-## Use [!DNL Customer Attributes] data in Adobe Analytics 
+## Use attribute data in [!DNL Analytics] {#use-in-analytics}
 
 With the data now available in applications like Adobe Analytics, you can report on the data, analyze it, and take the appropriate action in your marketing campaigns.
 
@@ -187,7 +191,7 @@ The following example shows an [!DNL Analytics] segment based on the uploaded at
 
 When you publish a segment to CX Enterprise, it becomes available in CX Enterprise Audiences and Audience Manager. 
 
-## Use [!DNL Customer Attributes] data in Adobe Target 
+## Use attribute data in [!DNL Target] {#use-in-target}
 
 In [!DNL Target], you can select a customer attribute from the [!UICONTROL Visitor Profile] section when creating an audience. All customer attributes have the prefix `crs.` in the list. Combine these attributes as required with other data attributes to build audiences.
 
