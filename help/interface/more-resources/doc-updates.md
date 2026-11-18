@@ -69,7 +69,7 @@ Updates to [Agentic AI in CX Enterprise](https://experienceleague.adobe.com/en/d
 
 ## October 2025
 
-Updated [Verify your organization](../experience-cloud.md) with note about error message if an administrator restricts access to Adobe products by IP addresses.
+Updated [Verify your organization](../home.md) with note about error message if an administrator restricts access to Adobe products by IP addresses.
 
 ## August 2025
 
@@ -126,7 +126,7 @@ Updated the [administration FAQ](faq.md) with information about how Adobe Suppor
 
 ## 24 August 2021
 
-Updated [Central Components](../experience-cloud.md) page (this guide's landing page). Added browser and language support, updates to organizations, sign-in, and added information about domains.
+Updated [Central Components](../home.md) page (this guide's landing page). Added browser and language support, updates to organizations, sign-in, and added information about domains.
 
 ## 6 August 2021
 
@@ -138,7 +138,7 @@ Reorganized guide's structure, table of contents.
 
 ## 1 June 2021
 
-Updated [landing page](../experience-cloud.md) with new help on accessing CX Enterprise, global search, preferences, and notifications.
+Updated [landing page](../home.md) with new help on accessing CX Enterprise, global search, preferences, and notifications.
 
 ## 19 August 2020
 
@@ -193,7 +193,7 @@ Added [CX Enterprise Integrations](../administration/integrations.md), a round-u
 
 ## 11 February 2016
 
-Added [CX Enterprise Assets](../services/assets/experience-cloud-assets.md).
+Added [CX Enterprise Assets](../services/assets/overview-assets.md).
 
 ## 15 January 2015
 

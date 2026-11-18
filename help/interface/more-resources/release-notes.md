@@ -379,7 +379,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
  <tbody> 
   <tr> 
    <td colname="col1"> <p>CX Enterprise Assets improvements </p> </td> 
-   <td colname="col2"> <p>In CX Enterprise Assets, you can store, share, and synchronize your digital assets from one central location. CX Enterprise Assets uses some of the features available in <span class="keyword"> Adobe Experience Manager</span> (AEM). </p> <p>See <a href="../services/assets/experience-cloud-assets.md" format="dita" scope="local"> CX Enterprise</a></p> </td> 
+   <td colname="col2"> <p>In CX Enterprise Assets, you can store, share, and synchronize your digital assets from one central location. CX Enterprise Assets uses some of the features available in <span class="keyword"> Adobe Experience Manager</span> (AEM). </p> <p>See <a href="../services/assets/overview-assets.md" format="dita" scope="local"> CX Enterprise</a></p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Account linking improvements </p> </td> 

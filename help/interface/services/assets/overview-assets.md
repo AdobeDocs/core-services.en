@@ -32,11 +32,11 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Overview of CX Enterprise Assets
+# Overview of CX Enterprise [!DNL Assets]
 
-CX Enterprise Assets provide a single, centralized repository of marketing-ready assets that you can share across applications. An asset is a digital document, image, video, or audio (or part thereof) that can have multiple renditions and can have sub-assets (for example, layers in a [!DNL Photoshop] file, slides in a [!DNL PowerPoint] file, pages in a PDF, files in a ZIP).
+CX Enterprise [!DNL Assets] provide a single, centralized repository of marketing-ready assets that you can share across applications. An asset is a digital document, image, video, or audio (or part thereof) that can have multiple renditions and can have sub-assets (for example, layers in a [!DNL Photoshop] file, slides in a [!DNL PowerPoint] file, pages in a PDF, files in a ZIP).
 
-Asset services include: 
+[!DNL Assets] service includes: 
 
 * Asset storage, management interface, embedded selection interface (accessed through applications).
 * Integrations with Creative Cloud, CX Enterprise collaboration, and CX Enterprise applications.
@@ -44,9 +44,8 @@ Asset services include:
 Using assets improves consistency and brand compliance, and speeds time to market. You can streamline workflows in applications: 
 
 * **[!DNL Adobe Target]**: Create experiences for A/B and multivariate tests.
-* **[!DNL Ad Cloud]**: Develop ad units across different channels and campaigns
+* **[!DNL Adobe Advertising]**: Develop ad units across different channels and campaigns
 * **[!DNL Adobe Campaign]**: Place assets into email newsletters and campaigns.
-
 
 ## Navigate to CX Enterprise Assets 
 
@@ -56,7 +55,7 @@ Using assets improves consistency and brand compliance, and speeds time to marke
 
 Navigate to an asset (or asset directory), then click **[!UICONTROL Select]**. 
 
-The toolbar provides quick access to features, including Search, Timeline, Renditions, Edit, Annotate, and Download. 
+The toolbar provides quick access to features, including [!UICONTROL Search], [!UICONTROL Timeline], [!UICONTROL Renditions], [!UICONTROL Edit], [!UICONTROL Annotate], and [!UICONTROL Download]. 
 
 ![Access the toolbar](../../assets/asset-tools.png) 
 
