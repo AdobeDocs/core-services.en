@@ -8,7 +8,9 @@ index: true
 ---
 # CX Enterprise interface and administration {#interface}
 
-+ [CX Enterprise interface and administration](/help/interface/experience-cloud.md)
++ [CX Enterprise interface and administration](/help/interface/home.md)
++ Get started {#get-started}
+  + [Get started using CX Enterprise](/help/interface/get-started-using-cxe.md)
 + Administration {#administration}
   + [Account preferences and notifications](/help/interface/features/account-preferences.md)
   + [Browser and language support](/help/interface/browser-language.md)
@@ -18,16 +20,16 @@ index: true
   + [Integrations](/help/interface/administration/integrations.md)
   + [Unified Search](/help/interface/features/search.md)
   + [Personalized learning preferences](/help/interface/features/personalized-learning.md)
-+ Interface services {#services}
-  + [Interface overview](/help/interface/services/overview.md)
-  + [Get started](/help/interface/services/getting-started.md)
-  + Assets {#assets}
-    + [Assets overview](/help/interface/services/assets/experience-cloud-assets.md)
++ Assets {#assets}
+    + [Assets overview](/help/interface/services/assets/overview-assets.md)
     + [Manage Creative Cloud users](/help/interface/services/assets/manage-cc-users.md)
     + [Share asset folders](/help/interface/services/assets/share.md)
     + [Upload an asset to a shared folder](/help/interface/services/assets/upload.md)
     + [Asset file requirements for sharing](/help/interface/services/assets/file-reqs.md)
     + [Behavior of shared folders](/help/interface/services/assets/behavior.md)
++ People {#services}
+  + [About shared features](/help/interface/services/overview.md)
+  + [Get started](/help/interface/services/getting-started.md)
   + Audience Library {#audiences}
     + [Audiences overview](/help/interface/services/audiences/overview.md)
     + [Create an audience](/help/interface/services/audiences/create.md)

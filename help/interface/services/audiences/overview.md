@@ -83,10 +83,10 @@ The following table describes how audiences are used in CX Enterprise applicatio
 
 | Element | Description |
 | --- | --- |
-|New|[Create an audience](https://experienceleague.adobe.com/en/docs/core-services/interface/services/audiences/create).|
+|New|[Create an audience](create.md).|
 |Title & Description|A column heading that identifies and describes the audience.|
 |Author|The person who created the audience segment.|
-|Source|Identifies where the audience was created.<ul><li>**Analytics:** A segment created in Adobe Analytics, then published to CX Enterprise.</li><li>**CX Enterprise:** A new audience [created in CX Enterprise Audiences](https://experienceleague.adobe.com/en/docs/core-services/interface/services/audiences/create).</li><li>**Audience Manager:** Audiences created Audience Manager automatically display in CX Enterprise Audiences.</li></ul>|
+|Source|Identifies where the audience was created.<ul><li>**Analytics:** A segment created in Adobe Analytics, then published to CX Enterprise.</li><li>**CX Enterprise:** A new audience [created in CX Enterprise Audiences](create.md).</li><li>**Audience Manager:** Audiences created Audience Manager automatically display in CX Enterprise Audiences.</li></ul>|
 |Current Size|The current audience size.|
 |Active|The active status of the segment.|
 

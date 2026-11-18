@@ -1,5 +1,5 @@
 ---
-description: Modernize your Adobe Analytics and Adobe Target applications for cross-application services. Learn how to start using CX Enterprise services.
+description: Modernize your Adobe Analytics and Adobe Target applications for cross-application services. Learn how to start using CX Enterprise People service.
 solution: CX Enterprise
 title: Get Started with CX Enterprise
 index: true
@@ -22,14 +22,16 @@ subfeature_v2:
     internal-label: Support
   - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
     internal-label: Organizations
-  - id: d27b1945-f442-4607-91bd-537a0b16e687
-    internal-label: Assets
   - id: eb7e29b9-c5e9-4ed0-8e4b-6465dabb3cb1
     internal-label: Admin tools
   - id: ecb4a972-6786-444c-a014-abc528b9407a
     internal-label: Customer attributes
   - id: fef08361-6ac5-460c-93fe-d063e40b6a49
     internal-label: Getting started
+  - id: e8b6b7ca-4f3c-4275-9b65-e43912bf78bf
+    internal-label: People Audience Library
+  - id: fe560ac6-1b84-42b7-9eee-bb033a8850d6
+    internal-label: People Customer Attributes
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
@@ -52,11 +54,11 @@ topic_v2:
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
 ---
-# Get started with CX Enterprise
+# Get started using the People service
 
-If you recently implemented CX Enterprise using [Experience Platform tags](https://experienceleague.adobe.com/en/docs/experience-platform/tags/home), you are already set up for [Customer Attributes](../services/overview.md) and CX Enterprise [Audiences](../services/audiences/overview.md). You can also manage users and products in [Admin Console](../administration/admin-console.md).
+If you recently implemented CX Enterprise using [Experience Platform tags](https://experienceleague.adobe.com/en/docs/experience-platform/tags/home), you are already set up for [Customer Attributes](../services/customer-attributes/attributes.md) and CX Enterprise [Audiences](../services/audiences/overview.md). You can also manage users and products in [Admin Console](../administration/admin-console.md).
 
-Existing customers can modernize their application implementations and implement CX Enterprise. Doing so enables you to use Customer Attributes and Audience features across Adobe Analytics, Audience Manager, and Adobe Target.
+Existing customers can modernize their application implementations and implement CX Enterprise. Doing so enables you to use [!UICONTROL Customer Attributes] and [!UICONTROL Audience] features across Adobe Analytics, Audience Manager, and Adobe Target.
 
 ## Sign in as an administrator {#admin-sign-in}
 
@@ -70,7 +72,7 @@ Most likely, you have users who are already members of application groups, such 
 
 When you map these groups to CX Enterprise enterprise groups, those users must manually link their application account credentials to their Adobe ID.
 
-See [Link accounts in CX Enterprise](https://experienceleague.adobe.com/en/docs/core-services/interface/administration/organizations)
+See [Link accounts in CX Enterprise](../administration/organizations.md)
 
 >[!NOTE]
 >
@@ -137,7 +139,7 @@ For example, assume that Bob has Customer ID `52mc210tr42` in your CRM system. W
 
 The Customer ID must be set on each [!DNL Analytics] server call where the Customer ID is known. 
 
-#### Analytics: synching the customer ID with the Data Warehouse backfill method
+#### [!DNL Analytics]: synching the customer ID with the Data Warehouse backfill method
 
 When Customer Attributes first became available, some customers had not yet implemented the Visitor ID Service and could not easily utilize Customer Attributes. To help alleviate this problem, Adobe created a means to do a backfill of ID syncs using the Adobe Analytics Data Warehouse. This feature is known as the Data Warehouse backfill. The Data Warehouse backfill is now generally not necessary and as a result will no longer be available starting in October 2022.
 
@@ -188,7 +190,7 @@ ECID in the mbox request:
 
 ![ECID in the mbox request](../assets/mbox_request.png)
 
-### What Is the Grace Period?
+### What is the grace period?
 
 After you deploy the Visitor ID Service, new visitors no longer receive an Analytics ID (`aid`). If sections of your site have not yet implemented the Visitor ID Service, when visitors browse to these sections, the ECID (`mid`) is not recognized and visitors are assigned a legacy Analytics ID (`aid`). This setup can cause potential problems, including duplicate visits and incorrect attribution.
 
@@ -202,7 +204,7 @@ Once you are up and running, navigate to the [Admin Console](https://adminconsol
 
 ![Access Admin Console](../assets/menu-administration-shell.png)
 
-### Customer Attributes
+### Customer Attributes group
 
 Users that are added to the [!DNL Customer Attributes] group can see the [!DNL Customer Attributes] menu item on the left side of CX Enterprise.
 
@@ -210,17 +212,17 @@ Users that are added to the [!DNL Customer Attributes] group can see the [!DNL C
 
 Take advantage of the following features. 
 
-### [!UICONTROL Customer Attributes]
+### [!UICONTROL People] > [!UICONTROL Customer Attributes]
 
 If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in CX Enterprise. Once uploaded, use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target].
 
-See [Customer Attributes](https://experienceleague.adobe.com/en/docs/core-services/interface/services/customer-attributes/attributes) for more information.
+See [Customer Attributes](../services/customer-attributes/attributes.md) for more information.
 
 ### [!UICONTROL People] > [!UICONTROL Audience Library] 
 
 CX Enterprise [!UICONTROL Audiences] is the interface that lets you create audiences, combine existing audiences to create composite audiences, and view all shared audiences. 
 
-See [Audiences](https://experienceleague.adobe.com/en/docs/core-services/interface/services/audiences/overview) for more information.
+See [Audiences](../services/audiences/overview.md) for more information.
 
 ## Data storage and privacy disclosure 
 

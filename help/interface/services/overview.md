@@ -37,31 +37,24 @@ topic_v2:
   - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
     internal-label: Audience segmentation
 ---
-# CX Enterprise interface overview
+# About shared features and services
 
-The interface features of CX Enterprise are sometimes referred to as _core services_. They are the unified header features, including [!DNL People] service ([!DNL Audience Library] and [!DNL Customer Attributes]). 
+Certain shared features in CX Enterprise are also referred to as _core services_. These features include [!DNL People] service ([!DNL Audience Library] and [!DNL Customer Attributes]), and [!DNL Assets].
 
-Other shared features include administration (user and product management) for CX Enterprise, cookies, account preferences, notifications, and so on. 
+>[!NOTE]
+>
+>Using the People services may require you to follow specific implementation steps. See [Get started using the People service](getting-started.md) for more information.
 
 To access shared services and applications in CX Enterprise, click the **[!UICONTROL Application Selector]**
 ![Services selector](../assets/apps-icon.png).
 
-**Application selector**
-
-![CX Enterprise services](../assets/platform-core-services.png)
-
-The Services pages in this guide describe the following products and services:
-
-| Core Service | Description |
+| Core service | Description |
 | --- | --- |
-|[Central interface components](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud)|Access account preferences, search for product help, and access applications and services.|
-|[Audience Library](https://experienceleague.adobe.com/en/docs/core-services/interface/services/audiences/overview)| Audiences are collections of visitors (a list of visitor IDs). Adobe's [!DNL Audience Library] lets you manage the translation of visitor data into audience segmentation. |
-|[Customer Attributes](https://experienceleague.adobe.com/en/docs/core-services/interface/services/customer-attributes/attributes)| Build real-time orchestration use cases using contextual data stored in events or data sources. [!UICONTROL Journey Orchestration] is an application service integrated with the Experience Platform.|
-|[Assets](https://experienceleague.adobe.com/en/docs/core-services/interface/services/assets/experience-cloud-assets)|CX Enterprise Assets provide a single, centralized repository of marketing-ready assets that you can share across applications.|
-|[Triggers](https://experienceleague.adobe.com/en/docs/core-services/interface/services/triggers)|Triggers in CX Enterprise enables you to identify, define, and monitor key consumer behaviors, then generate cross-application communication to re-engage visitors. You can use triggers in real-time decisions and personalization.|
-|[Adobe Exchange Marketplace](https://experienceleague.adobe.com/en/docs/core-services/interface/services/exchange)|The Exchange Marketplace is a single destination where you can search, browse, select, pay, and download Digital Marketing extensions via apps. Apps include data connectors, custom configurations to Adobe's core product, third-party applications, and reports.|
-
-{style="table-layout:auto"}
+| [People > Audience Library](audiences/overview.md)| Audiences are collections of visitors (a list of visitor IDs). Adobe's [!DNL Audience Library] lets you manage the translation of visitor data into audience segmentation. |
+| [People > Customer Attributes](customer-attributes/attributes.md) | Build real-time orchestration use cases using contextual data stored in events or data sources. [!UICONTROL Journey Orchestration] is an application service integrated with the Experience Platform. |
+| [Assets](assets/overview-assets.md) | CX Enterprise Assets provide a single, centralized repository of marketing-ready assets that you can share across applications. |
+| [Triggers](triggers.md)|Triggers in CX Enterprise enables you to identify, define, and monitor key consumer behaviors, then generate cross-application communication to re-engage visitors. You can use triggers in real-time decisions and personalization. |
+| [Adobe Exchange](exchange.md) | Adobe Exchange is a single destination where you can search, browse, select, pay, and download Digital Marketing extensions via apps. Apps include data connectors, custom configurations to Adobe's core product, third-party applications, and reports. |
 
 >[!NOTE]
 >
