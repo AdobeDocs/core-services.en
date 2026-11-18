@@ -21,12 +21,12 @@ index: true
   + [Unified Search](/help/interface/features/search.md)
   + [Personalized learning preferences](/help/interface/features/personalized-learning.md)
 + Assets {#assets}
-    + [Assets overview](/help/interface/services/assets/overview-assets.md)
-    + [Manage Creative Cloud users](/help/interface/services/assets/manage-cc-users.md)
-    + [Share asset folders](/help/interface/services/assets/share.md)
-    + [Upload an asset to a shared folder](/help/interface/services/assets/upload.md)
-    + [Asset file requirements for sharing](/help/interface/services/assets/file-reqs.md)
-    + [Behavior of shared folders](/help/interface/services/assets/behavior.md)
+  + [Assets overview](/help/interface/services/assets/overview-assets.md)
+  + [Manage Creative Cloud users](/help/interface/services/assets/manage-cc-users.md)
+  + [Share asset folders](/help/interface/services/assets/share.md)
+  + [Upload an asset to a shared folder](/help/interface/services/assets/upload.md)
+  + [Asset file requirements for sharing](/help/interface/services/assets/file-reqs.md)
+  + [Behavior of shared folders](/help/interface/services/assets/behavior.md)
 + People {#services}
   + [About shared features](/help/interface/services/overview.md)
   + [Get started](/help/interface/services/getting-started.md)
